@@ -1,0 +1,4 @@
+a (825):
+	A) Correct letters, 1 word: atypisch (975.0)
+	A) Correct letters, 2 words: atopisch,atypisch (1016.0)
+

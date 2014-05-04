@@ -1,0 +1,109 @@
+a (149):
+	A) Correct letters, 1 word: alree (1.6241610738255035)
+	A) Correct letters, 2 words: alias,amper || alias,aster (2.033557046979866)
+	A) Correct letters, 3 words: agaat,aleer,amine (2.4295302013422817)
+b (266):
+	A) Correct letters, 1 word: beren || beten (1.755639097744361)
+	A) Correct letters, 2 words: beten,borat (2.2406015037593985)
+	A) Correct letters, 3 words: baten,bezie,borat (2.710526315789474)
+c (77):
+	A) Correct letters, 1 word: cameo (1.6753246753246753)
+	A) Correct letters, 2 words: cameo,corps (2.2467532467532467)
+	A) Correct letters, 3 words: cameo,corps,crack (2.7142857142857144)
+d (155):
+	A) Correct letters, 1 word: dolen (1.8193548387096774)
+	A) Correct letters, 2 words: delen,dooie (2.329032258064516)
+	A) Correct letters, 3 words: daags,delen,dooie (2.7483870967741937)
+e (83):
+	A) Correct letters, 1 word: eigen (1.9397590361445782)
+	A) Correct letters, 2 words: eigen,ertoe (2.397590361445783)
+	A) Correct letters, 3 words: eiser,ergon,etage (2.7590361445783134)
+f (101):
+	A) Correct letters, 1 word: frees (1.6633663366336633)
+	A) Correct letters, 2 words: facie,frees (2.257425742574257)
+	A) Correct letters, 3 words: facie,floot,frees (2.782178217821782)
+g (181):
+	A) Correct letters, 1 word: gelee (1.9834254143646408)
+	A) Correct letters, 2 words: gelee,graan || gelee,griot (2.4806629834254146)
+	A) Correct letters, 3 words: garoe,gelen,graat (2.9281767955801103)
+h (135):
+	A) Correct letters, 1 word: halen || haren (1.9777777777777779)
+	A) Correct letters, 2 words: halen,horde || harre,holen (2.5555555555555554)
+	A) Correct letters, 3 words: harre,helen,hoest || harst,helen,hoede (3.051851851851852)
+i (35):
+	A) Correct letters, 1 word: innen (2.2)
+	A) Correct letters, 2 words: iepen,inkom || iepen,indom (2.6857142857142855)
+	A) Correct letters, 3 words: icoon,imker,inert || icoon,imker,input || icoon,imker,inrit (3.057142857142857)
+j (49):
+	A) Correct letters, 1 word: janet (2.0)
+	A) Correct letters, 2 words: jabot,jolen || janus,jolen (2.6530612244897958)
+	A) Correct letters, 3 words: jalon,jonas,jubee (3.1020408163265305)
+k (264):
+	A) Correct letters, 1 word: karen (1.7348484848484849)
+	A) Correct letters, 2 words: karen,klaas (2.2765151515151514)
+	A) Correct letters, 3 words: karen,klaas,kroot || karet,klaas,kroon || karos,kloet,kraan (2.75)
+l (145):
+	A) Correct letters, 1 word: lenen (2.0827586206896553)
+	A) Correct letters, 2 words: lange,lemen || laten,lente (2.689655172413793)
+	A) Correct letters, 3 words: lange,lemen,lotus (3.1241379310344826)
+m (137):
+	A) Correct letters, 1 word: manen (1.9927007299270072)
+	A) Correct letters, 2 words: manie,meten || maten,menie (2.656934306569343)
+	A) Correct letters, 3 words: malen,menie,motor || malie,menen,motor || manie,melen,motor (3.153284671532847)
+n (76):
+	A) Correct letters, 1 word: namen || noden (1.9736842105263157)
+	A) Correct letters, 2 words: natie,noden (2.6447368421052633)
+	A) Correct letters, 3 words: nadar,negen,notie || nadar,nepen,notie || nadat,negen,notie || nadat,nepen,notie (3.1315789473684212)
+o (80):
+	A) Correct letters, 1 word: onwel || onzer (1.8875)
+	A) Correct letters, 2 words: onwil,opzet (2.5)
+	A) Correct letters, 3 words: omdat,onzer,opril || omrit,onzer,opaal (2.9375)
+p (177):
+	A) Correct letters, 1 word: paren (1.768361581920904)
+	A) Correct letters, 2 words: paren,pront (2.248587570621469)
+	A) Correct letters, 3 words: panen,porie,pront || paren,polis,pront (2.7231638418079096)
+q (8):
+	A) Correct letters, 1 word: quant || quark || quote (2.75)
+	A) Correct letters, 2 words: quant,quote || quark,quote (3.5)
+	A) Correct letters, 3 words: quant,query,quote (4.125)
+r (154):
+	A) Correct letters, 1 word: reden (2.0584415584415585)
+	A) Correct letters, 2 words: raden,regie (2.616883116883117)
+	A) Correct letters, 3 words: ramin,reder,rotte (3.0779220779220777)
+s (356):
+	A) Correct letters, 1 word: stoet (1.797752808988764)
+	A) Correct letters, 2 words: spaak,stoet (2.300561797752809)
+	A) Correct letters, 3 words: scene,spaak,stoet || scone,spaat,steek || scone,speek,staat || scone,speet,staak || slaak,speet,store || sleet,spaak,store || sleet,spore,staak (2.74438202247191)
+t (187):
+	A) Correct letters, 1 word: tanen (1.786096256684492)
+	A) Correct letters, 2 words: tanen,toros || tanen,trens (2.2941176470588234)
+	A) Correct letters, 3 words: taaie,tenen,toros || taaie,tenen,trens || taaie,teren,trens (2.7754010695187166)
+u (15):
+	A) Correct letters, 1 word: uiten (2.3333333333333335)
+	A) Correct letters, 2 words: uiten,urine (3.0)
+	A) Correct letters, 3 words: uitje,unief,uraan (3.533333333333333)
+v (124):
+	A) Correct letters, 1 word: veren (1.846774193548387)
+	A) Correct letters, 2 words: veren,vloot (2.3629032258064515)
+	A) Correct letters, 3 words: veren,vloot,volte (2.8548387096774195)
+w (93):
+	A) Correct letters, 1 word: wenen (2.053763440860215)
+	A) Correct letters, 2 words: wagen,wende (2.7311827956989245)
+	A) Correct letters, 3 words: wagen,wende,wiens (3.129032258064516)
+x (2):
+	A) Correct letters, 1 word: xenon || xeres (3.5)
+	A) Correct letters, 2 words: xenon,xeres (5.0)
+	A) Correct letters, 3 words:  (4.9E-324)
+y (1):
+	A) Correct letters, 1 word: yucca (5.0)
+	A) Correct letters, 2 words:  (4.9E-324)
+	A) Correct letters, 3 words:  (4.9E-324)
+z (108):
+	A) Correct letters, 1 word: zenen (1.9907407407407407)
+	A) Correct letters, 2 words: zenen,zwaar (2.509259259259259)
+	A) Correct letters, 3 words: zenen,zodat,zware || zenit,zolen,zwaar (2.9722222222222223)
+ij (26):
+	A) Correct letters, 1 word: ijsbal (2.730769230769231)
+	A) Correct letters, 2 words: ijsbal,ijklijn || ijszak,ijsbijl || ijsbijl,ijsdag || ijsbijl,ijstak (3.1153846153846154)
+	A) Correct letters, 3 words: ijking,ijszak,ijsbijl || ijking,ijsbijl,ijstak || ijsbal,ijklijn,ijsdek || ijshal,ijklijn,ijsbok || ijklijn,ijsdag,ijsbok || ijklijn,ijsval,ijsbok (3.4615384615384617)
+
