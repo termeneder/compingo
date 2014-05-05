@@ -8,7 +8,7 @@ import java.util.Map.Entry;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import bram.lingo.standardwordfinder.StandardWordSetFinder.SortOrder;
+import bram.lingo.standardwordfinder.BruteForceComparativeFinder.SortOrder;
 import bram.lingo.standardwordfinder.valuator.AmountOfDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
@@ -31,10 +31,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("a");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("c");
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
-		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
-		String filename = "5LetterResultsA_tue_"+dateToString()+".txt";
+		SortedMap<String, BruteForceComparativeFinder> finderAlgorithms = finderAlgorithms();
+		String filename = "5LetterFinderResultsC_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
@@ -42,8 +42,8 @@ public class Run {
 			Letter letter = entry.getKey();
 			System.out.println(letter + " ("+letterSet.size()+"):");
 			output.append(letter + " ("+letterSet.size()+"):\n");
-			for (Entry <String, StandardWordSetFinder> algorithmEntry : finderAlgorithms.entrySet()) {
-				StandardWordSetFinder finder = algorithmEntry.getValue();
+			for (Entry <String, BruteForceComparativeFinder> algorithmEntry : finderAlgorithms.entrySet()) {
+				BruteForceComparativeFinder finder = algorithmEntry.getValue();
 				String finderName = algorithmEntry.getKey();
 				OptimalWordSets optimalWordSets = finder.findOptimal(letterSet);
 				output.append("\t"+finderName+": " + optimalWordSets + "\n");
@@ -74,10 +74,11 @@ public class Run {
 	public static void removeFile(String filename) {
 		File file = new File(FILE_LOCATION + filename);
 		file.delete();
-	}	
+	}
 	
-	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms() {
-		SortedMap<String, StandardWordSetFinder> map = new TreeMap<String, StandardWordSetFinder>();
+	
+	private static SortedMap<String, BruteForceComparativeFinder> finderAlgorithms() {
+		SortedMap<String, BruteForceComparativeFinder> map = new TreeMap<String, BruteForceComparativeFinder>();
 		
 		WordSetValuator correctLettersValuator =  new CorrectLettersValuator();
 		map = addAlgoritmsForInputLengths(map, correctLettersValuator, "A) Correct letters", SortOrder.ASC);
@@ -100,18 +101,18 @@ public class Run {
 		return map;
 	}
 	
-	private static SortedMap<String, StandardWordSetFinder> addAlgoritmsForInputLengths(
-			SortedMap<String, StandardWordSetFinder> map,
+	private static SortedMap<String, BruteForceComparativeFinder> addAlgoritmsForInputLengths(
+			SortedMap<String, BruteForceComparativeFinder> map,
 			WordSetValuator valuator, 
 			String description, 
 			SortOrder order) {
-		StandardWordSetFinder oneWordFinder = new StandardWordSetFinder(valuator, 1, order);
+		BruteForceComparativeFinder oneWordFinder = new BruteForceComparativeFinder(valuator, 1, order);
 		map.put(description + ", 1 word", oneWordFinder);
 		
-		StandardWordSetFinder twoWordsFinder = new StandardWordSetFinder(valuator, 2, order);
+		BruteForceComparativeFinder twoWordsFinder = new BruteForceComparativeFinder(valuator, 2, order);
 		map.put(description + ", 2 words",twoWordsFinder);
 		
-		StandardWordSetFinder threeWordsFinder = new StandardWordSetFinder(valuator, 3, order);
+		BruteForceComparativeFinder threeWordsFinder = new BruteForceComparativeFinder(valuator, 3, order);
 		map.put(description + ", 3 words",threeWordsFinder);
 		
 		/*StandardWordSetFinder fourWordsFinder = new StandardWordSetFinder(valuator, 4, order);

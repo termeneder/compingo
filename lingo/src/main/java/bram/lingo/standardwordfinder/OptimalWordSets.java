@@ -3,7 +3,7 @@ package bram.lingo.standardwordfinder;
 import java.util.ArrayList;
 import java.util.List;
 
-import bram.lingo.standardwordfinder.StandardWordSetFinder.SortOrder;
+import bram.lingo.standardwordfinder.BruteForceComparativeFinder.SortOrder;
 import bram.lingo.words.wordSets.WordSet;
 
 public class OptimalWordSets {
