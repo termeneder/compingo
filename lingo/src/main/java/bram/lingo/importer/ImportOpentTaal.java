@@ -8,8 +8,8 @@ import bram.lingo.words.wordSets.WordSet;
 
 public class ImportOpentTaal {
 
-	private static final String EXPORT_LOCATION = "src/main/resources/wordlists/";
-	private static final String OPENTAAL_LIST_LOCATION = "src/main/resources/wordlists/OpenTaal-210G-basis-gekeurd.txt";
+	private static final String EXPORT_LOCATION = "src/main/resources/wordlists/opentaal/";
+	private static final String OPENTAAL_LIST_LOCATION = "src/main/resources/wordlists/opentaal/OpenTaal-210G-basis-gekeurd.txt";
 	private static final int SHORTEST_WORD = 5;
 	private static final int LONGEST_WORD = 8;
 	

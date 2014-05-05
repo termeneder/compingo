@@ -4,7 +4,7 @@ import bram.lingo.importer.FileToWordSetImporter;
 
 public class SevenLetterWords extends StaticWordSet {
 	
-	private static final String LOCATION = "src/main/resources/wordlists/7.txt";
+	private static final String LOCATION = "src/main/resources/wordlists/opentaal/7.txt";
 	private static SevenLetterWords singleton;
 	
 	

@@ -4,7 +4,7 @@ import bram.lingo.importer.FileToWordSetImporter;
 
 public class EightLetterWords extends StaticWordSet {
 	
-	private static final String LOCATION = "src/main/resources/wordlists/8.txt";
+	private static final String LOCATION = "src/main/resources/wordlists/opentaal/8.txt";
 	private static EightLetterWords singleton;
 	
 	
