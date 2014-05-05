@@ -31,10 +31,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("p");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("a");
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
-		String filename = "5LetterFinderResultsP_"+dateToString()+".txt";
+		String filename = "5LetterResultsA_tue_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
@@ -74,8 +74,7 @@ public class Run {
 	public static void removeFile(String filename) {
 		File file = new File(FILE_LOCATION + filename);
 		file.delete();
-	}
-	
+	}	
 	
 	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms() {
 		SortedMap<String, StandardWordSetFinder> map = new TreeMap<String, StandardWordSetFinder>();
