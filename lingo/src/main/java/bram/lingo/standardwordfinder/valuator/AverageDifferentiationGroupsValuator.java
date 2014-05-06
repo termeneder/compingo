@@ -7,12 +7,12 @@ import bram.lingo.words.wordSets.WordSet;
  * 
  *
  */
-public class AmountOfDifferentiationGroupsValuator implements WordSetValuator {
+public class AverageDifferentiationGroupsValuator implements WordSetValuator {
 
 	public double value(WordSet totalSet, WordSet subset) {
 		
 		Differentiation differentiation = new Differentiation(totalSet, subset);
-		return (double) differentiation.getWordSetCollection().size();
+		return (double) totalSet.size() / (double) differentiation.getWordSetCollection().size();
 	}
 
 

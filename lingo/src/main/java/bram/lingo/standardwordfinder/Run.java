@@ -9,7 +9,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 import bram.lingo.standardwordfinder.StandardWordSetFinder.SortOrder;
-import bram.lingo.standardwordfinder.valuator.AmountOfDifferentiationGroupsValuator;
+import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.CountPossibleWordsValuator;
@@ -31,10 +31,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("p");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("x");
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
-		String filename = "5LetterFinderResultsP_"+dateToString()+".txt";
+		String filename = "5LetterFinderResultsX_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
@@ -88,14 +88,14 @@ public class Run {
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
 		map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C) Minimise biggest group", SortOrder.DESC);
 		
-		WordSetValuator amountOfDifferationGroups = new AmountOfDifferentiationGroupsValuator();
-		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Get most groups", SortOrder.ASC);
+		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
+		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Minimalise average group", SortOrder.DESC);
 		
 		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Count possible words", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Minimalise average possible words", SortOrder.DESC);
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise possible words", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise maximal possible words", SortOrder.DESC);
 		
 		return map;
 	}
