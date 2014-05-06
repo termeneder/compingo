@@ -12,7 +12,7 @@ public class Run {
 		int played = 0;
 		int correct = 0;
 		while (true) {
-			WordSet wordSet = FiveLetterWords.getInstance().getWordsStartingWith("b");
+			WordSet wordSet = FiveLetterWords.getInstance().getWordsStartingWith("t");
 			Word randomWord = getRandomWord(wordSet);
 			WordSet correctWordSet = getCorrectWordSet(randomWord, wordSet);
 			PlayWord playWord = new PlayWord(randomWord, correctWordSet);

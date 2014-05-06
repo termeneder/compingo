@@ -9,7 +9,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 import bram.lingo.standardwordfinder.BruteForceComparativeFinder.SortOrder;
-import bram.lingo.standardwordfinder.valuator.AmountOfDifferentiationGroupsValuator;
+import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.CountPossibleWordsValuator;
@@ -31,10 +31,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("c");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("x");
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
-		SortedMap<String, BruteForceComparativeFinder> finderAlgorithms = finderAlgorithms();
-		String filename = "5LetterFinderResultsC_"+dateToString()+".txt";
+		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
+		String filename = "5LetterFinderResultsX_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
@@ -42,8 +42,8 @@ public class Run {
 			Letter letter = entry.getKey();
 			System.out.println(letter + " ("+letterSet.size()+"):");
 			output.append(letter + " ("+letterSet.size()+"):\n");
-			for (Entry <String, BruteForceComparativeFinder> algorithmEntry : finderAlgorithms.entrySet()) {
-				BruteForceComparativeFinder finder = algorithmEntry.getValue();
+			for (Entry <String, StandardWordSetFinder> algorithmEntry : finderAlgorithms.entrySet()) {
+				StandardWordSetFinder finder = algorithmEntry.getValue();
 				String finderName = algorithmEntry.getKey();
 				OptimalWordSets optimalWordSets = finder.findOptimal(letterSet);
 				output.append("\t"+finderName+": " + optimalWordSets + "\n");
@@ -77,8 +77,8 @@ public class Run {
 	}
 	
 	
-	private static SortedMap<String, BruteForceComparativeFinder> finderAlgorithms() {
-		SortedMap<String, BruteForceComparativeFinder> map = new TreeMap<String, BruteForceComparativeFinder>();
+	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms() {
+		SortedMap<String, StandardWordSetFinder> map = new TreeMap<String, StandardWordSetFinder>();
 		
 		WordSetValuator correctLettersValuator =  new CorrectLettersValuator();
 		map = addAlgoritmsForInputLengths(map, correctLettersValuator, "A) Correct letters", SortOrder.ASC);
@@ -89,11 +89,11 @@ public class Run {
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
 		map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C) Minimise biggest group", SortOrder.DESC);
 		
-		WordSetValuator amountOfDifferationGroups = new AmountOfDifferentiationGroupsValuator();
-		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Get most groups", SortOrder.ASC);
+		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
+		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Minimalise average group", SortOrder.DESC);
 		
 		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Count possible words", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Minimalise average possible words", SortOrder.DESC);
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
 		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise possible words", SortOrder.DESC);
@@ -101,8 +101,8 @@ public class Run {
 		return map;
 	}
 	
-	private static SortedMap<String, BruteForceComparativeFinder> addAlgoritmsForInputLengths(
-			SortedMap<String, BruteForceComparativeFinder> map,
+	private static SortedMap<String, StandardWordSetFinder> addAlgoritmsForInputLengths(
+			SortedMap<String, StandardWordSetFinder> map,
 			WordSetValuator valuator, 
 			String description, 
 			SortOrder order) {

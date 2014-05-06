@@ -49,7 +49,7 @@ public class PlayWord {
 		Word inputWord = new Word(input);
 		if (isValidInput(inputWord)) {
 			LingoCompareValue[] compareValues = c_comparator.compare(inputWord);
-			printCompareValues(compareValues);
+			printCompareValues(compareValues, inputWord);
 			updateCorrectLetters(compareValues, inputWord);
 			return wordIsGuessed(compareValues);
 		} else {
@@ -76,7 +76,7 @@ public class PlayWord {
 		}
 	}
 	
-	private void printCompareValues(LingoCompareValue[] compareValues) {
+	private void printCompareValues(LingoCompareValue[] compareValues, Word inputWord) {
 		String printString = "  ";
 		for (LingoCompareValue value : compareValues) {
 			switch (value) {
