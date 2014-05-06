@@ -31,10 +31,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("a");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("p");
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
-		String filename = "5LetterResultsA_tue_"+dateToString()+".txt";
+		String filename = "5LetterFinderResultsP_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
