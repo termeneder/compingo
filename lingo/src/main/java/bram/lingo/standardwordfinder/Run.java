@@ -31,7 +31,7 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("x");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.x);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
 		String filename = "5LetterFinderResultsX_"+dateToString()+".txt";

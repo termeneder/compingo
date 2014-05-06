@@ -2,6 +2,7 @@ package bram.lingo.play;
 
 import java.util.Random;
 
+import bram.lingo.words.Letter;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.FiveLetterWords;
 import bram.lingo.words.wordSets.WordSet;
@@ -12,7 +13,7 @@ public class Run {
 		int played = 0;
 		int correct = 0;
 		while (true) {
-			WordSet wordSet = FiveLetterWords.getInstance().getWordsStartingWith("t");
+			WordSet wordSet = FiveLetterWords.getInstance().getWordsStartingWith(Letter.t);
 			Word randomWord = getRandomWord(wordSet);
 			WordSet correctWordSet = getCorrectWordSet(randomWord, wordSet);
 			PlayWord playWord = new PlayWord(randomWord, correctWordSet);
@@ -28,7 +29,7 @@ public class Run {
 	private static WordSet getCorrectWordSet(Word word,
 			WordSet originalWordSet) {
 		int wordLength = word.length();
-		String firstLetter = word.getLetter(0).toString();
+		Letter firstLetter = word.getLetter(0);
 		WordSet filteredWordSet = originalWordSet.getWordsOfSize(wordLength);
 		filteredWordSet = filteredWordSet.getWordsStartingWith(firstLetter);
 		return filteredWordSet;

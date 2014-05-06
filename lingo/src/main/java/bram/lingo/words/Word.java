@@ -48,14 +48,8 @@ public class Word {
 	}
 
 
-	public boolean startsWith(String firstLetter) {
-		if (firstLetter.equals("i")) {
-			return c_wordString.startsWith(firstLetter) &&
-					!c_wordString.startsWith("ij");
-		} else {
-			return c_wordString.startsWith(firstLetter);
-		}
-		
+	public boolean startsWith(Letter firstLetter) {
+		return firstLetter == getLetter(0);
 	}
 
 

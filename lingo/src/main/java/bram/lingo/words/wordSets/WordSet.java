@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import bram.lingo.words.Letter;
 import bram.lingo.words.Word;
 
 
@@ -38,7 +39,7 @@ public class WordSet implements Iterable<Word> {
 		return c_wordList.get(i);
 	}
 	
-	public WordSet getWordsStartingWith(String firstLetter) {
+	public WordSet getWordsStartingWith(Letter firstLetter) {
 		WordSet wordsStartingWithLetter = new WordSet();
 		for (Word word : c_wordList) {
 			if (word.startsWith(firstLetter)) {
