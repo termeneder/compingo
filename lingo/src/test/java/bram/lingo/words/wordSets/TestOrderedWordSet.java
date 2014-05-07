@@ -48,6 +48,7 @@ public class TestOrderedWordSet {
 		assertFalse(orderedSet.contains(new Word("bcdef")));
 	}
 	
+
 	private WordSet createUnorderedSet() {
 		WordSet unorderedSet = new WordSet();
 		unorderedSet.addWord("mnopq");
@@ -58,4 +59,6 @@ public class TestOrderedWordSet {
 		unorderedSet.addWord("xyz");
 		return unorderedSet;
 	}
+	
+	
 }

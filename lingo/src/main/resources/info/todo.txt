@@ -3,7 +3,6 @@ Todo's
 play
  - Maak de playfunctionaliteit beter (kleurtjes enzo)
 standardwordfinder
- - maak standardwordfinder een interface
  - maak preprocess-variant van A en B
  - Haal order naar eigen enum class
  - maak algoritme dat zoekt naar een boom-antwoord
@@ -12,5 +11,3 @@ standardwordfinder
   - laadt de woorden uit een file 
 - wordSets
   - maak de tue en opentaal-sets op dezelfde manier bereikbaar
-  - maak getByStartingLetter met de Letter-class ipv String
-  - maak wordSets alfabetisch voor algoritmes of maak een WordList-implementation

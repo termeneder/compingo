@@ -13,6 +13,12 @@ public class WordSet implements Iterable<Word> {
 
 	protected List<Word> c_wordList;
 	
+	public WordSet(WordSet set) {
+		this();
+		for (Word wordInSet : set) {
+			addWord(new Word(wordInSet));
+		}
+	}
 	
 	public WordSet() {
 		c_wordList = new ArrayList<Word>();
@@ -62,14 +68,9 @@ public class WordSet implements Iterable<Word> {
 	public int size() {
 		return c_wordList.size();
 	}
-	
+
 	public boolean contains(Word word) {
-		for (Word wordInList : c_wordList) {
-			if (word.equals(wordInList)) {
-				return true;
-			}
-		}
-		return false;
+		return c_wordList.contains(word);
 	}
 	
 	public String toString() {

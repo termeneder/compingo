@@ -150,7 +150,7 @@ public class TestCountPossibleWordsValuator {
 	}
 	
 	@Test
-	public void multipleWordValuesAreAdded() {
+	public void multipleWordValuesAreAveraged() {
 		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
@@ -162,6 +162,6 @@ public class TestCountPossibleWordsValuator {
 	
 		double value = valuator.value(totalSet, subset);
 		
-		assertThat(value, is(27d));
+		assertThat(value, is(13.5d));
 	}
 }

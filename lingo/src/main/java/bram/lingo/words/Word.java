@@ -13,6 +13,11 @@ public class Word {
 	}
 	
 	
+	public Word(Word word) {
+		this(word.toString());
+	}
+
+
 	public String toString() {
 		return c_wordString;
 	}
