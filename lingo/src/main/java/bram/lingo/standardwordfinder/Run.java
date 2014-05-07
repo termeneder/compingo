@@ -8,7 +8,7 @@ import java.util.Map.Entry;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import bram.lingo.standardwordfinder.StandardWordSetFinder.SortOrder;
+import bram.lingo.standardwordfinder.BruteForceComparativeFinder.SortOrder;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
@@ -31,7 +31,7 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith("x");
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.x);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
 		String filename = "5LetterFinderResultsX_"+dateToString()+".txt";
@@ -74,7 +74,8 @@ public class Run {
 	public static void removeFile(String filename) {
 		File file = new File(FILE_LOCATION + filename);
 		file.delete();
-	}	
+	}
+	
 	
 	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms() {
 		SortedMap<String, StandardWordSetFinder> map = new TreeMap<String, StandardWordSetFinder>();
@@ -95,7 +96,7 @@ public class Run {
 		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Minimalise average possible words", SortOrder.DESC);
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise maximal possible words", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise possible words", SortOrder.DESC);
 		
 		return map;
 	}
@@ -105,13 +106,13 @@ public class Run {
 			WordSetValuator valuator, 
 			String description, 
 			SortOrder order) {
-		StandardWordSetFinder oneWordFinder = new StandardWordSetFinder(valuator, 1, order);
+		BruteForceComparativeFinder oneWordFinder = new BruteForceComparativeFinder(valuator, 1, order);
 		map.put(description + ", 1 word", oneWordFinder);
 		
-		StandardWordSetFinder twoWordsFinder = new StandardWordSetFinder(valuator, 2, order);
+		BruteForceComparativeFinder twoWordsFinder = new BruteForceComparativeFinder(valuator, 2, order);
 		map.put(description + ", 2 words",twoWordsFinder);
 		
-		StandardWordSetFinder threeWordsFinder = new StandardWordSetFinder(valuator, 3, order);
+		BruteForceComparativeFinder threeWordsFinder = new BruteForceComparativeFinder(valuator, 3, order);
 		map.put(description + ", 3 words",threeWordsFinder);
 		
 		/*StandardWordSetFinder fourWordsFinder = new StandardWordSetFinder(valuator, 4, order);
