@@ -33,13 +33,15 @@ public class Run {
 		
 		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.x);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
-		SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms();
-		String filename = "5LetterFinderResultsX_"+dateToString()+".txt";
+		
+		String filename = "CompareNewAlgorithm_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
+			
 			WordSet letterSet = entry.getValue();
 			Letter letter = entry.getKey();
+			SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms(letterSet);
 			System.out.println(letter + " ("+letterSet.size()+"):");
 			output.append(letter + " ("+letterSet.size()+"):\n");
 			for (Entry <String, StandardWordSetFinder> algorithmEntry : finderAlgorithms.entrySet()) {
@@ -77,26 +79,29 @@ public class Run {
 	}
 	
 	
-	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms() {
+	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
 		SortedMap<String, StandardWordSetFinder> map = new TreeMap<String, StandardWordSetFinder>();
 		
 		WordSetValuator correctLettersValuator =  new CorrectLettersValuator();
-		map = addAlgoritmsForInputLengths(map, correctLettersValuator, "A) Correct letters", SortOrder.ASC);
+		map = addAlgoritmsForInputLengths(map, correctLettersValuator, "A1) Correct letters", SortOrder.ASC);
+		map.put("A2) Correct letters, 1 letter", new OptimiseCorrectLettersFinder(letterSet, 1));
+		map.put("A2) Correct letters, 2 letters", new OptimiseCorrectLettersFinder(letterSet, 2));
+		map.put("A2) Correct letters, 3 letters", new OptimiseCorrectLettersFinder(letterSet, 3));
 		
 		WordSetValuator informationAvailableValuator =  new InformationAboutLettersValuator();
-		map = addAlgoritmsForInputLengths(map, informationAvailableValuator, "B) Information about letters", SortOrder.ASC);
+		//map = addAlgoritmsForInputLengths(map, informationAvailableValuator, "B) Information about letters", SortOrder.ASC);
 		
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C) Minimise biggest group", SortOrder.DESC);
+		//map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C) Minimise biggest group", SortOrder.DESC);
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Minimalise average group", SortOrder.DESC);
+		//map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Minimalise average group", SortOrder.DESC);
 		
 		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Minimalise average possible words", SortOrder.DESC);
+		//map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Minimalise average possible words", SortOrder.DESC);
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise possible words", SortOrder.DESC);
+		//map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise possible words", SortOrder.DESC);
 		
 		return map;
 	}
