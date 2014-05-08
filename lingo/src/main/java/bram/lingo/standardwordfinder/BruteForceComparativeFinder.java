@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder;
 
+import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSubsetIterable;
@@ -8,7 +9,7 @@ public class BruteForceComparativeFinder implements StandardWordSetFinder {
 
 	private int c_amountOfWordsInStandardSet;
 	private WordSetValuator c_valuator;
-	public enum SortOrder {ASC, DESC}
+	
 	private SortOrder c_order;
 	
 	public BruteForceComparativeFinder(

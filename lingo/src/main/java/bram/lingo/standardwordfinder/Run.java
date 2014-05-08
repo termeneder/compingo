@@ -8,7 +8,7 @@ import java.util.Map.Entry;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import bram.lingo.standardwordfinder.BruteForceComparativeFinder.SortOrder;
+import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
@@ -31,7 +31,7 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.x);
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.u);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		
 		String filename = "CompareNewAlgorithm_"+dateToString()+".txt";
@@ -84,9 +84,9 @@ public class Run {
 		
 		WordSetValuator correctLettersValuator =  new CorrectLettersValuator();
 		map = addAlgoritmsForInputLengths(map, correctLettersValuator, "A1) Correct letters", SortOrder.ASC);
-		map.put("A2) Correct letters, 1 letter", new OptimiseCorrectLettersFinder(letterSet, 1));
-		map.put("A2) Correct letters, 2 letters", new OptimiseCorrectLettersFinder(letterSet, 2));
-		map.put("A2) Correct letters, 3 letters", new OptimiseCorrectLettersFinder(letterSet, 3));
+		map.put("A2) Correct letters, 1 letter", new OptimiseCorrectLettersFinder(letterSet, 1, SortOrder.ASC));
+		map.put("A2) Correct letters, 2 letters", new OptimiseCorrectLettersFinder(letterSet, 2, SortOrder.ASC));
+		map.put("A2) Correct letters, 3 letters", new OptimiseCorrectLettersFinder(letterSet, 3, SortOrder.ASC));
 		
 		WordSetValuator informationAvailableValuator =  new InformationAboutLettersValuator();
 		//map = addAlgoritmsForInputLengths(map, informationAvailableValuator, "B) Information about letters", SortOrder.ASC);
