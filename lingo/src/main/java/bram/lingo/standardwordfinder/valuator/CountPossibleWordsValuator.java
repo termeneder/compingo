@@ -29,6 +29,14 @@ public class CountPossibleWordsValuator implements WordSetValuator {
 		return wordScore;
 	}
 	
-	
+	@Override
+	public String getDescription() {
+		return "Minimise average possible words";
+	}
+
+	@Override
+	public String getCode() {
+		return "E1";
+	}
 	
 }

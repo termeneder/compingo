@@ -3,7 +3,9 @@ package bram.lingo.standardwordfinder;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.Map.Entry;
 import java.util.SortedMap;
 import java.util.TreeMap;
@@ -34,23 +36,21 @@ public class Run {
 		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.u);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		
-		String filename = "CompareNewAlgorithm_"+dateToString()+".txt";
+		String filename = "6Letters_AlgortitmesAB_OpenTaal_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			
 			WordSet letterSet = entry.getValue();
 			Letter letter = entry.getKey();
-			SortedMap<String, StandardWordSetFinder> finderAlgorithms = finderAlgorithms(letterSet);
+			List<IStandardWordSetFinder> finderAlgorithms = finderAlgorithms(letterSet);
 			System.out.println(letter + " ("+letterSet.size()+"):");
 			output.append(letter + " ("+letterSet.size()+"):\n");
-			for (Entry <String, StandardWordSetFinder> algorithmEntry : finderAlgorithms.entrySet()) {
-				StandardWordSetFinder finder = algorithmEntry.getValue();
-				String finderName = algorithmEntry.getKey();
-				OptimalWordSets optimalWordSets = finder.findOptimal(letterSet);
-				output.append("\t"+finderName+": " + optimalWordSets + "\n");
+			for (IStandardWordSetFinder algorithm : finderAlgorithms) {
+				OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
+				output.append("\t"+algorithm  +": " + optimalWordSets + "\n");
 				writeToFile(output, RUNNING_PREFIX + filename);
-				System.out.println("\t"+finderName+": " + optimalWordSets );
+				System.out.println("\t"+algorithm  +": " + optimalWordSets);
 			}
 		}
 		writeToFile(output, filename);
@@ -79,52 +79,56 @@ public class Run {
 	}
 	
 	
-	private static SortedMap<String, StandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
-		SortedMap<String, StandardWordSetFinder> map = new TreeMap<String, StandardWordSetFinder>();
+	private static List<IStandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
+		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
-		WordSetValuator correctLettersValuator =  new CorrectLettersValuator();
-		map = addAlgoritmsForInputLengths(map, correctLettersValuator, "A1) Correct letters", SortOrder.ASC);
-		map.put("A2) Correct letters, 1 letter", new OptimiseCorrectLettersFinder(letterSet, 1, SortOrder.ASC));
-		map.put("A2) Correct letters, 2 letters", new OptimiseCorrectLettersFinder(letterSet, 2, SortOrder.ASC));
-		map.put("A2) Correct letters, 3 letters", new OptimiseCorrectLettersFinder(letterSet, 3, SortOrder.ASC));
+		WordSetValuator correctWordSetValuator =  new CorrectLettersValuator();
+		list = addBurteForceAlgoritmsForInputLengths(list, correctWordSetValuator, SortOrder.ASC);
 		
-		WordSetValuator informationAvailableValuator =  new InformationAboutLettersValuator();
-		//map = addAlgoritmsForInputLengths(map, informationAvailableValuator, "B) Information about letters", SortOrder.ASC);
 		
+		list.add(new OptimiseCorrectLettersFinder(letterSet, 1, SortOrder.ASC));
+		list.add(new OptimiseCorrectLettersFinder(letterSet, 2, SortOrder.ASC));
+		list.add(new OptimiseCorrectLettersFinder(letterSet, 3, SortOrder.ASC));
+		
+		//list.add(new OptimiseAvailableLettersFinder(letterSet, 1, SortOrder.ASC));
+		//list.add(new OptimiseAvailableLettersFinder(letterSet, 2, SortOrder.ASC));
+		//list.add(new OptimiseAvailableLettersFinder(letterSet, 3, SortOrder.ASC));
+		/*
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		//map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C) Minimise biggest group", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C1) Minimise biggest group", SortOrder.DESC);
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		//map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D) Minimalise average group", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D1) Minimalise average group", SortOrder.DESC);
 		
 		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
-		//map = addAlgoritmsForInputLengths(map, countPossibleWords, "E) Minimalise average possible words", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E1) Minimalise average possible words", SortOrder.DESC);
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		//map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F) Minimise possible words", SortOrder.DESC);
+		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F1) Minimise possible words", SortOrder.DESC);
 		
 		return map;
+		*/
+		return list;
 	}
 	
-	private static SortedMap<String, StandardWordSetFinder> addAlgoritmsForInputLengths(
-			SortedMap<String, StandardWordSetFinder> map,
-			WordSetValuator valuator, 
-			String description, 
+	private static List<IStandardWordSetFinder> addBurteForceAlgoritmsForInputLengths(
+			List<IStandardWordSetFinder> list,
+			WordSetValuator valuator,  
 			SortOrder order) {
 		BruteForceComparativeFinder oneWordFinder = new BruteForceComparativeFinder(valuator, 1, order);
-		map.put(description + ", 1 word", oneWordFinder);
+		list.add(oneWordFinder);
 		
 		BruteForceComparativeFinder twoWordsFinder = new BruteForceComparativeFinder(valuator, 2, order);
-		map.put(description + ", 2 words",twoWordsFinder);
+		list.add(twoWordsFinder);
 		
 		BruteForceComparativeFinder threeWordsFinder = new BruteForceComparativeFinder(valuator, 3, order);
-		map.put(description + ", 3 words",threeWordsFinder);
+		list.add(threeWordsFinder);
 		
 		/*StandardWordSetFinder fourWordsFinder = new StandardWordSetFinder(valuator, 4, order);
 		map.put(description + ", 4 words",fourWordsFinder);
 		*/
 		
-		return map;
+		return list;
 	}
 	
 }

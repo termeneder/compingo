@@ -5,34 +5,23 @@ import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSubsetIterable;
 
-public class BruteForceComparativeFinder implements StandardWordSetFinder {
+public class BruteForceComparativeFinder extends StandardWordSetFinder {
 
-	private int c_amountOfWordsInStandardSet;
 	private WordSetValuator c_valuator;
 	
 	private SortOrder c_order;
 	
 	public BruteForceComparativeFinder(
-			WordSetValuator valuator, 
-			int amountOfWordsInStandardSet, 
+			WordSetValuator valuator,
+			int subsetSize, 
 			SortOrder order) {
 		c_valuator = valuator;
-		c_amountOfWordsInStandardSet = amountOfWordsInStandardSet;
+		setSubsetSize(subsetSize);
 		c_order = order;
 	}
 	
-	public BruteForceComparativeFinder(
-			WordSetValuator valuator, 
-			int amountOfWordsInStandardSet) {
-		c_valuator = valuator;
-		c_amountOfWordsInStandardSet = amountOfWordsInStandardSet;
-		c_order = SortOrder.ASC;
-	}
-	
-	
-	
 	public OptimalWordSets findOptimal(WordSet set) {
-		WordSubsetIterable allSubsets = new WordSubsetIterable(set, c_amountOfWordsInStandardSet);
+		WordSubsetIterable allSubsets = new WordSubsetIterable(set, getSubsetSize());
 		OptimalWordSets optimalWordSets = new OptimalWordSets(c_order);
 		for (WordSet subset : allSubsets) {
 			double value = c_valuator.value(set, subset);
@@ -41,6 +30,16 @@ public class BruteForceComparativeFinder implements StandardWordSetFinder {
 		}
 		
 		return optimalWordSets;
+	}
+
+	@Override
+	public String getCode() {
+		return c_valuator.getCode();
+	}
+
+	@Override
+	public String getDescription() {
+		return c_valuator.getDescription();
 	}
 
 

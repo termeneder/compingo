@@ -40,6 +40,16 @@ public class CorrectLettersValuator implements WordSetValuator {
 		}
 		return wordScore;
 	}
+	
+	@Override
+	public String getDescription() {
+		return "Optimise correct letters";
+	}
+
+	@Override
+	public String getCode() {
+		return "A1";
+	}
 
 	
 	

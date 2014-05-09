@@ -3,9 +3,9 @@ Todo's
 play
  - Maak de playfunctionaliteit beter (kleurtjes enzo)
 standardwordfinder
- - maak preprocess-variant van A en B
- - Haal order naar eigen enum class
+ - maak preprocess-variant van B
  - maak algoritme dat zoekt naar een boom-antwoord
+ - maak variant op E/F die alleen maar positieve informatie gebruikt
  train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file 

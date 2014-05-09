@@ -28,6 +28,16 @@ public class MaximumPossibleWordsValuator implements WordSetValuator {
 		long wordScore = (long)info.getPossibleWords();
 		return wordScore;
 	}
+
+	@Override
+	public String getDescription() {
+		return "Minimise maximum possible words";
+	}
+
+	@Override
+	public String getCode() {
+		return "F1";
+	}
 	
 	
 	

@@ -34,6 +34,16 @@ public class InformationAboutLettersValuator implements WordSetValuator {
 		return (double) information.getAmountOfLettersKnownToBeInWord();
 	}
 
+	@Override
+	public String getDescription() {
+		return "Optimise amount of letters";
+	}
+
+	@Override
+	public String getCode() {
+		return "B1";
+	}
+
 	
 	
 	

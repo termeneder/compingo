@@ -6,6 +6,10 @@ public interface WordSetValuator {
 
 	
 	public double value(WordSet totalSet, WordSet subset);
+
+	public String getDescription();
+
+	public String getCode();
 	
 	
 }

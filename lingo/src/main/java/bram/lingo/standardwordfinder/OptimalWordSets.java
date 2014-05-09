@@ -73,4 +73,8 @@ public class OptimalWordSets {
 		str += " (" + c_optimalValue + ")";
 		return str;
 	}
+	
+	public double getOptimalValue() {
+		return c_optimalValue;
+	}
 }

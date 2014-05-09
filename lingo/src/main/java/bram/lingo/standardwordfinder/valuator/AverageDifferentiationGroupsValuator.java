@@ -15,6 +15,16 @@ public class AverageDifferentiationGroupsValuator implements WordSetValuator {
 		return (double) totalSet.size() / (double) differentiation.getWordSetCollection().size();
 	}
 
+	@Override
+	public String getDescription() {
+		return "Minimise average group";
+	}
+
+	@Override
+	public String getCode() {
+		return "D1";
+	}
+
 
 
 	

@@ -18,6 +18,16 @@ public class BiggestDifferentiationGroupValuator implements WordSetValuator {
 		return (double) biggest;
 	}
 
+	@Override
+	public String getDescription() {
+		return "Minimise biggest group";
+	}
+
+	@Override
+	public String getCode() {
+		return "C1";
+	}
+
 
 
 	

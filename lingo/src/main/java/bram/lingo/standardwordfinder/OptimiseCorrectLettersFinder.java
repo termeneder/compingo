@@ -11,16 +11,14 @@ import bram.lingo.words.Letter;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSubsetIterable;
-import bram.lingo.words.wordSets.WordSubsetIterable.SubsetIterator;
 
-public class OptimiseCorrectLettersFinder implements StandardWordSetFinder{
+public class OptimiseCorrectLettersFinder extends StandardWordSetFinder{
 
 	private List<Map<Letter, Integer>> c_amountOfLettersAtPositionMap;
 	private SortOrder c_order;
-	private int c_sizeOfOptimalSet;
 	
-	public OptimiseCorrectLettersFinder(WordSet preprocessWordSet, int sizeOfOptimalSet, SortOrder order) {
-		c_sizeOfOptimalSet = sizeOfOptimalSet;
+	public OptimiseCorrectLettersFinder(WordSet preprocessWordSet, int subsetSize, SortOrder order) {
+		setSubsetSize(subsetSize);
 		c_order = order;
 		preprocess(preprocessWordSet);
 	}
@@ -56,21 +54,39 @@ public class OptimiseCorrectLettersFinder implements StandardWordSetFinder{
 
 	@Override
 	public OptimalWordSets findOptimal(WordSet set) {
-		WordSubsetIterable iterable = new WordSubsetIterable(set, c_sizeOfOptimalSet);
+		WordSubsetIterable iterable = new WordSubsetIterable(set, getSubsetSize());
 		OptimalWordSets optimalSets = new OptimalWordSets(c_order);
 		for (WordSet subset : iterable) {
-			double value = valuateSubset(subset);
+			double value = valuateSubset(subset, set.size());
 			optimalSets.tryNewWordSet(subset, value);
 		}
-		return null;
+		return optimalSets;
 	}
 
-	private double valuateSubset(WordSet subset) {
+	private double valuateSubset(WordSet subset, int amountOfWordsInSuperset) {
 		long value = 0;
 		for (int letterPosition = 0 ; letterPosition < c_amountOfLettersAtPositionMap.size() ; letterPosition++) {
-			
-		}
-		return 0;
+			Map<Letter, Integer> amountOfLettersForPosition = c_amountOfLettersAtPositionMap.get(letterPosition);
+			List<Letter> usedLettersForPosition = new ArrayList<Letter>();
+			for(Word wordInSubset : subset) {
+				Letter letterAtPosition = wordInSubset.getLetter(letterPosition);
+				if (!usedLettersForPosition.contains(letterAtPosition)) {
+					value += amountOfLettersForPosition.get(letterAtPosition);
+					usedLettersForPosition.add(letterAtPosition);
+				}
+			}
+		} 
+		return (double)value/(double)amountOfWordsInSuperset;
+	}
+
+	@Override
+	public String getCode() {
+		return "A2";
+	}
+
+	@Override
+	public String getDescription() {
+		return "Optimise correct letters";
 	}
 
 }
