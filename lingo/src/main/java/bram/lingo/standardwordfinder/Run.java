@@ -8,11 +8,11 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map.Entry;
 import java.util.SortedMap;
-import java.util.TreeMap;
 
 import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
+import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.CountPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.InformationAboutLettersValuator;
@@ -33,10 +33,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = SixLetterWords.getInstance().getWordsStartingWith(Letter.b);
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.b);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		
-		String filename = "6LettersB_OpenTaal_"+dateToString()+".txt";
+		String filename = "NewAlgorithmTester_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
@@ -82,13 +82,8 @@ public class Run {
 	private static List<IStandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
-		//WordSetValuator correctWordSetValuator =  new CorrectLettersValuator();
-		//list = addBurteForceAlgoritmsForInputLengths(list, correctWordSetValuator, SortOrder.ASC);
-		
-		
-		list.add(new OptimiseCorrectLettersFinder(letterSet, 1, SortOrder.ASC));
-		list.add(new OptimiseCorrectLettersFinder(letterSet, 2, SortOrder.ASC));
-		list.add(new OptimiseCorrectLettersFinder(letterSet, 3, SortOrder.ASC));
+		WordSetValuator correctWordSetValuator =  new CorrectLetters3Valuator(letterSet);
+		list = addBurteForceAlgoritmsForInputLengths(list, correctWordSetValuator, SortOrder.ASC);
 		
 		list.add(new OptimiseAvailableLettersFinder(letterSet, 1, SortOrder.ASC));
 		list.add(new OptimiseAvailableLettersFinder(letterSet, 2, SortOrder.ASC));
