@@ -33,10 +33,10 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.u);
+		WordSet fiveLetterWords = SixLetterWords.getInstance().getWordsStartingWith(Letter.b);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		
-		String filename = "6Letters_AlgortitmesAB_OpenTaal_"+dateToString()+".txt";
+		String filename = "6LettersB_OpenTaal_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
@@ -82,32 +82,31 @@ public class Run {
 	private static List<IStandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
-		WordSetValuator correctWordSetValuator =  new CorrectLettersValuator();
-		list = addBurteForceAlgoritmsForInputLengths(list, correctWordSetValuator, SortOrder.ASC);
+		//WordSetValuator correctWordSetValuator =  new CorrectLettersValuator();
+		//list = addBurteForceAlgoritmsForInputLengths(list, correctWordSetValuator, SortOrder.ASC);
 		
 		
 		list.add(new OptimiseCorrectLettersFinder(letterSet, 1, SortOrder.ASC));
 		list.add(new OptimiseCorrectLettersFinder(letterSet, 2, SortOrder.ASC));
 		list.add(new OptimiseCorrectLettersFinder(letterSet, 3, SortOrder.ASC));
 		
-		//list.add(new OptimiseAvailableLettersFinder(letterSet, 1, SortOrder.ASC));
-		//list.add(new OptimiseAvailableLettersFinder(letterSet, 2, SortOrder.ASC));
-		//list.add(new OptimiseAvailableLettersFinder(letterSet, 3, SortOrder.ASC));
-		/*
+		list.add(new OptimiseAvailableLettersFinder(letterSet, 1, SortOrder.ASC));
+		list.add(new OptimiseAvailableLettersFinder(letterSet, 2, SortOrder.ASC));
+		list.add(new OptimiseAvailableLettersFinder(letterSet, 3, SortOrder.ASC));
+		
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		map = addAlgoritmsForInputLengths(map, biggestDifferentiationGroupValuator, "C1) Minimise biggest group", SortOrder.DESC);
+		list = addBurteForceAlgoritmsForInputLengths(list, biggestDifferentiationGroupValuator, SortOrder.DESC);
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		map = addAlgoritmsForInputLengths(map, amountOfDifferationGroups, "D1) Minimalise average group", SortOrder.DESC);
+		list = addBurteForceAlgoritmsForInputLengths(list, amountOfDifferationGroups, SortOrder.DESC);
 		
 		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, countPossibleWords, "E1) Minimalise average possible words", SortOrder.DESC);
+		list = addBurteForceAlgoritmsForInputLengths(list, countPossibleWords, SortOrder.DESC);
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		map = addAlgoritmsForInputLengths(map, minimisePossibleWords, "F1) Minimise possible words", SortOrder.DESC);
+		list = addBurteForceAlgoritmsForInputLengths(list, minimisePossibleWords, SortOrder.DESC);
 		
-		return map;
-		*/
+		
 		return list;
 	}
 	
