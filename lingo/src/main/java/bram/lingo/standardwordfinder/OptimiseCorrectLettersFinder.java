@@ -17,8 +17,7 @@ public class OptimiseCorrectLettersFinder extends StandardWordSetFinder{
 	private List<Map<Letter, Integer>> c_amountOfLettersAtPositionMap;
 	private SortOrder c_order;
 	
-	public OptimiseCorrectLettersFinder(WordSet preprocessWordSet, int subsetSize, SortOrder order) {
-		setSubsetSize(subsetSize);
+	public OptimiseCorrectLettersFinder(WordSet preprocessWordSet, SortOrder order) {
 		c_order = order;
 		preprocess(preprocessWordSet);
 	}

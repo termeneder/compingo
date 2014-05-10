@@ -2,7 +2,9 @@ package bram.lingo.standardwordfinder;
 
 public abstract class StandardWordSetFinder implements IStandardWordSetFinder{
 
-	private int c_subsetSize;
+	private static final int DEFAULT_SUBSET_SIZE = 3;
+	
+	private int c_subsetSize = DEFAULT_SUBSET_SIZE;
 	
 	@Override
 	public void setSubsetSize(int subsetSize) {

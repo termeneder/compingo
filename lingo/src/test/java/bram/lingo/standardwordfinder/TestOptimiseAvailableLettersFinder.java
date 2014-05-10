@@ -16,7 +16,8 @@ public class TestOptimiseAvailableLettersFinder {
 		superset.addWord("def");
 		superset.addWord("ghi");
 		
-		OptimiseAvailableLettersFinder finder = new OptimiseAvailableLettersFinder(superset, 1, SortOrder.ASC);
+		OptimiseAvailableLettersFinder finder = new OptimiseAvailableLettersFinder(superset, SortOrder.ASC);
+		finder.setSubsetSize(1);
 		
 		OptimalWordSets optimal = finder.findOptimal(superset);
 		
@@ -30,7 +31,8 @@ public class TestOptimiseAvailableLettersFinder {
 		superset.addWord("aef");
 		superset.addWord("ghi");
 		
-		OptimiseAvailableLettersFinder finder = new OptimiseAvailableLettersFinder(superset, 1, SortOrder.ASC);
+		OptimiseAvailableLettersFinder finder = new OptimiseAvailableLettersFinder(superset, SortOrder.ASC);
+		finder.setSubsetSize(1);
 		
 		OptimalWordSets optimal = finder.findOptimal(superset);
 		
@@ -44,8 +46,8 @@ public class TestOptimiseAvailableLettersFinder {
 		superset.addWord("aef");
 		superset.addWord("aeg");
 		
-		OptimiseAvailableLettersFinder finder = new OptimiseAvailableLettersFinder(superset, 1, SortOrder.ASC);
-		
+		OptimiseAvailableLettersFinder finder = new OptimiseAvailableLettersFinder(superset, SortOrder.ASC);
+		finder.setSubsetSize(1);
 		OptimalWordSets optimal = finder.findOptimal(superset);
 		assertThat(optimal.getOptimalValue(), is(2d));
 	}

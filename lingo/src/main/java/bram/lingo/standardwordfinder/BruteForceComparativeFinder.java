@@ -13,10 +13,8 @@ public class BruteForceComparativeFinder extends StandardWordSetFinder {
 	
 	public BruteForceComparativeFinder(
 			WordSetValuator valuator,
-			int subsetSize, 
 			SortOrder order) {
 		c_valuator = valuator;
-		setSubsetSize(subsetSize);
 		c_order = order;
 	}
 	

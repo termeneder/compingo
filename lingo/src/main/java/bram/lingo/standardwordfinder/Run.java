@@ -15,6 +15,7 @@ import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuato
 import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.CountPossibleWordsValuator;
+import bram.lingo.standardwordfinder.valuator.InformationAboutLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.InformationAboutLettersValuator;
 import bram.lingo.standardwordfinder.valuator.MaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
@@ -30,10 +31,13 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
+	private static final boolean PRINT_TO_FILE = false;
+	private static final int MIN_SUBSET_SIZE = 1;
+	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.b);
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.u);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		
 		String filename = "NewAlgorithmTester_"+dateToString()+".txt";
@@ -47,10 +51,13 @@ public class Run {
 			System.out.println(letter + " ("+letterSet.size()+"):");
 			output.append(letter + " ("+letterSet.size()+"):\n");
 			for (IStandardWordSetFinder algorithm : finderAlgorithms) {
-				OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
-				output.append("\t"+algorithm  +": " + optimalWordSets + "\n");
-				writeToFile(output, RUNNING_PREFIX + filename);
-				System.out.println("\t"+algorithm  +": " + optimalWordSets);
+				for (int subsetSize = MIN_SUBSET_SIZE ; subsetSize <= MAX_SUBSET_SIZE ; subsetSize++) {
+					algorithm.setSubsetSize(subsetSize);
+					OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
+					output.append("\t"+algorithm  +": " + optimalWordSets + "\n");
+					writeToFile(output, RUNNING_PREFIX + filename);
+					System.out.println("\t"+algorithm  +": " + optimalWordSets);
+				}
 			}
 		}
 		writeToFile(output, filename);
@@ -64,12 +71,14 @@ public class Run {
 	}
 
 	public static void writeToFile(StringBuffer buffer, String filename) {
-		try {
-			PrintWriter out = new PrintWriter(FILE_LOCATION + filename);
-			out.println(buffer.toString());
-			out.close();
-		} catch (FileNotFoundException e) {
-			throw new RuntimeException("Couldn't write file. " + e, e);
+		if (PRINT_TO_FILE) {
+			try {
+				PrintWriter out = new PrintWriter(FILE_LOCATION + filename);
+				out.println(buffer.toString());
+				out.close();
+			} catch (FileNotFoundException e) {
+				throw new RuntimeException("Couldn't write file. " + e, e);
+			}
 		}
 	}
 	
@@ -82,47 +91,27 @@ public class Run {
 	private static List<IStandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
-		WordSetValuator correctWordSetValuator =  new CorrectLetters3Valuator(letterSet);
-		list = addBurteForceAlgoritmsForInputLengths(list, correctWordSetValuator, SortOrder.ASC);
+		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
+		list.add(new BruteForceComparativeFinder(a3Valuator, SortOrder.ASC));
 		
-		list.add(new OptimiseAvailableLettersFinder(letterSet, 1, SortOrder.ASC));
-		list.add(new OptimiseAvailableLettersFinder(letterSet, 2, SortOrder.ASC));
-		list.add(new OptimiseAvailableLettersFinder(letterSet, 3, SortOrder.ASC));
+		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
+		list.add(new BruteForceComparativeFinder(b3Valuator, SortOrder.ASC));
 		
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		list = addBurteForceAlgoritmsForInputLengths(list, biggestDifferentiationGroupValuator, SortOrder.DESC);
+		list.add(new BruteForceComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		list = addBurteForceAlgoritmsForInputLengths(list, amountOfDifferationGroups, SortOrder.DESC);
+		list.add(new BruteForceComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
 		
 		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
-		list = addBurteForceAlgoritmsForInputLengths(list, countPossibleWords, SortOrder.DESC);
+		list.add(new BruteForceComparativeFinder(countPossibleWords, SortOrder.DESC));
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		list = addBurteForceAlgoritmsForInputLengths(list, minimisePossibleWords, SortOrder.DESC);
+		list.add(new BruteForceComparativeFinder(minimisePossibleWords, SortOrder.DESC));
 		
 		
 		return list;
 	}
 	
-	private static List<IStandardWordSetFinder> addBurteForceAlgoritmsForInputLengths(
-			List<IStandardWordSetFinder> list,
-			WordSetValuator valuator,  
-			SortOrder order) {
-		BruteForceComparativeFinder oneWordFinder = new BruteForceComparativeFinder(valuator, 1, order);
-		list.add(oneWordFinder);
-		
-		BruteForceComparativeFinder twoWordsFinder = new BruteForceComparativeFinder(valuator, 2, order);
-		list.add(twoWordsFinder);
-		
-		BruteForceComparativeFinder threeWordsFinder = new BruteForceComparativeFinder(valuator, 3, order);
-		list.add(threeWordsFinder);
-		
-		/*StandardWordSetFinder fourWordsFinder = new StandardWordSetFinder(valuator, 4, order);
-		map.put(description + ", 4 words",fourWordsFinder);
-		*/
-		
-		return list;
-	}
 	
 }
