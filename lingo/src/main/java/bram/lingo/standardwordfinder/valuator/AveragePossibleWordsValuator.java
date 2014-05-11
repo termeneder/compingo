@@ -8,15 +8,15 @@ import bram.lingo.words.wordSets.WordSet;
  * 
  *
  */
-public class MaximumPossibleWordsValuator implements WordSetValuator {
+public class AveragePossibleWordsValuator implements WordSetValuator {
 
 	public double value(WordSet totalSet, WordSet subset) {
-		long highestScore = 0;
+		long totalScore = 0;
 		for (Word word : totalSet) {
-			long wordScore = calculateWordScore(word, subset);
-			highestScore = Math.max(highestScore, wordScore);
+			totalScore += calculateWordScore(word, subset);
 		}
-		return (double) highestScore;
+		double averageScore = (double)totalScore / (double) totalSet.size();
+		return averageScore;
 	}
 
 	private long calculateWordScore(Word word, WordSet subset) {
@@ -29,17 +29,15 @@ public class MaximumPossibleWordsValuator implements WordSetValuator {
 		long wordScore = calculator.calculate();
 		return wordScore;
 	}
-
+	
 	@Override
 	public String getDescription() {
-		return "Minimise maximum possible words";
+		return "Minimise average possible words";
 	}
 
 	@Override
 	public String getCode() {
-		return "F1";
+		return "E1";
 	}
-	
-	
 	
 }

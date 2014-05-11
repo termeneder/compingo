@@ -23,7 +23,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void correctWordIsChecked()  {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -37,7 +37,7 @@ public class TestCountPossibleWordsValuator {
 
 	@Test
 	public void wordWithAllCorrectInfoIsChecked() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -52,7 +52,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void removalOfLettersIsCounted() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -73,7 +73,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void correctLetterIsAdded() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -94,7 +94,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void missedLetterIsUsed() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -108,7 +108,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void correctLetterIsUsed() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -122,7 +122,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void wordInformationIsMergedUsed() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);
@@ -137,7 +137,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void wordWithRepetitiveLettersChecked() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(aaa);
@@ -151,7 +151,7 @@ public class TestCountPossibleWordsValuator {
 	
 	@Test
 	public void multipleWordValuesAreAveraged() {
-		CountPossibleWordsValuator valuator = new CountPossibleWordsValuator();
+		AveragePossibleWordsValuator valuator = new AveragePossibleWordsValuator();
 
 		WordSet totalSet = new WordSet();
 		totalSet.addWord(abc);

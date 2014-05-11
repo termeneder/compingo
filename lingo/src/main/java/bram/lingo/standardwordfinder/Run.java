@@ -11,12 +11,11 @@ import java.util.SortedMap;
 
 import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
+import bram.lingo.standardwordfinder.valuator.PositiveAveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;
-import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
-import bram.lingo.standardwordfinder.valuator.CountPossibleWordsValuator;
+import bram.lingo.standardwordfinder.valuator.AveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.InformationAboutLetters3Valuator;
-import bram.lingo.standardwordfinder.valuator.InformationAboutLettersValuator;
 import bram.lingo.standardwordfinder.valuator.MaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.Letter;
@@ -92,23 +91,25 @@ public class Run {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
-		list.add(new BruteForceComparativeFinder(a3Valuator, SortOrder.ASC));
+		//list.add(new BruteForceComparativeFinder(a3Valuator, SortOrder.ASC));
 		
 		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
-		list.add(new BruteForceComparativeFinder(b3Valuator, SortOrder.ASC));
+		//list.add(new BruteForceComparativeFinder(b3Valuator, SortOrder.ASC));
 		
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		list.add(new BruteForceComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
+		//list.add(new BruteForceComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		list.add(new BruteForceComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
+		//list.add(new BruteForceComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
 		
-		WordSetValuator countPossibleWords = new CountPossibleWordsValuator();
+		WordSetValuator countPossibleWords = new AveragePossibleWordsValuator();
 		list.add(new BruteForceComparativeFinder(countPossibleWords, SortOrder.DESC));
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		list.add(new BruteForceComparativeFinder(minimisePossibleWords, SortOrder.DESC));
+		//list.add(new BruteForceComparativeFinder(minimisePossibleWords, SortOrder.DESC));
 		
+		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
+		list.add(new BruteForceComparativeFinder(g1Valuator, SortOrder.DESC));
 		
 		return list;
 	}

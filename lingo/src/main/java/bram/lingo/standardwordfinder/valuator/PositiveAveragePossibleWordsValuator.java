@@ -3,12 +3,8 @@ package bram.lingo.standardwordfinder.valuator;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
-/**
- * Counts the total amount of letters that are correct after asking the n words
- * 
- *
- */
-public class CountPossibleWordsValuator implements WordSetValuator {
+
+public class PositiveAveragePossibleWordsValuator implements WordSetValuator {
 
 	public double value(WordSet totalSet, WordSet subset) {
 		long totalScore = 0;
@@ -25,18 +21,19 @@ public class CountPossibleWordsValuator implements WordSetValuator {
 			info.addProbeWord(wordInSubset);
 			
 		}
-		long wordScore = (long)info.getPossibleWords();
+		PossibleWordWithPositiveInformationCalculator calculator = new PossibleWordWithPositiveInformationCalculator(info);
+		long wordScore = calculator.calculate();
 		return wordScore;
 	}
 	
 	@Override
 	public String getDescription() {
-		return "Minimise average possible words";
+		return "Minimise average possible words with positive info";
 	}
 
 	@Override
 	public String getCode() {
-		return "E1";
+		return "G1";
 	}
 	
 }

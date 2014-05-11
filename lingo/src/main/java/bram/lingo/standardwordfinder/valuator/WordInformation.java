@@ -120,11 +120,6 @@ class WordInformation {
 		return minAmountOfLettersInWord;
 	}
 	
-	public long getPossibleWords() {
-		PossibleWordCalculator calculator = new PossibleWordCalculator(this);
-		return calculator.calculate();
-	}
-	
 	public long getAmountOfLettersKnownToBeInWord() {
 		long amount = 0;
 		for (Integer value : c_minAmountOfLettersInWord.values()) {
