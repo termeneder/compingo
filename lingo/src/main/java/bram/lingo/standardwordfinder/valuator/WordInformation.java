@@ -182,4 +182,8 @@ class WordInformation {
 	int getWordLength() {
 		return c_word.length();
 	}
+
+	public long getAmountOfLettersOnCorrectSpot() {
+		return c_positionContainsLetter.size();
+	}
 }

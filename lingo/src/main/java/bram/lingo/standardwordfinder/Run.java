@@ -30,38 +30,40 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final boolean PRINT_TO_FILE = false;
+	private static final boolean PRINT_TO_FILE = true;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.u);
+		WordSet fiveLetterWords = SixLetterWords.getInstance().getWordsStartingWith(Letter.e, Letter.f, Letter.g, Letter.h);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
-		
-		String filename = "NewAlgorithmTester_"+dateToString()+".txt";
-		StringBuffer output = new StringBuffer();
-		
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
-			
-			WordSet letterSet = entry.getValue();
-			Letter letter = entry.getKey();
-			List<IStandardWordSetFinder> finderAlgorithms = finderAlgorithms(letterSet);
-			System.out.println(letter + " ("+letterSet.size()+"):");
-			output.append(letter + " ("+letterSet.size()+"):\n");
-			for (IStandardWordSetFinder algorithm : finderAlgorithms) {
-				for (int subsetSize = MIN_SUBSET_SIZE ; subsetSize <= MAX_SUBSET_SIZE ; subsetSize++) {
-					algorithm.setSubsetSize(subsetSize);
-					OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
-					output.append("\t"+algorithm  +": " + optimalWordSets + "\n");
-					writeToFile(output, RUNNING_PREFIX + filename);
-					System.out.println("\t"+algorithm  +": " + optimalWordSets);
-				}
+			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
+
+		}
+		
+	}
+	
+	private static void runAlgorithmsForLetter(Letter letter, WordSet letterSet) {
+		String filename = "6Letters_"+letter+"_OpenTaal_"+dateToString()+".txt";
+		StringBuffer output = new StringBuffer();
+		List<IStandardWordSetFinder> finderAlgorithms = prepareFinderAlgorithms(letterSet);
+		System.out.println(letter + " ("+letterSet.size()+"):");
+		output.append(letter + " ("+letterSet.size()+"):\n");
+		for (IStandardWordSetFinder algorithm : finderAlgorithms) {
+			for (int subsetSize = MIN_SUBSET_SIZE ; subsetSize <= MAX_SUBSET_SIZE ; subsetSize++) {
+				algorithm.setSubsetSize(subsetSize);
+				OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
+				output.append("\t"+algorithm  +": " + optimalWordSets + "\n");
+				writeToFile(output, RUNNING_PREFIX + filename);
+				System.out.println("\t"+algorithm  +": " + optimalWordSets);
 			}
 		}
 		writeToFile(output, filename);
 		removeFile(RUNNING_PREFIX + filename);
 	}
+	
 	
 	private static String dateToString() {
 		Date date = new Date();
@@ -87,7 +89,7 @@ public class Run {
 	}
 	
 	
-	private static List<IStandardWordSetFinder> finderAlgorithms(WordSet letterSet) {
+	private static List<IStandardWordSetFinder> prepareFinderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);

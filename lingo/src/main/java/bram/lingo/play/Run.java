@@ -5,6 +5,7 @@ import java.util.Random;
 import bram.lingo.words.Letter;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.FiveLetterWords;
+import bram.lingo.words.wordSets.SixLetterWords;
 import bram.lingo.words.wordSets.WordSet;
 
 public class Run {
@@ -13,7 +14,7 @@ public class Run {
 		int played = 0;
 		int correct = 0;
 		while (true) {
-			WordSet wordSet = FiveLetterWords.getInstance().getWordsStartingWith(Letter.t);
+			WordSet wordSet = SixLetterWords.getInstance().getWordsStartingWith(Letter.a, Letter.b, Letter.c);
 			Word randomWord = getRandomWord(wordSet);
 			WordSet correctWordSet = getCorrectWordSet(randomWord, wordSet);
 			PlayWord playWord = new PlayWord(randomWord, correctWordSet);

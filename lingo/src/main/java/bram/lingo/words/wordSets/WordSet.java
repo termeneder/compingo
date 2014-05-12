@@ -45,11 +45,13 @@ public class WordSet implements Iterable<Word> {
 		return c_wordList.get(i);
 	}
 	
-	public WordSet getWordsStartingWith(Letter firstLetter) {
+	public WordSet getWordsStartingWith(Letter ... firstLetterList) {
 		WordSet wordsStartingWithLetter = new WordSet();
 		for (Word word : c_wordList) {
-			if (word.startsWith(firstLetter)) {
-				wordsStartingWithLetter.addWord(word);
+			for (Letter firstLetter : firstLetterList) {
+				if (word.startsWith(firstLetter)) {
+					wordsStartingWithLetter.addWord(word);
+				}
 			}
 		}
 		return wordsStartingWithLetter;

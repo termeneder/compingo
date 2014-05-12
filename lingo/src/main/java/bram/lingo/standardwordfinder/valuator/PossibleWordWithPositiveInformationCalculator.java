@@ -1,5 +1,7 @@
 package bram.lingo.standardwordfinder.valuator;
 
+import java.util.List;
+
 public class PossibleWordWithPositiveInformationCalculator {
 
 	private final WordInformation c_wordInformation;
@@ -9,6 +11,8 @@ public class PossibleWordWithPositiveInformationCalculator {
 	}
 
 	public long calculate() {
+		long amountOfUnknownPositions = c_wordInformation.getWordLength() - c_wordInformation.getAmountOfLettersOnCorrectSpot();
+		List<Long> amountOfSimilarLettersWithUnknownSpot;
 		return 0;
 	}
 
