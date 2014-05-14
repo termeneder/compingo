@@ -8,7 +8,7 @@ import static bram.lingo.utils.Maths.choose;
 import static bram.lingo.utils.Maths.pow;
 import bram.lingo.words.Alphabet;
 import bram.lingo.words.Letter;
-
+// FIXME doesn't work
 public class PossibleWordWithPositiveInformationCalculator2 {
 
 	private final WordInformation c_wordInformation;
