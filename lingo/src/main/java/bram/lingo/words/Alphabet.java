@@ -8,6 +8,8 @@ public class Alphabet implements Iterable<Letter>{
 
 	private static final Alphabet c_singleton = new Alphabet();
 	
+	public static final int SIZE = 27;
+	
 	public static Alphabet getInstance() {
 		return c_singleton;
 	}
