@@ -24,9 +24,7 @@ public class BruteForceComparativeFinder extends StandardWordSetFinder {
 		for (WordSet subset : allSubsets) {
 			double value = c_valuator.value(set, subset);
 			optimalWordSets.tryNewWordSet(subset, value);
-
 		}
-		
 		return optimalWordSets;
 	}
 

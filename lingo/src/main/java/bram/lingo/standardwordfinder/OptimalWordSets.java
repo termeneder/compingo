@@ -20,13 +20,30 @@ public class OptimalWordSets {
 	public void tryNewWordSet(WordSet set, double value) {
 		if (isBetterThanOptimal(value)) {
 			c_wordSets = new ArrayList<WordSet>();
-			c_wordSets.add(set);
+			addToSets(set);
 			c_optimalValue = value;
 		} else if (equalsOptimal(value)) {
+			addToSets(set);
+		}
+	}
+	
+	private void addToSets(WordSet set) {
+		if (!contains(set)) {
 			c_wordSets.add(set);
 		}
 	}
 	
+	
+
+	private boolean contains(WordSet set) {
+		for (WordSet setInOptimalSets : c_wordSets) {
+			if (setInOptimalSets.isEquivalent(set)) {
+				return true;
+			}
+		}
+		return false;
+	}
+
 	private double getWorstPossibleValue() {
 		if (c_order == SortOrder.ASC) {
 			return Double.MIN_VALUE;

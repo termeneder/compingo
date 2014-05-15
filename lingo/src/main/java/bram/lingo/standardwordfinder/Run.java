@@ -11,12 +11,14 @@ import java.util.SortedMap;
 
 import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
+import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.PositiveAveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.AveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.InformationAboutLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.MaximumPossibleWordsValuator;
+import bram.lingo.standardwordfinder.valuator.PositiveMaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.Letter;
 import bram.lingo.words.wordSets.EightLetterWords;
@@ -30,13 +32,14 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
+	private static final String DESCRIPTION_PREFIX = "MonteCarloTester_Comparer";
 	private static final boolean PRINT_TO_FILE = false;
-	private static final int MIN_SUBSET_SIZE = 1;
+	private static final int MIN_SUBSET_SIZE = 3;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = SixLetterWords.getInstance().getWordsStartingWith(Letter.u);
+		WordSet fiveLetterWords = FiveLetterWords.getInstance();
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -46,7 +49,7 @@ public class Run {
 	}
 	
 	private static void runAlgorithmsForLetter(Letter letter, WordSet letterSet) {
-		String filename = "6Letters_"+letter+"_OpenTaal_"+dateToString()+".txt";
+		String filename = DESCRIPTION_PREFIX+"_"+letter+"_"+dateToString()+".txt";
 		StringBuffer output = new StringBuffer();
 		List<IStandardWordSetFinder> finderAlgorithms = prepareFinderAlgorithms(letterSet);
 		System.out.println(letter + " ("+letterSet.size()+"):");
@@ -93,26 +96,31 @@ public class Run {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
-		//list.add(new BruteForceComparativeFinder(a3Valuator, SortOrder.ASC));
+		list.add(new BruteForceComparativeFinder(a3Valuator, SortOrder.ASC));
 		
 		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
-		//list.add(new BruteForceComparativeFinder(b3Valuator, SortOrder.ASC));
+		list.add(new BruteForceComparativeFinder(b3Valuator, SortOrder.ASC));
 		
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		//list.add(new BruteForceComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
+		list.add(new BruteForceComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		//list.add(new BruteForceComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
+		list.add(new BruteForceComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
 		
 		WordSetValuator countPossibleWords = new AveragePossibleWordsValuator();
 		list.add(new BruteForceComparativeFinder(countPossibleWords, SortOrder.DESC));
 
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		//list.add(new BruteForceComparativeFinder(minimisePossibleWords, SortOrder.DESC));
+		list.add(new BruteForceComparativeFinder(minimisePossibleWords, SortOrder.DESC));
 		
 		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
 		list.add(new BruteForceComparativeFinder(g1Valuator, SortOrder.DESC));
 		
+		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
+		list.add(new BruteForceComparativeFinder(h1Valuator, SortOrder.DESC));
+		
+		
+
 		return list;
 	}
 	

@@ -75,6 +75,7 @@ public class WordSet implements Iterable<Word> {
 		return c_wordList.contains(word);
 	}
 	
+	@Override
 	public String toString() {
 		boolean isFirst = true;
 		String str = "";
@@ -89,4 +90,15 @@ public class WordSet implements Iterable<Word> {
 		return str;
 	}
 	
+	public boolean isEquivalent(WordSet otherSet) {
+		if (this.size() != otherSet.size()) {
+			return false;
+		}
+		for (Word wordInOtherSet : otherSet) {
+			if (!this.contains(wordInOtherSet)) {
+				return false;
+			}
+		}
+		return true;
+	}
 }

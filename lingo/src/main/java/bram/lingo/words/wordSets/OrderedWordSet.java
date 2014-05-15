@@ -12,6 +12,10 @@ import bram.lingo.words.WordComparator;
  */
 public class OrderedWordSet extends WordSet {
 
+	public OrderedWordSet() {
+		super();
+	}
+	
 	public OrderedWordSet(WordSet set) {
 		super(set);
 		orderList();

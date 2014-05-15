@@ -4,8 +4,6 @@ play
  - Maak de playfunctionaliteit beter (kleurtjes enzo)
 standardwordfinder
  - maak algoritme dat zoekt naar een boom-antwoord
- - maak variant op E/F die alleen maar positieve informatie gebruikt
- - maak monte carlo finder
  - maak genetische finder
  - onderzoek heuristic finder
  train
