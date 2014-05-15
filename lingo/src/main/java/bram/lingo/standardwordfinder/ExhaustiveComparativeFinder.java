@@ -5,13 +5,13 @@ import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSubsetIterable;
 
-public class BruteForceComparativeFinder extends StandardWordSetFinder {
+public class ExhaustiveComparativeFinder extends StandardWordSetFinder {
 
 	private WordSetValuator c_valuator;
 	
 	private SortOrder c_order;
 	
-	public BruteForceComparativeFinder(
+	public ExhaustiveComparativeFinder(
 			WordSetValuator valuator,
 			SortOrder order) {
 		c_valuator = valuator;
