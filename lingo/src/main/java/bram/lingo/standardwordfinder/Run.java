@@ -40,7 +40,7 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.a);
+		WordSet fiveLetterWords = FiveLetterWords.getInstance();
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -125,7 +125,7 @@ public class Run {
 
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
-		for (int i = 1 ; i <= 10000 ; i*=10) {
+		for (int i = 10000 ; i <= 10000 ; i*=10) {
 			list.add(new MonteCarloComparativeFinder(a3Valuator, SortOrder.ASC, i*100));
 			GeneticConfiguration config = new GeneticConfiguration();
 			config.amountOfSetKept = 100;
