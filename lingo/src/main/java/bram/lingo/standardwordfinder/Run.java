@@ -9,7 +9,8 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.SortedMap;
 
-import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
+import bram.lingo.standardwordfinder.genetic.GeneticComparativeFinder;
+import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.PositiveAveragePossibleWordsValuator;
@@ -32,14 +33,14 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "MonteCarloTester_Comparer";
+	private static final String DESCRIPTION_PREFIX = "MonteCarlo_Genetic_Comparer";
 	private static final boolean PRINT_TO_FILE = false;
 	private static final int MIN_SUBSET_SIZE = 3;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance();
+		WordSet fiveLetterWords = FiveLetterWords.getInstance().getWordsStartingWith(Letter.a);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -95,6 +96,7 @@ public class Run {
 	private static List<IStandardWordSetFinder> prepareFinderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
+		/*
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
 		
@@ -119,8 +121,21 @@ public class Run {
 		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
 		list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
 		
-		
+		*/
 
+		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
+		list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
+		for (int i = 1 ; i <= 10000 ; i*=10) {
+			list.add(new MonteCarloComparativeFinder(a3Valuator, SortOrder.ASC, i*100));
+			GeneticConfiguration config = new GeneticConfiguration();
+			config.amountOfSetKept = 100;
+			config.generations = i;
+			config.newSets = 50;
+			config.mutations = 25;
+			config.recombinations = 25;
+			list.add(new GeneticComparativeFinder(a3Valuator, SortOrder.ASC, config));
+		}
+		
 		return list;
 	}
 	

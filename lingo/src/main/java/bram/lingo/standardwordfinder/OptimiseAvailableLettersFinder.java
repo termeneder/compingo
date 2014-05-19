@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.words.Alphabet;
 import bram.lingo.words.Letter;
 import bram.lingo.words.Word;

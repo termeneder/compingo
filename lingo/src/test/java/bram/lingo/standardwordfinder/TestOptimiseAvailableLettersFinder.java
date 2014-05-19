@@ -4,7 +4,6 @@ import static org.hamcrest.CoreMatchers.*;
 
 import org.junit.Test;
 
-import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.words.wordSets.WordSet;
 
 public class TestOptimiseAvailableLettersFinder {

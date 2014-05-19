@@ -6,7 +6,6 @@ import java.util.List;
 import bram.lingo.words.wordSets.WordSet;
 
 public class OptimalWordSets {
-	public enum SortOrder {ASC, DESC}
 	private List<WordSet> c_wordSets;
 	private double c_optimalValue;
 	private SortOrder c_order;

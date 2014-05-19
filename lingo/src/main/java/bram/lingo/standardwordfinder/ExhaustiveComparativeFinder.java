@@ -1,6 +1,5 @@
 package bram.lingo.standardwordfinder;
 
-import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSubsetIterable;

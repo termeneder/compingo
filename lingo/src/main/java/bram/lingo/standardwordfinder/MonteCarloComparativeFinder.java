@@ -2,11 +2,9 @@ package bram.lingo.standardwordfinder;
 
 import java.util.Random;
 
-import bram.lingo.standardwordfinder.OptimalWordSets.SortOrder;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.wordSets.OrderedWordSet;
 import bram.lingo.words.wordSets.WordSet;
-import bram.lingo.words.wordSets.WordSubsetIterable;
 
 public class MonteCarloComparativeFinder extends StandardWordSetFinder {
 
