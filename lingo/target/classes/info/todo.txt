@@ -1,5 +1,7 @@
 Todo's
 
+importer
+ - maak import die resultaten van OT en TUE samenvoegt
 play
  - Maak de playfunctionaliteit beter (kleurtjes enzo)
 standardwordfinder
@@ -7,12 +9,12 @@ standardwordfinder
   - maak genetische finder
   - onderzoek heuristic finder
   - maak preprocess finder van C,D,E,F,G,H
- train
+train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file 
 wordSets
   - maak de tue en opentaal-sets op dezelfde manier bereikbaar
- 
+  - maak de samengevoegde set ook op dezelfde manier bereikbaar
 results
   - OT
     - 5 letter words
@@ -37,3 +39,13 @@ results
       - run voor alle letters
     - 8 letter words
       - run voor alle letters
+  - Merge
+    - 5 letter words
+	  - run voor alle letters
+    - 6 letter words
+      - run voor alle letters
+    - 7 letter words
+      - run voor alle letters
+    - 8 letter words
+      - run voor alle letters
+            
