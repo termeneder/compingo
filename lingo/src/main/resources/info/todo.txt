@@ -3,11 +3,37 @@ Todo's
 play
  - Maak de playfunctionaliteit beter (kleurtjes enzo)
 standardwordfinder
- - maak algoritme dat zoekt naar een boom-antwoord
- - maak genetische finder
- - onderzoek heuristic finder
+  - maak algoritme dat zoekt naar een boom-antwoord
+  - maak genetische finder
+  - onderzoek heuristic finder
+  - maak preprocess finder van C,D,E,F,G,H
  train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file 
-- wordSets
+wordSets
   - maak de tue en opentaal-sets op dezelfde manier bereikbaar
+ 
+results
+  - OT
+    - 5 letter words
+      - rerun algoritme D met nieuwe valuatie (equivalent, maar gemiddelde ipv totaal)
+      - hernoem alle results
+      - run algoritme G en H
+    - 6 letter words
+      - run voor letters B, G-IJ
+      - hernoem alle results
+      - run algoritme G en H
+    - 7 letter words
+      - run voor B-IJ
+      - bereken preciezere antwoorden voor A voor algoritme C-H
+    - 8 letter words
+      - run voor alle letters
+  - TUE
+    - 5 letter words
+	  - run voor alle letters
+    - 6 letter words
+      - run voor alle letters
+    - 7 letter words
+      - run voor alle letters
+    - 8 letter words
+      - run voor alle letters

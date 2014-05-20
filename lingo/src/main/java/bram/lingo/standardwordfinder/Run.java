@@ -33,14 +33,14 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "MonteCarlo_Genetic_Comparer";
-	private static final boolean PRINT_TO_FILE = false;
-	private static final int MIN_SUBSET_SIZE = 3;
+	private static final String DESCRIPTION_PREFIX = "7_Letter_OT";
+	private static final boolean PRINT_TO_FILE = true;
+	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet fiveLetterWords = FiveLetterWords.getInstance();
+		WordSet fiveLetterWords = SevenLetterWords.getInstance();
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(fiveLetterWords);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -122,19 +122,45 @@ public class Run {
 		list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
 		
 		*/
-
+		GeneticConfiguration configLong = new GeneticConfiguration();
+		configLong.amountOfSetKept = 100;
+		configLong.generations = 1000;
+		configLong.newSets = 50;
+		configLong.mutations = 25;
+		configLong.recombinations = 25;
+		
+		
+		GeneticConfiguration configShort = new GeneticConfiguration();
+		configShort.amountOfSetKept = 100;
+		configShort.generations = 10;
+		configShort.newSets = 50;
+		configShort.mutations = 25;
+		configShort.recombinations = 25;
+		
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
-		for (int i = 10000 ; i <= 10000 ; i*=10) {
-			list.add(new MonteCarloComparativeFinder(a3Valuator, SortOrder.ASC, i*100));
-			GeneticConfiguration config = new GeneticConfiguration();
-			config.amountOfSetKept = 100;
-			config.generations = i;
-			config.newSets = 50;
-			config.mutations = 25;
-			config.recombinations = 25;
-			list.add(new GeneticComparativeFinder(a3Valuator, SortOrder.ASC, config));
-		}
+		
+		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
+		list.add(new ExhaustiveComparativeFinder(b3Valuator, SortOrder.ASC));
+		
+		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
+		list.add(new GeneticComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC, configLong));
+		
+		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
+		list.add(new GeneticComparativeFinder(amountOfDifferationGroups, SortOrder.DESC, configLong));
+		
+		WordSetValuator countPossibleWords = new AveragePossibleWordsValuator();
+		list.add(new GeneticComparativeFinder(countPossibleWords, SortOrder.DESC, configShort));
+
+		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
+		list.add(new GeneticComparativeFinder(minimisePossibleWords, SortOrder.DESC, configShort));
+		
+		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
+		list.add(new GeneticComparativeFinder(g1Valuator, SortOrder.DESC, configShort));
+		
+		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
+		list.add(new GeneticComparativeFinder(h1Valuator, SortOrder.DESC, configShort));
+
 		
 		return list;
 	}

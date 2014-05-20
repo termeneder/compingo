@@ -1,5 +1,7 @@
 package bram.lingo.standardwordfinder.genetic;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 import bram.lingo.standardwordfinder.OptimalWordSets;
@@ -28,6 +30,9 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 	
 	public OptimalWordSets findOptimal(WordSet set) {
 		TopResultSet topResultSet = new TopResultSet(c_config.amountOfSetKept, c_order);
+		if (set.size() < getSubsetSize()) {
+			return new OptimalWordSets(c_order);
+		}
 		for (int generation = 0 ; generation < c_config.generations ; generation++) {
 			topResultSet = runGeneration(topResultSet, set);
 		}
@@ -37,15 +42,14 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 	private TopResultSet runGeneration(TopResultSet topResultSet, WordSet set) {
 		topResultSet = runNewSets(topResultSet, set);
 		topResultSet = runMutations(topResultSet, set);
-		topResultSet = runRecombinations(topResultSet);
+		topResultSet = runRecombinations(topResultSet, set);
 		return topResultSet;
 	}
 
 	private TopResultSet runNewSets(TopResultSet topResultSet, WordSet set) {
 		for (int i = 0 ; i < c_config.newSets ; i++) {
 			WordSet randomSet = getRandomSubset(set);
-			double value = c_valuator.value(set, randomSet);
-			topResultSet.addIfInTop(value, randomSet);
+			topResultSet = addIfInTop(topResultSet, set, randomSet);
 		}
 		return topResultSet;
 	}
@@ -63,22 +67,43 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 			int randomWordIndexToAdd = randomInt(set.size());
 			Word randomWord = set.get(randomWordIndexToAdd);
 			newWordSet.addWord(randomWord);
-			double value = c_valuator.value(set, newWordSet);
-			topResultSet.addIfInTop(value, newWordSet);
+			topResultSet = addIfInTop(topResultSet, set, newWordSet);
 		}
 		return topResultSet;
 	}
 	
-	private TopResultSet runRecombinations(TopResultSet topResultSet) {
+	private TopResultSet runRecombinations(TopResultSet topResultSet, WordSet set) {
 		for (int i = 0 ; i < c_config.recombinations ; i++) {
 			WordSet randomSetA = topResultSet.getRandom();
 			WordSet randomSetB = topResultSet.getRandom();
 			WordSet recombinedSet = recombine(randomSetA,randomSetB);
 			if (recombinedSet != null) {
-				
+				topResultSet = addIfInTop(topResultSet, set, recombinedSet);
 			}
 		}
 		return topResultSet;
+	}
+
+	private TopResultSet addIfInTop(TopResultSet topResultSet, WordSet totalSet, WordSet newSubset) {
+		if (isCorrectSubset(newSubset)) {
+			double value = c_valuator.value(totalSet, newSubset);
+			topResultSet.addIfInTop(value, newSubset);
+		}
+		return topResultSet;
+	}
+	
+	private boolean isCorrectSubset(WordSet subset) {
+		if (subset.size() != getSubsetSize()) {
+			return false;
+		}
+		List<Word> wordsInSubset = new ArrayList<Word>();
+		for (Word word : subset) {
+			if (wordsInSubset.contains(word)) {
+				return false;
+			}
+			wordsInSubset.add(word);
+		}
+		return true;
 	}
 
 	private WordSet recombine(WordSet setA, WordSet setB) {
