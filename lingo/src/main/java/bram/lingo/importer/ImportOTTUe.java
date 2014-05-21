@@ -12,8 +12,8 @@ public class ImportOTTUe {
 	private static final String EXPORT_LOCATION = "src/main/resources/wordlists/ottue/";
 	private static final String OPENTAAL_LIST_LOCATION = "src/main/resources/wordlists/opentaal/OpenTaal-210G-basis-gekeurd.txt";
 	private static final String TUE_LIST_LOCATION = "src/main/resources/wordlists/tue/woorden.med";
-	private static final int SHORTEST_WORD = 5;
-	private static final int LONGEST_WORD = 8;
+	private static final int[] WORD_LENGTH_LIST = {5,6,7,8,10,12};
+
 	
 	
 	public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class ImportOTTUe {
 		WordSet filteredTueSet = filterWordSet(tueWordSet);
 		WordSet otWordSet = readWordSet(OPENTAAL_LIST_LOCATION);
 		WordSet filteredOtSet = filterWordSet(otWordSet);
-		for (int wordLength = SHORTEST_WORD ; wordLength < LONGEST_WORD + 1 ; wordLength++) {
+		for (int wordLength : WORD_LENGTH_LIST) {
 			WordSet tueWordsOfLength = filterWordLength(filteredTueSet, wordLength);
 			WordSet otWordsOfLength = filterWordLength(filteredOtSet, wordLength);
 			WordSet wordsOfLength = mergeWordSets(tueWordsOfLength, otWordsOfLength);

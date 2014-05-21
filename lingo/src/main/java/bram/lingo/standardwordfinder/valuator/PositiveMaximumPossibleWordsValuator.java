@@ -32,7 +32,7 @@ public class PositiveMaximumPossibleWordsValuator implements WordSetValuator {
 
 	@Override
 	public String getDescription() {
-		return "Minimise maximum possible words with positive information";
+		return "Minimise maximum possible words with positive info";
 	}
 
 	@Override
