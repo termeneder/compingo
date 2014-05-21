@@ -1,7 +1,0 @@
-a (399):
-	A) Correct letters, 1 word: afteren (913.0)
-	A) Correct letters, 2 words: aflaten,arterie (1151.0)
-	A) Correct letters, 3 words: aanlaat,aflaten,arterie (1380.0)
-	B) Information about letters, 1 word: aflaten (1412.0)
-	B) Information about letters, 2 words: afmalen,auditor (2016.0)
-

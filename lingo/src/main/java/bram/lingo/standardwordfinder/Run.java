@@ -12,7 +12,6 @@ import java.util.SortedMap;
 import bram.lingo.standardwordfinder.genetic.GeneticComparativeFinder;
 import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
-import bram.lingo.standardwordfinder.valuator.CorrectLettersValuator;
 import bram.lingo.standardwordfinder.valuator.PositiveAveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;
@@ -34,14 +33,16 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "5_Letter_OTTUE";
+	private static final String DESCRIPTION_PREFIX = "7_Letter_OT";
 	private static final boolean PRINT_TO_FILE = true;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet words = FiveLetterWords.getInstance(Source.OTTUE).getWordsStartingWith(Letter.x, Letter.y);
+		WordSet words = SevenLetterWords.getInstance(Source.OPEN_TAAL).getWordsStartingWith(
+				Letter.o, Letter.p, Letter.q, Letter.r, Letter.s, Letter.t, Letter.u, Letter.v, Letter.w
+				, Letter.x, Letter.y, Letter.z, Letter.ij);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -97,32 +98,6 @@ public class Run {
 	private static List<IStandardWordSetFinder> prepareFinderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
 		
-		/*
-		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
-		list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
-		
-		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
-		list.add(new ExhaustiveComparativeFinder(b3Valuator, SortOrder.ASC));
-		
-		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		list.add(new ExhaustiveComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
-		
-		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		list.add(new ExhaustiveComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
-		
-		WordSetValuator countPossibleWords = new AveragePossibleWordsValuator();
-		list.add(new ExhaustiveComparativeFinder(countPossibleWords, SortOrder.DESC));
-
-		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		list.add(new ExhaustiveComparativeFinder(minimisePossibleWords, SortOrder.DESC));
-		
-		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
-		list.add(new ExhaustiveComparativeFinder(g1Valuator, SortOrder.DESC));
-		
-		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
-		list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
-		
-		*/
 		GeneticConfiguration configLong = new GeneticConfiguration();
 		configLong.amountOfSetKept = 100;
 		configLong.generations = 1000;
@@ -145,28 +120,28 @@ public class Run {
 		list.add(new ExhaustiveComparativeFinder(b3Valuator, SortOrder.ASC));
 		
 		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		//list.add(new GeneticComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC, configLong));
-		list.add(new ExhaustiveComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
+		list.add(new GeneticComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC, configLong));
+		//list.add(new ExhaustiveComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
 		
 		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		//list.add(new GeneticComparativeFinder(amountOfDifferationGroups, SortOrder.DESC, configLong));
-		list.add(new ExhaustiveComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
+		list.add(new GeneticComparativeFinder(amountOfDifferationGroups, SortOrder.DESC, configLong));
+		//list.add(new ExhaustiveComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
 		
 		WordSetValuator countPossibleWords = new AveragePossibleWordsValuator();
-		//list.add(new GeneticComparativeFinder(countPossibleWords, SortOrder.DESC, configShort));
-		list.add(new ExhaustiveComparativeFinder(countPossibleWords, SortOrder.DESC));
+		list.add(new GeneticComparativeFinder(countPossibleWords, SortOrder.DESC, configShort));
+		//list.add(new ExhaustiveComparativeFinder(countPossibleWords, SortOrder.DESC));
 		
 		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		//list.add(new GeneticComparativeFinder(minimisePossibleWords, SortOrder.DESC, configShort));
-		list.add(new ExhaustiveComparativeFinder(minimisePossibleWords, SortOrder.DESC));
+		list.add(new GeneticComparativeFinder(minimisePossibleWords, SortOrder.DESC, configShort));
+		//list.add(new ExhaustiveComparativeFinder(minimisePossibleWords, SortOrder.DESC));
 		
 		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
-		//list.add(new GeneticComparativeFinder(g1Valuator, SortOrder.DESC, configShort));
-		list.add(new ExhaustiveComparativeFinder(g1Valuator, SortOrder.DESC));
+		list.add(new GeneticComparativeFinder(g1Valuator, SortOrder.DESC, configShort));
+		//list.add(new ExhaustiveComparativeFinder(g1Valuator, SortOrder.DESC));
 		
 		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
-		//list.add(new GeneticComparativeFinder(h1Valuator, SortOrder.DESC, configShort));
-		list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
+		list.add(new GeneticComparativeFinder(h1Valuator, SortOrder.DESC, configShort));
+		//list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
 
 		
 		return list;
