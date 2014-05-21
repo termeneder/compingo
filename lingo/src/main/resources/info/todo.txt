@@ -12,8 +12,8 @@ train
 results
   - OT
     - 5 letter words
-      - rerun algoritme D met nieuwe valuatie voor A-B, D-H, J-W, Z (equivalent, maar gemiddelde ipv totaal) 
-      - run algoritme G en H voor A-B, D-H, J-W, Z
+      - rerun algoritme D met nieuwe valuatie voor A-B, D-H, J-W (equivalent, maar gemiddelde ipv totaal) 
+      - run algoritme G en H voor A-B, D-H, J-W
     - 6 letter words
       - run voor letters B, G-IJ
       - run algoritme G en H
