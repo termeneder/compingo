@@ -23,4 +23,6 @@ e (219):
 	H1g1K) Minimise maximum possible words with positive information, 1 word: erelint (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive information, 2 words: erfland,exotiek || elektra,esdoorn || estrade,ethanol || eerbied,ethanol || erotica,evenwel || emulsie,ethanol || eetwaar,epsilon || epaulet,esdoren || eponiem,extract || egotrip,elegant || ereplak,etnisch || eerlang,egotrip || epistel,eropaan (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive information, 3 words: eerlang,erfenis,eropuit || eenzaam,engelin,erepost || eenterm,eiglans,exploot || eindjes,emiraat,exploot || eiermijn,ernaast,exogeen || ecotaks,eenheid,ezelarij || eenheid,epotest,ezelarij || epifyse,erectie,ethanol || eiglans,erfleen,exploot || eerzaam,electie,entstof || element,epifyse,ereboog || eindrijm,epsilon,etaleur || eertijds,epsilon,erenaam || ecotaks,element,eurokit || electie,eolisch,erebaan || elegant,episode,eronder (2467531.0)
-
+	I1) Vincents algorithm, 1 word: ernstig (1.0)
+	I1) Vincents algorithm, 2 words: ernstig,ethanol (1.0)
+	I1) Vincents algorithm, 3 words: ernstig,ethanol,eindrijm (1.0)

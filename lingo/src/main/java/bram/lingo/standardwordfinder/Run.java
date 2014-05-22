@@ -22,10 +22,8 @@ import bram.lingo.standardwordfinder.valuator.MaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.PositiveMaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.Letter;
-import bram.lingo.words.wordSets.EightLetterWords;
-import bram.lingo.words.wordSets.FiveLetterWords;
-import bram.lingo.words.wordSets.SevenLetterWords;
-import bram.lingo.words.wordSets.SixLetterWords;
+import bram.lingo.words.wordSets.NLetterWords;
+
 import bram.lingo.words.wordSets.Source;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSetUtils;
@@ -34,14 +32,14 @@ public class Run {
 
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "5_Letter_OT_Vincent";
+	private static final String DESCRIPTION_PREFIX = "5_Letter_OT";
 	private static final boolean PRINT_TO_FILE = false;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
-		WordSet words = FiveLetterWords.getInstance(Source.OPEN_TAAL);
+		WordSet words = NLetterWords.getInstance(7,Source.OPEN_TAAL);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());

@@ -23,4 +23,6 @@ j (59):
 	H1g1K) Minimise maximum possible words with positive information, 1 word: jubilea || jageres (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive information, 2 words: jaloers,junidag || jantjes,julidag || jachtig,jodelen || jachtig,juwelen || jachten,julidag || jachten,juwelig || januari,jockeys || janboel,jichtig || janslot,jeugdig (2467531.0)
 	H1g1K) Minimise maximum possible words with positive information, 3 words: jaartal,jonkman,junctie || jackpot,jongvee,julidag || jaardag,jonkman,juriste || jachten,jodelen,junidag || jackpot,junidag,juwelen || jachten,jukboog,jurylid || jackpot,jaloers,junidag || jachtig,jeuksel,jodelen || janslot,jongere,julidag || jachten,judomat,juwelig || jaartal,jogging,juichen (351780.0)
-
+	I1) Vincents algorithm, 1 word: janboel (1.0)
+	I1) Vincents algorithm, 2 words: janboel,juriste (1.0)
+	I1) Vincents algorithm, 3 words: janboel,juriste,jaagpad (1.0)

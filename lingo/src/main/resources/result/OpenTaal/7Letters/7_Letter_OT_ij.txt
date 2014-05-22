@@ -23,4 +23,6 @@ ij (53):
 	H1g1K) Minimise maximum possible words with positive info, 1 word: ijsvloer (1.4348907E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: ijssalon,ijzertijd (351780.0)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: ijsmaker,ijsschol,ijzeroer || ijshotel,ijssalon,ijzerrijk || ijltempo,ijssalon,ijzertijd || ijshotel,ijssalon,ijzermijn || ijssalon,ijsvloer,ijzertijd || ijdellijk,ijsmassa,ijzeroer || ijskonijn,ijssalon,ijzertijd || ijsbeeld,ijscoupe,ijskraam || ijssalon,ijswater,ijzertijd || ijssalon,ijsschol,ijzertijd (351780.0)
-
+	I1) Vincents algorithm, 1 word: ijsvloer (1.0)
+	I1) Vincents algorithm, 2 words: ijsvloer,ijscoman (1.0)
+	I1) Vincents algorithm, 3 words: ijsvloer,ijscoman,ijsdikte (1.0)

@@ -23,4 +23,6 @@ i (137):
 	H1g1K) Minimise maximum possible words with positive information, 1 word: inktvis || intrest || invasie || inlands || interim || inertie || intrige || inkomst || instore || insider || indices (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive information, 2 words: intapen,isomeer || inkopen,instuif || inkomen,intimus || inlaten,isomorf || inertie,isobaar || inkoken,intimus || inboren,inktvis || infomap,intrige || inertie,infodag || infomap,inheien || indeler,instuif || incasso,inertie || idiotie,inlands || idiotie,infodag || inborst,indagen || indices,inktmop || inkoken,insider || infusie,intrede || inlands,instore || instore,intrige || inlener,instuif (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive information, 3 words: indagen,inktmop,intimus || inlands,intocht,isomeer || indalen,inktgom,ionisch || idealen,infarct,infobus || ingaand,inlopen,instuif || indiaan,inkoper,isomeer || illusie,inborst,injagen || idealen,idiotie,infobus || inktgom,inladen,intimus || inhalig,inktpot,insider (1992060.0)
-
+	I1) Vincents algorithm, 1 word: instore (1.0)
+	I1) Vincents algorithm, 2 words: instore,inktlap (1.0)
+	I1) Vincents algorithm, 3 words: instore,inktlap,ingewijd (1.0)

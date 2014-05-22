@@ -23,4 +23,6 @@ x (3):
 	H1) Minimise maximum possible words with positive info, 1 word: xerox (729.0)
 	H1) Minimise maximum possible words with positive info, 2 words: xenon,xeres (27.0)
 	H1) Minimise maximum possible words with positive info, 3 words: xenon,xeres,xerox (1.0)
-
+	I1) Vincents algorithm, 1 word: xerox (1.0)
+	I1) Vincents algorithm, 2 words: xerox,xenon (1.0)
+	I1) Vincents algorithm, 3 words: xerox,xenon,xeres (1.0)

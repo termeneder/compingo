@@ -23,4 +23,6 @@ q (5):
 	H1g1K) Minimise maximum possible words with positive info, 1 word: quilten || queeste (2467531.0)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: quizzen,quotums || quatsch,quilten || quilten,quotums || quatsch,quizzen (74465.0)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: quatsch,quizzen,quotums || quatsch,quilten,quotums (8114.0)
-
+	I1) Vincents algorithm, 1 word: quilten (1.0)
+	I1) Vincents algorithm, 2 words: quilten,quatsch (1.0)
+	I1) Vincents algorithm, 3 words: quilten,quatsch,quotums (1.0)

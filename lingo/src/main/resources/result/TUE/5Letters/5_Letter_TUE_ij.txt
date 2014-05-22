@@ -23,4 +23,6 @@ ij (18):
 	H1) Minimise maximum possible words with positive information, 1 word: ijdele || ijkers || ijking || ijkten || ijlbot || ijlden || ijlere || ijsden || ijsjes || ijskap || ijstijd || ijsvrij || ijszak || ijszee || ijvert || ijzelt || ijzers || ijzige (531441.0)
 	H1) Minimise maximum possible words with positive information, 2 words: ijkers,ijzelt (19683.0)
 	H1) Minimise maximum possible words with positive information, 3 words: ijkers,ijsden,ijzelt || ijking,ijlere,ijstijd || ijking,ijstijd,ijzelt || ijking,ijsvrij,ijzelt || ijkten,ijlere,ijszak || ijkten,ijlere,ijszee || ijkten,ijstijd,ijzelt || ijkten,ijsvrij,ijzelt (2107.0)
-
+	I1) Vincents algorithm, 1 word: ijzers (1.0)
+	I1) Vincents algorithm, 2 words: ijzers,ijkten (1.0)
+	I1) Vincents algorithm, 3 words: ijzers,ijkten,ijdele (1.0)

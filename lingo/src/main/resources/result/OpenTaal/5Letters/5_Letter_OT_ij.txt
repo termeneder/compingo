@@ -23,4 +23,6 @@ ij (26):
 	H1) Minimise maximum possible words with positive information, 1 word: ijsman || ijszak || ijswijn (74465.0)
 	H1) Minimise maximum possible words with positive information, 2 words: ijking,ijsbal || ijking,ijshal || ijking,ijshut || ijking,ijskap || ijking,ijsman || ijking,ijssla || ijking,ijstijd || ijking,ijsvrij || ijking,ijszak || ijking,ijszee || ijking,ijswijn || ijking,ijsbox || ijking,ijskar || ijking,ijsbad || ijking,ijsbijl || ijking,ijsdag || ijking,ijsdam || ijking,ijskou || ijking,ijsbar || ijking,ijsdek || ijking,ijsval || ijking,ijsbok || ijking,ijstak || ijsbal,ijzing || ijshal,ijzing || ijskap,ijzing || ijsman,ijszak || ijsman,ijzing || ijsman,ijsdag || ijssla,ijzing || ijstijd,ijzing || ijstijd,ijsdag || ijsvrij,ijzing || ijszak,ijzing || ijszak,ijswijn || ijszak,ijklijn || ijszee,ijklijn || ijzing,ijswijn || ijzing,ijskar || ijzing,ijsbijl || ijzing,ijskou || ijzing,ijsdek || ijzing,ijsval || ijzing,ijsbok || ijzing,ijstak || ijswijn,ijsdag || ijklijn,ijsdag || ijsbijl,ijsdag (19683.0)
 	H1) Minimise maximum possible words with positive information, 3 words: ijzing,ijsbijl,ijstak (2107.0)
-
+	I1) Vincents algorithm, 1 word: ijsbal (1.0)
+	I1) Vincents algorithm, 2 words: ijsbal,ijsdek (1.0)
+	I1) Vincents algorithm, 3 words: ijsbal,ijsdek,ijzing (1.0)

@@ -23,4 +23,6 @@ d (451):
 	H1g1K) Minimise maximum possible words with positive information, 1 word: doerian (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive information, 2 words: dolheid,drijfnat || daktuin,douarie (1.4348907E7)
 	H1g1K) Minimise maximum possible words with positive information, 3 words: deurmat,discman,dopgeld (2467531.0)
-
+	I1) Vincents algorithm, 1 word: doerian (1.0)
+	I1) Vincents algorithm, 2 words: doerian,daklijst (1.0)
+	I1) Vincents algorithm, 3 words: doerian,daklijst,dumping (1.0)

@@ -23,4 +23,6 @@ c (273):
 	H1g1K) Minimise maximum possible words with positive information, 1 word: calorie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive information, 2 words: carieus,codicil || carieus,country || chloren,custard || combine,crawlen || cervela,combine || classic,cohorte || calorie,country || calorie,combine || caprice,coulant || calcium,contest || centrum,clipart || chablis,chromen || cembalo,cuisine || calorie,contigu || chiasme,consult || claimen,croonen || couloir,crawlen || contigu,crawlen || coltrui,crashen || chablis,concert || casting,couplet || clubdas,concert || chamade,coltrui || coaster,curling || chablis,citroen || corsage,curling || cineast,coulant || cleaner,commies (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive information, 3 words: caching,cascade,coltrui (351780.0)
-
+	I1) Vincents algorithm, 1 word: calorie (1.0)
+	I1) Vincents algorithm, 2 words: calorie,consult (1.0)
+	I1) Vincents algorithm, 3 words: calorie,consult,chamade (1.0)
