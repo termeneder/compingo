@@ -11,7 +11,6 @@ import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.OrderedWordSet;
 import bram.lingo.words.wordSets.WordSet;
-import bram.lingo.words.wordSets.WordSubsetIterable;
 
 public class GeneticComparativeFinder extends StandardWordSetFinder {
 

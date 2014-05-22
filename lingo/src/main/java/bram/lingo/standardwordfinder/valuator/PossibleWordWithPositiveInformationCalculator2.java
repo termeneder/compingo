@@ -1,11 +1,10 @@
 package bram.lingo.standardwordfinder.valuator;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map.Entry;
-
 import static bram.lingo.utils.Maths.choose;
 import static bram.lingo.utils.Maths.pow;
+
+import java.util.Map.Entry;
+
 import bram.lingo.words.Alphabet;
 import bram.lingo.words.Letter;
 // FIXME doesn't work
