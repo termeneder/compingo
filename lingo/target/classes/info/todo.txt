@@ -18,8 +18,7 @@ results
       - run voor letters B, G-IJ
       - run algoritme G en H
     - 7 letter words
-      - run voor O-IJ
-      - bereken preciezere antwoorden voor A-N voor algoritme C-H
+      - bereken preciezere antwoorden voor A-IJ voor algoritme C-H
     - 8 letter words
       - run voor alle letters
   - TUE
