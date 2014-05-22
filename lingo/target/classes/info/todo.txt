@@ -23,7 +23,6 @@ results
       - run algoritme G-I
     - 7 letter words
       - bereken preciezere antwoorden voor A-IJ voor algoritme C-H
-      - run algoritme I
     - 8 letter words
       - run voor alle letters
   - TUE
