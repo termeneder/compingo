@@ -23,4 +23,6 @@ y (1):
 	H1) Minimise maximum possible words with positive info, 1 word: yucca (1.0)
 	H1) Minimise maximum possible words with positive info, 2 words:  (1.7976931348623157E308)
 	H1) Minimise maximum possible words with positive info, 3 words:  (1.7976931348623157E308)
-
+	I1) Vincents algorithm, 1 word: yucca (1.0)
+	I1) Vincents algorithm, 2 words:  (4.9E-324)
+	I1) Vincents algorithm, 3 words:  (4.9E-324)

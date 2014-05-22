@@ -23,4 +23,6 @@ f (219):
 	H1g1K) Minimise maximum possible words with positive information, 1 word: fatsoen || flitser || frutsel || flitten || flitsen || flirten || flinter || florist (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive information, 2 words: flamoes,frietje || flensje,forfait || fascine,formeel || fasseel,forfait || factoor,filmset || faseren,florist || flitsen,fotomap || fauvist,formeel || fibrine,flamoes || fokster,fragiel || florist,foetaal || fatsoen,flikker || fibrine,futloos || filmset,foliant || fossiel,fratsen || filmset,flapoor || fansite,floraal || factorij,fluitje || folkbal,frisket || forfait,frutsel || flanken,flitser || foutief,fractal (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive information, 3 words: flinter,foliant,fustage || faience,flobert,funkbas || filmrol,flirten,fuchsia || fascist,felroze,funkbas (1992060.0)
-
+	I1) Vincents algorithm, 1 word: flirten (1.0)
+	I1) Vincents algorithm, 2 words: flirten,fanshop (1.0)
+	I1) Vincents algorithm, 3 words: flirten,fanshop,fiducie (1.0)

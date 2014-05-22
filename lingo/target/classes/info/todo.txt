@@ -9,22 +9,25 @@ standardwordfinder
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file 
+vincent
+  - make vincents algorithm an implementation of StandardWordSetFinder
+jochem
+  - make jochems algorithms an implementation of StandardWordSetFinder
 results
   - OT
     - 5 letter words
       - rerun algoritme D met nieuwe valuatie voor A-B, D-H, J-W (equivalent, maar gemiddelde ipv totaal) 
-      - run algoritme G en H voor A-B, D-H, J-W
+      - run algoritme G-I voor A-B, D-H, J-W
     - 6 letter words
       - run voor letters B, G-IJ
-      - run algoritme G en H
+      - run algoritme G-I
     - 7 letter words
-      - run voor O-IJ
-      - bereken preciezere antwoorden voor A-N voor algoritme C-H
+      - bereken preciezere antwoorden voor A-IJ voor algoritme C-H
     - 8 letter words
       - run voor alle letters
   - TUE
     - 5 letter words
-	  - run voor A-B, D-H, J-W, Z
+	  - run voor A-B, D-H, J-W, Z voor A-I
     - 6 letter words
       - run voor alle letters
     - 7 letter words
@@ -33,7 +36,8 @@ results
       - run voor alle letters
   - Merge
     - 5 letter words
-	  - run voor A-B, D-H, J-W, Z
+	  - run voor A-B, D-H, J-W, Z voor A-H
+	  - run algoritme I
     - 6 letter words
       - run voor alle letters
     - 7 letter words

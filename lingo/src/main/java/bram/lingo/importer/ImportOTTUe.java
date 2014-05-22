@@ -12,7 +12,7 @@ public class ImportOTTUe {
 	private static final String EXPORT_LOCATION = "src/main/resources/wordlists/ottue/";
 	private static final String OPENTAAL_LIST_LOCATION = "src/main/resources/wordlists/opentaal/OpenTaal-210G-basis-gekeurd.txt";
 	private static final String TUE_LIST_LOCATION = "src/main/resources/wordlists/tue/woorden.med";
-	private static final int[] WORD_LENGTH_LIST = {5,6,7,8,10,12};
+	private static final int[] WORD_LENGTH_LIST = {12};
 
 	
 	
@@ -26,14 +26,15 @@ public class ImportOTTUe {
 			WordSet otWordsOfLength = filterWordLength(filteredOtSet, wordLength);
 			WordSet wordsOfLength = mergeWordSets(tueWordsOfLength, otWordsOfLength);
 			String exportFilename = Integer.toString(wordLength) + ".txt";
-			exportWordList(wordsOfLength, exportFilename);
+			WordSet orderedSet = new OrderedWordSet(wordsOfLength);
+			exportWordList(orderedSet, exportFilename);
 		}
 	}
 
 	
 	private static WordSet mergeWordSets(WordSet wordSet1,
 			WordSet wordSet2) {
-		WordSet mergedSet = new OrderedWordSet();
+		WordSet mergedSet = new WordSet();
 		for (Word word : wordSet1) {
 			if (!mergedSet.contains(word)) {
 				mergedSet.addWord(word);

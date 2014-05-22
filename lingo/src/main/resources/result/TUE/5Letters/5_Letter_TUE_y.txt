@@ -23,4 +23,6 @@ y (3):
 	H1) Minimise maximum possible words with positive info, 1 word: yards (74465.0)
 	H1) Minimise maximum possible words with positive info, 2 words: yells,yucca (2107.0)
 	H1) Minimise maximum possible words with positive info, 3 words: yards,yells,yucca (1.0)
-
+	I1) Vincents algorithm, 1 word: yards (1.0)
+	I1) Vincents algorithm, 2 words: yards,yucca (1.0)
+	I1) Vincents algorithm, 3 words: yards,yucca,yells (1.0)
