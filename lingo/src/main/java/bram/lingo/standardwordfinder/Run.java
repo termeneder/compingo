@@ -34,15 +34,15 @@ public class Run {
 	private static final String RUNNING_PREFIX = "running_";
 	private static final String DESCRIPTION_PREFIX = "";
 	private static final int WORD_LENGTH = 5;
-	private static final Source SOURCE = Source.OTTUE;
-	private static final boolean PRINT_TO_FILE = true;
+	private static final Source SOURCE = Source.TUE;
+	private static final boolean PRINT_TO_FILE = false;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
 		
 		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE).getWordsStartingWith(
-				Letter.a, Letter.b, Letter.d, Letter.e, Letter.f);
+				Letter.z);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -112,7 +112,7 @@ public class Run {
 		configShort.newSets = 50;
 		configShort.mutations = 25;
 		configShort.recombinations = 25;
-		
+		/*
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
 		
@@ -142,7 +142,7 @@ public class Run {
 		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
 		list.add(new GeneticComparativeFinder(h1Valuator, SortOrder.DESC, configShort));
 		//list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
-		
+		*/
 		list.add(new VincentRevisited(SortOrder.ASC));
 		return list;
 	}

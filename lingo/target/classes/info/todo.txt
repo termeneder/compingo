@@ -27,7 +27,7 @@ results
       - run voor alle letters
   - TUE
     - 5 letter words
-	  - run voor A-B, D-H, J-W, Z voor A-I
+	  - run voor A-B, D-H, J-W voor A-I
     - 6 letter words
       - run voor alle letters
     - 7 letter words
@@ -36,8 +36,7 @@ results
       - run voor alle letters
   - Merge
     - 5 letter words
-	  - run voor A-B, D-H, J-W, Z voor A-H
-	  - run algoritme I
+	  - run voor A-B, D-H, J-W voor A-I
     - 6 letter words
       - run voor alle letters
     - 7 letter words
