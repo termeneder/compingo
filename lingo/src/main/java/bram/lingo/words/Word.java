@@ -69,6 +69,15 @@ public class Word {
 		return toLetters()[i];
 	}
 	
+	public boolean containsLetter(Letter letter) {
+		for (Letter letterInWord : toLetters()) {
+			if (letterInWord == letter) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
 	private static Letter[] wordToLetters(String word, int length) {
 		Letter[] letters = new Letter[length];
 		int index = 0;
@@ -112,6 +121,9 @@ public class Word {
 		}
 		return letters;
 	}
+
+
+
 
 
 

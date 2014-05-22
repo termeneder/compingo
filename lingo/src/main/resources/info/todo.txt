@@ -9,6 +9,10 @@ standardwordfinder
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file 
+vincent
+  - make vincents algorithm an implementation of StandardWordSetFinder
+jochem
+  - make jochems algorithms an implementation of StandardWordSetFinder
 results
   - OT
     - 5 letter words
