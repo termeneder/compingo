@@ -1,0 +1,11 @@
+j (121):
+	A3) Optimise correct letters, 1 word: jonken (2.4958677685950414)
+	A3) Optimise correct letters, 2 words: jakken,jongde (3.272727272727273)
+	A3) Optimise correct letters, 3 words: jaeger,jokten,junkie || jaeger,jonkie,jukten || jargon,jonkie,jutter (3.8264462809917354)
+	B3) Optimise amount of letters, 1 word: jokten (3.165289256198347)
+	B3) Optimise amount of letters, 2 words: jargon,jeukte (4.355371900826446)
+	B3) Optimise amount of letters, 3 words: jengel,judoka,jurist (5.0)
+	I1) Vincents algorithm, 1 word: jokten (1.0)
+	I1) Vincents algorithm, 2 words: jokten,jaguar (1.0)
+	I1) Vincents algorithm, 3 words: jokten,jaguar,jutmis (1.0)
+

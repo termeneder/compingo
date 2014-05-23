@@ -1,0 +1,11 @@
+p (600):
+	A3) Optimise correct letters, 1 word: parten (2.135)
+	A3) Optimise correct letters, 2 words: parten,ponste (2.828333333333333)
+	A3) Optimise correct letters, 3 words: parket,ponton,preste (3.3433333333333333)
+	B3) Optimise amount of letters, 1 word: panter || parten || praten (3.2133333333333334)
+	B3) Optimise amount of letters, 2 words: paleer,piston || paneel,prosit || pastor,peilen || pastor,pielen || penale,prosit || pesten,polair || petsen,polair || piesen,portal (4.576666666666667)
+	B3) Optimise amount of letters, 3 words: palrad,peuken,pispot || palrad,poepen,puikst (5.1866666666666665)
+	I1) Vincents algorithm, 1 word: panter (1.0)
+	I1) Vincents algorithm, 2 words: panter,poules (1.0)
+	I1) Vincents algorithm, 3 words: panter,poules,predik (1.0)
+

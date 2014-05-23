@@ -1,0 +1,213 @@
+OPEN TAAL
+
+5 letter words
+ - Run/Rerun
+   - D: A-B, D-H, J-W
+   - G: A-B, D-H, J-W
+   - H: A-B, D-H, J-W
+   - I: A-B, D-H, J-W
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - C, I, X-IJ
+   - Algorithms
+      - A,B,C,E,F
+6 letter words
+ - Run/Rerun
+   - A: B, G-IJ
+   - B: B, G-IJ
+   - C: B, G-IJ
+   - D: B, G-IJ
+   - E: B, G-IJ
+   - F: B, G-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none
+7 letter words
+ - Run/Rerun
+   - I: A-IJ
+ - Improve precision
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - A,B,C,D,E,F,G,H
+8 letter words
+ - Run/Rerun
+   - A: A-IJ
+   - B: A-IJ
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none
+ 
+ 
+TUE
+5 letter words
+ - Run/Rerun
+   - A: A-B,D-H,J-W
+   - B: A-B,D-H,J-W
+   - C: A-B,D-H,J-W
+   - D: A-B,D-H,J-W
+   - E: A-B,D-H,J-W
+   - F: A-B,D-H,J-W
+   - G: A-B,D-H,J-W
+   - H: A-B,D-H,J-W
+   - I: A-B,D-H,J-W
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - C,I,X,Y,Z,IJ
+   - Algorithms
+      - none
+6 letter words
+ - Run/Rerun
+   - A: A-IJ
+   - B: A-IJ
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none
+7 letter words
+ - Run/Rerun
+   - A: A-IJ
+   - B: A-IJ
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none
+8 letter words
+ - Run/Rerun
+   - A: A-IJ
+   - B: A-IJ
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none
+      
+OTTUE
+5 letter words
+ - Run/Rerun
+   - C: B, D-H, J-W
+   - D: B, D-H, J-W
+   - E: B, D-H, J-W
+   - F: B, D-H, J-W
+   - G: B, D-H, J-W
+   - H: B, D-H, J-W
+ - Improve precision
+   - C: A
+   - E: A
+   - F: A
+   - G: A
+   - H: A
+ - Completed
+   - Letters
+      - C,I,X,Y,Z,IJ
+   - Algorithms
+      - A,B,I
+6 letter words
+ - Run/Rerun
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - A,B,I
+7 letter words
+ - Run/Rerun
+   - A: A-IJ
+   - B: A-IJ
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none
+8 letter words
+ - Run/Rerun
+   - A: A-IJ
+   - B: A-IJ
+   - C: A-IJ
+   - D: A-IJ
+   - E: A-IJ
+   - F: A-IJ
+   - G: A-IJ
+   - H: A-IJ
+   - I: A-IJ
+ - Improve precision
+   - none
+ - Completed
+   - Letters
+      - none
+   - Algorithms
+      - none            

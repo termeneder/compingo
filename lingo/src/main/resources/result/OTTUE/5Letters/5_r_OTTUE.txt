@@ -1,0 +1,11 @@
+r (268):
+	A3) Optimise correct letters, 1 word: ramee (1.8656716417910448)
+	A3) Optimise correct letters, 2 words: radde,renet (2.5261194029850746)
+	A3) Optimise correct letters, 3 words: radde,renen,rotst || raden,rende,rotst || radst,rende,roten || radst,reten,ronde || ratst,reden,ronde || ratst,rende,roden (3.082089552238806)
+	B3) Optimise amount of letters, 1 word: raten (2.6156716417910446)
+	B3) Optimise amount of letters, 2 words: radon,reist || radon,riste || radon,rites || raids,roten (3.4813432835820897)
+	B3) Optimise amount of letters, 3 words: radio,reuen,rijkst (4.052238805970149)
+	I1) Vincents algorithm, 1 word: raten (1.0)
+	I1) Vincents algorithm, 2 words: raten,radio (1.0)
+	I1) Vincents algorithm, 3 words: raten,radio,rulijs (1.0)
+

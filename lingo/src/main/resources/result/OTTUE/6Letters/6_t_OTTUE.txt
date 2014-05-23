@@ -1,0 +1,11 @@
+t (496):
+	A3) Optimise correct letters, 1 word: toeten (2.185483870967742)
+	A3) Optimise correct letters, 2 words: tarnde,toeten (2.784274193548387)
+	A3) Optimise correct letters, 3 words: tarnde,tenten,toepas (3.306451612903226)
+	B3) Optimise amount of letters, 1 word: torent (3.2096774193548385)
+	B3) Optimise amount of letters, 2 words: talons,tuiert (4.397177419354839)
+	B3) Optimise amount of letters, 3 words: talmud,ternes,topfit || taluds,termen,topfit || taluds,topfit,tremen (5.07258064516129)
+	I1) Vincents algorithm, 1 word: tronie (1.0)
+	I1) Vincents algorithm, 2 words: tronie,taluds (1.0)
+	I1) Vincents algorithm, 3 words: tronie,taluds,tombak (1.0)
+

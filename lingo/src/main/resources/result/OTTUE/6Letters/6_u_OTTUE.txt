@@ -1,0 +1,11 @@
+u (101):
+	A3) Optimise correct letters, 1 word: uiteet || uitzat || uitzet (2.871287128712871)
+	A3) Optimise correct letters, 2 words: uitzat,ureter (3.3168316831683167)
+	A3) Optimise correct letters, 3 words: uitzat,uremie,usueel (3.6930693069306932)
+	B3) Optimise amount of letters, 1 word: uitlek (3.4554455445544554)
+	B3) Optimise amount of letters, 2 words: uitlik,urbane (4.366336633663367)
+	B3) Optimise amount of letters, 3 words: uitrit,unieks,upload (4.97029702970297)
+	I1) Vincents algorithm, 1 word: uitlek (1.0)
+	I1) Vincents algorithm, 2 words: uitlek,urbaan (1.0)
+	I1) Vincents algorithm, 3 words: uitlek,urbaan,uitsop (1.0)
+

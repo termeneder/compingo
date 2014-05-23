@@ -1,0 +1,11 @@
+a (680):
+	A3) Optimise correct letters, 1 word: afreet (2.239705882352941)
+	A3) Optimise correct letters, 2 words: aaneen,aflaat (2.8117647058823527)
+	A3) Optimise correct letters, 3 words: aaneen,aflaat,alsook || aaneen,aflaat,altoos (3.2558823529411764)
+	B3) Optimise amount of letters, 1 word: afrent (2.9073529411764705)
+	B3) Optimise amount of letters, 2 words: afrost,alinea (4.219117647058823)
+	B3) Optimise amount of letters, 3 words: aanleg,afsopt,armdik || aanleg,afstop,armdik || aanpik,afmeld,argots || afkomt,agenda,aprils || aflost,agapen,armdik || afsolt,agapen,armdik (4.975)
+	I1) Vincents algorithm, 1 word: afrent (1.0)
+	I1) Vincents algorithm, 2 words: afrent,aswolk (1.0)
+	I1) Vincents algorithm, 3 words: afrent,aswolk,ambigu (1.0)
+

@@ -1,0 +1,11 @@
+r (496):
+	A3) Optimise correct letters, 1 word: roeten (2.1653225806451615)
+	A3) Optimise correct letters, 2 words: rentte,roeden (2.8346774193548385)
+	A3) Optimise correct letters, 3 words: ratels,rentte,roeden (3.3830645161290325)
+	B3) Optimise amount of letters, 1 word: retina || riante (3.096774193548387)
+	B3) Optimise amount of letters, 2 words: radius,roeten || reiden,rostra || rieden,rostra (4.342741935483871)
+	B3) Optimise amount of letters, 3 words: roerde,ruling,rijtaks (5.094758064516129)
+	I1) Vincents algorithm, 1 word: riante (1.0)
+	I1) Vincents algorithm, 2 words: riante,rombus (1.0)
+	I1) Vincents algorithm, 3 words: riante,rombus,roldak (1.0)
+

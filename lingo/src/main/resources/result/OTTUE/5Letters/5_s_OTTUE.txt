@@ -1,0 +1,11 @@
+s (480):
+	A3) Optimise correct letters, 1 word: stoet (1.8520833333333333)
+	A3) Optimise correct letters, 2 words: spaak,stoet (2.3208333333333333)
+	A3) Optimise correct letters, 3 words: slaak,speet,store || slaat,speek,store || slaat,spore,steek || sleet,spaak,store || sleet,spore,staak (2.777083333333333)
+	B3) Optimise amount of letters, 1 word: stoel (2.3916666666666666)
+	B3) Optimise amount of letters, 2 words: salet,spion || siena,stolp || slapt,snoei (3.339583333333333)
+	B3) Optimise amount of letters, 3 words: salie,snurk,stomp || salmi,sepot,snurk || salmi,snoek,spurt || salmi,snokt,speur || salmi,snokt,super || salmi,snurk,sopte || salmi,snurk,stoep || salmi,speur,stonk || salmi,stonk,super || salon,smukt,spier || salon,smukt,sprei || samen,slorp,stuik || samen,sluik,sport || samen,sluik,sprot || samen,sluik,strop || sarin,sloep,smukt || sarin,smukt,spoel || seint,slorp,sumak || sepia,smolt,snurk || sepia,smult,snork || siena,slorp,smukt || siena,slurp,smokt || sitar,slump,snoek || skiet,slump,sonar || slank,smout,spier || slank,smout,sprei || slemp,sonar,stuik || sleur,smakt,spion || sliep,smukt,sonar || sliep,snort,sumak || sliep,snurk,stoma || slink,speur,stoma || slink,stoma,super || slipt,snoer,sumak || slome,snuit,sprak || sluik,smart,snoep || sluik,snerp,stoma || sluik,snoep,stram || sluik,snoer,stamp || sluip,smakt,snoer || sluip,smart,snoek || sluip,snerk,stoma || sluip,snoek,stram || slump,snikt,soera || slump,snoei,strak || slump,soera,stink || slurp,smakt,snoei || smeul,spion,strak || smoel,snuit,sprak || smult,snoei,sprak || smult,sonar,spiek || smult,sonar,spike || snoer,spilt,sumak || snoer,split,sumak || solen,strip,sumak (3.9854166666666666)
+	I1) Vincents algorithm, 1 word: salet (1.0)
+	I1) Vincents algorithm, 2 words: salet,spion (1.0)
+	I1) Vincents algorithm, 3 words: salet,spion,scrum (1.0)
+

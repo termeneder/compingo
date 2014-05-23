@@ -1,0 +1,11 @@
+e (185):
+	A3) Optimise correct letters, 1 word: erheen (1.9081081081081082)
+	A3) Optimise correct letters, 2 words: entten,ergere (2.5243243243243243)
+	A3) Optimise correct letters, 3 words: eilaas,entten,ergere (3.081081081081081)
+	B3) Optimise amount of letters, 1 word: enters || ertsen (3.1945945945945944)
+	B3) Optimise amount of letters, 2 words: eerste,eiland (4.302702702702702)
+	B3) Optimise amount of letters, 3 words: eigene,esdorp,etmaal (4.924324324324324)
+	I1) Vincents algorithm, 1 word: esprit (1.0)
+	I1) Vincents algorithm, 2 words: esprit,eiland (1.0)
+	I1) Vincents algorithm, 3 words: esprit,eiland,ecloge (1.0)
+

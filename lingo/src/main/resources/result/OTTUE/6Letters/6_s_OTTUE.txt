@@ -1,0 +1,11 @@
+s (900):
+	A3) Optimise correct letters, 1 word: staket (1.968888888888889)
+	A3) Optimise correct letters, 2 words: scheet,statie (2.6033333333333335)
+	A3) Optimise correct letters, 3 words: scoren,spatie,steekt (3.1755555555555555)
+	B3) Optimise amount of letters, 1 word: snater || staren (3.0455555555555556)
+	B3) Optimise amount of letters, 2 words: solair,speent || solair,speten (4.236666666666666)
+	B3) Optimise amount of letters, 3 words: salons,scheep,struik || salons,schuit,spreek || salons,schuit,spreke || salons,speech,struik || saneer,schopt,sluiks || schalk,soepen,struis || schans,soepel,struik || schart,sluiks,soepen || schuil,soepen,straks || schuin,soepel,straks || scouts,skihal,speren || secure,skihal,sponst (5.033333333333333)
+	I1) Vincents algorithm, 1 word: snater (1.0)
+	I1) Vincents algorithm, 2 words: snater,scholp (1.0)
+	I1) Vincents algorithm, 3 words: snater,scholp,skibus (1.0)
+

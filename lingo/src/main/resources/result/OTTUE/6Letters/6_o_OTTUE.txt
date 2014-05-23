@@ -1,0 +1,11 @@
+o (537):
+	A3) Optimise correct letters, 1 word: opreet (2.094972067039106)
+	A3) Optimise correct letters, 2 words: omgaan,opreet (2.74487895716946)
+	A3) Optimise correct letters, 3 words: omlaag,onteer,opgoot (3.3277467411545625)
+	B3) Optimise amount of letters, 1 word: onpare (2.798882681564246)
+	B3) Optimise amount of letters, 2 words: omroep,ontsla (4.1191806331471135)
+	B3) Optimise amount of letters, 3 words: omruil,oogden,opstak || ontpak,ooglid,oremus || ooglid,opsmuk,orante (4.973929236499069)
+	I1) Vincents algorithm, 1 word: onpare (1.0)
+	I1) Vincents algorithm, 2 words: onpare,omlijst (1.0)
+	I1) Vincents algorithm, 3 words: onpare,omlijst,opduik (1.0)
+

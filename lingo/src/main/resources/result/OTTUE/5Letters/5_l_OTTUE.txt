@@ -1,0 +1,11 @@
+l (239):
+	A3) Optimise correct letters, 1 word: logee (1.895397489539749)
+	A3) Optimise correct letters, 2 words: lamet,lende (2.6066945606694563)
+	A3) Optimise correct letters, 3 words: landt,lemen,lokte (3.1422594142259412)
+	B3) Optimise amount of letters, 1 word: laten (2.6234309623430963)
+	B3) Optimise amount of letters, 2 words: liane,lotus || linea,lotus (3.426778242677824)
+	B3) Optimise amount of letters, 3 words: largo,leden,luist || largo,lende,luist (4.058577405857741)
+	I1) Vincents algorithm, 1 word: laten (1.0)
+	I1) Vincents algorithm, 2 words: laten,lords (1.0)
+	I1) Vincents algorithm, 3 words: laten,lords,luikt (1.0)
+

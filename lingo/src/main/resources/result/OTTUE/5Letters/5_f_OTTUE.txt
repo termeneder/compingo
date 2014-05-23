@@ -1,0 +1,11 @@
+f (145):
+	A3) Optimise correct letters, 1 word: facet (1.6620689655172414)
+	A3) Optimise correct letters, 2 words: facet,flats (2.2620689655172415)
+	A3) Optimise correct letters, 3 words: facet,flats,forse (2.806896551724138)
+	B3) Optimise amount of letters, 1 word: friet (2.5448275862068965)
+	B3) Optimise amount of letters, 2 words: fiets,flora || folie,frats (3.793103448275862)
+	B3) Optimise amount of letters, 3 words: faken,flits,forum || falen,fikst,forum || farms,flink,foute || fasen,flikt,forum || fatum,flink,forse || feeks,flair,futon || feest,flora,fnuik || felst,fnuik,forma || fiets,flank,forum || films,foute,frank || films,freak,futon || flets,fnuik,forma || fluim,fonts,freak (4.379310344827586)
+	I1) Vincents algorithm, 1 word: faire (1.0)
+	I1) Vincents algorithm, 2 words: faire,fonts (1.0)
+	I1) Vincents algorithm, 3 words: faire,fonts,fylum (1.0)
+

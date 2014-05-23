@@ -1,0 +1,11 @@
+p (282):
+	A3) Optimise correct letters, 1 word: paret (1.74822695035461)
+	A3) Optimise correct letters, 2 words: paret,potte (2.3049645390070923)
+	A3) Optimise correct letters, 3 words: paait,potte,prees (2.7907801418439715)
+	B3) Optimise amount of letters, 1 word: paret || pater (2.549645390070922)
+	B3) Optimise amount of letters, 2 words: palen,porti || palet,prion || panel,porti || piert,plano || plane,porti || plant,porie (3.620567375886525)
+	B3) Optimise amount of letters, 3 words: pairs,plukt,popen || pairs,popen,pulkt || palts,popen,pruik || papen,pikol,pruts || papen,plots,pruik || papen,polst,pruik || paper,pikol,punts || paper,pions,plukt || paper,pions,pulkt || papil,poert,punks || papil,poken,pruts || papil,poker,punts || papil,poter,punks || papil,pronk,puste || papil,pronk,putse || papte,pions,plurk || papte,plons,pruik || papte,pluis,pronk || paste,pronk,pupil || paukt,popel,prins || piepa,plurk,ponst || piepa,pronk,pulst || pinas,plurk,poept || pipst,polak,prune || pipst,polak,puren || pipst,polka,prune || pipst,polka,puren || plans,poept,pruik || plans,propt,puike || plant,popes,pruik || plast,popen,pruik || pluis,popen,prakt || posen,prakt,pupil (4.2304964539007095)
+	I1) Vincents algorithm, 1 word: paret (1.0)
+	I1) Vincents algorithm, 2 words: paret,plons (1.0)
+	I1) Vincents algorithm, 3 words: paret,plons,puike (1.0)
+

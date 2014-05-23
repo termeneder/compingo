@@ -1,0 +1,11 @@
+i (257):
+	A3) Optimise correct letters, 1 word: inzoet (2.603112840466926)
+	A3) Optimise correct letters, 2 words: import,inkeek (3.0894941634241246)
+	A3) Optimise correct letters, 3 words: import,indaag,inkeek (3.5330739299610894)
+	B3) Optimise amount of letters, 1 word: intake (3.178988326848249)
+	B3) Optimise amount of letters, 2 words: idiote,inklap || idiote,inplak (4.186770428015564)
+	B3) Optimise amount of letters, 3 words: idiote,impuls,inbrak (4.941634241245136)
+	I1) Vincents algorithm, 1 word: intake (1.0)
+	I1) Vincents algorithm, 2 words: intake,impuls (1.0)
+	I1) Vincents algorithm, 3 words: intake,impuls,ingoed (1.0)
+

@@ -1,0 +1,11 @@
+e (108):
+	A3) Optimise correct letters, 1 word: eigen (1.9074074074074074)
+	A3) Optimise correct letters, 2 words: eigen,entte || eigen,ertoe || eisen,engte (2.3703703703703702)
+	A3) Optimise correct letters, 3 words: eiser,entte,ergon || eiste,enter,ergon (2.75)
+	B3) Optimise amount of letters, 1 word: enter (2.7222222222222223)
+	B3) Optimise amount of letters, 2 words: eicel,ernst (3.5555555555555554)
+	B3) Optimise amount of letters, 3 words: edict,egels,ervan || elfde,engst,erica (4.046296296296297)
+	I1) Vincents algorithm, 1 word: ernst (1.0)
+	I1) Vincents algorithm, 2 words: ernst,email (1.0)
+	I1) Vincents algorithm, 3 words: ernst,email,edoch (1.0)
+

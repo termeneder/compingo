@@ -1,0 +1,11 @@
+ij (57):
+	A3) Optimise correct letters, 1 word: ijsbeen (2.3684210526315788)
+	A3) Optimise correct letters, 2 words: ijsbank,ijzelen || ijsbank,ijzeren || ijsbond,ijzelen || ijsbond,ijzeren (3.0350877192982457)
+	A3) Optimise correct letters, 3 words: ijkmaat,ijsbond,ijzelen || ijkmaat,ijsbond,ijzeren (3.6842105263157894)
+	B3) Optimise amount of letters, 1 word: ijskern (3.087719298245614)
+	B3) Optimise amount of letters, 2 words: ijdeler,ijstang (4.2631578947368425)
+	B3) Optimise amount of letters, 3 words: ijsbank,ijsgrot,ijzelde (5.0)
+	I1) Vincents algorithm, 1 word: ijskern (1.0)
+	I1) Vincents algorithm, 2 words: ijskern,ijlgoed (1.0)
+	I1) Vincents algorithm, 3 words: ijskern,ijlgoed,ijkmaat (1.0)
+

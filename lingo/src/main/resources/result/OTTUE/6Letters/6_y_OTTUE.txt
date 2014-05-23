@@ -1,0 +1,11 @@
+y (5):
+	A3) Optimise correct letters, 1 word: yuppen (3.6)
+	A3) Optimise correct letters, 2 words: yammen,yuppie (5.0)
+	A3) Optimise correct letters, 3 words: yammen,yellen,yuppie || yankee,yellen,yuppie (5.6)
+	B3) Optimise amount of letters, 1 word: yuppen (4.0)
+	B3) Optimise amount of letters, 2 words: yankee,yuppie (5.2)
+	B3) Optimise amount of letters, 3 words: yammen,yellen,yuppie (5.8)
+	I1) Vincents algorithm, 1 word: yuppen (1.0)
+	I1) Vincents algorithm, 2 words: yuppen,yammen (1.0)
+	I1) Vincents algorithm, 3 words: yuppen,yammen,yellen (1.0)
+

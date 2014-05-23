@@ -1,0 +1,11 @@
+v (203):
+	A3) Optimise correct letters, 1 word: vleet (1.793103448275862)
+	A3) Optimise correct letters, 2 words: velde,vleet (2.399014778325123)
+	A3) Optimise correct letters, 3 words: velde,vleet,voorn (2.876847290640394)
+	B3) Optimise amount of letters, 1 word: voelt || volte (2.6108374384236455)
+	B3) Optimise amount of letters, 2 words: vista,vloer || volta,vries (3.5911330049261085)
+	B3) Optimise amount of letters, 3 words: valst,voege,vrind || vlast,voege,vrind (4.241379310344827)
+	I1) Vincents algorithm, 1 word: voelt (1.0)
+	I1) Vincents algorithm, 2 words: voelt,vrank (1.0)
+	I1) Vincents algorithm, 3 words: voelt,vrank,visum (1.0)
+

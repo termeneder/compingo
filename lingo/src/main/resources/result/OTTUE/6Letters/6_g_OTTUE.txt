@@ -1,0 +1,11 @@
+g (884):
+	A3) Optimise correct letters, 1 word: geboet (2.335972850678733)
+	A3) Optimise correct letters, 2 words: galoet,gerand (2.934389140271493)
+	A3) Optimise correct letters, 3 words: galoet,geaaid,groene (3.3993212669683257)
+	B3) Optimise amount of letters, 1 word: gerant || graten (3.1278280542986425)
+	B3) Optimise amount of letters, 2 words: gerant,gildos || gesold,girant || gesold,gratin || gildos,graten || gloeit,grands || golden,gratis || gondel,gratis (4.417420814479638)
+	B3) Optimise amount of letters, 3 words: galops,gebeuk,grindt (5.131221719457014)
+	I1) Vincents algorithm, 1 word: gerant (1.0)
+	I1) Vincents algorithm, 2 words: gerant,gildos (1.0)
+	I1) Vincents algorithm, 3 words: gerant,gildos,gekuip (1.0)
+

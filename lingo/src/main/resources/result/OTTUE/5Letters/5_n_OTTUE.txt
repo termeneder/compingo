@@ -1,0 +1,11 @@
+n (128):
+	A3) Optimise correct letters, 1 word: nazet (1.9375)
+	A3) Optimise correct letters, 2 words: nazet,nette || nazet,notie (2.6015625)
+	A3) Optimise correct letters, 3 words: naden,netst,nopte || natie,nepen,norst || natst,nepte,noden || natst,nepte,noren || natst,neren,nopte || natte,nepen,norst || nazit,nepte,noten || nazit,neten,nopte || nazit,nette,nopen (3.15625)
+	B3) Optimise amount of letters, 1 word: natie (2.609375)
+	B3) Optimise amount of letters, 2 words: neten,noria (3.3515625)
+	B3) Optimise amount of letters, 3 words: naast,neren,nodig (3.859375)
+	I1) Vincents algorithm, 1 word: natie (1.0)
+	I1) Vincents algorithm, 2 words: natie,norst (1.0)
+	I1) Vincents algorithm, 3 words: natie,norst,nijdig (1.0)
+

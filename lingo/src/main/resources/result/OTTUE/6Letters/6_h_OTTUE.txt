@@ -1,0 +1,11 @@
+h (414):
+	A3) Optimise correct letters, 1 word: horden (2.36231884057971)
+	A3) Optimise correct letters, 2 words: handde,horten (3.0652173913043477)
+	A3) Optimise correct letters, 3 words: hartje,heldin,hoeker (3.63768115942029)
+	B3) Optimise amount of letters, 1 word: hoeren (3.152173913043478)
+	B3) Optimise amount of letters, 2 words: harden,holist (4.355072463768116)
+	B3) Optimise amount of letters, 3 words: heerst,hopman,huldig (5.140096618357488)
+	I1) Vincents algorithm, 1 word: hernia (1.0)
+	I1) Vincents algorithm, 2 words: hernia,hostel (1.0)
+	I1) Vincents algorithm, 3 words: hernia,hostel,huldig (1.0)
+

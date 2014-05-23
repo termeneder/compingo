@@ -1,0 +1,11 @@
+l (464):
+	A3) Optimise correct letters, 1 word: lonten (2.1336206896551726)
+	A3) Optimise correct letters, 2 words: landde,loeten (2.8168103448275863)
+	A3) Optimise correct letters, 3 words: lasten,leners,loeide (3.4008620689655173)
+	B3) Optimise amount of letters, 1 word: listen (3.038793103448276)
+	B3) Optimise amount of letters, 2 words: langst,loeier || lastig,loeren || lating,loeres || latino,legers (4.310344827586207)
+	B3) Optimise amount of letters, 3 words: lading,lepelt,losruk (5.008620689655173)
+	I1) Vincents algorithm, 1 word: lasten (1.0)
+	I1) Vincents algorithm, 2 words: lasten,luidop (1.0)
+	I1) Vincents algorithm, 3 words: lasten,luidop,lekvrij (1.0)
+

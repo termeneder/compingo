@@ -1,0 +1,11 @@
+t (277):
+	A3) Optimise correct letters, 1 word: tanen (1.6714801444043321)
+	A3) Optimise correct letters, 2 words: taant,trees (2.2274368231046933)
+	A3) Optimise correct letters, 3 words: tante,toast,trees (2.7509025270758123)
+	B3) Optimise amount of letters, 1 word: tater || tetra (2.5812274368231045)
+	B3) Optimise amount of letters, 2 words: tarot,tiens || tinas,toert || tiran,toets || tiran,toste || tiras,toten || toast,trein || toast,trien || toean,trits || toets,train || toste,train || toten,trias (3.5848375451263537)
+	B3) Optimise amount of letters, 3 words: talon,teute,trips || tapir,teelt,tonus || teler,topas,tuint || tenue,topas,trilt || tepel,titan,torus (4.1046931407942235)
+	I1) Vincents algorithm, 1 word: toean (1.0)
+	I1) Vincents algorithm, 2 words: toean,trips (1.0)
+	I1) Vincents algorithm, 3 words: toean,trips,talud (1.0)
+

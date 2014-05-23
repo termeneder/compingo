@@ -1,0 +1,11 @@
+v (519):
+	A3) Optimise correct letters, 1 word: verten (2.2909441233140657)
+	A3) Optimise correct letters, 2 words: vergat,vollen (2.9210019267822736)
+	A3) Optimise correct letters, 3 words: vergat,vilein,voeter (3.470134874759152)
+	B3) Optimise amount of letters, 1 word: vertil (3.2620423892100194)
+	B3) Optimise amount of letters, 2 words: versie,volant || vieren,volsta || viseer,volant (4.5626204238921)
+	B3) Optimise amount of letters, 3 words: vadsig,vleten,vrijkom || valtijd,vereng,viskom || valtijd,vergen,viskom || vangst,veilde,vrijkom || vangst,vleide,vrijkom || velden,visgat,vrijkom || vendel,visgat,vrijkom || venkel,visgat,vrijdom || visdag,vleten,vrijkom || viskom,vleten,vrijdag (5.223506743737958)
+	I1) Vincents algorithm, 1 word: vloert (1.0)
+	I1) Vincents algorithm, 2 words: vloert,visman (1.0)
+	I1) Vincents algorithm, 3 words: vloert,visman,vreugd (1.0)
+

@@ -1,0 +1,11 @@
+b (943):
+	A3) Optimise correct letters, 1 word: beleen (2.11983032873807)
+	A3) Optimise correct letters, 2 words: beleen,boraat (2.704135737009544)
+	A3) Optimise correct letters, 3 words: bantoe,beleen,boraat (3.1951219512195124)
+	B3) Optimise amount of letters, 1 word: bonter (3.0689289501590666)
+	B3) Optimise amount of letters, 2 words: balkon,beiert (4.31813361611877)
+	B3) Optimise amount of letters, 3 words: baktijd,bergen,bosuil || bandijk,beugel,bistro || bandijk,beugel,bosrit || bandijk,boerse,bultig || bangst,beolie,bijdruk || beiert,buldog,bijkans || belegt,bonsai,bijdruk || belten,biogas,bijdruk || bereis,buldog,bijtank || beulde,boring,bijstak || beurel,bondig,bijstak || bieren,buldog,bijstak || biogas,bleten,bijdruk || bleuer,bondig,bijstak || boerde,bultig,bijkans || bondig,bureel,bijstak || breien,buldog,bijstak (5.152704135737009)
+	I1) Vincents algorithm, 1 word: bantoe (1.0)
+	I1) Vincents algorithm, 2 words: bantoe,brilde (1.0)
+	I1) Vincents algorithm, 3 words: bantoe,brilde,bruusk (1.0)
+

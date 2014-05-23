@@ -25,6 +25,13 @@ public class WordSet implements Iterable<Word> {
 	}
 	
 	
+	public WordSet(String ... wordList) {
+		this();
+		for (String word : wordList) {
+			addWord(word);
+		}
+	}
+
 	public void addWord(Word word) {
 		c_wordList.add(word);
 	}

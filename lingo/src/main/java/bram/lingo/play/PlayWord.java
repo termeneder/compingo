@@ -16,14 +16,16 @@ public class PlayWord {
 	private final WordSet c_validWordSet;
 	private LingoComparator c_comparator;
 	private Letter[] c_correctLetters;
+	private Input c_input;
 	
-	public PlayWord(Word word, WordSet validWordSet) {
+	public PlayWord(Word word, WordSet validWordSet, Input input) {
 		c_word = word;
 		c_wordLength = word.length();
 		c_validWordSet = validWordSet;
 		c_comparator = new LingoComparator(word);
 		c_correctLetters = new Letter[c_wordLength];
 		c_correctLetters[0] = word.getLetter(0);
+		c_input = input;
 	}
 	
 	public boolean play() {
@@ -45,7 +47,7 @@ public class PlayWord {
 
 	private boolean guess() {
 		printCurrentState();
-		String input = Input.getLine();
+		String input = c_input.getLine();
 		Word inputWord = new Word(input);
 		if (isValidInput(inputWord)) {
 			LingoCompareValue[] compareValues = c_comparator.compare(inputWord);

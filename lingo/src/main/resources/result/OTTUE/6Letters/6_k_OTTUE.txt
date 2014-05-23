@@ -1,0 +1,11 @@
+k (732):
+	A3) Optimise correct letters, 1 word: koeten (2.139344262295082)
+	A3) Optimise correct letters, 2 words: kaakte,koeten (2.8948087431693987)
+	A3) Optimise correct letters, 3 words: kaakte,kleedt,korten (3.387978142076503)
+	B3) Optimise amount of letters, 1 word: kanter || karten || katern (3.260928961748634)
+	B3) Optimise amount of letters, 2 words: kaneel,korist || kation,kerels || knarst,koelie || koelie,kranst (4.55327868852459)
+	B3) Optimise amount of letters, 3 words: kelken,kompas,kruidt || keurde,klinkt,kompas || kiende,klampt,krokus || klimop,kneedt,krukas || knekel,kompas,kruidt (5.2076502732240435)
+	I1) Vincents algorithm, 1 word: karten (1.0)
+	I1) Vincents algorithm, 2 words: karten,klimop (1.0)
+	I1) Vincents algorithm, 3 words: karten,klimop,koudst (1.0)
+

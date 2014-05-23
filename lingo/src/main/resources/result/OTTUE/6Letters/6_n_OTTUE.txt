@@ -1,0 +1,11 @@
+n (272):
+	A3) Optimise correct letters, 1 word: natten (2.275735294117647)
+	A3) Optimise correct letters, 2 words: narede,netten (2.9338235294117645)
+	A3) Optimise correct letters, 3 words: narede,nekton,noties (3.4301470588235294)
+	B3) Optimise amount of letters, 1 word: naties (3.0294117647058822)
+	B3) Optimise amount of letters, 2 words: natron,nieges (4.283088235294118)
+	B3) Optimise amount of letters, 3 words: naslag,neuten,nimrod (4.966911764705882)
+	I1) Vincents algorithm, 1 word: naties (1.0)
+	I1) Vincents algorithm, 2 words: naties,numero (1.0)
+	I1) Vincents algorithm, 3 words: naties,numero,napluk (1.0)
+

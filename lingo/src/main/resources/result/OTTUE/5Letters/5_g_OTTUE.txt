@@ -1,0 +1,11 @@
+g (304):
+	A3) Optimise correct letters, 1 word: gelet (2.0789473684210527)
+	A3) Optimise correct letters, 2 words: gelee,graat (2.5657894736842106)
+	A3) Optimise correct letters, 3 words: garoe,gelat,grien (2.960526315789474)
+	B3) Optimise amount of letters, 1 word: gerat (2.6282894736842106)
+	B3) Optimise amount of letters, 2 words: gaine,grolt || galen,griot || galon,gerit || galon,giert || galon,griet (3.539473684210526)
+	B3) Optimise amount of letters, 3 words: gleed,grist,guano (4.157894736842105)
+	I1) Vincents algorithm, 1 word: gerat (1.0)
+	I1) Vincents algorithm, 2 words: gerat,godin (1.0)
+	I1) Vincents algorithm, 3 words: gerat,godin,gulst (1.0)
+

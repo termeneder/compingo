@@ -1,0 +1,11 @@
+w (177):
+	A3) Optimise correct letters, 1 word: wendt (1.8361581920903955)
+	A3) Optimise correct letters, 2 words: walen,wendt || wanen,weekt (2.638418079096045)
+	A3) Optimise correct letters, 3 words: walde,wenen,wiekt || walen,weekt,winde || walen,wende,wiekt || wande,welen,wiekt || wanen,weekt,wilde || wanen,welde,wiekt || wanen,welke,wiedt (3.2711864406779663)
+	B3) Optimise amount of letters, 1 word: water (2.6666666666666665)
+	B3) Optimise amount of letters, 2 words: wants,weder || wants,wrede || wants,wreed (3.5762711864406778)
+	B3) Optimise amount of letters, 3 words: wakst,welde,wring (4.2259887005649714)
+	I1) Vincents algorithm, 1 word: water (1.0)
+	I1) Vincents algorithm, 2 words: water,winde (1.0)
+	I1) Vincents algorithm, 3 words: water,winde,wulps (1.0)
+

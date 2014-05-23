@@ -1,0 +1,11 @@
+q (14):
+	A3) Optimise correct letters, 1 word: quitte (3.0714285714285716)
+	A3) Optimise correct letters, 2 words: quarks,quitte || quitte,quorum (3.857142857142857)
+	A3) Optimise correct letters, 3 words: quaker,quitte,quorum || quarks,quinto,quotum (4.571428571428571)
+	B3) Optimise amount of letters, 1 word: quarto (3.642857142857143)
+	B3) Optimise amount of letters, 2 words: quaker,quinto (4.785714285714286)
+	B3) Optimise amount of letters, 3 words: quarks,quiche,quotum (5.428571428571429)
+	I1) Vincents algorithm, 1 word: quarto (1.0)
+	I1) Vincents algorithm, 2 words: quarto,quiche (1.0)
+	I1) Vincents algorithm, 3 words: quarto,quiche,quarks (1.0)
+

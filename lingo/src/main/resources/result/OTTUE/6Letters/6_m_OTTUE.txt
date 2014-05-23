@@ -1,0 +1,11 @@
+m (499):
+	A3) Optimise correct letters, 1 word: manken (2.1362725450901805)
+	A3) Optimise correct letters, 2 words: marien,mentie (2.8977955911823647)
+	A3) Optimise correct letters, 3 words: marsen,mentie,moeial (3.50501002004008)
+	B3) Optimise amount of letters, 1 word: manier || marien || marine (3.220440881763527)
+	B3) Optimise amount of letters, 2 words: mesten,molair || metsen,molair (4.575150300601202)
+	B3) Optimise amount of letters, 3 words: marmot,mengde,misluk (5.224448897795591)
+	I1) Vincents algorithm, 1 word: marine (1.0)
+	I1) Vincents algorithm, 2 words: marine,molest (1.0)
+	I1) Vincents algorithm, 3 words: marine,molest,muziek (1.0)
+

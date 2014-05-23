@@ -1,0 +1,11 @@
+z (338):
+	A3) Optimise correct letters, 1 word: zoeten (2.1775147928994083)
+	A3) Optimise correct letters, 2 words: zengde,zoeten (2.8727810650887573)
+	A3) Optimise correct letters, 3 words: zengde,zoeten,zwiert (3.440828402366864)
+	B3) Optimise amount of letters, 1 word: zeenat (3.133136094674556)
+	B3) Optimise amount of letters, 2 words: zaligt,zoener || zaling,zeerot || zaling,zoeter (4.340236686390533)
+	B3) Optimise amount of letters, 3 words: zeegod,zinlijk,zwarts (5.165680473372781)
+	I1) Vincents algorithm, 1 word: zakten (1.0)
+	I1) Vincents algorithm, 2 words: zakten,zondig (1.0)
+	I1) Vincents algorithm, 3 words: zakten,zondig,zwijmel (1.0)
+

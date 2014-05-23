@@ -1,0 +1,11 @@
+x (2):
+	A3) Optimise correct letters, 1 word: xyleem || xyleen (5.5)
+	A3) Optimise correct letters, 2 words: xyleem,xyleen (6.0)
+	A3) Optimise correct letters, 3 words:  (4.9E-324)
+	B3) Optimise amount of letters, 1 word: xyleem || xyleen (5.5)
+	B3) Optimise amount of letters, 2 words: xyleem,xyleen (6.0)
+	B3) Optimise amount of letters, 3 words:  (4.9E-324)
+	I1) Vincents algorithm, 1 word: xyleen (1.0)
+	I1) Vincents algorithm, 2 words: xyleen,xyleem (1.0)
+	I1) Vincents algorithm, 3 words:  (4.9E-324)
+

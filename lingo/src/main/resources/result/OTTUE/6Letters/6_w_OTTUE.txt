@@ -1,0 +1,11 @@
+w (407):
+	A3) Optimise correct letters, 1 word: welken (2.285012285012285)
+	A3) Optimise correct letters, 2 words: walken,wendde (3.027027027027027)
+	A3) Optimise correct letters, 3 words: walken,weerde,windas (3.6044226044226044)
+	B3) Optimise amount of letters, 1 word: warnet (3.108108108108108)
+	B3) Optimise amount of letters, 2 words: wielen,wrakst (4.415233415233415)
+	B3) Optimise amount of letters, 3 words: warmst,woelde,wijking || wasdom,welker,wijting || waskom,wereld,wijting || wasmot,welker,wijding || wasmot,wereld,wijking || wastijd,welken,wormig (5.2063882063882065)
+	I1) Vincents algorithm, 1 word: warnet (1.0)
+	I1) Vincents algorithm, 2 words: warnet,wolkig (1.0)
+	I1) Vincents algorithm, 3 words: warnet,wolkig,wijdtes (1.0)
+

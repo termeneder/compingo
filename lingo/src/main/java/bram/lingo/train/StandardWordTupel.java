@@ -6,6 +6,7 @@ import java.util.List;
 import org.apache.commons.lang.StringUtils;
 
 import bram.lingo.input.Input;
+import bram.lingo.input.ManualInput;
 
 
 
@@ -98,8 +99,9 @@ public class StandardWordTupel {
 
 	private String[] askWords() {
 		String[] words = new String[c_words.length];
+		Input input = new ManualInput();
 		for (int i = 0 ; i < words.length ; i++) {
-			words[i] = Input.getLine();
+			words[i] = input.getLine();
 		}
 		return words;
 	}

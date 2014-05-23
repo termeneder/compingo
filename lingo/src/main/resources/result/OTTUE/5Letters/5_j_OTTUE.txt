@@ -1,0 +1,11 @@
+j (77):
+	A3) Optimise correct letters, 1 word: jonen (2.038961038961039)
+	A3) Optimise correct letters, 2 words: jaden,jongt (2.727272727272727)
+	A3) Optimise correct letters, 3 words: jaden,jongt,jutte (3.1948051948051948)
+	B3) Optimise amount of letters, 1 word: jeton (2.727272727272727)
+	B3) Optimise amount of letters, 2 words: janus,joelt (3.74025974025974)
+	B3) Optimise amount of letters, 3 words: jarig,joelt,junks (4.207792207792208)
+	I1) Vincents algorithm, 1 word: jeton (1.0)
+	I1) Vincents algorithm, 2 words: jeton,judas (1.0)
+	I1) Vincents algorithm, 3 words: jeton,judas,jolig (1.0)
+

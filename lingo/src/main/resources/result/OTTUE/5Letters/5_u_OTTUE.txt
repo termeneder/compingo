@@ -1,0 +1,11 @@
+u (27):
+	A3) Optimise correct letters, 1 word: uiten (2.2962962962962963)
+	A3) Optimise correct letters, 2 words: uiten,urine (3.0)
+	A3) Optimise correct letters, 3 words: uitte,unies,uraan (3.5185185185185186)
+	B3) Optimise amount of letters, 1 word: urine (3.185185185185185)
+	B3) Optimise amount of letters, 2 words: ultra,unies (3.962962962962963)
+	B3) Optimise amount of letters, 3 words: uitdij,ulaan,ureum || ulaan,units,urmde (4.222222222222222)
+	I1) Vincents algorithm, 1 word: urine (1.0)
+	I1) Vincents algorithm, 2 words: urine,ultra (1.0)
+	I1) Vincents algorithm, 3 words: urine,ultra,urmde (1.0)
+

@@ -1,0 +1,11 @@
+h (221):
+	A3) Optimise correct letters, 1 word: haren (1.7873303167420815)
+	A3) Optimise correct letters, 2 words: halen,horde || harde,holen || haren,helse || haren,holde (2.493212669683258)
+	A3) Optimise correct letters, 3 words: halst,heren,hoede || harde,helen,hoest || haren,helde,hoest || haren,helse,hoedt || haren,helst,hoede || harst,helen,hoede (3.158371040723982)
+	B3) Optimise amount of letters, 1 word: harte || hater (2.6018099547511313)
+	B3) Optimise amount of letters, 2 words: halen,horst || halst,horen || haren,holst || harst,holen || hints,hoera (3.4570135746606336)
+	B3) Optimise amount of letters, 3 words: haiku,helen,horst || haiku,heren,holst || heren,hopla,huist || heren,hopsa,huilt (4.0542986425339365)
+	I1) Vincents algorithm, 1 word: haten (1.0)
+	I1) Vincents algorithm, 2 words: haten,horig (1.0)
+	I1) Vincents algorithm, 3 words: haten,horig,hulst (1.0)
+
