@@ -33,7 +33,7 @@ public class Run {
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
 	private static final String DESCRIPTION_PREFIX = "";
-	private static final int WORD_LENGTH = 6;
+	private static final int WORD_LENGTH = 7;
 	private static final Source SOURCE = Source.OTTUE;
 	private static final boolean PRINT_TO_FILE = true;
 	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = false;

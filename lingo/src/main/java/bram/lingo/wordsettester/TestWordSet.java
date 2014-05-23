@@ -22,6 +22,18 @@ public class TestWordSet implements Comparable<TestWordSet>{
 		c_correct = 0;
 	}
 
+	public TestWordSet(String csvString, WordSet totalWordSet) {
+		c_totalWordSet = totalWordSet;
+		String[] strings = csvString.split(",");
+		c_name = strings[0];
+		c_tries = Integer.parseInt(strings[3]);
+		c_correct = Integer.parseInt(strings[2]);
+		c_wordSet = new WordSet();
+		for (int index = 4 ; index < strings.length ; index++) {
+			c_wordSet.addWord(strings[index]);
+		}
+	}
+	
 	public void test() {
 		Word randomWord = getRandomWord();
 		PlayWord playword = new PlayWord(randomWord, c_totalWordSet, new WordSetInput(c_wordSet));

@@ -1,5 +1,9 @@
 package bram.lingo.wordsettester;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
 import bram.lingo.words.Letter;
 import bram.lingo.words.wordSets.NLetterWords;
 import bram.lingo.words.wordSets.Source;
@@ -7,11 +11,12 @@ import bram.lingo.words.wordSets.WordSet;
 
 public class Run {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		WordSet totalWordSet = NLetterWords.getInstance(5, Source.OTTUE).getWordsStartingWith(Letter.z);
 		int amountOfTests = 50;
-		WordSetTester tester = new WordSetTester(totalWordSet);
-		tester = addTestSets(tester);
+		//WordSetTester tester = new WordSetTester(totalWordSet);
+		WordSetTester tester = new WordSetTester(new FileReader("src/main/resources/wordsettest/5_z_OTTUE.csv"));
+		//tester = addTestSets(tester);
 		tester.runTests(amountOfTests);
 		tester.printResults();
 	}

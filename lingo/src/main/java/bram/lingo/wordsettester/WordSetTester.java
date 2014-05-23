@@ -1,5 +1,8 @@
 package bram.lingo.wordsettester;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -17,7 +20,18 @@ public class WordSetTester {
 		c_testWordSets = new ArrayList<TestWordSet>();
 	}
 
-
+	public WordSetTester(FileReader csv) throws IOException {
+		BufferedReader br = new BufferedReader(csv);
+		String firstLine = br.readLine();
+		readHeaderLine(firstLine);
+		//String line = br.r
+		
+	}
+	
+	private void readHeaderLine(String line) {
+		//TODO
+	}
+	
 	public void addTestSet(String testSetName, WordSet testSet) {
 		TestWordSet newTestWordSet = new TestWordSet(testSetName, testSet, c_totalWordSet);
 		c_testWordSets.add(newTestWordSet);
