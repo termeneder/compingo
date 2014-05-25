@@ -144,7 +144,6 @@ OTTUE
 5 letter words
  - Run/Rerun
    - C: B, D-H, J-W
-   - D: B, D-H, J-W
    - E: B, D-H, J-W
    - F: B, D-H, J-W
    - G: B, D-H, J-W
@@ -159,7 +158,7 @@ OTTUE
    - Letters
       - C,I,X,Y,Z,IJ
    - Algorithms
-      - A,B,I
+      - A,B,D,I
 6 letter words
  - Run/Rerun
    - C: A-IJ

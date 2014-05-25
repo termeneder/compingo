@@ -14,13 +14,6 @@ public class TestWordSet implements Comparable<TestWordSet>{
 	private int c_tries;
 	private int c_correct;
 	
-	public TestWordSet(String name, WordSet wordSet, WordSet totalWordSet) {
-		c_name = name;
-		c_wordSet = wordSet;
-		c_totalWordSet = totalWordSet;
-		c_tries = 0;
-		c_correct = 0;
-	}
 
 	public TestWordSet(String csvString, WordSet totalWordSet) {
 		c_totalWordSet = totalWordSet;
@@ -59,6 +52,18 @@ public class TestWordSet implements Comparable<TestWordSet>{
 	public String toString() {
 		
 		return c_name + ": " + c_correct + "/" + c_tries + "=" + getRatio();
+	}
+	
+	public String toCSV() {
+		String csv = c_name;
+		csv += "," + getRatio();
+		csv += "," + c_correct;
+		csv += "," + c_tries;
+		for (Word word : c_wordSet) {
+			csv += "," + word;
+		}
+		return csv;
+			
 	}
 
 	@Override
