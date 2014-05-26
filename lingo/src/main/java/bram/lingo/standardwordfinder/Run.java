@@ -9,6 +9,9 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.SortedMap;
 
+import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuator;
+import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuatorBram;
+import jochem.lingo.valuators.revisited.AverageCorrectCountValuator;
 import vincent.lingo.revisited.VincentRevisited;
 import bram.lingo.standardwordfinder.genetic.GeneticComparativeFinder;
 import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
@@ -21,37 +24,37 @@ import bram.lingo.standardwordfinder.valuator.InformationAboutLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.MaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.PositiveMaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
+import bram.lingo.utils.Timer;
 import bram.lingo.words.Letter;
 import bram.lingo.words.wordSets.NLetterWords;
-
 import bram.lingo.words.wordSets.Source;
 import bram.lingo.words.wordSets.WordSet;
 import bram.lingo.words.wordSets.WordSetUtils;
 
 public class Run {
 
+	
+	// TODO move this to config
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
 	private static final String DESCRIPTION_PREFIX = "";
 	private static final int WORD_LENGTH = 5;
-	private static final Source SOURCE = Source.OTTUE;
-	private static final boolean PRINT_TO_FILE = true;
+	private static final Source SOURCE = Source.OPEN_TAAL;
+	private static final boolean PRINT_TO_FILE = false;
 	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = true;
+	private static final boolean PRINT_TIME = true;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	
 	public static void main(String[] args) {
-		
-		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE);
+		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE).getWordsStartingWith(Letter.o);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
-			runAlgorithmsForLetter(entry.getKey(), entry.getValue());
-
+			runAllAlgorithmsForLetter(entry.getKey(), entry.getValue());
 		}
-		
 	}
 	
-	private static void runAlgorithmsForLetter(Letter letter, WordSet letterSet) {
+	private static void runAllAlgorithmsForLetter(Letter letter, WordSet letterSet) {
 		String filename = createFilename(letter);
 		StringBuffer output = new StringBuffer();
 		List<IStandardWordSetFinder> finderAlgorithms = prepareFinderAlgorithms(letterSet);
@@ -59,15 +62,23 @@ public class Run {
 		output.append(letter + " ("+letterSet.size()+"):\n");
 		for (IStandardWordSetFinder algorithm : finderAlgorithms) {
 			for (int subsetSize = MIN_SUBSET_SIZE ; subsetSize <= MAX_SUBSET_SIZE ; subsetSize++) {
-				algorithm.setSubsetSize(subsetSize);
-				OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
-				output.append("\t"+algorithm  +": " + optimalWordSets + "\n");
+				output.append(runAlgorithm(algorithm, subsetSize, letterSet));
 				writeToFile(output, RUNNING_PREFIX + filename);
-				System.out.println("\t"+algorithm  +": " + optimalWordSets);
 			}
 		}
 		writeToFile(output, filename);
 		removeFile(RUNNING_PREFIX + filename);
+	}
+	
+	private static String runAlgorithm(IStandardWordSetFinder algorithm, int subsetSize, WordSet letterSet) {
+		algorithm.setSubsetSize(subsetSize);
+		Timer timer = new Timer();
+		OptimalWordSets optimalWordSets = algorithm.findOptimal(letterSet);
+		System.out.println("\t"+algorithm  +": " + optimalWordSets);
+		if (PRINT_TIME) {
+			System.out.println("\t"+timer);
+		}
+		return "\t"+algorithm  +": " + optimalWordSets + "\n";
 	}
 	
 	private static String createFilename(Letter letter) {
@@ -120,7 +131,7 @@ public class Run {
 		configShort.newSets = 50;
 		configShort.mutations = 25;
 		configShort.recombinations = 25;
-		
+		/*
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
 		//list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
 		
@@ -152,7 +163,20 @@ public class Run {
 		//list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
 		
 		//list.add(new VincentRevisited(SortOrder.ASC));
+
+		WordSetValuator j1Valuator = new AverageAmbiguousGroupSizeValuator(letterSet);
+		list.add(new ExhaustiveComparativeFinder(djValuator, SortOrder.DESC));
+		*/
+
+
+		WordSetValuator myValuator = new AverageDifferentiationGroupsValuator();
+		list.add(new ExhaustiveComparativeFinder(myValuator, SortOrder.DESC));
+
+		WordSetValuator jochemsValuator = new AverageAmbiguousGroupSizeValuatorBram(letterSet);
+		list.add(new ExhaustiveComparativeFinder(jochemsValuator, SortOrder.DESC));
 		
+		WordSetValuator jochemsValuator2 = new AverageAmbiguousGroupSizeValuator(letterSet);
+		list.add(new ExhaustiveComparativeFinder(jochemsValuator2, SortOrder.DESC));
 		return list;
 	}
 	

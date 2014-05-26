@@ -6,13 +6,14 @@ standardwordfinder
   - maak algoritme dat zoekt naar een boom-antwoord
   - onderzoek heuristic finder
   - maak preprocess finder van C,D,E,F,G,H
+  - verplaats params naar configfile
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file
-wordsettester
-  - maak dit lees- en schrijfbaar van/naar file
-vincent
-  - make vincents algorithm an implementation of StandardWordSetFinder
 jochem
-  - make jochems algorithms an implementation of StandardWordSetFinder
+  - Implementeer:
+    - AverageAmbiguousGroupSizeValuatorBram
+    - ListValuatorFromSetValuator
+    - MinCorrectCountValuator
+    - NonAmbiguityValuator
 

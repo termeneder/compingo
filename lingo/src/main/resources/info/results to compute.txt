@@ -143,17 +143,13 @@ TUE
 OTTUE
 5 letter words
  - Run/Rerun
-   - C: B, D-H, J-W
-   - E: B, D-H, J-W
-   - F: B, D-H, J-W
-   - G: B, D-H, J-W
-   - H: B, D-H, J-W
+   - none
  - Improve precision
-   - C: A
-   - E: A
-   - F: A
-   - G: A
-   - H: A
+   - C: A-B, D-H, J-W
+   - E: A-B, D-H, J-W
+   - F: A-B, D-H, J-W
+   - G: A-B, D-H, J-W
+   - H: A-B, D-H, J-W
  - Completed
    - Letters
       - C,I,X,Y,Z,IJ
@@ -176,22 +172,19 @@ OTTUE
       - A,B,I
 7 letter words
  - Run/Rerun
-   - A: A-IJ
-   - B: A-IJ
    - C: A-IJ
    - D: A-IJ
    - E: A-IJ
    - F: A-IJ
    - G: A-IJ
    - H: A-IJ
-   - I: A-IJ
  - Improve precision
    - none
  - Completed
    - Letters
       - none
    - Algorithms
-      - none
+      - A, B, I
 8 letter words
  - Run/Rerun
    - A: A-IJ
