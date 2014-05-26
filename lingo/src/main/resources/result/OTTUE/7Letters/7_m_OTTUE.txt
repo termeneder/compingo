@@ -1,0 +1,11 @@
+m (740):
+	A3) Optimise correct letters, 1 word: mesties (2.0527027027027027)
+	A3) Optimise correct letters, 2 words: mastten,meneert (2.9918918918918918)
+	A3) Optimise correct letters, 3 words: mankten,messias,mietert (3.7797297297297296)
+	B3) Optimise amount of letters, 1 word: meranti || minaret (3.745945945945946)
+	B3) Optimise amount of letters, 2 words: mandril,mestkoe || mansdik,meeltor (5.436486486486486)
+	B3) Optimise amount of letters, 3 words: mikpunt,moslaag,mijmerde (6.128378378378378)
+	I1) Vincents algorithm, 1 word: meranti (1.0)
+	I1) Vincents algorithm, 2 words: meranti,modules (1.0)
+	I1) Vincents algorithm, 3 words: meranti,modules,mogelijk (1.0)
+

@@ -1,0 +1,11 @@
+u (295):
+	A3) Optimise correct letters, 1 word: uitboet (3.48135593220339)
+	A3) Optimise correct letters, 2 words: uitbeet,uroloog (3.9796610169491524)
+	A3) Optimise correct letters, 3 words: uitkeep,unicaat,uroloog (4.450847457627119)
+	B3) Optimise amount of letters, 1 word: uitrekt || uittrek (4.013559322033898)
+	B3) Optimise amount of letters, 2 words: uitlokt,upgrade (5.233898305084746)
+	B3) Optimise amount of letters, 3 words: uitdoen,uitkipt,uurglas || uitdoen,uitpikt,uurglas (5.9932203389830505)
+	I1) Vincents algorithm, 1 word: uraniet (1.0)
+	I1) Vincents algorithm, 2 words: uraniet,uilskop (1.0)
+	I1) Vincents algorithm, 3 words: uraniet,uilskop,uitglijd (1.0)
+

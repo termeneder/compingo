@@ -1,0 +1,11 @@
+w (603):
+	A3) Optimise correct letters, 1 word: wegkeek (2.2238805970149254)
+	A3) Optimise correct letters, 2 words: wankelt,wegdoen (3.046434494195688)
+	A3) Optimise correct letters, 3 words: walkers,weglaat,winsten (3.714759535655058)
+	B3) Optimise amount of letters, 1 word: wateren (3.626865671641791)
+	B3) Optimise amount of letters, 2 words: werkend,witglas || werkles,windgat (5.338308457711443)
+	B3) Optimise amount of letters, 3 words: waardig,wemelen,wijkpost (6.1459369817578775)
+	I1) Vincents algorithm, 1 word: warnest (1.0)
+	I1) Vincents algorithm, 2 words: warnest,wolkige (1.0)
+	I1) Vincents algorithm, 3 words: warnest,wolkige,wijndorp (1.0)
+

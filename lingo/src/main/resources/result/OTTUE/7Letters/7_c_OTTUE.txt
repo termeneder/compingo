@@ -1,0 +1,11 @@
+c (345):
+	A3) Optimise correct letters, 1 word: corvees (2.0492753623188404)
+	A3) Optimise correct letters, 2 words: cauties,consent (2.8869565217391306)
+	A3) Optimise correct letters, 3 words: cauties,charade,consent (3.544927536231884)
+	B3) Optimise amount of letters, 1 word: coaster (3.7623188405797103)
+	B3) Optimise amount of letters, 2 words: calicot,cesuren || clement,curiosa || columns,creatie (5.391304347826087)
+	B3) Optimise amount of letters, 3 words: caching,celdeur,compost (6.136231884057971)
+	I1) Vincents algorithm, 1 word: coaster (1.0)
+	I1) Vincents algorithm, 2 words: coaster,curling (1.0)
+	I1) Vincents algorithm, 3 words: coaster,curling,chamade (1.0)
+

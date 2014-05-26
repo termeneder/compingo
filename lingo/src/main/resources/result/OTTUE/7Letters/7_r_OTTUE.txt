@@ -1,0 +1,11 @@
+r (640):
+	A3) Optimise correct letters, 1 word: rondten (2.06875)
+	A3) Optimise correct letters, 2 words: rentten,roeiers (2.91875)
+	A3) Optimise correct letters, 3 words: raseert,rentten,romaans (3.546875)
+	B3) Optimise amount of letters, 1 word: retsina (3.6)
+	B3) Optimise amount of letters, 2 words: rioleer,rijstand (5.159375)
+	B3) Optimise amount of letters, 3 words: rapstijl,rondkom,ruigere (6.059375)
+	I1) Vincents algorithm, 1 word: retsina (1.0)
+	I1) Vincents algorithm, 2 words: retsina,ruilbod (1.0)
+	I1) Vincents algorithm, 3 words: retsina,ruilbod,rijksweg (1.0)
+

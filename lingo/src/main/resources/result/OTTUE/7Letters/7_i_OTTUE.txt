@@ -1,0 +1,11 @@
+i (420):
+	A3) Optimise correct letters, 1 word: invreet (2.8595238095238096)
+	A3) Optimise correct letters, 2 words: imkeren,instemt (3.5047619047619047)
+	A3) Optimise correct letters, 3 words: imkeren,insloot,inzoete (4.042857142857143)
+	B3) Optimise amount of letters, 1 word: inroest || instore (3.892857142857143)
+	B3) Optimise amount of letters, 2 words: idealer,instonk (5.307142857142857)
+	B3) Optimise amount of letters, 3 words: ingaand,inkuipt,isoleer (6.054761904761905)
+	I1) Vincents algorithm, 1 word: inroest (1.0)
+	I1) Vincents algorithm, 2 words: inroest,inktlap (1.0)
+	I1) Vincents algorithm, 3 words: inroest,inktlap,ingewijd (1.0)
+

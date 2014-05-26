@@ -1,0 +1,11 @@
+v (1082):
+	A3) Optimise correct letters, 1 word: vergeet (2.589648798521257)
+	A3) Optimise correct letters, 2 words: vergeet,vooraan (3.268022181146026)
+	A3) Optimise correct letters, 3 words: verraad,violent,voldoen (3.813308687615527)
+	B3) Optimise amount of letters, 1 word: verlote (3.855822550831793)
+	B3) Optimise amount of letters, 2 words: valigst,verdoen || valigst,voerden || vastlig,verdoen || vastlig,voerden || volants,vredige (5.433456561922366)
+	B3) Optimise amount of letters, 3 words: valbrug,veendijk,vismoot (6.1256931608133085)
+	I1) Vincents algorithm, 1 word: veronal (1.0)
+	I1) Vincents algorithm, 2 words: veronal,vistuig (1.0)
+	I1) Vincents algorithm, 3 words: veronal,vistuig,veendijk (1.0)
+

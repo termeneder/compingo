@@ -1,0 +1,11 @@
+p (907):
+	A3) Optimise correct letters, 1 word: pootten (2.1565600882028666)
+	A3) Optimise correct letters, 2 words: panters,presten (2.968026460859978)
+	A3) Optimise correct letters, 3 words: panters,plasten,poenale || panters,pookten,pressie (3.5755237045203967)
+	B3) Optimise amount of letters, 1 word: planter (3.812568908489526)
+	B3) Optimise amount of letters, 2 words: paneert,polsdik || peilden,postkar (5.43329658213892)
+	B3) Optimise amount of letters, 3 words: papadum,pelster,pinkoog (6.140022050716648)
+	I1) Vincents algorithm, 1 word: panters (1.0)
+	I1) Vincents algorithm, 2 words: panters,polsdik (1.0)
+	I1) Vincents algorithm, 3 words: panters,polsdik,pofmouw (1.0)
+

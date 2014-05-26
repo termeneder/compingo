@@ -1,0 +1,11 @@
+f (363):
+	A3) Optimise correct letters, 1 word: flitsen (2.1790633608815426)
+	A3) Optimise correct letters, 2 words: fineert,flitsen (2.953168044077135)
+	A3) Optimise correct letters, 3 words: fineert,flirten,foetsie (3.669421487603306)
+	B3) Optimise amount of letters, 1 word: flinter || flirten (3.9696969696969697)
+	B3) Optimise amount of letters, 2 words: fietsen,foulard (5.644628099173554)
+	B3) Optimise amount of letters, 3 words: fantast,flemerij,fopduik (6.137741046831956)
+	I1) Vincents algorithm, 1 word: flirten (1.0)
+	I1) Vincents algorithm, 2 words: flirten,flamoes (1.0)
+	I1) Vincents algorithm, 3 words: flirten,flamoes,fopduik (1.0)
+

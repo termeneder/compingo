@@ -1,0 +1,11 @@
+y (7):
+	A3) Optimise correct letters, 1 word: yogales (3.0)
+	A3) Optimise correct letters, 2 words: yogales,yttrium (4.0)
+	A3) Optimise correct letters, 3 words: yahtzee,yogales,yttrium || yankees,yoghurt,ypsilon || yankees,yoghurt,yttrium || yoghurt,ypsilon,yuppies (4.857142857142857)
+	B3) Optimise amount of letters, 1 word: yogales (3.5714285714285716)
+	B3) Optimise amount of letters, 2 words: yahtzee,ypsilon || yankees,yoghurt || yogales,yttrium (5.428571428571429)
+	B3) Optimise amount of letters, 3 words: yahtzee,yoghurt,ypsilon || yahtzee,ypsilon,yttrium || yankees,yoghurt,ypsilon (6.428571428571429)
+	I1) Vincents algorithm, 1 word: yogales (1.0)
+	I1) Vincents algorithm, 2 words: yogales,yttrium (1.0)
+	I1) Vincents algorithm, 3 words: yogales,yttrium,ypsilon (1.0)
+

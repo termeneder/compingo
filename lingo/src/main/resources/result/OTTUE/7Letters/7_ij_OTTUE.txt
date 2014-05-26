@@ -1,0 +1,11 @@
+ij (66):
+	A3) Optimise correct letters, 1 word: ijsberen (2.742424242424242)
+	A3) Optimise correct letters, 2 words: ijskonijn,ijzeroer (3.5757575757575757)
+	A3) Optimise correct letters, 3 words: ijlboden,ijsklont,ijzervijl (4.136363636363637)
+	B3) Optimise amount of letters, 1 word: ijsvloer (3.787878787878788)
+	B3) Optimise amount of letters, 2 words: ijskorst,ijzelden (5.090909090909091)
+	B3) Optimise amount of letters, 3 words: ijskraam,ijssport,ijzelden (5.757575757575758)
+	I1) Vincents algorithm, 1 word: ijsvloer (1.0)
+	I1) Vincents algorithm, 2 words: ijsvloer,ijkmaten (1.0)
+	I1) Vincents algorithm, 3 words: ijsvloer,ijkmaten,ijscoupe (1.0)
+

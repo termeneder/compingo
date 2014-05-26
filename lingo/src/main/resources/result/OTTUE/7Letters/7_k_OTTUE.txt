@@ -1,0 +1,11 @@
+k (1125):
+	A3) Optimise correct letters, 1 word: koekten (2.3413333333333335)
+	A3) Optimise correct letters, 2 words: koekten,kraters (3.073777777777778)
+	A3) Optimise correct letters, 3 words: kleedde,kookten,kraters || kleedde,kootten,krakers (3.6986666666666665)
+	B3) Optimise amount of letters, 1 word: klaroen || koralen (3.824888888888889)
+	B3) Optimise amount of letters, 2 words: kastrol,kindeke || kindeke,kraslot || kokende,kristal (5.412444444444445)
+	B3) Optimise amount of letters, 3 words: kampdag,kelkjes,kornuit (6.139555555555556)
+	I1) Vincents algorithm, 1 word: klaroen (1.0)
+	I1) Vincents algorithm, 2 words: klaroen,krimpst (1.0)
+	I1) Vincents algorithm, 3 words: klaroen,krimpst,koudweg (1.0)
+

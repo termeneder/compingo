@@ -1,0 +1,11 @@
+a (1202):
+	A3) Optimise correct letters, 1 word: afsleet (2.4101497504159735)
+	A3) Optimise correct letters, 2 words: aanlaat,afreten (3.2296173044925123)
+	A3) Optimise correct letters, 3 words: aanroer,afreedt,afslaan (3.7362728785357735)
+	B3) Optimise amount of letters, 1 word: aantref (3.825291181364393)
+	B3) Optimise amount of letters, 2 words: aanstik,afrolde (5.262063227953411)
+	B3) Optimise amount of letters, 3 words: aardigs,afplukt,amoeben || aardigs,afpulkt,amoeben (6.090682196339435)
+	I1) Vincents algorithm, 1 word: afsnelt (1.0)
+	I1) Vincents algorithm, 2 words: afsnelt,auditor (1.0)
+	I1) Vincents algorithm, 3 words: afsnelt,auditor,afknijpt (1.0)
+

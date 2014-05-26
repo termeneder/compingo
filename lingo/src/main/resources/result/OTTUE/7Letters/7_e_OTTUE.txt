@@ -1,0 +1,11 @@
+e (309):
+	A3) Optimise correct letters, 1 word: erfleen (1.9385113268608414)
+	A3) Optimise correct letters, 2 words: enteren,eredame (2.6893203883495147)
+	A3) Optimise correct letters, 3 words: eendere,enteren,erelint (3.3398058252427183)
+	B3) Optimise amount of letters, 1 word: erelint (3.7702265372168284)
+	B3) Optimise amount of letters, 2 words: eindsom,etaleer (5.313915857605178)
+	B3) Optimise amount of letters, 3 words: echoput,eiglans,eredame || echoput,endemie,erlangs (5.9288025889967635)
+	I1) Vincents algorithm, 1 word: ernstig (1.0)
+	I1) Vincents algorithm, 2 words: ernstig,edelman (1.0)
+	I1) Vincents algorithm, 3 words: ernstig,edelman,echoput (1.0)
+

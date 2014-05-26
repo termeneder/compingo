@@ -1,0 +1,11 @@
+o (991):
+	A3) Optimise correct letters, 1 word: opvreet (2.256306760847629)
+	A3) Optimise correct letters, 2 words: onderen,optrekt (3.106962663975782)
+	A3) Optimise correct letters, 3 words: omslaat,onderen,optrede (3.8042381432896066)
+	B3) Optimise amount of letters, 1 word: opreten || opteren (3.6215943491422804)
+	B3) Optimise amount of letters, 2 words: omdolen,opkrast || omrande,opslokt (5.185671039354188)
+	B3) Optimise amount of letters, 3 words: omslaan,oorveeg,opduikt (6.082744702320888)
+	I1) Vincents algorithm, 1 word: oplaten (1.0)
+	I1) Vincents algorithm, 2 words: oplaten,omringd (1.0)
+	I1) Vincents algorithm, 3 words: oplaten,omringd,onkuise (1.0)
+

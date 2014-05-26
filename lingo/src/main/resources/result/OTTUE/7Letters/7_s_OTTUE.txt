@@ -1,0 +1,11 @@
+s (1495):
+	A3) Optimise correct letters, 1 word: stoeten (2.3498327759197326)
+	A3) Optimise correct letters, 2 words: spatten,stoeide (3.0334448160535117)
+	A3) Optimise correct letters, 3 words: scheert,spalken,stortte || scheert,spalkte,storten || scheert,sporten,staakte (3.626086956521739)
+	B3) Optimise amount of letters, 1 word: stralen (3.719063545150502)
+	B3) Optimise amount of letters, 2 words: serieus,snotlap (5.2)
+	B3) Optimise amount of letters, 3 words: schmink,spoelde,stratus (6.086956521739131)
+	I1) Vincents algorithm, 1 word: stralen (1.0)
+	I1) Vincents algorithm, 2 words: stralen,spuikom (1.0)
+	I1) Vincents algorithm, 3 words: stralen,spuikom,schrijdt (1.0)
+

@@ -1,0 +1,11 @@
+d (716):
+	A3) Optimise correct letters, 1 word: dooreen (2.2150837988826817)
+	A3) Optimise correct letters, 2 words: doekten,dromers (2.8910614525139664)
+	A3) Optimise correct letters, 3 words: diepere,doorlas,drukten (3.560055865921788)
+	B3) Optimise amount of letters, 1 word: doerian (3.6927374301675977)
+	B3) Optimise amount of letters, 2 words: donkere,dualist (5.216480446927374)
+	B3) Optimise amount of letters, 3 words: dagmars,deukten,dooplid || dagtank,dooplid,dreumes || damslag,diepten,doodruk || darmgas,deukten,dooplid || darmsap,deukten,doodlig (6.085195530726257)
+	I1) Vincents algorithm, 1 word: doerian (1.0)
+	I1) Vincents algorithm, 2 words: doerian,daklijst (1.0)
+	I1) Vincents algorithm, 3 words: doerian,daklijst,dumping (1.0)
+

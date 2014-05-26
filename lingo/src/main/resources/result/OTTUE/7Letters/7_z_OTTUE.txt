@@ -1,0 +1,11 @@
+z (503):
+	A3) Optimise correct letters, 1 word: zeelten (2.250497017892644)
+	A3) Optimise correct letters, 2 words: zantten,zeeklas (2.9900596421471173)
+	A3) Optimise correct letters, 3 words: zanders,zeikten,zweelde (3.667992047713718)
+	B3) Optimise amount of letters, 1 word: zadelen || zeekant (3.518886679920477)
+	B3) Optimise amount of letters, 2 words: zalings,zoeterd (5.184890656063618)
+	B3) Optimise amount of letters, 3 words: zoutbak,zwermde,zijlings (6.079522862823062)
+	I1) Vincents algorithm, 1 word: zeiknat (1.0)
+	I1) Vincents algorithm, 2 words: zeiknat,zolders (1.0)
+	I1) Vincents algorithm, 3 words: zeiknat,zolders,zuigpijp (1.0)
+

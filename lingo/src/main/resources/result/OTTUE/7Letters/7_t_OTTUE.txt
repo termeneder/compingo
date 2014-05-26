@@ -1,0 +1,11 @@
+t (819):
+	A3) Optimise correct letters, 1 word: toetten (2.2979242979242978)
+	A3) Optimise correct letters, 2 words: toeters,trasten (3.0195360195360195)
+	A3) Optimise correct letters, 3 words: tanktas,toetert,trillen (3.619047619047619)
+	B3) Optimise amount of letters, 1 word: teerton (3.711843711843712)
+	B3) Optimise amount of letters, 2 words: takelde,tritons (5.293040293040293)
+	B3) Optimise amount of letters, 3 words: tergden,timbaal,topstuk || tergend,timbaal,topstuk (6.046398046398046)
+	I1) Vincents algorithm, 1 word: toendra (1.0)
+	I1) Vincents algorithm, 2 words: toendra,tsjilpt (1.0)
+	I1) Vincents algorithm, 3 words: toendra,tsjilpt,tuinwijk (1.0)
+

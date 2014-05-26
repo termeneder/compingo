@@ -1,0 +1,11 @@
+q (10):
+	A3) Optimise correct letters, 1 word: quotums (3.5)
+	A3) Optimise correct letters, 2 words: quanten,quotums || quilten,quotums (4.8)
+	A3) Optimise correct letters, 3 words: quatsch,quilten,quorums (5.6)
+	B3) Optimise amount of letters, 1 word: queeste (4.1)
+	B3) Optimise amount of letters, 2 words: quanten,quorums || quidams,quoteer (5.7)
+	B3) Optimise amount of letters, 3 words: quatsch,quizzen,quorums (6.3)
+	I1) Vincents algorithm, 1 word: quilten (1.0)
+	I1) Vincents algorithm, 2 words: quilten,quorums (1.0)
+	I1) Vincents algorithm, 3 words: quilten,quorums,quatsch (1.0)
+

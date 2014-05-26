@@ -1,0 +1,11 @@
+h (571):
+	A3) Optimise correct letters, 1 word: herrees (2.1663747810858145)
+	A3) Optimise correct letters, 2 words: harsten,hendels (3.008756567425569)
+	A3) Optimise correct letters, 3 words: handtas,herkent,hoerden (3.7565674255691768)
+	B3) Optimise amount of letters, 1 word: harsten || hartens (3.551663747810858)
+	B3) Optimise amount of letters, 2 words: hanigst,helrode (5.241681260945709)
+	B3) Optimise amount of letters, 3 words: handkar,heugels,hooimijt || harslak,heugden,hooimijt (6.078809106830122)
+	I1) Vincents algorithm, 1 word: harsten (1.0)
+	I1) Vincents algorithm, 2 words: harsten,hidalgo (1.0)
+	I1) Vincents algorithm, 3 words: harsten,hidalgo,heupkom (1.0)
+

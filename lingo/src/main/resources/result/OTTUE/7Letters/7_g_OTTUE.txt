@@ -1,0 +1,11 @@
+g (1604):
+	A3) Optimise correct letters, 1 word: gesleed (2.4632169576059852)
+	A3) Optimise correct letters, 2 words: gekeerd,graniet (3.1359102244389025)
+	A3) Optimise correct letters, 3 words: gekaakt,gesoesd,groeien (3.7375311720698257)
+	B3) Optimise amount of letters, 1 word: getierd (3.7593516209476308)
+	B3) Optimise amount of letters, 2 words: gardist,geloken || gastrol,gekiend || gekante,gidsrol || gokstad,grielen (5.3915211970074814)
+	B3) Optimise amount of letters, 3 words: gangpad,gemeier,goklust (6.155860349127182)
+	I1) Vincents algorithm, 1 word: getarnd (1.0)
+	I1) Vincents algorithm, 2 words: getarnd,gokhuis (1.0)
+	I1) Vincents algorithm, 3 words: getarnd,gokhuis,glimpje (1.0)
+

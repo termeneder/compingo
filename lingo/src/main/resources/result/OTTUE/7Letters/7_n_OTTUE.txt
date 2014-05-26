@@ -1,0 +1,11 @@
+n (353):
+	A3) Optimise correct letters, 1 word: nadelen (2.314447592067989)
+	A3) Optimise correct letters, 2 words: napraat,netelen (3.181303116147309)
+	A3) Optimise correct letters, 3 words: naslaan,neerleg,noteert (3.773371104815864)
+	B3) Optimise amount of letters, 1 word: nareist (3.736543909348442)
+	B3) Optimise amount of letters, 2 words: neurale,nodigst (5.28328611898017)
+	B3) Optimise amount of letters, 3 words: naamdag,niksnut,nobeler (6.079320113314448)
+	I1) Vincents algorithm, 1 word: nareist (1.0)
+	I1) Vincents algorithm, 2 words: nareist,noodpil (1.0)
+	I1) Vincents algorithm, 3 words: nareist,noodpil,neukgat (1.0)
+
