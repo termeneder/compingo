@@ -7,6 +7,11 @@ import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
+/**
+ * Slightly different result from C1.
+ * See OTTUE d 5 letters, 2 words
+ *
+ */
 public class NonAmbiguityValuator extends PreComputingLingoValuator {
 
     public NonAmbiguityValuator(WordSet words) {
@@ -47,7 +52,7 @@ public class NonAmbiguityValuator extends PreComputingLingoValuator {
 
 	@Override
 	public String getCode() {
-		return "??";
+		return "C2";
 	}
 
 	@Override

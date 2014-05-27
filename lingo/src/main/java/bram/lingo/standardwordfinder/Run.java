@@ -36,18 +36,18 @@ public class Run {
 	// TODO move this to config
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "";
+	private static final String DESCRIPTION_PREFIX = "Algorithm_C_";
 	private static final int WORD_LENGTH = 5;
 	private static final Source SOURCE = Source.OTTUE;
-	private static final boolean PRINT_TO_FILE = false;
-	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = false;
+	private static final boolean PRINT_TO_FILE = true;
+	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = true;
 	private static final boolean PRINT_TIME = true;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	private static final Select SELECT = Select.BEST;
 	
 	public static void main(String[] args) {
-		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE).getWordsStartingWith(Letter.d);
+		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAllAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -137,14 +137,14 @@ public class Run {
 		
 		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(b3Valuator, SELECT));
-		
+		*/
 		WordSetValuator c1Valuator =  new BiggestDifferentiationGroupValuator();
 		if (useGeneticForLongCalculations) {
 			list.add(new GeneticComparativeFinder(c1Valuator, SELECT, configShort));
 		} else {
 			list.add(new ExhaustiveComparativeFinder(c1Valuator, SELECT));
 		}
-		
+		/*
 		WordSetValuator d1Valuator = new AverageDifferentiationGroupsValuator();
 		if (useGeneticForLongCalculations) {
 			list.add(new GeneticComparativeFinder(d1Valuator, SELECT, configShort));
@@ -182,15 +182,6 @@ public class Run {
 		
 		list.add(new VincentRevisited(SELECT));*/
 		
-		
-		WordSetValuator c1Valuator =  new BiggestDifferentiationGroupValuator();
-		list.add(new ExhaustiveComparativeFinder(c1Valuator, SELECT));
-		WordSetValuator jochorsValuator = new NonAmbiguityValuator(letterSet);
-		list.add(new ExhaustiveComparativeFinder(jochorsValuator, SELECT));
-		
-		
-
-
 		return list;
 	}
 	

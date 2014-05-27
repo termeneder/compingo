@@ -8,6 +8,9 @@ import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
+/**
+ * Slightly different result from D1
+ */
 public class AverageAmbiguousGroupSizeValuatorBram extends PreComputingLingoValuator {
 
     public AverageAmbiguousGroupSizeValuatorBram(WordSet words) {
