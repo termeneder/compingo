@@ -132,12 +132,12 @@ OTTUE
  - Run/Rerun
    - none
  - Improve precision
-   - C: A-Z
-   - D: A-Z
-   - E: A-Z
-   - F: A-Z
-   - G: A-Z
-   - H: A-Z
+   - C: A-D, F-Z
+   - D: A-D, F-Z
+   - E: A-D, F-Z
+   - F: A-D, F-Z
+   - G: A-D, F-Z
+   - H: A-D, F-Z
  - Completed algorithms
     - A,B,I
 7 letter words
