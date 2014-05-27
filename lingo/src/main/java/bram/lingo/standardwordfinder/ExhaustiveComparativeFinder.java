@@ -17,6 +17,13 @@ public class ExhaustiveComparativeFinder extends StandardWordSetFinder {
 		c_order = order;
 	}
 	
+	public ExhaustiveComparativeFinder(
+			WordSetValuator valuator,
+			Select select) {
+		c_valuator = valuator;
+		c_order = SortOrder.getSortOrderFromSelectAndBest(select, getSortOrderForBest());
+	}
+	
 	public OptimalWordSets findOptimal(WordSet set) {
 		WordSubsetIterable allSubsets = new WordSubsetIterable(set, getSubsetSize());
 		OptimalWordSets optimalWordSets = new OptimalWordSets(c_order);
@@ -35,6 +42,11 @@ public class ExhaustiveComparativeFinder extends StandardWordSetFinder {
 	@Override
 	public String getDescription() {
 		return c_valuator.getDescription();
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return c_valuator.getSortOrderForBest();
 	}
 
 

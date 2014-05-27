@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder.valuator;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.wordSets.WordSet;
 
 public interface WordSetValuator {
@@ -10,6 +11,8 @@ public interface WordSetValuator {
 	public String getDescription();
 
 	public String getCode();
+
+	public SortOrder getSortOrderForBest();
 	
 	
 }

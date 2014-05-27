@@ -126,4 +126,9 @@ public class OptimiseAvailableLettersFinder extends StandardWordSetFinder{
 		return "Optimise amount of letters";
 	}
 
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
+	}
+
 }

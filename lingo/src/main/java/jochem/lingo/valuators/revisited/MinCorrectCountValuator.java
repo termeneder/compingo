@@ -1,43 +1,47 @@
 package jochem.lingo.valuators.revisited;
 
+
 import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
-public class AverageCorrectCountValuator extends PreComputingLingoValuator {
+public class MinCorrectCountValuator extends PreComputingLingoValuator {
 
-    public AverageCorrectCountValuator(WordSet w) {
+    public MinCorrectCountValuator(WordSet w) {
         super(w);
     }
 
 	@Override
 	public double value(WordSet totalSet, WordSet subset) {
-        int result = 0;
+		int worstCase = Integer.MAX_VALUE;
         for (Word woord : c_totalWordSet) {
+            int correct = 0;
             for (int i = 0; i < woord.length(); i++) {
                 for (Word chosenWord : subset) {
                     if (woord.getLetter(i) == chosenWord.getLetter(i)) {
-                        result++;
+                        correct++;
                         break;
                     }
                 }
             }
+            if (correct < worstCase) {
+                worstCase = correct;
+            }
         }
-
-        return (double) result / (double) c_totalWordSet.size();
+        return (double) worstCase;
 	}
 
 	@Override
 	public String getDescription() {
 		
-		return "Jochems average correct count";
+		return "??";
 	}
 
 	@Override
 	public String getCode() {
-		return "A4";
+		return "??";
 	}
-	
+
 	@Override
 	public SortOrder getSortOrderForBest() {
 		return SortOrder.ASC;

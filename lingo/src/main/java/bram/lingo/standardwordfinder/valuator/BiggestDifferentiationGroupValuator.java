@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder.valuator;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.wordSets.WordSet;
 
 /**
@@ -26,6 +27,11 @@ public class BiggestDifferentiationGroupValuator implements WordSetValuator {
 	@Override
 	public String getCode() {
 		return "C1";
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.DESC;
 	}
 
 

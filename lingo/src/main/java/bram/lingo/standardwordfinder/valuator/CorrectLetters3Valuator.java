@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Alphabet;
 import bram.lingo.words.Letter;
 import bram.lingo.words.Word;
@@ -73,5 +74,10 @@ public class CorrectLetters3Valuator implements WordSetValuator {
 	@Override
 	public String getCode() {
 		return "A3";
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
 	}
 }

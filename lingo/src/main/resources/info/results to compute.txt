@@ -8,11 +8,8 @@ OPEN TAAL
    - I: A-B, D-H, J-W
  - Improve precision
    - none
- - Completed
-   - Letters
-      - C, I, X-IJ
-   - Algorithms
-      - A,B,C,E,F
+ - Completed algorithms
+   - A,B,C,E,F
 6 letter words
  - Run/Rerun
    - A: B, G-IJ
@@ -26,11 +23,8 @@ OPEN TAAL
    - I: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - none
+ - Completed algorithms
+   - none
 7 letter words
  - Run/Rerun
    - I: A-IJ
@@ -41,11 +35,8 @@ OPEN TAAL
    - F: A-IJ
    - G: A-IJ
    - H: A-IJ
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - A,B,C,D,E,F,G,H
+ - Completed algorithms
+   - A,B
 8 letter words
  - Run/Rerun
    - A: A-IJ
@@ -59,11 +50,8 @@ OPEN TAAL
    - I: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - none
+ - Completed algorithms
+   - none
  
  
 TUE
@@ -80,11 +68,8 @@ TUE
    - I: A-B,D-H,J-W
  - Improve precision
    - none
- - Completed
-   - Letters
-      - C,I,X,Y,Z,IJ
-   - Algorithms
-      - none
+ - Completed algorithms
+   - none
 6 letter words
  - Run/Rerun
    - A: A-IJ
@@ -98,11 +83,8 @@ TUE
    - I: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - none
+ - Completed algorithms
+   - none
 7 letter words
  - Run/Rerun
    - A: A-IJ
@@ -116,11 +98,8 @@ TUE
    - I: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - none
+ - Completed algorithms
+   - none
 8 letter words
  - Run/Rerun
    - A: A-IJ
@@ -134,11 +113,8 @@ TUE
    - I: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - none
+ - Completed algorithms
+   - none
       
 OTTUE
 5 letter words
@@ -150,26 +126,20 @@ OTTUE
    - F: A-B, D-H, J-W
    - G: A-B, D-H, J-W
    - H: A-B, D-H, J-W
- - Completed
-   - Letters
-      - C,I,X,Y,Z,IJ
-   - Algorithms
-      - A,B,D,I
+ - Completed algorithms
+   - A,B,D,I
 6 letter words
  - Run/Rerun
-   - C: A-IJ
-   - D: A-IJ
-   - E: A-IJ
-   - F: A-IJ
-   - G: A-IJ
-   - H: A-IJ
+   - C: A-Z
+   - D: A-Z
+   - E: A-Z
+   - F: A-Z
+   - G: A-Z
+   - H: A-Z
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - A,B,I
+ - Completed algorithms
+    - A,B,I
 7 letter words
  - Run/Rerun
    - C: A-IJ
@@ -180,11 +150,8 @@ OTTUE
    - H: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - A, B, I
+ - Completed algorithms
+   - A, B, I
 8 letter words
  - Run/Rerun
    - A: A-IJ
@@ -198,8 +165,5 @@ OTTUE
    - I: A-IJ
  - Improve precision
    - none
- - Completed
-   - Letters
-      - none
-   - Algorithms
-      - none            
+ - Completed algorithms
+   - none            

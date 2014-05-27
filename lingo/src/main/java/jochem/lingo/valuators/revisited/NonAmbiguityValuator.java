@@ -2,25 +2,27 @@ package jochem.lingo.valuators.revisited;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
 import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
-public class AverageAmbiguousGroupSizeValuator extends PreComputingLingoValuator {
+public class NonAmbiguityValuator extends PreComputingLingoValuator {
 
-    public AverageAmbiguousGroupSizeValuator(WordSet totalWordSet) {
-		super(totalWordSet);
-	}
+    public NonAmbiguityValuator(WordSet words) {
+        super(words);
+    }
 
-    @Override
+
+
+	@Override
 	public double value(WordSet totalSet, WordSet subset) {
-        Map<ArrayList<Integer>, Integer> ambiguity = new HashMap<ArrayList<Integer>, Integer>();
+        HashMap<ArrayList<Integer>, Integer> ambiguity = new HashMap<ArrayList<Integer>, Integer>();
         for (Word word : c_totalWordSet) {
             ArrayList<Integer> valuationsOfChosenWords = new ArrayList<Integer>();
             for (Word chosenWord : subset)
                 valuationsOfChosenWords.add(c_valuations.get(chosenWord).get(word));
+
             if (!ambiguity.containsKey(valuationsOfChosenWords)) {
                 ambiguity.put(valuationsOfChosenWords, 1);
             } else {
@@ -28,25 +30,26 @@ public class AverageAmbiguousGroupSizeValuator extends PreComputingLingoValuator
             }
         }
 
-        int ambiguityCount = 0;
+        ArrayList<Integer> mostAmbiguousValuation = null;
         for (ArrayList<Integer> valuations : ambiguity.keySet()) {
-            ambiguityCount += ambiguity.get(valuations) * ambiguity.get(valuations);
+            if (mostAmbiguousValuation == null || ambiguity.get(valuations) > ambiguity.get(mostAmbiguousValuation)) {
+                mostAmbiguousValuation = valuations;
+            }
         }
 
-        return (double) ambiguityCount / (double) c_totalWordSet.size();
-    }
-
+        return ambiguity.get(mostAmbiguousValuation);
+	}
 
 	@Override
 	public String getDescription() {
-		return "Jochems D algorithm";
+		return "Jochems C algorithm";
 	}
 
 	@Override
 	public String getCode() {
-		return "J1";
+		return "??";
 	}
-	
+
 	@Override
 	public SortOrder getSortOrderForBest() {
 		return SortOrder.DESC;

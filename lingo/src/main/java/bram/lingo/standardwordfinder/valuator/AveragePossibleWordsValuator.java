@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder.valuator;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
@@ -39,5 +40,11 @@ public class AveragePossibleWordsValuator implements WordSetValuator {
 	public String getCode() {
 		return "E1";
 	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.DESC;
+	}
+	
 	
 }

@@ -22,6 +22,15 @@ public class MonteCarloComparativeFinder extends StandardWordSetFinder {
 		c_iterations = iterations;
 	}
 	
+	public MonteCarloComparativeFinder(
+			WordSetValuator valuator,
+			Select select,
+			int iterations) {
+		c_valuator = valuator;
+		c_order = SortOrder.getSortOrderFromSelectAndBest(select, getSortOrderForBest());
+		c_iterations = iterations;
+	}
+	
 	public OptimalWordSets findOptimal(WordSet set) {
 		
 		OptimalWordSets optimalWordSets = new OptimalWordSets(c_order);
@@ -64,6 +73,11 @@ public class MonteCarloComparativeFinder extends StandardWordSetFinder {
 	@Override
 	public String getDescription() {
 		return c_valuator.getDescription();
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return c_valuator.getSortOrderForBest();
 	}
 
 

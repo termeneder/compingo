@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Alphabet;
 import bram.lingo.words.Letter;
 import bram.lingo.words.Word;
@@ -114,6 +115,11 @@ public class InformationAboutLetters3Valuator implements WordSetValuator {
 	@Override
 	public String getCode() {
 		return "B3";
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
 	}
 	
 }

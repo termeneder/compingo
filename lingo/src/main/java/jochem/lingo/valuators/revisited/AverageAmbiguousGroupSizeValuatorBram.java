@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
@@ -46,5 +47,10 @@ public class AverageAmbiguousGroupSizeValuatorBram extends PreComputingLingoValu
 	@Override
 	public String getCode() {
 		return "D2";
+	}
+	
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.DESC;
 	}
 }

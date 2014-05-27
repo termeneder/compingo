@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder.valuator;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
@@ -40,6 +41,9 @@ public class PositiveMaximumPossibleWordsValuator implements WordSetValuator {
 		return "H1";
 	}
 	
-	
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.DESC;
+	}
 	
 }

@@ -7,6 +7,7 @@ standardwordfinder
   - onderzoek heuristic finder
   - maak preprocess finder van C,D,E,F,G,H
   - verplaats params naar configfile
+  - maak balanserend genetisch algoritme  
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file

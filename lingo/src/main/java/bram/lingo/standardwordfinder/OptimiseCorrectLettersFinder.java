@@ -87,4 +87,9 @@ public class OptimiseCorrectLettersFinder extends StandardWordSetFinder{
 		return "Optimise correct letters";
 	}
 
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
+	}
+
 }

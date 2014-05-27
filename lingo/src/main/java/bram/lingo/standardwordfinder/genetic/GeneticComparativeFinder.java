@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 import bram.lingo.standardwordfinder.OptimalWordSets;
+import bram.lingo.standardwordfinder.Select;
 import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.standardwordfinder.StandardWordSetFinder;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
@@ -24,6 +25,15 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 			GeneticConfiguration config) {
 		c_valuator = valuator;
 		c_order = order;
+		c_config = config;
+	}
+	
+	public GeneticComparativeFinder(
+			WordSetValuator valuator,
+			Select select,
+			GeneticConfiguration config) {
+		c_valuator = valuator;
+		c_order = SortOrder.getSortOrderFromSelectAndBest(select, getSortOrderForBest());
 		c_config = config;
 	}
 	
@@ -178,5 +188,10 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 	private boolean randomBool() {
 		Random rand = new Random();
 		return rand.nextBoolean();
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return c_valuator.getSortOrderForBest();
 	}
 }

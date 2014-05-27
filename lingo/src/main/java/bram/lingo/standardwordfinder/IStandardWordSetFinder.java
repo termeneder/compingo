@@ -14,4 +14,5 @@ public interface IStandardWordSetFinder {
 	
 	public void setSubsetSize(int subsetSize);
 	
+	public SortOrder getSortOrderForBest();
 }

@@ -2,6 +2,7 @@ package bram.lingo.standardwordfinder.valuator;
 
 import bram.lingo.lingo.LingoComparator;
 import bram.lingo.lingo.LingoCompareValue;
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
@@ -49,6 +50,11 @@ public class CorrectLettersValuator implements WordSetValuator {
 	@Override
 	public String getCode() {
 		return "A1";
+	}
+
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
 	}
 
 	

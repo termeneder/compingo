@@ -9,19 +9,18 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.SortedMap;
 
-import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuator;
-import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuatorBram;
-import jochem.lingo.valuators.revisited.AverageCorrectCountValuator;
+import jochem.lingo.valuators.revisited.MinCorrectCountValuator;
+import jochem.lingo.valuators.revisited.NonAmbiguityValuator;
 import vincent.lingo.revisited.VincentRevisited;
 import bram.lingo.standardwordfinder.genetic.GeneticComparativeFinder;
 import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
-import bram.lingo.standardwordfinder.valuator.PositiveAveragePossibleWordsValuator;
+import bram.lingo.standardwordfinder.valuator.AveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;
-import bram.lingo.standardwordfinder.valuator.AveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.InformationAboutLetters3Valuator;
 import bram.lingo.standardwordfinder.valuator.MaximumPossibleWordsValuator;
+import bram.lingo.standardwordfinder.valuator.PositiveAveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.PositiveMaximumPossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.utils.Timer;
@@ -39,15 +38,16 @@ public class Run {
 	private static final String RUNNING_PREFIX = "running_";
 	private static final String DESCRIPTION_PREFIX = "";
 	private static final int WORD_LENGTH = 5;
-	private static final Source SOURCE = Source.OPEN_TAAL;
+	private static final Source SOURCE = Source.OTTUE;
 	private static final boolean PRINT_TO_FILE = false;
-	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = true;
+	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = false;
 	private static final boolean PRINT_TIME = true;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
+	private static final Select SELECT = Select.BEST;
 	
 	public static void main(String[] args) {
-		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE).getWordsStartingWith(Letter.o);
+		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE).getWordsStartingWith(Letter.d);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAllAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -116,7 +116,7 @@ public class Run {
 	
 	private static List<IStandardWordSetFinder> prepareFinderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
-		
+		boolean useGeneticForLongCalculations = true;
 		GeneticConfiguration configLong = new GeneticConfiguration();
 		configLong.amountOfSetKept = 100;
 		configLong.generations = 1000;
@@ -133,50 +133,64 @@ public class Run {
 		configShort.recombinations = 25;
 		/*
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
-		//list.add(new ExhaustiveComparativeFinder(a3Valuator, SortOrder.ASC));
+		list.add(new ExhaustiveComparativeFinder(a3Valuator, SELECT));
 		
 		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
-		//list.add(new ExhaustiveComparativeFinder(b3Valuator, SortOrder.ASC));
+		list.add(new ExhaustiveComparativeFinder(b3Valuator, SELECT));
 		
-		WordSetValuator biggestDifferentiationGroupValuator =  new BiggestDifferentiationGroupValuator();
-		list.add(new GeneticComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC, configShort));
-		//list.add(new ExhaustiveComparativeFinder(biggestDifferentiationGroupValuator, SortOrder.DESC));
+		WordSetValuator c1Valuator =  new BiggestDifferentiationGroupValuator();
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(c1Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(c1Valuator, SELECT));
+		}
 		
-		WordSetValuator amountOfDifferationGroups = new AverageDifferentiationGroupsValuator();
-		//list.add(new GeneticComparativeFinder(amountOfDifferationGroups, SortOrder.DESC, configLong));
-		//list.add(new ExhaustiveComparativeFinder(amountOfDifferationGroups, SortOrder.DESC));
+		WordSetValuator d1Valuator = new AverageDifferentiationGroupsValuator();
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(d1Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(d1Valuator, SELECT));
+		}
 		
-		WordSetValuator countPossibleWords = new AveragePossibleWordsValuator();
-		list.add(new GeneticComparativeFinder(countPossibleWords, SortOrder.DESC, configShort));
-		//list.add(new ExhaustiveComparativeFinder(countPossibleWords, SortOrder.DESC));
+		WordSetValuator e1Valuator = new AveragePossibleWordsValuator();
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(e1Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(e1Valuator, SELECT));
+		}
 		
-		WordSetValuator minimisePossibleWords = new MaximumPossibleWordsValuator();
-		list.add(new GeneticComparativeFinder(minimisePossibleWords, SortOrder.DESC, configShort));
-		//list.add(new ExhaustiveComparativeFinder(minimisePossibleWords, SortOrder.DESC));
+		WordSetValuator f1Valuator = new MaximumPossibleWordsValuator();
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(f1Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(f1Valuator, SELECT));
+		}
 		
 		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
-		list.add(new GeneticComparativeFinder(g1Valuator, SortOrder.DESC, configShort));
-		//list.add(new ExhaustiveComparativeFinder(g1Valuator, SortOrder.DESC));
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(g1Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(g1Valuator, SELECT));
+		}
 		
 		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
-		list.add(new GeneticComparativeFinder(h1Valuator, SortOrder.DESC, configShort));
-		//list.add(new ExhaustiveComparativeFinder(h1Valuator, SortOrder.DESC));
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(h1Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(h1Valuator, SELECT));
+		}
 		
-		//list.add(new VincentRevisited(SortOrder.ASC));
-
-		WordSetValuator j1Valuator = new AverageAmbiguousGroupSizeValuator(letterSet);
-		list.add(new ExhaustiveComparativeFinder(djValuator, SortOrder.DESC));
-		*/
-
-
-		WordSetValuator myValuator = new AverageDifferentiationGroupsValuator();
-		list.add(new ExhaustiveComparativeFinder(myValuator, SortOrder.DESC));
-
-		WordSetValuator jochemsValuator = new AverageAmbiguousGroupSizeValuatorBram(letterSet);
-		list.add(new ExhaustiveComparativeFinder(jochemsValuator, SortOrder.DESC));
+		list.add(new VincentRevisited(SELECT));*/
 		
-		WordSetValuator jochemsValuator2 = new AverageAmbiguousGroupSizeValuator(letterSet);
-		list.add(new ExhaustiveComparativeFinder(jochemsValuator2, SortOrder.DESC));
+		
+		WordSetValuator c1Valuator =  new BiggestDifferentiationGroupValuator();
+		list.add(new ExhaustiveComparativeFinder(c1Valuator, SELECT));
+		WordSetValuator jochorsValuator = new NonAmbiguityValuator(letterSet);
+		list.add(new ExhaustiveComparativeFinder(jochorsValuator, SELECT));
+		
+		
+
+
 		return list;
 	}
 	

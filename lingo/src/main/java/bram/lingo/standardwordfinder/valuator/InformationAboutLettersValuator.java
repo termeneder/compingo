@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder.valuator;
 
+import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.WordSet;
 
@@ -44,7 +45,10 @@ public class InformationAboutLettersValuator implements WordSetValuator {
 		return "B1";
 	}
 
-	
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
+	}
 	
 	
 }

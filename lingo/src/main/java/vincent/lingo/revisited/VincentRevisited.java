@@ -23,6 +23,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import bram.lingo.standardwordfinder.OptimalWordSets;
+import bram.lingo.standardwordfinder.Select;
 import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.standardwordfinder.StandardWordSetFinder;
 import bram.lingo.words.Letter;
@@ -39,6 +40,11 @@ public class VincentRevisited extends StandardWordSetFinder{
 	
 	public VincentRevisited(SortOrder order) {
 		c_order = order;
+		createBlackList();
+	}
+
+	public VincentRevisited(Select select) {
+		c_order = SortOrder.getSortOrderFromSelectAndBest(select, getSortOrderForBest());
 		createBlackList();
 	}
 
@@ -216,5 +222,8 @@ public class VincentRevisited extends StandardWordSetFinder{
 		return letter.ordinal();
 	}
 
-
+	@Override
+	public SortOrder getSortOrderForBest() {
+		return SortOrder.ASC;
+	}
 }
