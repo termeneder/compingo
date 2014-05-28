@@ -24,15 +24,18 @@ public class TopResultSet {
 		c_size = 0;
 	}
 	
-	public void addIfInTop(double value, WordSet wordSet) {
+	public boolean addIfInTop(double value, WordSet wordSet) {
 		if (!alreadyAdded(value, wordSet)) {
 			if (size() < c_maxSize) {
 				add(value, wordSet);
+				return true;
 			} else if (inTop(value)) {
 				add(value, wordSet);
 				trimSet();
+				return true;
 			}
 		}
+		return false;
 	}
 	
 	private boolean alreadyAdded(double value, WordSet wordSet) {

@@ -13,6 +13,7 @@ public class MinCorrectCountValuator extends PreComputingLingoValuator {
 
 	@Override
 	public double value(WordSet totalSet, WordSet subset) {
+		
 		int worstCase = Integer.MAX_VALUE;
         for (Word woord : c_totalWordSet) {
             int correct = 0;

@@ -8,13 +8,9 @@ standardwordfinder
   - maak preprocess finder van C,D,E,F,G,H
   - verplaats params naar configfile
   - maak balanserend genetisch algoritme  
+  - implementeer j2 (op jochems average ambiguity meuk)
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file
-jochem
-  - Implementeer:
-    - AverageAmbiguousGroupSizeValuatorBram
-    - ListValuatorFromSetValuator
-    - MinCorrectCountValuator
-    - NonAmbiguityValuator
+
 

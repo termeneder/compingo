@@ -14,6 +14,7 @@ import jochem.lingo.valuators.revisited.NonAmbiguityValuator;
 import vincent.lingo.revisited.VincentRevisited;
 import bram.lingo.standardwordfinder.genetic.GeneticComparativeFinder;
 import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
+import bram.lingo.standardwordfinder.genetic.distributor.DistributionFactory.DistributionType;
 import bram.lingo.standardwordfinder.valuator.AverageDifferentiationGroupsValuator;
 import bram.lingo.standardwordfinder.valuator.AveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
@@ -36,7 +37,7 @@ public class Run {
 	// TODO move this to config
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "Algorithm_C_";
+	private static final String DESCRIPTION_PREFIX = "";
 	private static final int WORD_LENGTH = 5;
 	private static final Source SOURCE = Source.OTTUE;
 	private static final boolean PRINT_TO_FILE = true;
@@ -116,7 +117,7 @@ public class Run {
 	
 	private static List<IStandardWordSetFinder> prepareFinderAlgorithms(WordSet letterSet) {
 		List<IStandardWordSetFinder> list = new ArrayList<IStandardWordSetFinder>();
-		boolean useGeneticForLongCalculations = true;
+		boolean useGeneticForLongCalculations = false;
 		GeneticConfiguration configLong = new GeneticConfiguration();
 		configLong.amountOfSetKept = 100;
 		configLong.generations = 1000;
@@ -137,14 +138,14 @@ public class Run {
 		
 		WordSetValuator b3Valuator = new InformationAboutLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(b3Valuator, SELECT));
-		*/
+		
 		WordSetValuator c1Valuator =  new BiggestDifferentiationGroupValuator();
 		if (useGeneticForLongCalculations) {
 			list.add(new GeneticComparativeFinder(c1Valuator, SELECT, configShort));
 		} else {
 			list.add(new ExhaustiveComparativeFinder(c1Valuator, SELECT));
 		}
-		/*
+		
 		WordSetValuator d1Valuator = new AverageDifferentiationGroupsValuator();
 		if (useGeneticForLongCalculations) {
 			list.add(new GeneticComparativeFinder(d1Valuator, SELECT, configShort));
@@ -165,14 +166,14 @@ public class Run {
 		} else {
 			list.add(new ExhaustiveComparativeFinder(f1Valuator, SELECT));
 		}
-		
+		*/
 		WordSetValuator g1Valuator = new PositiveAveragePossibleWordsValuator();
 		if (useGeneticForLongCalculations) {
 			list.add(new GeneticComparativeFinder(g1Valuator, SELECT, configShort));
 		} else {
 			list.add(new ExhaustiveComparativeFinder(g1Valuator, SELECT));
 		}
-		
+		/*
 		WordSetValuator h1Valuator = new PositiveMaximumPossibleWordsValuator();
 		if (useGeneticForLongCalculations) {
 			list.add(new GeneticComparativeFinder(h1Valuator, SELECT, configShort));
@@ -181,7 +182,35 @@ public class Run {
 		}
 		
 		list.add(new VincentRevisited(SELECT));*/
+		/*
+		GeneticConfiguration configA = new GeneticConfiguration();
+		configA.amountOfSetKept = 100;
+		configA.generations = 100;
+		configA.newSets = 100;
+		configA.mutations = 0;
+		configA.recombinations = 0;
 		
+		
+		GeneticConfiguration configB = new GeneticConfiguration();
+		configB.amountOfSetKept = 100;
+		configB.generations = 100;
+		configB.newSets = 50;
+		configB.mutations = 25;
+		configB.recombinations = 25;
+		
+		GeneticConfiguration configC = new GeneticConfiguration();
+		configC.amountOfSetKept = 100;
+		configC.generations = 100;
+		configC.newSets = 50;
+		configC.mutations = 25;
+		configC.recombinations = 25;
+		configC.type = DistributionType.BALANCED;
+		
+		WordSetValuator d1Valuator = new AverageDifferentiationGroupsValuator();
+		list.add(new GeneticComparativeFinder(d1Valuator, SELECT, configA));
+		list.add(new GeneticComparativeFinder(d1Valuator, SELECT, configB));
+
+		*/
 		return list;
 	}
 	

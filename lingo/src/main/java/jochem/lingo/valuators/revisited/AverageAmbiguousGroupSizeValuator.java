@@ -39,7 +39,7 @@ public class AverageAmbiguousGroupSizeValuator extends PreComputingLingoValuator
 
 	@Override
 	public String getDescription() {
-		return "Jochems D algorithm";
+		return "Minimise average ambiguous neighbours";
 	}
 
 	@Override

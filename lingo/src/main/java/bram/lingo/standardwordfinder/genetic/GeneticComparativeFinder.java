@@ -8,6 +8,9 @@ import bram.lingo.standardwordfinder.OptimalWordSets;
 import bram.lingo.standardwordfinder.Select;
 import bram.lingo.standardwordfinder.SortOrder;
 import bram.lingo.standardwordfinder.StandardWordSetFinder;
+import bram.lingo.standardwordfinder.genetic.distributor.DistributionFactory;
+import bram.lingo.standardwordfinder.genetic.distributor.GenerationDistributor;
+import bram.lingo.standardwordfinder.genetic.distributor.GenerationDistributor.IndividualType;
 import bram.lingo.standardwordfinder.valuator.WordSetValuator;
 import bram.lingo.words.Word;
 import bram.lingo.words.wordSets.OrderedWordSet;
@@ -38,33 +41,36 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 	}
 	
 	public OptimalWordSets findOptimal(WordSet set) {
+		GenerationDistributor distributor = DistributionFactory.get(c_config);
 		TopResultSet topResultSet = new TopResultSet(c_config.amountOfSetKept, c_order);
 		if (set.size() < getSubsetSize()) {
 			return new OptimalWordSets(c_order);
 		}
 		for (int generation = 0 ; generation < c_config.generations ; generation++) {
-			topResultSet = runGeneration(topResultSet, set);
+			topResultSet = runGeneration(topResultSet, set, distributor);
 		}
 		return topResultSet.getBest();
 	}
 
-	private TopResultSet runGeneration(TopResultSet topResultSet, WordSet set) {
-		topResultSet = runNewSets(topResultSet, set);
-		topResultSet = runMutations(topResultSet, set);
-		topResultSet = runRecombinations(topResultSet, set);
+	private TopResultSet runGeneration(TopResultSet topResultSet, WordSet set, GenerationDistributor distributor) {
+		topResultSet = runNewSets(topResultSet, set, distributor);
+		topResultSet = runMutations(topResultSet, set, distributor);
+		topResultSet = runRecombinations(topResultSet, set, distributor);
+		distributor.updateDistribution();
 		return topResultSet;
 	}
 
-	private TopResultSet runNewSets(TopResultSet topResultSet, WordSet set) {
-		for (int i = 0 ; i < c_config.newSets ; i++) {
+	private TopResultSet runNewSets(TopResultSet topResultSet, WordSet set, GenerationDistributor distributor) {
+		for (int i = 0 ; i < distributor.getAmount(IndividualType.RANDOM) ; i++) {
 			WordSet randomSet = getRandomSubset(set);
-			topResultSet = addIfInTop(topResultSet, set, randomSet);
+			boolean isAdded = addIfInTop(topResultSet, set, randomSet);
+			distributor.addFeedback(IndividualType.RANDOM, isAdded);
 		}
 		return topResultSet;
 	}
 
-	private TopResultSet runMutations(TopResultSet topResultSet, WordSet set) {
-		for (int i = 0 ; i < c_config.mutations ; i++) {
+	private TopResultSet runMutations(TopResultSet topResultSet, WordSet set, GenerationDistributor distributor) {
+		for (int i = 0 ; i < distributor.getAmount(IndividualType.MUTATION) ; i++) {
 			WordSet randomSet = topResultSet.getRandom();
 			int randomWordIndexToRemove = randomInt(getSubsetSize());
 			OrderedWordSet newWordSet = new OrderedWordSet();
@@ -76,29 +82,33 @@ public class GeneticComparativeFinder extends StandardWordSetFinder {
 			int randomWordIndexToAdd = randomInt(set.size());
 			Word randomWord = set.get(randomWordIndexToAdd);
 			newWordSet.addWord(randomWord);
-			topResultSet = addIfInTop(topResultSet, set, newWordSet);
+			boolean isAdded = addIfInTop(topResultSet, set, newWordSet);
+			distributor.addFeedback(IndividualType.MUTATION, isAdded);
 		}
 		return topResultSet;
 	}
 	
-	private TopResultSet runRecombinations(TopResultSet topResultSet, WordSet set) {
-		for (int i = 0 ; i < c_config.recombinations ; i++) {
+	private TopResultSet runRecombinations(TopResultSet topResultSet, WordSet set, GenerationDistributor distributor) {
+		for (int i = 0 ; i < distributor.getAmount(IndividualType.RECOMBINATION) ; i++) {
 			WordSet randomSetA = topResultSet.getRandom();
 			WordSet randomSetB = topResultSet.getRandom();
 			WordSet recombinedSet = recombine(randomSetA,randomSetB);
 			if (recombinedSet != null) {
-				topResultSet = addIfInTop(topResultSet, set, recombinedSet);
+				boolean isAdded = addIfInTop(topResultSet, set, recombinedSet);
+				distributor.addFeedback(IndividualType.RECOMBINATION, isAdded);
+			} else {
+				distributor.addFeedback(IndividualType.RECOMBINATION, false);
 			}
 		}
 		return topResultSet;
 	}
 
-	private TopResultSet addIfInTop(TopResultSet topResultSet, WordSet totalSet, WordSet newSubset) {
+	private boolean addIfInTop(TopResultSet topResultSet, WordSet totalSet, WordSet newSubset) {
 		if (isCorrectSubset(newSubset)) {
 			double value = c_valuator.value(totalSet, newSubset);
-			topResultSet.addIfInTop(value, newSubset);
+			return topResultSet.addIfInTop(value, newSubset);
 		}
-		return topResultSet;
+		return false;
 	}
 	
 	private boolean isCorrectSubset(WordSet subset) {
