@@ -2,7 +2,7 @@ package jochem.lingo.valuators;
 
 import java.util.Set;
 
-public class AverageCorrectCountValuator extends PreComputingLingoValuator<Set<String>> {
+public class AverageCorrectCountValuator extends PreComputingLingoValuator {
 
     public AverageCorrectCountValuator(Set<String> w) {
         super(w);

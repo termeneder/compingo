@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-public class NonAmbiguityValuator extends PreComputingLingoValuator<Set<String>> {
+public class NonAmbiguityValuator extends PreComputingLingoValuator {
 
     public NonAmbiguityValuator(Set<String> words) {
         super(words);

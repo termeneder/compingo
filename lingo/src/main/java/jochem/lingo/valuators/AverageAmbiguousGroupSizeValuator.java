@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-public class AverageAmbiguousGroupSizeValuator extends PreComputingLingoValuator<Set<String>> {
+public class AverageAmbiguousGroupSizeValuator extends PreComputingLingoValuator {
 
     public AverageAmbiguousGroupSizeValuator(Set<String> words) {
         super(words);

@@ -39,12 +39,12 @@ public class AverageAmbiguousGroupSizeValuator extends PreComputingLingoValuator
 
 	@Override
 	public String getDescription() {
-		return "Minimise average ambiguous neighbours";
+		return "Minimise average neighbours per group (Jochem)";
 	}
 
 	@Override
 	public String getCode() {
-		return "J1";
+		return "J2";
 	}
 	
 	@Override

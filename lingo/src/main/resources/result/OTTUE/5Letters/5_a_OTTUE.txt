@@ -26,4 +26,7 @@ a (280):
 	I1) Vincents algorithm, 1 word: afren (1.0)
 	I1) Vincents algorithm, 2 words: afren,aspot (1.0)
 	I1) Vincents algorithm, 3 words: afren,aspot,album (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: aftel (24.385714285714286)
+	J2) Minimise average neighbours per group (Jochem), 2 words: akten,alras (3.835714285714286)
+	J2) Minimise average neighbours per group (Jochem), 3 words: afpik,arden,atlas (1.3857142857142857)
 

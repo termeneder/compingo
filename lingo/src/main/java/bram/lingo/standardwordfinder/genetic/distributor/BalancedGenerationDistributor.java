@@ -1,5 +1,6 @@
 package bram.lingo.standardwordfinder.genetic.distributor;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,18 +9,22 @@ import bram.lingo.standardwordfinder.genetic.distributor.GenerationDistributor.I
 
 public class BalancedGenerationDistributor implements GenerationDistributor {
 
-	private static final int MINIMAL_SIZE = 10;
-	private static final int REMEMBER_LAST = 0;
+	private final int MINIMAL_SIZE = 10;
+	private final int TOTAL_SIZE;
+	private final int REMEMBER_LAST = 1000;
 	
 	private Map<IndividualType, Integer> c_amounts;
 	private Map<IndividualType, IndividualMemory> c_lastIndividuals;
 	
 	public BalancedGenerationDistributor(GeneticConfiguration config) {
+		TOTAL_SIZE = config.amountOfSetKept;
+		
 		c_amounts = new HashMap<IndividualType, Integer>();
 		c_amounts.put(IndividualType.RANDOM, config.newSets);
 		c_amounts.put(IndividualType.MUTATION, config.mutations);
 		c_amounts.put(IndividualType.RECOMBINATION, config.recombinations);
 		
+		c_lastIndividuals = new HashMap<IndividualType, IndividualMemory>();
 		c_lastIndividuals.put(IndividualType.RANDOM, new IndividualMemory(REMEMBER_LAST));
 		c_lastIndividuals.put(IndividualType.MUTATION, new IndividualMemory(REMEMBER_LAST));
 		c_lastIndividuals.put(IndividualType.RECOMBINATION, new IndividualMemory(REMEMBER_LAST));
@@ -38,10 +43,80 @@ public class BalancedGenerationDistributor implements GenerationDistributor {
 	
 	@Override
 	public void updateDistribution() {
+		int totalCorrect = getTotalCorrect();
+		if (totalCorrect == 0) {
+			assignEqualAmounts();
+		} else {
+			int surplus = TOTAL_SIZE - (MINIMAL_SIZE * c_amounts.size());
+			for (IndividualType type : c_amounts.keySet()) {
+				int newAmount = calculateNewAmount(type, totalCorrect, surplus);
+				c_amounts.put(type, newAmount);
+			}
+		}
+		flattenAmounts();
 		
+		/*String str = 
+			c_lastIndividuals.get(IndividualType.RANDOM).getCorrect() + " - " +
+			c_lastIndividuals.get(IndividualType.MUTATION).getCorrect() + " - " +
+			c_lastIndividuals.get(IndividualType.RECOMBINATION).getCorrect() + " => " +
+			c_amounts.get(IndividualType.RANDOM) + " - " +
+			c_amounts.get(IndividualType.MUTATION) + " - " +
+			c_amounts.get(IndividualType.RECOMBINATION);
+		System.out.println(str);
+		*/
 	}
 
 	
+	private int calculateNewAmount(IndividualType type, int totalCorrect, int surplus) {
+		int amountCorrect = c_lastIndividuals.get(type).getCorrect();
+		double ratio = (double)amountCorrect/(double)totalCorrect;
+		int newAmount = (int)(ratio*(double)surplus) + MINIMAL_SIZE;
+		return newAmount;
+		
+	}
+
+	private void assignEqualAmounts() {
+		int average = TOTAL_SIZE/c_amounts.size();
+		for (IndividualType type : c_amounts.keySet()) {
+			c_amounts.put(type,average);
+		}
+	}
+	
+	private void flattenAmounts() {
+		int totalAmount = getTotalAmount();
+		
+		for (IndividualType type : c_amounts.keySet()) {
+			if (totalAmount == TOTAL_SIZE) {
+				break;
+			} else if (totalAmount < TOTAL_SIZE) {
+				c_amounts.put(type,c_amounts.get(type)+1);
+				totalAmount++;
+			} else {
+				c_amounts.put(type,c_amounts.get(type)-1);
+				totalAmount--;
+			}
+			
+		}
+	}
+
+	private int getTotalAmount() {
+		int totalAmount = 0;
+		for (Integer amount : c_amounts.values()) {
+			totalAmount+=amount;
+		}
+		return totalAmount;
+	}
+	
+	
+	private int getTotalCorrect() {
+		int totalCorrect = 0;
+		for (IndividualMemory memory : c_lastIndividuals.values()) {
+			totalCorrect += memory.getCorrect();
+		}
+		return totalCorrect;
+	}
+
+
 	private class IndividualMemory {
 		
 		private int c_correct;
