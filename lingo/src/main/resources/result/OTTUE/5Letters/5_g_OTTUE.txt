@@ -26,4 +26,7 @@ g (304):
 	I1) Vincents algorithm, 1 word: gerat (1.0)
 	I1) Vincents algorithm, 2 words: gerat,godin (1.0)
 	I1) Vincents algorithm, 3 words: gerat,godin,gulst (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: gelet (20.269736842105264)
+	J2) Minimise average neighbours per group (Jochem), 2 words: galei,gordt (3.6315789473684212)
+	J2) Minimise average neighbours per group (Jochem), 3 words: galmt,goden,gruis (1.605263157894737)
 

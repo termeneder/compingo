@@ -54,6 +54,10 @@ public class TestWordSet implements Comparable<TestWordSet>{
 		return c_name + ": " + c_correct + "/" + c_tries + "=" + getRatio();
 	}
 	
+	public int getTries() {
+		return c_tries;
+	}
+	
 	public String toCSV() {
 		String csv = c_name;
 		csv += "," + getRatio();

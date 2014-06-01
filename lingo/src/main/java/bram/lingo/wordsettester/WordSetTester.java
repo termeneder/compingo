@@ -21,7 +21,10 @@ public class WordSetTester {
 	private WordSet c_totalWordSet;
 	private List<TestWordSet> c_testWordSets;
 	private String c_csvLocation;
-	private String c_headerLine;
+	private int c_wordSize;
+	private Letter c_startingLetter; 
+	private Source c_source;
+	
 	public WordSetTester(String csvLocation) throws IOException {
 		c_csvLocation = csvLocation;
 		FileReader csv = new FileReader(csvLocation);
@@ -40,12 +43,11 @@ public class WordSetTester {
 	}
 	
 	private void readHeaderLine(String line) {
-		c_headerLine = line;
 		String[] headerArguments = line.split(",");
-		int wordSize = Integer.parseInt(headerArguments[0]);
-		Letter startingLetter = LetterUtils.StringToLetter(headerArguments[1]);
-		Source source = Source.StringToSource(headerArguments[2]);
-		c_totalWordSet = NLetterWords.getInstance(wordSize, source).getWordsStartingWith(startingLetter);
+		c_wordSize = Integer.parseInt(headerArguments[0]);
+		c_startingLetter = LetterUtils.StringToLetter(headerArguments[1]);
+		c_source = Source.StringToSource(headerArguments[2]);
+		c_totalWordSet = NLetterWords.getInstance(c_wordSize, c_source).getWordsStartingWith(c_startingLetter);
 	}
 	
 	
@@ -83,7 +85,7 @@ public class WordSetTester {
 		try {
 			FileWriter writer = new FileWriter(c_csvLocation);
 			BufferedWriter bufferedWriter = new BufferedWriter(writer);
-			bufferedWriter.append(c_headerLine);
+			bufferedWriter.append(getHeadline());
 			for (TestWordSet set : c_testWordSets) {
 				bufferedWriter.write("\n"+set.toCSV());
 			}
@@ -91,5 +93,19 @@ public class WordSetTester {
 		} catch (IOException e) {
 			throw new RuntimeException(e);
 		}
+	}
+	
+	private String getHeadline() {
+		
+		String str = c_wordSize + "," + c_startingLetter + "," + c_source + "," + amountOfTests();
+		return str;
+	}
+	
+	private int amountOfTests() {
+		int totalTests = 0;
+		for (TestWordSet set : c_testWordSets) {
+			totalTests += set.getTries();
+		}
+		return totalTests;
 	}
 }

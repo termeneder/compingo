@@ -26,4 +26,7 @@ k (407):
 	I1) Vincents algorithm, 1 word: karet (1.0)
 	I1) Vincents algorithm, 2 words: karet,kluns (1.0)
 	I1) Vincents algorithm, 3 words: karet,kluns,kopie (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: karet (20.307125307125308)
+	J2) Minimise average neighbours per group (Jochem), 2 words: keilt,koran (3.2063882063882065)
+	J2) Minimise average neighbours per group (Jochem), 3 words: kanis,kerkt,klomp (1.3882063882063882)
 

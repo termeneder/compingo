@@ -26,3 +26,7 @@ z (177):
 	I1) Vincents algorithm, 1 word: zaten (1.0)
 	I1) Vincents algorithm, 2 words: zaten,zwolg (1.0)
 	I1) Vincents algorithm, 3 words: zaten,zwolg,zurig (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: zeten (10.898305084745763)
+	J2) Minimise average neighbours per group (Jochem), 2 words: zeten,zwolg (2.5480225988700567)
+	J2) Minimise average neighbours per group (Jochem), 3 words: zanik,zemel,zorgt (1.2485875706214689)
+

@@ -26,4 +26,7 @@ t (277):
 	I1) Vincents algorithm, 1 word: toean (1.0)
 	I1) Vincents algorithm, 2 words: toean,trips (1.0)
 	I1) Vincents algorithm, 3 words: toean,trips,talud (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: tater (14.675090252707582)
+	J2) Minimise average neighbours per group (Jochem), 2 words: talon,terts (2.783393501805054)
+	J2) Minimise average neighbours per group (Jochem), 3 words: tanks,tempo,trilt || tanks,titel,tumor || tesla,tinkt,tumor (1.3249097472924187)
 

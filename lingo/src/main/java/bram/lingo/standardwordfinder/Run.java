@@ -40,18 +40,19 @@ public class Run {
 	// TODO move this to config
 	private static final String FILE_LOCATION = "src/main/resources/result/";
 	private static final String RUNNING_PREFIX = "running_";
-	private static final String DESCRIPTION_PREFIX = "Test_Algorithm_J_";
+	private static final String DESCRIPTION_PREFIX = "J_Algorithm_";
 	private static final int WORD_LENGTH = 5;
 	private static final Source SOURCE = Source.OTTUE;
-	private static final boolean PRINT_TO_FILE = false;
-	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = true;
+	private static final boolean PRINT_TO_FILE = true;
+	private static final boolean APPEND_TIMESTAMP_TO_FILENAME = false;
 	private static final boolean PRINT_TIME = true;
 	private static final int MIN_SUBSET_SIZE = 1;
 	private static final int MAX_SUBSET_SIZE = 3;
 	private static final Select SELECT = Select.BEST;
 	
 	public static void main(String[] args) {
-		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE).getWordsStartingWith(Letter.ij);
+		WordSet words = NLetterWords.getInstance(WORD_LENGTH, SOURCE)
+				.getWordsStartingWith(Letter.e, Letter.f, Letter.j, Letter.n, Letter.q, Letter.u);
 		SortedMap<Letter, WordSet> wordSetMap = WordSetUtils.splitOnStartLetter(words);
 		for (Entry <Letter, WordSet> entry : wordSetMap.entrySet()) {
 			runAllAlgorithmsForLetter(entry.getKey(), entry.getValue());
@@ -138,7 +139,7 @@ public class Run {
 		configShort.recombinations = 25;
 		configShort.type = DistributionType.BALANCED;
 		
-		/*
+		
 		WordSetValuator a3Valuator =  new CorrectLetters3Valuator(letterSet);
 		list.add(new ExhaustiveComparativeFinder(a3Valuator, SELECT));
 		
@@ -189,14 +190,13 @@ public class Run {
 		
 		list.add(new VincentRevisited(SELECT));
 		
-		*/
-		WordSetValuator d1Valuator = new AverageAmbiguousGroupSizeValuatorBram(letterSet);
-		//list.add(new ExhaustiveComparativeFinder(d1Valuator, SELECT));
-		
 		WordSetValuator j2Valuator = new AverageAmbiguousGroupSizeValuator(letterSet);
-		list.add(new ExhaustiveComparativeFinder(j2Valuator, SELECT));
-		WordSetValuator j1Valuator = new AverageNeighboursInGroupsValuator();
-		list.add(new ExhaustiveComparativeFinder(j1Valuator, SELECT));
+		if (useGeneticForLongCalculations) {
+			list.add(new GeneticComparativeFinder(j2Valuator, SELECT, configShort));
+		} else {
+			list.add(new ExhaustiveComparativeFinder(j2Valuator, SELECT));
+		}
+		
 		return list;
 	}
 	

@@ -26,4 +26,7 @@ l (239):
 	I1) Vincents algorithm, 1 word: laten (1.0)
 	I1) Vincents algorithm, 2 words: laten,lords (1.0)
 	I1) Vincents algorithm, 3 words: laten,lords,luikt (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: lento (16.97489539748954)
+	J2) Minimise average neighbours per group (Jochem), 2 words: lands,leurt (3.6861924686192467)
+	J2) Minimise average neighbours per group (Jochem), 3 words: lands,likte,lorum (1.5355648535564854)
 

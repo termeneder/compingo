@@ -26,4 +26,7 @@ d (260):
 	I1) Vincents algorithm, 1 word: doren (1.0)
 	I1) Vincents algorithm, 2 words: doren,datum (1.0)
 	I1) Vincents algorithm, 3 words: doren,datum,dikst (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: doren (17.846153846153847)
+	J2) Minimise average neighbours per group (Jochem), 2 words: demon,drilt (3.1307692307692307)
+	J2) Minimise average neighbours per group (Jochem), 3 words: dadel,dingt,drops (1.4384615384615385)
 
