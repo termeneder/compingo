@@ -3,13 +3,12 @@ OTTUE
  - Run/Rerun
    - none
  - Improve precision
-   - C: A-B, G-H, K-M, O-P, R-T, V-W
    - E: A-B, D, G-H, K-M, O-P, R-T, V-W
    - F: A-B, D, G-H, K-M, O-P, R-T, V-W
-   - G: A-B, D, G-H, K-M, O-P, R-T, V-W
+   - G: K-M, O-P, R-T, V-W
    - H: A-B, D, G-H, K-M, O-P, R-T, V-W
  - Completed algorithms
-   - A,B,D,I,J
+   - A,B,C,D,I,J
 6 letter words
  - Run/Rerun
    - J: A-B, D, F-IJ
@@ -23,33 +22,28 @@ OTTUE
     - A,B,D,I
 7 letter words
  - Run/Rerun
+   - J: A-IJ
+ - Improve precision
    - C: A-IJ
    - D: A-IJ
    - E: A-IJ
    - F: A-IJ
    - G: A-IJ
    - H: A-IJ
-   - J: A-IJ
- - Improve precision
-   - none
  - Completed algorithms
-   - A, B, I
+   - A,B,I
 8 letter words
  - Run/Rerun
-   - A: A-IJ
-   - B: A-IJ
+   - J: A-IJ
+ - Improve precision
    - C: A-IJ
    - D: A-IJ
    - E: A-IJ
    - F: A-IJ
    - G: A-IJ
    - H: A-IJ
-   - I: A-IJ
-   - J: A-IJ
- - Improve precision
-   - none
  - Completed algorithms
-   - none            
+   - A,B,I            
 
 OPEN TAAL
 
