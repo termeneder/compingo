@@ -161,26 +161,12 @@ public class Run {
 	}
 	
 	private static IStandardWordSetFinder wrapValuator(WordSetValuator valuator, RunType type) {
-		GeneticConfiguration configLong = new GeneticConfiguration();
-		configLong.amountOfSetKept = 100;
-		configLong.generations = 1000;
-		configLong.newSets = 50;
-		configLong.mutations = 25;
-		configLong.recombinations = 25;
-		configLong.type = DistributionType.BALANCED;
 		
-		
-		GeneticConfiguration configShort = new GeneticConfiguration();
-		configShort.amountOfSetKept = 100;
-		configShort.generations = 10;
-		configShort.newSets = 50;
-		configShort.mutations = 25;
-		configShort.recombinations = 25;
-		configShort.type = DistributionType.BALANCED;
 		switch(type) {
 		case Exhaustive : return new ExhaustiveComparativeFinder(valuator, c_config.select);
-		case GeneticShort : return new GeneticComparativeFinder(valuator, c_config.select, configShort);
-		case GeneticLong : return new GeneticComparativeFinder(valuator, c_config.select, configLong);
+		case Genetic1K : return new GeneticComparativeFinder(valuator, c_config.select, c_config.geneticConfig1K);
+		case Genetic100K : return new GeneticComparativeFinder(valuator, c_config.select, c_config.geneticConfig100K);
+		case Genetic1M : return new GeneticComparativeFinder(valuator, c_config.select, c_config.geneticConfig1M);
 		default : throw new RuntimeException("Can't find wrapper for run time: " + type);
 		}
 	}
