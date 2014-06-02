@@ -5,8 +5,14 @@ play
 standardwordfinder
   - maak algoritme dat zoekt naar een boom-antwoord
   - onderzoek heuristic finder
-  - maak preprocess finder van C,D,E,F,G,H
-  - verplaats params naar configfile
+  - maak preprocess finder van 
+    - C
+    - D
+    - E
+    - F
+    - G
+    - H
+    - J
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file
