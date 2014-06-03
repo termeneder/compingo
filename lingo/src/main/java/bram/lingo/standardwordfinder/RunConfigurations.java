@@ -15,11 +15,11 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "J_Algorithm_";
+	public final String descriptionPrefix = "A_Algorithm_4_Words_";
 	public final int wordLength = 5;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
-	public final boolean appendTimestampToFilename = false;
+	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
 	public final int minSubsetSize = 4;
 	public final int maxSubsetSize = 4;
