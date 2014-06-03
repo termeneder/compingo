@@ -3,33 +3,33 @@ OTTUE
  - Run/Rerun
    - none
  - Improve precision
-   - E: A-B, D, G-H, K-M, O-P, R-T, V-W
-   - F: A-B, D, G-H, K-M, O-P, R-T, V-W
-   - G: L-M, O-P, R-T, V-W
-   - H: A-B, D, G-H, K-M, O-P, R-T, V-W
+   - E: A-B,D,G-H,K-M,O-P,R-T,V-W
+   - F: A-B,D,G-H,K-M,O-P,R-T,V-W
+   - G: R-T,V-W
+   - H: A-B,D,G-H,K-M,O-P,R-T,V-W
  - Completed algorithms
    - A,B,C,D,I,J
 6 letter words
  - Run/Rerun
-   - J: A-B, D, F-IJ
+   - J: B, D, F-IJ
  - Improve precision
-   - C: A-B, D, F-I, K-P, R-T, V-W, Z
-   - E: A-B, D, F-I, K-P, R-T, V-W, Z
-   - F: A-B, D, F-I, K-P, R-T, V-W, Z
-   - G: A-B, D, F-I, K-P, R-T, V-W, Z
-   - H: A-B, D, F-I, K-P, R-T, V-W, Z
+   - C: A-B,D,F-I,K-P,R-T,V-W,Z
+   - E: A-B,D,F-I,K-P,R-T,V-W,Z
+   - F: A-B,D,F-I,K-P,R-T,V-W,Z
+   - G: A-B,D,F-I,K-P,R-T,V-W,Z
+   - H: A-B,D,F-I,K-P,R-T,V-W,Z
  - Completed algorithms
-    - A,B,D,I
+   - A,B,D,I
 7 letter words
  - Run/Rerun
-   - J: A-IJ
+   - J: A-I,K-P,R-W,Z
  - Improve precision
-   - C: A-IJ
-   - D: A-IJ
-   - E: A-IJ
-   - F: A-IJ
-   - G: A-IJ
-   - H: A-IJ
+   - C: A-I,K-P,R-W,Z
+   - D: A-I,K-P,R-W,Z
+   - E: A-I,K-P,R-W,Z
+   - F: A-I,K-P,R-W,Z
+   - G: A-I,K-P,R-W,Z
+   - H: A-I,K-P,R-W,Z
  - Completed algorithms
    - A,B,I
 8 letter words
