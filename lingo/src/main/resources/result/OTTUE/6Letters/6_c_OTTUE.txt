@@ -26,4 +26,6 @@ c (184):
 	I1) Vincents algorithm, 1 word: carnet (1.0)
 	I1) Vincents algorithm, 2 words: carnet,consul (1.0)
 	I1) Vincents algorithm, 3 words: carnet,consul,chemie (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: carnet (4.456521739130435)
+	J2) Minimise average neighbours per group (Jochem), 2 words: claims,cornet (1.184782608695652)
+	J2) Minimise average neighbours per group (Jochem), 3 words: cabrio,center,cyclus || cement,claris,coupon (1.0108695652173914)
