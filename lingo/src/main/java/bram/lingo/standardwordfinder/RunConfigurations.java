@@ -15,22 +15,22 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "E_Algorithm_Genetic_";
+	public final String descriptionPrefix = "J_Algorithm_Genetic_";
 	public final int wordLength = 7;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
 	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
-	public final int minSubsetSize = 1;
-	public final int maxSubsetSize = 2;
+	public final int minSubsetSize = 3;
+	public final int maxSubsetSize = 3;
 	public final Select select = Select.BEST;
-	public final boolean runAllLetters = true;
-	public final Letter[] lettersToRun = {Letter.ij, Letter.j, Letter.q, Letter.x, Letter.y};
+	public final boolean runAllLetters = false;
+	public final Letter[] lettersToRun = {Letter.g, Letter.h, Letter.i, Letter.j};
 	public final Map<Algorithm, RunType> algorithms = setAlgorithms();
 	
-	GeneticConfiguration geneticConfig1K = createConfigN(1000);
-	GeneticConfiguration geneticConfig100K = createConfigN(100000);
-	GeneticConfiguration geneticConfig1M = createConfigN(1000000);
+	public GeneticConfiguration geneticConfig1K = createConfigN(1000);
+	public GeneticConfiguration geneticConfig100K = createConfigN(100000);
+	public GeneticConfiguration geneticConfig1M = createConfigN(1000000);
 	private GeneticConfiguration createConfigN(int i) {
 		GeneticConfiguration config = new GeneticConfiguration();
 		config.amountOfSetKept = 100;
@@ -50,12 +50,12 @@ public class RunConfigurations {
 		algorithmMap.put(Algorithm.C1, RunType.None);
 		algorithmMap.put(Algorithm.C2, RunType.None);
 		algorithmMap.put(Algorithm.D2, RunType.None);
-		algorithmMap.put(Algorithm.E1, RunType.Exhaustive);
+		algorithmMap.put(Algorithm.E1, RunType.None);
 		algorithmMap.put(Algorithm.F1, RunType.None);
 		algorithmMap.put(Algorithm.G1, RunType.None);
 		algorithmMap.put(Algorithm.H1, RunType.None);
 		algorithmMap.put(Algorithm.I1, RunType.None);
-		algorithmMap.put(Algorithm.J2, RunType.None);
+		algorithmMap.put(Algorithm.J2, RunType.Genetic1M);
 		return algorithmMap;
 	}
 	
