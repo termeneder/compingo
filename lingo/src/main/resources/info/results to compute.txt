@@ -5,13 +5,13 @@ OTTUE
  - Improve precision
    - E: A-B,D,G-H,K-M,O-P,R-T,V-W
    - F: A-B,D,G-H,K-M,O-P,R-T,V-W
-   - G: R-T,V-W
+   - G: S-T,V-W
    - H: A-B,D,G-H,K-M,O-P,R-T,V-W
  - Completed algorithms
    - A,B,C,D,I,J
 6 letter words
  - Run/Rerun
-   - J: B, D, F-IJ
+   - J: K-IJ
  - Improve precision
    - C: A-B,D,F-I,K-P,R-T,V-W,Z
    - E: A-B,D,F-I,K-P,R-T,V-W,Z

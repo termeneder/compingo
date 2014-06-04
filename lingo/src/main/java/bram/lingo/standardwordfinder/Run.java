@@ -16,8 +16,6 @@ import vincent.lingo.revisited.VincentRevisited;
 import bram.lingo.standardwordfinder.RunConfigurations.Algorithm;
 import bram.lingo.standardwordfinder.RunConfigurations.RunType;
 import bram.lingo.standardwordfinder.genetic.GeneticComparativeFinder;
-import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
-import bram.lingo.standardwordfinder.genetic.distributor.DistributionFactory.DistributionType;
 import bram.lingo.standardwordfinder.valuator.AveragePossibleWordsValuator;
 import bram.lingo.standardwordfinder.valuator.BiggestDifferentiationGroupValuator;
 import bram.lingo.standardwordfinder.valuator.CorrectLetters3Valuator;

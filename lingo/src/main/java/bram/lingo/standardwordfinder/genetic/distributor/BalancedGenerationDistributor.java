@@ -1,11 +1,9 @@
 package bram.lingo.standardwordfinder.genetic.distributor;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
 import bram.lingo.standardwordfinder.genetic.GeneticConfiguration;
-import bram.lingo.standardwordfinder.genetic.distributor.GenerationDistributor.IndividualType;
 
 public class BalancedGenerationDistributor implements GenerationDistributor {
 
@@ -54,16 +52,6 @@ public class BalancedGenerationDistributor implements GenerationDistributor {
 			}
 		}
 		flattenAmounts();
-		
-		/*String str = 
-			c_lastIndividuals.get(IndividualType.RANDOM).getCorrect() + " - " +
-			c_lastIndividuals.get(IndividualType.MUTATION).getCorrect() + " - " +
-			c_lastIndividuals.get(IndividualType.RECOMBINATION).getCorrect() + " => " +
-			c_amounts.get(IndividualType.RANDOM) + " - " +
-			c_amounts.get(IndividualType.MUTATION) + " - " +
-			c_amounts.get(IndividualType.RECOMBINATION);
-		System.out.println(str);
-		*/
 	}
 
 	

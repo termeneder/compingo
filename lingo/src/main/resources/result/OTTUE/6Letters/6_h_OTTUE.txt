@@ -26,4 +26,6 @@ h (414):
 	I1) Vincents algorithm, 1 word: hierna (1.0)
 	I1) Vincents algorithm, 2 words: hierna,hotels (1.0)
 	I1) Vincents algorithm, 3 words: hierna,hotels,huidig (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: herten (16.58937198067633)
+	J2) Minimise average neighbours per group (Jochem), 2 words: hendel,hortus (2.251207729468599)
+	J2) Minimise average neighbours per group (Jochem), 3 words: handig,hekelt,hupser (1.1545893719806763)

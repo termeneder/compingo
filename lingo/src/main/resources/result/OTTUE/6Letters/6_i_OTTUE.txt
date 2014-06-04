@@ -26,4 +26,6 @@ i (257):
 	I1) Vincents algorithm, 1 word: intake (1.0)
 	I1) Vincents algorithm, 2 words: intake,impuls (1.0)
 	I1) Vincents algorithm, 3 words: intake,impuls,ingoed (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: inliet (16.330739299610894)
+	J2) Minimise average neighbours per group (Jochem), 2 words: idioot,imkers (2.6264591439688716)
+	J2) Minimise average neighbours per group (Jochem), 3 words: imkers,intand,involg (1.2412451361867705)

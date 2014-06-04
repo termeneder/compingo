@@ -26,4 +26,6 @@ g (884):
 	I1) Vincents algorithm, 1 word: gerant (1.0)
 	I1) Vincents algorithm, 2 words: gerant,gildos (1.0)
 	I1) Vincents algorithm, 3 words: gerant,gildos,gekuip (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: getale (36.223981900452486)
+	J2) Minimise average neighbours per group (Jochem), 2 words: galops,grindt (4.3144796380090495)
+	J2) Minimise average neighbours per group (Jochem), 3 words: galmug,gepekt,gronds || gepeld,ginkgo,gramst (1.658371040723982)
