@@ -13,6 +13,7 @@ standardwordfinder
     - G
     - H
     - J
+  - Maak partial exhaustive finder
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file

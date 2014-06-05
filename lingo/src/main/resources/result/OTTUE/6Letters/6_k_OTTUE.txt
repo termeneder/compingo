@@ -26,4 +26,6 @@ k (732):
 	I1) Vincents algorithm, 1 word: kanter (1.0)
 	I1) Vincents algorithm, 2 words: kanter,klimop (1.0)
 	I1) Vincents algorithm, 3 words: kanter,klimop,koudst (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: kartel (19.601092896174862)
+	J2) Minimise average neighbours per group (Jochem), 2 words: kielen,krapst (2.3825136612021858)
+	J2) Minimise average neighbours per group (Jochem), 3 words: kiende,klampt,krokus (1.1912568306010929)

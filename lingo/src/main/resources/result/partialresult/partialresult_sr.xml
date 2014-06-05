@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<running>
+		<query>
+			<startingletter>a</startingletter>
+			<wordset>ottue</wordset>
+			<wordlength>8</wordlength>
+			<algorithm>E1</algorithm>
+			<subwordsize>3</subwordsize>
+			<allocation>1000</allocation>
+			<sortorder>best</sortorder>
+			<indices/>
+			<bestscore/>
+			<bestsets/>
+		</query>
+		<query>
+			<startingletter>a</startingletter>
+			<wordset>ottue</wordset>
+			<wordlength>8</wordlength>
+			<algorithm>F1</algorithm>
+			<subwordsize>3</subwordsize>
+			<allocation>1000</allocation>
+			<sortorder>best</sortorder>
+			<indices/>
+			<bestscore/>
+			<bestsets/>
+		</query>
+		<query>
+			<startingletter>l</startingletter>
+			<wordset>ottue</wordset>
+			<wordlength>5</wordlength>
+			<algorithm>E1</algorithm>
+			<subwordsize>3</subwordsize>
+			<allocation>1000</allocation>
+			<sortorder>best</sortorder>
+			<indices/>
+			<bestscore/>
+			<bestsets/>
+		</query>
+	</running>
+	<finished>
+	</finished>
+</results>

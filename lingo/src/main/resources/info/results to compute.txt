@@ -11,7 +11,7 @@ OTTUE
    - A,B,C,D,I,J
 6 letter words
  - Run/Rerun
-   - J: K-IJ
+   - J: O-IJ
  - Improve precision
    - C: A-B,D,F-I,K-P,R-T,V-W,Z
    - E: A-B,D,F-I,K-P,R-T,V-W,Z
