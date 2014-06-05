@@ -26,4 +26,7 @@ i (420):
 	I1) Vincents algorithm, 1 word: inroest (1.0)
 	I1) Vincents algorithm, 2 words: inroest,inklapt (1.0)
 	I1) Vincents algorithm, 3 words: inroest,inklapt,ingewijd (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: isoleer (11.228571428571428)
+	J2) Minimise average neighbours per group (Jochem), 2 words: idealer,inktgom (1.861904761904762)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: idolaat,inkrimp,inweven (1.119047619047619)
 

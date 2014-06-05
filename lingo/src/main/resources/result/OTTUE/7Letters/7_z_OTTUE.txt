@@ -26,4 +26,6 @@ z (503):
 	I1) Vincents algorithm, 1 word: zanikte (1.0)
 	I1) Vincents algorithm, 2 words: zanikte,zolders (1.0)
 	I1) Vincents algorithm, 3 words: zanikte,zolders,zuigpijp (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: zeikten (7.083499005964215)
+	J2) Minimise average neighbours per group (Jochem), 2 words: ziekten,zorgpad (1.3141153081510935)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: zaliger,zetstuk,zoemden (1.047713717693837)

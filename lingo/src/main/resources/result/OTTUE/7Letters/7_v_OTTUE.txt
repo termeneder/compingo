@@ -26,4 +26,7 @@ v (1082):
 	I1) Vincents algorithm, 1 word: veronal (1.0)
 	I1) Vincents algorithm, 2 words: veronal,vistuig (1.0)
 	I1) Vincents algorithm, 3 words: veronal,vistuig,veendijk (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: ventiel (17.11829944547135)
+	J2) Minimise average neighbours per group (Jochem), 2 words: vastlig,verdoen (2.018484288354898)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: verdere,vesting,volkwam (1.177449168207024)
 

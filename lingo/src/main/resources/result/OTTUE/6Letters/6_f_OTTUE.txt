@@ -22,7 +22,7 @@ f (220):
 	G1) Minimise average possible words with positive info, 3 words: fakirs,fleece,fouten (2213.7454545454543)
 	H1) Minimise maximum possible words with positive info, 1 word: falies (2467531.0)
 	H1) Minimise maximum possible words with positive info, 2 words: fabels,forint || faciel,fronst || fairst,fiolen || fairst,floten || fairst,floxen || fairst,fonkel || fakirs,floten || falies,forint || falies,forten || falies,fronst || falset,forint || fiasco,fleren || fierst,flacon || fierst,fonola || figaro,flenst || filets,franco || finale,fresco || finale,fronst || fistel,franco || flacon,friste || flacon,frites || flater,fusion || floers,fnuikt || floten,fresia || foelie,francs || fonola,friste || fonola,frites || franco,futiel (351780.0)	H1g1K) Minimise maximum possible words with positive info, 2 words: falies,forten || faciel,fronst (351780.0)
-	H1g1K) Minimise maximum possible words with positive info, 3 words: fakirs,floret,fouten (74465.0)
+	H1) Minimise maximum possible words with positive info, 3 words: fakirs,floten,fuseer || faseer,floept,fnuikt || faseer,floers,fnuikt || faseer,floppy,fnuikt || faseer,floret,fnuikt || faseer,florijn,fnuikt || faseer,floste,fnuikt || faseer,floten,fnuikt || faseer,floxen,fnuikt || flashy,fnuikt,foeter || flashy,foeter,fuiken || fokten,freule,fysica (39030.0)
 	I1) Vincents algorithm, 1 word: flater (1.0)
 	I1) Vincents algorithm, 2 words: flater,fusion (1.0)
 	I1) Vincents algorithm, 3 words: flater,fusion,fijnhak (1.0)

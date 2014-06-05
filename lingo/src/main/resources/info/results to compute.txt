@@ -13,11 +13,11 @@ OTTUE
  - Run/Rerun
    - J: O-IJ
  - Improve precision
-   - C: A-B,D,F-I,K-P,R-T,V-W,Z
-   - E: A-B,D,F-I,K-P,R-T,V-W,Z
-   - F: A-B,D,F-I,K-P,R-T,V-W,Z
-   - G: A-B,D,F-I,K-P,R-T,V-W,Z
-   - H: A-B,D,F-I,K-P,R-T,V-W,Z
+   - C: A-B,D,G-I,K-P,R-T,V-W,Z
+   - E: A-B,D,G-I,K-P,R-T,V-W,Z
+   - F: A-B,D,G-I,K-P,R-T,V-W,Z
+   - G: A-B,D,G-I,K-P,R-T,V-W,Z
+   - H: A-B,D,G-I,K-P,R-T,V-W,Z
  - Completed algorithms
    - A,B,D,I
 7 letter words

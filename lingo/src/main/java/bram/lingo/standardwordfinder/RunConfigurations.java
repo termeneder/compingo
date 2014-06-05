@@ -15,17 +15,19 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "J_Algorithm_Genetic_";
+	public final String descriptionPrefix = "J_Algorithm_Exhaustive_";
 	public final int wordLength = 7;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
 	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
-	public final int minSubsetSize = 3;
-	public final int maxSubsetSize = 3;
+	public final int minSubsetSize = 1;
+	public final int maxSubsetSize = 2;
 	public final Select select = Select.BEST;
 	public final boolean runAllLetters = false;
-	public final Letter[] lettersToRun = {Letter.g, Letter.h, Letter.i, Letter.j};
+	public final Letter[] lettersToRun = {Letter.k, Letter.l, Letter.m, Letter.n, Letter.o, Letter.p
+			,Letter.q, Letter.r, Letter.s, Letter.t, Letter.u, Letter.v, Letter.w, Letter.x, Letter.y
+			,Letter.z, Letter.ij};
 	public final Map<Algorithm, RunType> algorithms = setAlgorithms();
 	
 	public GeneticConfiguration geneticConfig1K = createConfigN(1000);
@@ -55,7 +57,7 @@ public class RunConfigurations {
 		algorithmMap.put(Algorithm.G1, RunType.None);
 		algorithmMap.put(Algorithm.H1, RunType.None);
 		algorithmMap.put(Algorithm.I1, RunType.None);
-		algorithmMap.put(Algorithm.J2, RunType.Genetic1M);
+		algorithmMap.put(Algorithm.J2, RunType.Exhaustive);
 		return algorithmMap;
 	}
 	

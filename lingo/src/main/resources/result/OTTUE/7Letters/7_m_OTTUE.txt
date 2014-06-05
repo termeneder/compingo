@@ -26,4 +26,7 @@ m (740):
 	I1) Vincents algorithm, 1 word: meranti (1.0)
 	I1) Vincents algorithm, 2 words: meranti,modules (1.0)
 	I1) Vincents algorithm, 3 words: meranti,modules,mogelijk (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: monteer (7.167567567567567)
+	J2) Minimise average neighbours per group (Jochem), 2 words: mandril,mestkoe (1.191891891891892)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: modegek,muiters,mijnlamp (1.0432432432432432)
 

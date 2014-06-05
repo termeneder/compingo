@@ -26,4 +26,7 @@ h (571):
 	I1) Vincents algorithm, 1 word: harsten (1.0)
 	I1) Vincents algorithm, 2 words: harsten,holding (1.0)
 	I1) Vincents algorithm, 3 words: harsten,holding,heupkom (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: harsten (6.341506129597198)
+	J2) Minimise average neighbours per group (Jochem), 2 words: herstel,houkind (1.2486865148861646)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: hefvlak,herstem,houding (1.021015761821366)
 

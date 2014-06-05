@@ -26,4 +26,7 @@ s (1495):
 	I1) Vincents algorithm, 1 word: stralen (1.0)
 	I1) Vincents algorithm, 2 words: stralen,spuikom (1.0)
 	I1) Vincents algorithm, 3 words: stralen,spuikom,schrijdt (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: steriel (14.88361204013378)
+	J2) Minimise average neighbours per group (Jochem), 2 words: sliepen,strodak (1.6354515050167224)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: smoking,spelden,stratus (1.0816053511705686)
 
