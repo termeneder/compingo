@@ -6,7 +6,7 @@
 			<wordset>ottue</wordset>
 			<wordlength>8</wordlength>
 			<algorithm>E1</algorithm>
-			<subwordsize>3</subwordsize>
+			<subsetsize>3</subsetsize>
 			<allocation>1000</allocation>
 			<sortorder>best</sortorder>
 			<indices/>
@@ -18,7 +18,7 @@
 			<wordset>ottue</wordset>
 			<wordlength>8</wordlength>
 			<algorithm>F1</algorithm>
-			<subwordsize>3</subwordsize>
+			<subsetsize>3</subsetsize>
 			<allocation>1000</allocation>
 			<sortorder>best</sortorder>
 			<indices/>
@@ -30,7 +30,7 @@
 			<wordset>ottue</wordset>
 			<wordlength>5</wordlength>
 			<algorithm>E1</algorithm>
-			<subwordsize>3</subwordsize>
+			<subsetsize>3</subsetsize>
 			<allocation>1000</allocation>
 			<sortorder>best</sortorder>
 			<indices/>

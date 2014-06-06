@@ -17,7 +17,10 @@ public class RunPartialExhaustiveFinder {
 		}
 		Results results = getRoot(args[0]);
 		for (Query query : results.running) {
-			System.out.println(query.startingletter + " " + query.wordset + " " + query.wordlength);
+			System.out.println(query.startingletter + " " + query.wordset + " " + query.wordlength
+					+ " " + query.algorithm + " " + query.subsetsize + " " + query.sortorder  
+					+ " " + query.allocation );
+			System.out.println(query.indices);
 		}
 	}
 	
