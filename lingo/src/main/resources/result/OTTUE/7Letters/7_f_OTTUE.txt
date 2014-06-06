@@ -26,4 +26,7 @@ f (363):
 	I1) Vincents algorithm, 1 word: flirten (1.0)
 	I1) Vincents algorithm, 2 words: flirten,flamoes (1.0)
 	I1) Vincents algorithm, 3 words: flirten,flamoes,fopduik (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: flitser (3.2479338842975207)
+	J2) Minimise average neighbours per group (Jochem), 2 words: fietsen,foulard (1.159779614325069)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: fleemde,foetert,funkbas || femelde,foltert,funkbas || fleemde,foutjes,fijnspar || fluimde,foetert,fijnspar || fleemde,foltert,funkbas || filmden,foetert,funkbas || fleemde,foxtrot,funkbas || factuur,fleemde,fijnkost || fanclub,fleemde,fokster || fermate,flapuit,fondsen || fanclub,feestte,fokdier || ferment,flanste,fopduik || fermate,flansen,fopduik || fermate,flessen,fopduik (1.022038567493113)
 

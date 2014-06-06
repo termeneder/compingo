@@ -26,4 +26,7 @@ c (345):
 	I1) Vincents algorithm, 1 word: coaster (1.0)
 	I1) Vincents algorithm, 2 words: coaster,curling (1.0)
 	I1) Vincents algorithm, 3 words: coaster,curling,chamade (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: coaster (3.197101449275362)
+	J2) Minimise average neighbours per group (Jochem), 2 words: canards,couplet || charmes,coulant || charter,columns (1.1333333333333333)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: chatten,condens,crapuul (1.0057971014492753)
 

@@ -26,4 +26,7 @@ a (1202):
 	I1) Vincents algorithm, 1 word: afsnelt (1.0)
 	I1) Vincents algorithm, 2 words: afsnelt,auditor (1.0)
 	I1) Vincents algorithm, 3 words: afsnelt,auditor,afknijpt (1.0)
+	J2) Minimise average neighbours per group (Jochem), 1 word: astrale (17.710482529118135)
+	J2) Minimise average neighbours per group (Jochem), 2 words: aanried,afklopt (2.0632279534109816)
+	J2g1M) Minimise average neighbours per group (Jochem), 3 words: aanbond,afklimt,asperge (1.1680532445923462)
 
