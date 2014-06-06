@@ -26,4 +26,6 @@ p (600):
 	I1) Vincents algorithm, 1 word: praten (1.0)
 	I1) Vincents algorithm, 2 words: praten,poules (1.0)
 	I1) Vincents algorithm, 3 words: praten,poules,predik (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: palter (14.62)
+	J2) Minimise average neighbours per group (Jochem), 2 words: penale,prosit (1.7566666666666666)
+	J2) Minimise average neighbours per group (Jochem), 3 words: pinpas,poeder,pulkte (1.14)

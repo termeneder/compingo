@@ -26,4 +26,6 @@ r (496):
 	I1) Vincents algorithm, 1 word: retina (1.0)
 	I1) Vincents algorithm, 2 words: retina,rombus (1.0)
 	I1) Vincents algorithm, 3 words: retina,rombus,roldak (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: rieten (14.705645161290322)
+	J2) Minimise average neighbours per group (Jochem), 2 words: radius,rekten (2.1088709677419355)
+	J2) Minimise average neighbours per group (Jochem), 3 words: rampok,relden,rustig (1.153225806451613)
