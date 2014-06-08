@@ -7,8 +7,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 import jochem.lingo.tools.Parsers;
-import jochem.lingo.valuators.AverageAmbiguousGroupSizeValuator;
-import jochem.lingo.valuators.AverageAmbiguousGroupSizeValuatorBram;
 import jochem.lingo.valuators.AverageCorrectCountValuator;
 import jochem.mytools.LazySetOfSizedSubsets;
 import jochem.mytools.Valuator;

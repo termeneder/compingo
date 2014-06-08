@@ -14,5 +14,14 @@ public class Running implements Iterable<Query>{
 	public Iterator<Query> iterator() {
 		return queryList.iterator();
 	}
+
+	public void remove(Query query) {
+		queryList.remove(query);
+		
+	}
+
+	public int size() {
+		return queryList.size();
+	}
 	
 }

@@ -20,7 +20,6 @@ package vincent.lingo;
  */
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -89,6 +88,7 @@ public class Manual {
 	 * @param refresh Whether to re-use previously loaded words if available
 	 * @return An array containing the words from the corpora
 	 */
+	@SuppressWarnings("unchecked")
 	public ArrayList<String>[][] loadWords(boolean refresh){
 
 		if(null != words && refresh != true){
@@ -154,6 +154,7 @@ public class Manual {
 					amountOfWords++;
 					words[word.length()][firstLetter].add(word);
 				}
+				br.close();
 			} catch (FileNotFoundException e) {
 				System.out.println("Oops, file not found: " + wordList);
 				e.printStackTrace();

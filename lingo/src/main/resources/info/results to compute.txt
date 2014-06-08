@@ -3,7 +3,7 @@ OTTUE
  - Run/Rerun
    - none
  - Improve precision
-   - E: A-B,D,G-H,K-M,O-P,R-T,V-W
+   - E: B,D,G-H,K-M,O-P,R-T,V-W
    - F: A-B,D,G-H,K-M,O-P,R-T,V-W
    - G: S-T,V-W
    - H: A-B,D,G-H,K-M,O-P,R-T,V-W
@@ -11,7 +11,7 @@ OTTUE
    - A,B,C,D,I,J
 6 letter words
  - Run/Rerun
-   - J: O-IJ
+   - J: S-IJ
  - Improve precision
    - C: A-B,D,G-I,K-P,R-T,V-W,Z
    - E: A-B,D,G-I,K-P,R-T,V-W,Z
@@ -22,7 +22,7 @@ OTTUE
    - A,B,D,I
 7 letter words
  - Run/Rerun
-   - J: A-I,K-P,R-W,Z
+   - none
  - Improve precision
    - C: A-I,K-P,R-W,Z
    - D: A-I,K-P,R-W,Z
@@ -30,6 +30,7 @@ OTTUE
    - F: A-I,K-P,R-W,Z
    - G: A-I,K-P,R-W,Z
    - H: A-I,K-P,R-W,Z
+   - J: A-I,K-P,R-W,Z
  - Completed algorithms
    - A,B,I
 8 letter words
