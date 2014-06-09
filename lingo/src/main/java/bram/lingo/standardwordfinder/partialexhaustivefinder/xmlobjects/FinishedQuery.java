@@ -15,6 +15,7 @@ public class FinishedQuery {
 		sortorder = query.sortorder;
 		bestscore = query.bestscore;
 		bestsets = query.bestsets;
+		System.out.println("FINISHED");
 		printvalue = query.createPrintValue(true);
 	}
 	public String startingletter;

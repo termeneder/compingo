@@ -9,10 +9,20 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
+            <indices>
+                <index>0</index>
+                <index>167</index>
+                <index>315</index>
+            </indices>
+            <bestscore>9977.995588235293</bestscore>
+            <bestsets>
+                <set>
+                    <word>aagten</word>
+                    <word>afbood</word>
+                    <word>aprils</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: aagten,afbood,aprils (9977.995588235293)</printvalue>
         </query>
         <query>
             <startingletter>b</startingletter>
@@ -22,10 +32,20 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
+            <indices>
+                <index>0</index>
+                <index>112</index>
+                <index>767</index>
+            </indices>
+            <bestscore>22936.09331919406</bestscore>
+            <bestsets>
+                <set>
+                    <word>baadde</word>
+                    <word>balijen</word>
+                    <word>bosrit</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: baadde,balijen,bosrit (22936.09331919406)</printvalue>
         </query>
         <query>
             <startingletter>d</startingletter>
@@ -35,11 +55,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>314</index>
+                <index>407</index>
+            </indices>
+            <bestscore>7572.445147679325</bestscore>
+            <bestsets>
+                <set>
+                    <word>daagde</word>
+                    <word>doeken</word>
+                    <word>druilt</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: daagde,doeken,druilt (7572.445147679325)</printvalue>
+        </query>
         <query>
             <startingletter>g</startingletter>
             <wordset>ottue</wordset>
@@ -48,11 +78,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>121</index>
+                <index>422</index>
+            </indices>
+            <bestscore>4520.2024886877825</bestscore>
+            <bestsets>
+                <set>
+                    <word>gaafst</word>
+                    <word>gebuid</word>
+                    <word>gloren</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: gaafst,gebuid,gloren (4520.2024886877825)</printvalue>
+        </query>
         <query>
             <startingletter>h</startingletter>
             <wordset>ottue</wordset>
@@ -61,11 +101,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>1</index>
+                <index>37</index>
+                <index>170</index>
+            </indices>
+            <bestscore>3905.789855072464</bestscore>
+            <bestsets>
+                <set>
+                    <word>haagde</word>
+                    <word>hielen</word>
+                    <word>hortus</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: haagde,hielen,hortus (3905.789855072464)</printvalue>
+        </query>
         <query>
             <startingletter>i</startingletter>
             <wordset>ottue</wordset>
@@ -74,11 +124,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>3</index>
+                <index>11</index>
+                <index>113</index>
+            </indices>
+            <bestscore>4720.984435797665</bestscore>
+            <bestsets>
+                <set>
+                    <word>ibidem</word>
+                    <word>inkort</word>
+                    <word>inslag</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: ibidem,inkort,inslag (4720.984435797665)</printvalue>
+        </query>
         <query>
             <startingletter>k</startingletter>
             <wordset>ottue</wordset>
@@ -87,11 +147,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>152</index>
+                <index>248</index>
+            </indices>
+            <bestscore>11010.079234972678</bestscore>
+            <bestsets>
+                <set>
+                    <word>kaaide</word>
+                    <word>kantel</word>
+                    <word>krokus</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: kaaide,kantel,krokus (11010.079234972678)</printvalue>
+        </query>
         <query>
             <startingletter>l</startingletter>
             <wordset>ottue</wordset>
@@ -100,11 +170,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>337</index>
+                <index>386</index>
+            </indices>
+            <bestscore>13284.275862068966</bestscore>
+            <bestsets>
+                <set>
+                    <word>laadde</word>
+                    <word>linkst</word>
+                    <word>logeer</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: laadde,linkst,logeer (13284.275862068966)</printvalue>
+        </query>
         <query>
             <startingletter>m</startingletter>
             <wordset>ottue</wordset>
@@ -113,11 +193,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>276</index>
+                <index>277</index>
+            </indices>
+            <bestscore>6072.462925851703</bestscore>
+            <bestsets>
+                <set>
+                    <word>maaide</word>
+                    <word>meuren</word>
+                    <word>moslim</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: maaide,meuren,moslim (6072.462925851703)</printvalue>
+        </query>
         <query>
             <startingletter>n</startingletter>
             <wordset>ottue</wordset>
@@ -126,11 +216,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>2</index>
+                <index>130</index>
+                <index>196</index>
+            </indices>
+            <bestscore>10357.371323529413</bestscore>
+            <bestsets>
+                <set>
+                    <word>naaide</word>
+                    <word>nestor</word>
+                    <word>nullen</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: naaide,nestor,nullen (10357.371323529413)</printvalue>
+        </query>
         <query>
             <startingletter>o</startingletter>
             <wordset>ottue</wordset>
@@ -139,11 +239,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>238</index>
+                <index>410</index>
+            </indices>
+            <bestscore>16939.521415270017</bestscore>
+            <bestsets>
+                <set>
+                    <word>object</word>
+                    <word>omslag</word>
+                    <word>optorn</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: object,omslag,optorn (16939.521415270017)</printvalue>
+        </query>
         <query>
             <startingletter>p</startingletter>
             <wordset>ottue</wordset>
@@ -152,11 +262,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>199</index>
+                <index>299</index>
+            </indices>
+            <bestscore>6394.85</bestscore>
+            <bestsets>
+                <set>
+                    <word>paadje</word>
+                    <word>pester</word>
+                    <word>poplin</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: paadje,pester,poplin (6394.85)</printvalue>
+        </query>
         <query>
             <startingletter>r</startingletter>
             <wordset>ottue</wordset>
@@ -165,11 +285,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>279</index>
+                <index>451</index>
+            </indices>
+            <bestscore>14397.010080645161</bestscore>
+            <bestsets>
+                <set>
+                    <word>raadde</word>
+                    <word>retors</word>
+                    <word>ringel</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: raadde,retors,ringel (14397.010080645161)</printvalue>
+        </query>
         <query>
             <startingletter>s</startingletter>
             <wordset>ottue</wordset>
@@ -178,10 +308,20 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
+            <indices>
+                <index>0</index>
+                <index>118</index>
+                <index>839</index>
+            </indices>
+            <bestscore>15347.782222222222</bestscore>
+            <bestsets>
+                <set>
+                    <word>saaien</word>
+                    <word>schokt</word>
+                    <word>slumps</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: saaien,schokt,slumps (15347.782222222222)</printvalue>
         </query>
         <query>
             <startingletter>t</startingletter>
@@ -191,11 +331,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>275</index>
+                <index>321</index>
+            </indices>
+            <bestscore>9007.792338709678</bestscore>
+            <bestsets>
+                <set>
+                    <word>taaien</word>
+                    <word>teuter</word>
+                    <word>tijloos</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: taaien,teuter,tijloos (9007.792338709678)</printvalue>
+        </query>
         <query>
             <startingletter>v</startingletter>
             <wordset>ottue</wordset>
@@ -204,11 +354,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>0</index>
+                <index>246</index>
+                <index>472</index>
+            </indices>
+            <bestscore>4034.233140655106</bestscore>
+            <bestsets>
+                <set>
+                    <word>vaagde</word>
+                    <word>verrot</word>
+                    <word>vislijn</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: vaagde,verrot,vislijn (4034.233140655106)</printvalue>
+        </query>
         <query>
             <startingletter>w</startingletter>
             <wordset>ottue</wordset>
@@ -217,11 +377,21 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
-            <indices/>
-            <bestscore/>
-            <bestsets/>
-            <printvalue/>
-        </query>        
+            <indices>
+                <index>1</index>
+                <index>40</index>
+                <index>177</index>
+            </indices>
+            <bestscore>11999.044226044227</bestscore>
+            <bestsets>
+                <set>
+                    <word>waagde</word>
+                    <word>waarst</word>
+                    <word>winkel</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: waagde,waarst,winkel (11999.044226044227)</printvalue>
+        </query>
         <query>
             <startingletter>z</startingletter>
             <wordset>ottue</wordset>
@@ -230,12 +400,237 @@
             <subsetsize>3</subsetsize>
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
+            <indices>
+                <index>1</index>
+                <index>159</index>
+                <index>195</index>
+            </indices>
+            <bestscore>4139.831360946746</bestscore>
+            <bestsets>
+                <set>
+                    <word>zaagde</word>
+                    <word>zoeken</word>
+                    <word>zijruit</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info: zaagde,zoeken,zijruit (4139.831360946746)</printvalue>
+        </query>
+        <query>
+            <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
             <indices/>
-            <bestscore/>
             <bestsets/>
-            <printvalue/>
-        </query>        
-
+            <printvalue></printvalue>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: baadde,balijen,bosrit (22936.09331919406)</printvalue>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: daagde,doeken,druilt (7572.445147679325)</printvalue>
+        </query>
+        <query>
+            <startingletter>g</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: gaafst,gebuid,gloren (4520.2024886877825)</printvalue>
+        </query>
+        <query>
+            <startingletter>h</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: haagde,hielen,hortus (3905.789855072464)</printvalue>
+        </query>
+        <query>
+            <startingletter>i</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: ibidem,inkort,inslag (4720.984435797665)</printvalue>
+        </query>
+        <query>
+            <startingletter>k</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: kaaide,kantel,krokus (11010.079234972678)</printvalue>
+        </query>
+        <query>
+            <startingletter>l</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: laadde,linkst,logeer (13284.275862068966)</printvalue>
+        </query>
+        <query>
+            <startingletter>m</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: maaide,meuren,moslim (6072.462925851703)</printvalue>
+        </query>
+        <query>
+            <startingletter>n</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: naaide,nestor,nullen (10357.371323529413)</printvalue>
+        </query>
+        <query>
+            <startingletter>o</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: object,omslag,optorn (16939.521415270017)</printvalue>
+        </query>
+        <query>
+            <startingletter>p</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: paadje,patser,poplin (7116.843333333333)</printvalue>
+        </query>
+        <query>
+            <startingletter>r</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: raadde,retors,ringel (14397.010080645161)</printvalue>
+        </query>
+        <query>
+            <startingletter>s</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: saaien,schokt,slumps (15347.782222222222)</printvalue>
+        </query>
+        <query>
+            <startingletter>t</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: taaien,teuter,tijloos (9007.792338709678)</printvalue>
+        </query>
+        <query>
+            <startingletter>v</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: vaagde,verrot,vislijn (4034.233140655106)</printvalue>
+        </query>
+        <query>
+            <startingletter>w</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: waagde,waarst,winkel (11999.044226044227)</printvalue>
+        </query>
+        <query>
+            <startingletter>z</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <allocation>1000</allocation>
+            <sortorder>best</sortorder>
+            <indices/>
+            <bestsets/>
+            <printvalue>G1p) Minimise average possible words with positive info: zaagde,zoeken,zijruit (4139.831360946746)</printvalue>
+        </query>
     </running>
     <finished/>
 </results>
