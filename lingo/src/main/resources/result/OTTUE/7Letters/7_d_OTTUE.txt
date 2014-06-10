@@ -17,7 +17,7 @@ d (716):
 	F1g1K) Minimise maximum possible words, 1 word: douarie (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: daklijst,decurio (1314721.0)
 	F1g1K) Minimise maximum possible words, 3 words: doceren,duinpad,dijkslag (299484.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: doerian (8261044.467877095)
+	G1) Minimise average possible words with positive info, 1 word: doerian (8261044.467877095)
 	G1g1K) Minimise average possible words with positive info, 2 words: daklijst,dikoren (815042.5055865921)
 	G1g1K) Minimise average possible words with positive info, 3 words: deukten,dolmans,dreigde (59249.304469273746)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: douarie (7.8504713E7)

@@ -17,7 +17,7 @@ c (345):
 	F1g1K) Minimise maximum possible words, 1 word: calorie (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: courage,cynisch || clubhit,corsage (1314721.0)
 	F1g1K) Minimise maximum possible words, 3 words: caprice,clubdas,crouton (164419.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: calorie (6860138.6144927535)
+	G1) Minimise average possible words with positive info, 1 word: calorie (6860138.6144927535)
 	G1g1K) Minimise average possible words with positive info, 2 words: cineacs,coltrui (307895.3420289855)
 	G1g1K) Minimise average possible words with positive info, 3 words: captain,chester,couloir (37030.95942028985)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: calorie (7.8504713E7)

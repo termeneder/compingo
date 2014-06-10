@@ -17,7 +17,7 @@ i (420):
 	F1g1K) Minimise maximum possible words, 1 word: inbreit || inpalmt || instore || inperst || instrijk || insluit || inroest || inwater || inademt || intrige || insufte || intiems || indices || inslikt (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: imperia,inslokt (303783.0)
 	F1g1K) Minimise maximum possible words, 3 words: inkoude,inplant,ischias (204827.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: inroest (1679164.8714285714)
+	G1) Minimise average possible words with positive info, 1 word: inroest (1679164.8714285714)
 	G1g1K) Minimise average possible words with positive info, 2 words: inrolde,inslikt (204194.50714285715)
 	G1g1K) Minimise average possible words with positive info, 3 words: idolaat,inreken,insliep (28190.614285714284)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: inertie || inbreit || inperst || instemt || idioten || inpalmt || intiems || inmetst || instore || insluit || insmeet || inademt || indices || interim || instrijk || inwater || intrige (7.8504713E7)

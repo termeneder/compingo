@@ -17,7 +17,7 @@ f (363):
 	F1g1K) Minimise maximum possible words, 1 word: flikten || flitsen || fluiten || fatsoen || flirten || flinter (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: factorij,filmden (1314721.0)
 	F1g1K) Minimise maximum possible words, 3 words: fanfare,fletser,fopduik (194012.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: flinter (7211160.435261708)
+	G1) Minimise average possible words with positive info, 1 word: flinter (7211160.435261708)
 	G1g1K) Minimise average possible words with positive info, 2 words: facteur,felonie (339017.41597796144)
 	G1g1K) Minimise average possible words with positive info, 3 words: faience,futloos,fijnaart (60232.564738292014)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: flirten || fatsoen || flipten || flikten || flitsen || flinter || flitten (7.8504713E7)

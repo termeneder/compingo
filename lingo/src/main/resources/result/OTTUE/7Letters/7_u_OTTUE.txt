@@ -17,7 +17,7 @@ u (295):
 	F1g1K) Minimise maximum possible words, 1 word: urntjes || uitroep || umpires || uitkerf || uitpers || uitwerk || uitvoer || uiltjes || uitwerp || uitduel || unfaire (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: uitpers,uurloon (430387.0)
 	F1g1K) Minimise maximum possible words, 3 words: uitpelt,uitrook,usances (75050.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: uitroep (1757489.366101695)
+	G1) Minimise average possible words with positive info, 1 word: uitroep (1757489.366101695)
 	G1g1K) Minimise average possible words with positive info, 2 words: uitpent,uurglas (66068.96271186441)
 	G1g1K) Minimise average possible words with positive info, 3 words: uitdoof,uniekst,uurglas (13677.850847457627)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: uitreed || uittrek || uitduel || uitstel || uitriep || uitpers || uitreis || uitgier || uiteter || uraniet || uitvier || uitroei || unfaire || uitpelt || uitteer || uitroep || uiterst || uitwerp || uiliger || uiercel || uitlees || unieker || umpires || uitreik || uitkeer || uitvoer || uitliep || uitwerk || urineer || urntjes || uitkerf || uitrekt || unsters (7.8504713E7)

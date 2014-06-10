@@ -17,7 +17,7 @@ e (309):
 	F1g1K) Minimise maximum possible words, 1 word: erelint (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: envelop,estrade || edelgas,enormst || ecotaks,erelint || erlangt,eufonie || ethanol,euregio || eiermijn,equator (1679856.0)
 	F1g1K) Minimise maximum possible words, 3 words: edelgas,enormst,epifyse (155818.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: erelint (5805181.443365696)
+	G1) Minimise average possible words with positive info, 1 word: erelint (5805181.443365696)
 	G1g1K) Minimise average possible words with positive info, 2 words: eetbare,epsilon (449431.4789644013)
 	G1g1K) Minimise average possible words with positive info, 3 words: eiglans,eredame,eurotop (51941.922330097084)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: erelint (7.8504713E7)

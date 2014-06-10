@@ -16,13 +16,13 @@ public class RunConfigurations {
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
 	public final String descriptionPrefix = "E_Algorithm_Exhaustive_";
-	public final int wordLength = 5;
+	public final int wordLength = 7;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
 	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
 	public final int minSubsetSize = 1;
-	public final int maxSubsetSize = 3;
+	public final int maxSubsetSize = 1;
 	public final Select select = Select.BEST;
 	public final boolean runAllLetters = true;
 	public final Letter[] lettersToRun = {Letter.k, Letter.l, Letter.m, Letter.n, Letter.o, Letter.p
@@ -52,9 +52,9 @@ public class RunConfigurations {
 		algorithmMap.put(Algorithm.C1, RunType.None);
 		algorithmMap.put(Algorithm.C2, RunType.None);
 		algorithmMap.put(Algorithm.D2, RunType.None);
-		algorithmMap.put(Algorithm.E1, RunType.Exhaustive);
+		algorithmMap.put(Algorithm.E1, RunType.None);
 		algorithmMap.put(Algorithm.F1, RunType.None);
-		algorithmMap.put(Algorithm.G1, RunType.None);
+		algorithmMap.put(Algorithm.G1, RunType.Exhaustive);
 		algorithmMap.put(Algorithm.H1, RunType.None);
 		algorithmMap.put(Algorithm.I1, RunType.None);
 		algorithmMap.put(Algorithm.J2, RunType.None);

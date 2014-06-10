@@ -17,7 +17,7 @@ r (640):
 	F1g1K) Minimise maximum possible words, 1 word: rotatie (5.153632E7)
 	F1g1K) Minimise maximum possible words, 2 words: rondzag,rijhelft || ravelijn,rugkorf (4338015.0)
 	F1g1K) Minimise maximum possible words, 3 words: ratings,redelijk,rostrum (223926.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: roadies (8423533.209375)
+	G1) Minimise average possible words with positive info, 1 word: roadies (8423533.209375)
 	G1g1K) Minimise average possible words with positive info, 2 words: roepies,rugkant (656525.928125)
 	G1g1K) Minimise average possible words with positive info, 3 words: rakkers,ritueel,rijnboog (75192.809375)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: rotatie (7.8504713E7)

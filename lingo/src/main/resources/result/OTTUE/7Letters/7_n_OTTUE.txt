@@ -17,7 +17,7 @@ n (353):
 	F1g1K) Minimise maximum possible words, 1 word: nazendt || nadeint || nareist || nawogen || nasloeg || nabloei || naroept || nagloei || neonazi || naturel || nahield || netband || notabel || natheid || nijdaste (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: nazidom,nurksen || nazidom,nijverst (1314721.0)
 	F1g1K) Minimise maximum possible words, 3 words: nahield,netkous,normtijd (170926.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: nareist (4776518.716713881)
+	G1) Minimise average possible words with positive info, 1 word: nareist (4776518.716713881)
 	G1g1K) Minimise average possible words with positive info, 2 words: nadeint,neurose (222919.39093484418)
 	G1g1K) Minimise average possible words with positive info, 3 words: naslaan,netelig,neuroot (40411.86685552408)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: nadeint || nawogen || nasloeg || nagloei || notabel || natelde || neonazi || naturel || notatie || nabloei || nadelig || naroept || naartoe || netband || nareist || nijdaste || natheid (7.8504713E7)

@@ -17,7 +17,7 @@ g (1604):
 	F1g1K) Minimise maximum possible words, 1 word: gasolie || gasboei (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: geruimd,graspol (1679856.0)
 	F1g1K) Minimise maximum possible words, 3 words: gelonkt,gewijsde,giframp || gebluft,gejongd,gomhars (410041.0)
-	G1g1K) Minimise average possible words with positive info, 1 word: getarnd (6643853.252493765)
+	G1) Minimise average possible words with positive info, 1 word: getarnd (6643853.252493765)
 	G1g1K) Minimise average possible words with positive info, 2 words: gastrol,geminde (163592.1951371571)
 	G1g1K) Minimise average possible words with positive info, 3 words: gemoeid,glypten,grauwst (50447.09600997506)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: gasboei || gasolie (7.8504713E7)
