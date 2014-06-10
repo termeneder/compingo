@@ -26,4 +26,6 @@ x (2):
 	I1) Vincents algorithm, 1 word: xyleem (1.0)
 	I1) Vincents algorithm, 2 words: xyleem,xyleen (1.0)
 	I1) Vincents algorithm, 3 words:  (4.9E-324)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: xyleem || xyleen (1.0)
+	J2) Minimise average neighbours per group (Jochem), 2 words: xyleem,xyleen (1.0)
+	J2) Minimise average neighbours per group (Jochem), 3 words:  (1.7976931348623157E308)

@@ -26,4 +26,6 @@ t (496):
 	I1) Vincents algorithm, 1 word: tronie (1.0)
 	I1) Vincents algorithm, 2 words: tronie,taluds (1.0)
 	I1) Vincents algorithm, 3 words: tronie,taluds,tombak (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: toeten (14.084677419354838)
+	J2) Minimise average neighbours per group (Jochem), 2 words: taroks,teniet (2.088709677419355)
+	J2) Minimise average neighbours per group (Jochem), 3 words: taluds,tinken,trompt || taluds,topfit,treken (1.1411290322580645)

@@ -26,4 +26,6 @@ v (519):
 	I1) Vincents algorithm, 1 word: vloert (1.0)
 	I1) Vincents algorithm, 2 words: vloert,visman (1.0)
 	I1) Vincents algorithm, 3 words: vloert,visman,voogdij (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: verlet (15.065510597302504)
+	J2) Minimise average neighbours per group (Jochem), 2 words: velden,visgat (2.2408477842003856)
+	J2) Minimise average neighbours per group (Jochem), 3 words: verdek,volsta,vunzig || verzeg,vondst,vuilak (1.2080924855491328)

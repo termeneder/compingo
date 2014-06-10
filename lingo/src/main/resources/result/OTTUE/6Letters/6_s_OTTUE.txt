@@ -26,4 +26,6 @@ s (900):
 	I1) Vincents algorithm, 1 word: staren (1.0)
 	I1) Vincents algorithm, 2 words: staren,scholp (1.0)
 	I1) Vincents algorithm, 3 words: staren,scholp,skibus (1.0)
-
+	J2) Minimise average neighbours per group (Jochem), 1 word: stalen (23.013333333333332)
+	J2) Minimise average neighbours per group (Jochem), 2 words: slopen,struik (2.58)
+	J2) Minimise average neighbours per group (Jochem), 3 words: skipas,sleden,stormt || slakom,sneuer,spitst (1.2066666666666668)
