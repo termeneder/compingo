@@ -1,0 +1,5 @@
+e (108):
+	E1) Minimise average possible words, 1 word: enter (28400.59259259259)
+	E1) Minimise average possible words, 2 words: eicel,ernst (2015.4074074074074)
+	E1) Minimise average possible words, 3 words: eland,emoes,eruit || engel,erica,ethos (272.93518518518516)
+

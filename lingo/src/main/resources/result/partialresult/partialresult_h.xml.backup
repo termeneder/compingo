@@ -508,8 +508,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>183</index>
-                <index>258</index>
+                <index>187</index>
+                <index>348</index>
             </indices>
             <bestscore>32349.565217391304</bestscore>
             <bestsets>
@@ -529,8 +529,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>85</index>
-                <index>521</index>
+                <index>87</index>
+                <index>232</index>
             </indices>
             <bestscore>27103.456284153006</bestscore>
             <bestsets>

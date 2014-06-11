@@ -1,0 +1,4 @@
+g (304):
+	E1) Minimise average possible words, 1 word: gerat (22145.996710526317)
+	E1) Minimise average possible words, 2 words: galon,gerit (1833.4407894736842)
+

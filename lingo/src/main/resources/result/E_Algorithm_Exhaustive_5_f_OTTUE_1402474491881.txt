@@ -1,0 +1,5 @@
+f (145):
+	E1) Minimise average possible words, 1 word: friet (36876.510344827584)
+	E1) Minimise average possible words, 2 words: fairs,fenol (1235.751724137931)
+	E1) Minimise average possible words, 3 words: falen,fikst,forum (79.19310344827586)
+
