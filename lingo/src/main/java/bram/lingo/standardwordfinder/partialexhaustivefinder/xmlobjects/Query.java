@@ -105,8 +105,6 @@ public class Query {
 		double value = valuateWordSet(subwordset);
 		checkValue(subwordset, value);
 		
-		// TODO Auto-generated method stub
-		
 	}
 	
 	private void checkValue(WordSet subwordset, double value) {
@@ -149,27 +147,28 @@ public class Query {
 
 	public String createPrintValue(boolean finished) {
 		
-		String value = c_valuator.getCode() + 
-				(finished?"":"p") + ") " + c_valuator.getDescription() + ": ";
+		StringBuffer valueBuffer = new StringBuffer();
+		valueBuffer.append(c_valuator.getCode() + 
+				(finished?"":"p") + ") " + c_valuator.getDescription() + ": ");
 		boolean isFirstSet = true;
 		for (Set set : bestsets) {
 			if (isFirstSet) {
 				isFirstSet = false;
 			} else {
-				value += " || ";
+				valueBuffer.append(" || ");
 			}
 			boolean isFirstWord = true;
 			for (String word : set.wordList) {
 				if (isFirstWord) {
 					isFirstWord = false;
 				} else {
-					value += ",";
+					valueBuffer.append(",");
 				}
-				value += word;
+				valueBuffer.append(word);
 			}
 		}
-		value += " (" + bestscore + ")";
-		return value;
+		valueBuffer.append(" (" + bestscore + ")");
+		return valueBuffer.toString();
 	}
 
 	private Set wordsetToSet(WordSet wordset) {

@@ -16,5 +16,8 @@ standardwordfinder
 train
   - Maak gebruik van de andere systemen (Word enzo)
   - laadt de woorden uit een file
+statistieken
+  - zet resultaten om naar xml
+  - maak statistiekenlezer
 
 
