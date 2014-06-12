@@ -7,22 +7,22 @@
             <wordlength>6</wordlength>
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>0</index>
-                <index>299</index>
-                <index>509</index>
+                <index>1</index>
+                <index>76</index>
+                <index>499</index>
             </indices>
-            <bestscore>8894.458823529412</bestscore>
+            <bestscore>8447.283823529411</bestscore>
             <bestsets>
                 <set>
                     <word>aagten</word>
-                    <word>afhoud</word>
-                    <word>aprils</word>
+                    <word>afreis</word>
+                    <word>aloude</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: aagten,afhoud,aprils (8894.458823529412)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: aagten,afreis,aloude (8447.283823529411)</printvalue>
         </query>
         <query>
             <startingletter>b</startingletter>
@@ -34,8 +34,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>187</index>
-                <index>367</index>
+                <index>203</index>
+                <index>423</index>
             </indices>
             <bestscore>20402.943796394487</bestscore>
             <bestsets>
@@ -57,8 +57,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>113</index>
-                <index>310</index>
+                <index>148</index>
+                <index>340</index>
             </indices>
             <bestscore>7572.445147679325</bestscore>
             <bestsets>
@@ -80,8 +80,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>203</index>
-                <index>341</index>
+                <index>221</index>
+                <index>272</index>
             </indices>
             <bestscore>4520.2024886877825</bestscore>
             <bestsets>
@@ -102,9 +102,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>1</index>
+                <index>2</index>
+                <index>3</index>
                 <index>260</index>
-                <index>298</index>
             </indices>
             <bestscore>3905.789855072464</bestscore>
             <bestsets>
@@ -125,9 +125,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>4</index>
-                <index>183</index>
-                <index>225</index>
+                <index>5</index>
+                <index>46</index>
+                <index>167</index>
             </indices>
             <bestscore>3100.84046692607</bestscore>
             <bestsets>
@@ -149,8 +149,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>264</index>
-                <index>728</index>
+                <index>291</index>
+                <index>497</index>
             </indices>
             <bestscore>7971.413934426229</bestscore>
             <bestsets>
@@ -172,18 +172,18 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>130</index>
-                <index>298</index>
+                <index>168</index>
+                <index>385</index>
             </indices>
-            <bestscore>13094.4375</bestscore>
+            <bestscore>12817.340517241379</bestscore>
             <bestsets>
                 <set>
-                    <word>laadde</word>
-                    <word>lorken</word>
-                    <word>lustig</word>
+                    <word>laafde</word>
+                    <word>lenigt</word>
+                    <word>losruk</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: laadde,lorken,lustig (13094.4375)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: laafde,lenigt,losruk (12817.340517241379)</printvalue>
         </query>
         <query>
             <startingletter>m</startingletter>
@@ -195,8 +195,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>76</index>
-                <index>321</index>
+                <index>106</index>
+                <index>126</index>
             </indices>
             <bestscore>4293.336673346694</bestscore>
             <bestsets>
@@ -218,8 +218,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>4</index>
-                <index>60</index>
-                <index>192</index>
+                <index>128</index>
+                <index>190</index>
             </indices>
             <bestscore>8393.150735294117</bestscore>
             <bestsets>
@@ -241,18 +241,18 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>30</index>
-                <index>77</index>
+                <index>54</index>
+                <index>233</index>
             </indices>
-            <bestscore>14882.48417132216</bestscore>
+            <bestscore>11743.491620111732</bestscore>
             <bestsets>
                 <set>
                     <word>oblaat</word>
-                    <word>oeroud</word>
-                    <word>omspin</word>
+                    <word>ombond</word>
+                    <word>opsier</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: oblaat,oeroud,omspin (14882.48417132216)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: oblaat,ombond,opsier (11743.491620111732)</printvalue>
         </query>
         <query>
             <startingletter>p</startingletter>
@@ -264,8 +264,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>394</index>
-                <index>409</index>
+                <index>464</index>
+                <index>544</index>
             </indices>
             <bestscore>6339.865</bestscore>
             <bestsets>
@@ -287,8 +287,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>80</index>
-                <index>365</index>
+                <index>110</index>
+                <index>380</index>
             </indices>
             <bestscore>12927.302419354839</bestscore>
             <bestsets>
@@ -310,8 +310,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>198</index>
-                <index>599</index>
+                <index>215</index>
+                <index>835</index>
             </indices>
             <bestscore>12992.783333333333</bestscore>
             <bestsets>
@@ -333,8 +333,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>78</index>
-                <index>196</index>
+                <index>108</index>
+                <index>151</index>
             </indices>
             <bestscore>9007.792338709678</bestscore>
             <bestsets>
@@ -356,18 +356,18 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>48</index>
-                <index>445</index>
+                <index>75</index>
+                <index>133</index>
             </indices>
-            <bestscore>4034.233140655106</bestscore>
+            <bestscore>3930.402697495183</bestscore>
             <bestsets>
                 <set>
-                    <word>vaagde</word>
-                    <word>verrot</word>
-                    <word>vislijn</word>
+                    <word>vaagst</word>
+                    <word>veilen</word>
+                    <word>vrijdom</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: vaagde,verrot,vislijn (4034.233140655106)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: vaagst,veilen,vrijdom (3930.402697495183)</printvalue>
         </query>
         <query>
             <startingletter>w</startingletter>
@@ -378,9 +378,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>1</index>
-                <index>287</index>
-                <index>403</index>
+                <index>2</index>
+                <index>15</index>
+                <index>221</index>
             </indices>
             <bestscore>6340.405405405405</bestscore>
             <bestsets>
@@ -401,9 +401,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>2</index>
-                <index>183</index>
-                <index>278</index>
+                <index>3</index>
+                <index>4</index>
+                <index>164</index>
             </indices>
             <bestscore>4139.831360946746</bestscore>
             <bestsets>
@@ -424,8 +424,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>94</index>
-                <index>640</index>
+                <index>115</index>
+                <index>586</index>
             </indices>
             <bestscore>52653.48235294117</bestscore>
             <bestsets>
@@ -445,17 +445,17 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>65</index>
-                <index>916</index>
+                <index>79</index>
+                <index>743</index>
             </indices>
-            <bestscore>57405.04878048781</bestscore>
+            <bestscore>45664.13891834571</bestscore>
             <bestsets>
                 <set>
-                    <word>balken</word>
+                    <word>balijen</word>
                     <word>bosrit</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: balken,bosrit (57405.04878048781)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: balijen,bosrit (45664.13891834571)</printvalue>
         </query>
         <query>
             <startingletter>d</startingletter>
@@ -466,8 +466,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>150</index>
-                <index>376</index>
+                <index>190</index>
+                <index>276</index>
             </indices>
             <bestscore>53145.21729957806</bestscore>
             <bestsets>
@@ -487,8 +487,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>70</index>
-                <index>676</index>
+                <index>85</index>
+                <index>601</index>
             </indices>
             <bestscore>27452.702488687784</bestscore>
             <bestsets>
@@ -508,8 +508,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>187</index>
-                <index>348</index>
+                <index>249</index>
+                <index>289</index>
             </indices>
             <bestscore>32349.565217391304</bestscore>
             <bestsets>
@@ -529,8 +529,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>87</index>
-                <index>232</index>
+                <index>106</index>
+                <index>186</index>
             </indices>
             <bestscore>27103.456284153006</bestscore>
             <bestsets>
@@ -550,8 +550,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>152</index>
-                <index>253</index>
+                <index>197</index>
+                <index>293</index>
             </indices>
             <bestscore>54411.049568965514</bestscore>
             <bestsets>
@@ -571,8 +571,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>137</index>
-                <index>228</index>
+                <index>175</index>
+                <index>251</index>
             </indices>
             <bestscore>29912.839679358716</bestscore>
             <bestsets>
@@ -592,8 +592,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>124</index>
-                <index>287</index>
+                <index>154</index>
+                <index>392</index>
             </indices>
             <bestscore>57643.8156424581</bestscore>
             <bestsets>
@@ -613,17 +613,17 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>108</index>
-                <index>195</index>
+                <index>133</index>
+                <index>245</index>
             </indices>
-            <bestscore>31074.93833333333</bestscore>
+            <bestscore>23796.831666666665</bestscore>
             <bestsets>
                 <set>
-                    <word>paneel</word>
-                    <word>prosit</word>
+                    <word>patser</word>
+                    <word>poplin</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: paneel,prosit (31074.93833333333)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: patser,poplin (23796.831666666665)</printvalue>
         </query>
         <query>
             <startingletter>r</startingletter>
@@ -634,8 +634,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>138</index>
-                <index>282</index>
+                <index>173</index>
+                <index>417</index>
             </indices>
             <bestscore>53226.592741935485</bestscore>
             <bestsets>
@@ -655,8 +655,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>68</index>
-                <index>215</index>
+                <index>82</index>
+                <index>686</index>
             </indices>
             <bestscore>87709.84888888888</bestscore>
             <bestsets>
@@ -676,8 +676,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>138</index>
-                <index>282</index>
+                <index>173</index>
+                <index>417</index>
             </indices>
             <bestscore>51572.51814516129</bestscore>
             <bestsets>
@@ -697,8 +697,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>130</index>
-                <index>176</index>
+                <index>162</index>
+                <index>288</index>
             </indices>
             <bestscore>23905.34874759152</bestscore>
             <bestsets>
@@ -718,8 +718,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>189</index>
-                <index>222</index>
+                <index>247</index>
+                <index>347</index>
             </indices>
             <bestscore>38695.65110565111</bestscore>
             <bestsets>
