@@ -40,7 +40,8 @@ public class Query {
 	private transient WordSetValuator c_valuator;
 	private transient SortOrder c_order;
 	
-	private static final boolean PRINT_NEW_BEST = true;
+	private static final boolean PRINT_BEST_IMPROVED = true;
+	private static final boolean PRINT_BEST_TIED = false;
 	
 	public void update() {
 		prepare();
@@ -132,6 +133,10 @@ public class Query {
 		bestscore = value;
 		bestsets = new BestSets();
 		addNewBestScore(subwordset);
+		if (PRINT_BEST_IMPROVED && ! PRINT_BEST_TIED) {
+			System.out.println(wordlength + "," + startingletter );
+			System.out.println(printvalue);
+		}
 	}
 
 	
@@ -139,7 +144,7 @@ public class Query {
 		Set thisSet = wordsetToSet(subwordset);
 		bestsets.add(thisSet);
 		printvalue = createPrintValue(false);
-		if (PRINT_NEW_BEST) {
+		if (PRINT_BEST_TIED) {
 			System.out.println(wordlength + "," + startingletter );
 			System.out.println(printvalue);
 		}
@@ -148,9 +153,8 @@ public class Query {
 	public String createPrintValue(boolean finished) {
 		
 		StringBuffer valueBuffer = new StringBuffer();
-		valueBuffer.append(c_valuator.getCode() + 
-				(finished?"":"p") + ") " + c_valuator.getDescription() + ", ");
-		valueBuffer.append(wordlength + " word" + (wordlength==1?"":"s") + ": ");
+		valueBuffer.append(c_valuator.getCode() + (finished?"":"p") + ") " + c_valuator.getDescription() + ", ");
+		valueBuffer.append(subsetsize + " word" + (subsetsize==1?"":"s") + ": ");
 		boolean isFirstSet = true;
 		for (Set set : bestsets) {
 			if (isFirstSet) {

@@ -2,6 +2,8 @@ package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
 
 public class FinishedQuery {
 	
+	private static final boolean PRINT_FINISHED = true;
+	
 	FinishedQuery() {
 		
 	}
@@ -17,7 +19,10 @@ public class FinishedQuery {
 		bestsets = query.bestsets;
 		System.out.println("FINISHED");
 		printvalue = query.createPrintValue(true);
-		System.out.println(printvalue);
+		if (PRINT_FINISHED) {
+			System.out.println(wordlength + "," + startingletter );
+			System.out.println(printvalue);
+		}
 	}
 	public String startingletter;
 	public String wordset;
