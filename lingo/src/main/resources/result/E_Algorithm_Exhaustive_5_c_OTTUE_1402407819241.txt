@@ -1,5 +1,0 @@
-c (89):
-	E1) Minimise average possible words, 1 word: cameo (43501.03370786517)
-	E1) Minimise average possible words, 2 words: casco,curie (3337.258426966292)
-	E1) Minimise average possible words, 3 words: caret,click,conus (324.69662921348316)
-

@@ -1,5 +1,0 @@
-d (260):
-	E1) Minimise average possible words, 1 word: dregt (39143.95769230769)
-	E1) Minimise average possible words, 2 words: doemt,drain (2275.826923076923)
-	E1) Minimise average possible words, 3 words: dinar,doges,duldt (240.81153846153848)
-

@@ -17,6 +17,7 @@ public class FinishedQuery {
 		bestsets = query.bestsets;
 		System.out.println("FINISHED");
 		printvalue = query.createPrintValue(true);
+		System.out.println(printvalue);
 	}
 	public String startingletter;
 	public String wordset;

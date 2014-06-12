@@ -149,7 +149,8 @@ public class Query {
 		
 		StringBuffer valueBuffer = new StringBuffer();
 		valueBuffer.append(c_valuator.getCode() + 
-				(finished?"":"p") + ") " + c_valuator.getDescription() + ": ");
+				(finished?"":"p") + ") " + c_valuator.getDescription() + ", ");
+		valueBuffer.append(wordlength + " word" + (wordlength==1?"":"s") + ": ");
 		boolean isFirstSet = true;
 		for (Set set : bestsets) {
 			if (isFirstSet) {
