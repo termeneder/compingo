@@ -7,22 +7,22 @@
             <wordlength>6</wordlength>
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
-            <allocation>10000</allocation>
+            <allocation>50000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>1</index>
-                <index>76</index>
-                <index>499</index>
+                <index>2</index>
+                <index>78</index>
+                <index>470</index>
             </indices>
-            <bestscore>8447.283823529411</bestscore>
+            <bestscore>6951.210294117647</bestscore>
             <bestsets>
                 <set>
-                    <word>aagten</word>
-                    <word>afreis</word>
-                    <word>aloude</word>
+                    <word>aaiden</word>
+                    <word>afpulk</word>
+                    <word>argots</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: aagten,afreis,aloude (8447.283823529411)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: aaiden,afpulk,argots (6951.210294117647)</printvalue>
         </query>
         <query>
             <startingletter>b</startingletter>
@@ -34,18 +34,18 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>203</index>
-                <index>423</index>
+                <index>235</index>
+                <index>303</index>
             </indices>
-            <bestscore>20402.943796394487</bestscore>
+            <bestscore>16184.966065747614</bestscore>
             <bestsets>
                 <set>
                     <word>baadde</word>
-                    <word>begiet</word>
+                    <word>beitel</word>
                     <word>bosrijk</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: baadde,begiet,bosrijk (20402.943796394487)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: baadde,beitel,bosrijk (16184.966065747614)</printvalue>
         </query>
         <query>
             <startingletter>d</startingletter>
@@ -57,8 +57,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>148</index>
-                <index>340</index>
+                <index>229</index>
+                <index>336</index>
             </indices>
             <bestscore>7572.445147679325</bestscore>
             <bestsets>
@@ -80,8 +80,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>221</index>
-                <index>272</index>
+                <index>256</index>
+                <index>732</index>
             </indices>
             <bestscore>4520.2024886877825</bestscore>
             <bestsets>
@@ -103,8 +103,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>3</index>
-                <index>260</index>
+                <index>64</index>
+                <index>141</index>
             </indices>
             <bestscore>3905.789855072464</bestscore>
             <bestsets>
@@ -125,9 +125,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>5</index>
-                <index>46</index>
-                <index>167</index>
+                <index>6</index>
+                <index>10</index>
+                <index>232</index>
             </indices>
             <bestscore>3100.84046692607</bestscore>
             <bestsets>
@@ -149,8 +149,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>291</index>
-                <index>497</index>
+                <index>347</index>
+                <index>453</index>
             </indices>
             <bestscore>7971.413934426229</bestscore>
             <bestsets>
@@ -172,18 +172,18 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>168</index>
-                <index>385</index>
+                <index>261</index>
+                <index>321</index>
             </indices>
-            <bestscore>12817.340517241379</bestscore>
+            <bestscore>12812.754310344828</bestscore>
             <bestsets>
                 <set>
                     <word>laafde</word>
-                    <word>lenigt</word>
-                    <word>losruk</word>
+                    <word>linkst</word>
+                    <word>logeer</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: laafde,lenigt,losruk (12817.340517241379)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: laafde,linkst,logeer (12812.754310344828)</printvalue>
         </query>
         <query>
             <startingletter>m</startingletter>
@@ -195,8 +195,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>106</index>
-                <index>126</index>
+                <index>169</index>
+                <index>446</index>
             </indices>
             <bestscore>4293.336673346694</bestscore>
             <bestsets>
@@ -217,19 +217,19 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>4</index>
-                <index>128</index>
-                <index>190</index>
+                <index>5</index>
+                <index>54</index>
+                <index>228</index>
             </indices>
-            <bestscore>8393.150735294117</bestscore>
+            <bestscore>7832.213235294118</bestscore>
             <bestsets>
                 <set>
-                    <word>naakte</word>
+                    <word>naarst</word>
                     <word>neurie</word>
-                    <word>nylons</word>
+                    <word>noklijn</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: naakte,neurie,nylons (8393.150735294117)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: naarst,neurie,noklijn (7832.213235294118)</printvalue>
         </query>
         <query>
             <startingletter>o</startingletter>
@@ -241,18 +241,18 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>54</index>
-                <index>233</index>
+                <index>102</index>
+                <index>273</index>
             </indices>
-            <bestscore>11743.491620111732</bestscore>
+            <bestscore>8535.186219739293</bestscore>
             <bestsets>
                 <set>
                     <word>oblaat</word>
-                    <word>ombond</word>
-                    <word>opsier</word>
+                    <word>omdoen</word>
+                    <word>opfris</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: oblaat,ombond,opsier (11743.491620111732)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: oblaat,omdoen,opfris (8535.186219739293)</printvalue>
         </query>
         <query>
             <startingletter>p</startingletter>
@@ -263,9 +263,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>0</index>
-                <index>464</index>
-                <index>544</index>
+                <index>1</index>
+                <index>23</index>
+                <index>596</index>
             </indices>
             <bestscore>6339.865</bestscore>
             <bestsets>
@@ -287,8 +287,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>110</index>
-                <index>380</index>
+                <index>172</index>
+                <index>463</index>
             </indices>
             <bestscore>12927.302419354839</bestscore>
             <bestsets>
@@ -310,8 +310,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>215</index>
-                <index>835</index>
+                <index>248</index>
+                <index>824</index>
             </indices>
             <bestscore>12992.783333333333</bestscore>
             <bestsets>
@@ -333,8 +333,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>108</index>
-                <index>151</index>
+                <index>169</index>
+                <index>435</index>
             </indices>
             <bestscore>9007.792338709678</bestscore>
             <bestsets>
@@ -343,8 +343,13 @@
                     <word>teuter</word>
                     <word>tijloos</word>
                 </set>
+                <set>
+                    <word>taaier</word>
+                    <word>teuten</word>
+                    <word>tijloos</word>
+                </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: taaien,teuter,tijloos (9007.792338709678)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: taaien,teuter,tijloos || taaier,teuten,tijloos (9007.792338709678)</printvalue>
         </query>
         <query>
             <startingletter>v</startingletter>
@@ -356,8 +361,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>75</index>
-                <index>133</index>
+                <index>127</index>
+                <index>475</index>
             </indices>
             <bestscore>3930.402697495183</bestscore>
             <bestsets>
@@ -379,8 +384,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>15</index>
-                <index>221</index>
+                <index>76</index>
+                <index>261</index>
             </indices>
             <bestscore>6340.405405405405</bestscore>
             <bestsets>
@@ -402,8 +407,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>3</index>
-                <index>4</index>
-                <index>164</index>
+                <index>78</index>
+                <index>297</index>
             </indices>
             <bestscore>4139.831360946746</bestscore>
             <bestsets>
@@ -424,8 +429,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>115</index>
-                <index>586</index>
+                <index>156</index>
+                <index>323</index>
             </indices>
             <bestscore>52653.48235294117</bestscore>
             <bestsets>
@@ -445,8 +450,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>79</index>
-                <index>743</index>
+                <index>105</index>
+                <index>656</index>
             </indices>
             <bestscore>45664.13891834571</bestscore>
             <bestsets>
@@ -466,17 +471,17 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>190</index>
-                <index>276</index>
+                <index>283</index>
+                <index>328</index>
             </indices>
-            <bestscore>53145.21729957806</bestscore>
+            <bestscore>48962.54219409283</bestscore>
             <bestsets>
                 <set>
-                    <word>daguil</word>
-                    <word>doteer</word>
+                    <word>dirkte</word>
+                    <word>dolman</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: daguil,doteer (53145.21729957806)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: dirkte,dolman (48962.54219409283)</printvalue>
         </query>
         <query>
             <startingletter>g</startingletter>
@@ -487,8 +492,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>85</index>
-                <index>601</index>
+                <index>113</index>
+                <index>663</index>
             </indices>
             <bestscore>27452.702488687784</bestscore>
             <bestsets>
@@ -500,27 +505,6 @@
             <printvalue>G1p) Minimise average possible words with positive info: galons,geruit (27452.702488687784)</printvalue>
         </query>
         <query>
-            <startingletter>h</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <allocation>1000</allocation>
-            <sortorder>best</sortorder>
-            <indices>
-                <index>249</index>
-                <index>289</index>
-            </indices>
-            <bestscore>32349.565217391304</bestscore>
-            <bestsets>
-                <set>
-                    <word>haring</word>
-                    <word>holtes</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: haring,holtes (32349.565217391304)</printvalue>
-        </query>
-        <query>
             <startingletter>k</startingletter>
             <wordset>ottue</wordset>
             <wordlength>6</wordlength>
@@ -529,8 +513,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>106</index>
-                <index>186</index>
+                <index>142</index>
+                <index>352</index>
             </indices>
             <bestscore>27103.456284153006</bestscore>
             <bestsets>
@@ -550,8 +534,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>197</index>
-                <index>293</index>
+                <index>299</index>
+                <index>414</index>
             </indices>
             <bestscore>54411.049568965514</bestscore>
             <bestsets>
@@ -571,17 +555,17 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>175</index>
-                <index>251</index>
+                <index>252</index>
+                <index>383</index>
             </indices>
-            <bestscore>29912.839679358716</bestscore>
+            <bestscore>24965.74749498998</bestscore>
             <bestsets>
                 <set>
-                    <word>masten</word>
+                    <word>mesten</word>
                     <word>molair</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: masten,molair (29912.839679358716)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info: mesten,molair (24965.74749498998)</printvalue>
         </query>
         <query>
             <startingletter>o</startingletter>
@@ -592,8 +576,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>154</index>
-                <index>392</index>
+                <index>217</index>
+                <index>342</index>
             </indices>
             <bestscore>57643.8156424581</bestscore>
             <bestsets>
@@ -613,8 +597,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>133</index>
-                <index>245</index>
+                <index>183</index>
+                <index>220</index>
             </indices>
             <bestscore>23796.831666666665</bestscore>
             <bestsets>
@@ -634,8 +618,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>173</index>
-                <index>417</index>
+                <index>251</index>
+                <index>382</index>
             </indices>
             <bestscore>53226.592741935485</bestscore>
             <bestsets>
@@ -655,8 +639,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>82</index>
-                <index>686</index>
+                <index>110</index>
+                <index>216</index>
             </indices>
             <bestscore>87709.84888888888</bestscore>
             <bestsets>
@@ -676,8 +660,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>173</index>
-                <index>417</index>
+                <index>251</index>
+                <index>382</index>
             </indices>
             <bestscore>51572.51814516129</bestscore>
             <bestsets>
@@ -697,8 +681,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>162</index>
-                <index>288</index>
+                <index>230</index>
+                <index>426</index>
             </indices>
             <bestscore>23905.34874759152</bestscore>
             <bestsets>
@@ -709,76 +693,7 @@
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info: vergis,volant (23905.34874759152)</printvalue>
         </query>
-        <query>
-            <startingletter>w</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <allocation>1000</allocation>
-            <sortorder>best</sortorder>
-            <indices>
-                <index>247</index>
-                <index>347</index>
-            </indices>
-            <bestscore>38695.65110565111</bestscore>
-            <bestsets>
-                <set>
-                    <word>wegrot</word>
-                    <word>windas</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: wegrot,windas (38695.65110565111)</printvalue>
-        </query>
     </running>
     <finished>
-        <query>
-            <startingletter>i</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>32440.486381322957</bestscore>
-            <bestsets>
-                <set>
-                    <word>inlaut</word>
-                    <word>ironie</word>
-                </set>
-            </bestsets>
-            <printvalue>G1) Minimise average possible words with positive info: inlaut,ironie (32440.486381322957)</printvalue>
-        </query>
-        <query>
-            <startingletter>n</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>46698.20220588235</bestscore>
-            <bestsets>
-                <set>
-                    <word>nameet</word>
-                    <word>nonius</word>
-                </set>
-            </bestsets>
-            <printvalue>G1) Minimise average possible words with positive info: nameet,nonius (46698.20220588235)</printvalue>
-        </query>
-        <query>
-            <startingletter>z</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>49914.23372781065</bestscore>
-            <bestsets>
-                <set>
-                    <word>zanikt</word>
-                    <word>zoeler</word>
-                </set>
-            </bestsets>
-            <printvalue>G1) Minimise average possible words with positive info: zanikt,zoeler (49914.23372781065)</printvalue>
-        </query>
     </finished>
 </results>

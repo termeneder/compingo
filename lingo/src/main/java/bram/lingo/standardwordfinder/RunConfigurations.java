@@ -15,8 +15,8 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "E_Algorithm_Exhaustive_";
-	public final int wordLength = 7;
+	public final String descriptionPrefix = "G_Algorithm_Exhaustive_";
+	public final int wordLength = 6;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
 	public final boolean appendTimestampToFilename = true;
