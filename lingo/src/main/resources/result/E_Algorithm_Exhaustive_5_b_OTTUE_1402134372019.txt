@@ -1,5 +1,0 @@
-b (417):
-	E1) Minimise average possible words, 1 word: baten (34287.25419664269)
-	E1) Minimise average possible words, 2 words: benul,borat (2529.810551558753)
-	E1) Minimise average possible words, 3 words: baron,belijd,buist (300.0167865707434)
-
