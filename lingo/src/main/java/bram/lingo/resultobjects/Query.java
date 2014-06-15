@@ -1,4 +1,4 @@
-package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
+package bram.lingo.resultobjects;
 
 import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuator;
 import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuatorBram;

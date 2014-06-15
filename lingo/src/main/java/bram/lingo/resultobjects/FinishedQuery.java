@@ -1,6 +1,6 @@
-package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
+package bram.lingo.resultobjects;
 
-public class FinishedQuery {
+public class FinishedQuery extends Query{
 	
 	private static final boolean PRINT_FINISHED = true;
 	

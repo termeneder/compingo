@@ -1,4 +1,4 @@
-package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
+package bram.lingo.resultobjects;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,11 +1,11 @@
-package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
+package bram.lingo.resultobjects;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name = "results")
-public class Results {
+public class PartialResults {
 	
-	public Results() {
+	public PartialResults() {
 		running = new Running();
 		finished = new Finished();
 	}
