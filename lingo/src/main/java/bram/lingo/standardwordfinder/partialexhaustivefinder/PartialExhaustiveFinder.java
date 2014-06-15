@@ -9,8 +9,8 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 
-import bram.lingo.resultobjects.Query;
 import bram.lingo.resultobjects.PartialResults;
+import bram.lingo.resultobjects.RunningQuery;
 
 public class PartialExhaustiveFinder {
 
@@ -31,8 +31,8 @@ public class PartialExhaustiveFinder {
 	}
 	
 	public void runIteration() {
-		List<Query> finishedQueries = new ArrayList<Query>();
-		for (Query query : c_results.running) {
+		List<RunningQuery> finishedQueries = new ArrayList<RunningQuery>();
+		for (RunningQuery query : c_results.running) {
 			query.update();
 			if (query.finished()) {
 				finishedQueries.add(query);
@@ -40,7 +40,7 @@ public class PartialExhaustiveFinder {
 			setRoot(c_location, c_results, "");
 			setRoot(c_location, c_results, ".backup");
 		}
-		for (Query query : finishedQueries) {
+		for (RunningQuery query : finishedQueries) {
 			c_results.moveQueryToFinished(query);
 		}
 	}

@@ -14,7 +14,7 @@ public class PartialResults {
 	
 	public Finished finished;
 
-	public void moveQueryToFinished(Query query) {
+	public void moveQueryToFinished(RunningQuery query) {
 		FinishedQuery finishedQuery = new FinishedQuery(query);
 		finished.add(finishedQuery);
 		running.remove(query);

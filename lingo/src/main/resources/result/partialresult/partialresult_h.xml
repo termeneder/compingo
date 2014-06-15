@@ -10,9 +10,9 @@
             <allocation>50000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>16</index>
-                <index>514</index>
-                <index>661</index>
+                <index>17</index>
+                <index>75</index>
+                <index>446</index>
             </indices>
             <bestscore>5185.197058823529</bestscore>
             <bestsets>
@@ -526,22 +526,5 @@
             <printvalue>G1p) Minimise average possible words with positive info: scampi,stolen (87709.84888888888)</printvalue>
         </query>
     </running>
-    <finished>
-        <query>
-            <startingletter>o</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>57643.8156424581</bestscore>
-            <bestsets>
-                <set>
-                    <word>omkant</word>
-                    <word>oproei</word>
-                </set>
-            </bestsets>
-            <printvalue>G1) Minimise average possible words with positive info, 2 words: omkant,oproei (57643.8156424581)</printvalue>
-        </query>
-    </finished>
+    <finished/>
 </results>
