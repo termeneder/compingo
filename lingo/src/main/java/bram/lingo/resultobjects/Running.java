@@ -1,17 +1,17 @@
-package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
+package bram.lingo.resultobjects;
 
 import java.util.Iterator;
 import java.util.List;
 
 import javax.xml.bind.annotation.XmlElement;
 
-public class Running implements Iterable<Query>{
+public class Running implements Iterable<RunningQuery>{
 
 	@XmlElement(name = "query")
-	public List<Query> queryList;
+	public List<RunningQuery> queryList;
 
 	@Override
-	public Iterator<Query> iterator() {
+	public Iterator<RunningQuery> iterator() {
 		return queryList.iterator();
 	}
 

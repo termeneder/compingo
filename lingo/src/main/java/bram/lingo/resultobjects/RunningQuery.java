@@ -1,4 +1,4 @@
-package bram.lingo.standardwordfinder.partialexhaustivefinder.xmlobjects;
+package bram.lingo.resultobjects;
 
 import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuator;
 import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuatorBram;
@@ -19,21 +19,10 @@ import bram.lingo.words.wordSets.NLetterWords;
 import bram.lingo.words.wordSets.Source;
 import bram.lingo.words.wordSets.WordSet;
 
-public class Query {
-	
-	public String startingletter;
-	public String wordset;
-	public Integer wordlength;
-	public String algorithm;
-	public int subsetsize;
+public class RunningQuery extends Query{
 	public int allocation;
-	public String sortorder;
 	
 	public Indices indices;
-	public Double bestscore;
-	public BestSets bestsets;
-	
-	public String printvalue;
 	
 	private transient int c_maxindex;
 	private transient WordSet c_totalWordSet;
@@ -199,4 +188,5 @@ public class Query {
 	public boolean finished() {
 		return ! indices.hasNext(c_maxindex);
 	}
+
 }
