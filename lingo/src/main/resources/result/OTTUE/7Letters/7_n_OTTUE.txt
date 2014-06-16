@@ -19,7 +19,7 @@ n (353):
 	F1g1K) Minimise maximum possible words, 3 words: nahield,netkous,normtijd (170926.0)
 	G1) Minimise average possible words with positive info, 1 word: nareist (4776518.716713881)
 	G1p) Minimise average possible words with positive info, 2 words: naderen,neomist (216269.28328611897)
-	G1p) Minimise average possible words with positive info, 3 words: naaiden,nadroog,neutels (26628.223796033995)
+	G1p) Minimise average possible words with positive info, 3 words: naaiden,nastoot,neurale (26103.96317280453)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: nadeint || nawogen || nasloeg || nagloei || notabel || natelde || neonazi || naturel || notatie || nabloei || nadelig || naroept || naartoe || netband || nareist || nijdaste || natheid (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: nadelig,nadorst || nadroog,neostijl || naoogst,neervlij || naboots,netelig || nierbed,nullast || najaden,notaris || nahield,nestors || nadorst,nippels || natrium,noemden || natrium,neofiel || nabloei,nadorst || nattige,noedels (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: neofiet,normaal,nijlgans (1992060.0)

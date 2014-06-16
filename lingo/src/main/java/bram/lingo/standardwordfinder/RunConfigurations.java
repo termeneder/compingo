@@ -15,19 +15,21 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "G_Algorithm_Exhaustive_";
-	public final int wordLength = 6;
+	public final String descriptionPrefix = "G_Algorithm_Genetic_";
+	public final int wordLength = 7;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
 	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
-	public final int minSubsetSize = 1;
-	public final int maxSubsetSize = 1;
+	public final int minSubsetSize = 3;
+	public final int maxSubsetSize = 3;
 	public final Select select = Select.BEST;
-	public final boolean runAllLetters = true;
-	public final Letter[] lettersToRun = {Letter.k, Letter.l, Letter.m, Letter.n, Letter.o, Letter.p
-			,Letter.q, Letter.r, Letter.s, Letter.t, Letter.u, Letter.v, Letter.w, Letter.x, Letter.y
-			,Letter.z, Letter.ij};
+	public final boolean runAllLetters = false;
+	public final Letter[] lettersToRun = {Letter.a, Letter.b, Letter.c, Letter.d
+			, Letter.e, Letter.f, Letter.g, Letter.h, Letter.i, Letter.k, Letter.l
+			, Letter.m, Letter.n, Letter.o, Letter.p
+			, Letter.r, Letter.s, Letter.t, Letter.u, Letter.v, Letter.w
+			,Letter.z};
 	public final Map<Algorithm, RunType> algorithms = setAlgorithms();
 	
 	public GeneticConfiguration geneticConfig1K = createConfigN(1000);
@@ -54,7 +56,7 @@ public class RunConfigurations {
 		algorithmMap.put(Algorithm.D2, RunType.None);
 		algorithmMap.put(Algorithm.E1, RunType.None);
 		algorithmMap.put(Algorithm.F1, RunType.None);
-		algorithmMap.put(Algorithm.G1, RunType.Exhaustive);
+		algorithmMap.put(Algorithm.G1, RunType.Genetic100K);
 		algorithmMap.put(Algorithm.H1, RunType.None);
 		algorithmMap.put(Algorithm.I1, RunType.None);
 		algorithmMap.put(Algorithm.J2, RunType.None);
