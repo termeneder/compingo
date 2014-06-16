@@ -8,4 +8,6 @@ public class ResultQuery extends Query{
 	public CalculationType calculationtype;
 	public String calculationParameter;
 	
+	public Integer totalAmountOfWords;
+	
 }

@@ -10,19 +10,19 @@
             <allocation>50000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>17</index>
-                <index>75</index>
-                <index>446</index>
+                <index>21</index>
+                <index>360</index>
+                <index>497</index>
             </indices>
-            <bestscore>5185.197058823529</bestscore>
+            <bestscore>5179.819117647059</bestscore>
             <bestsets>
                 <set>
-                    <word>aalput</word>
-                    <word>afrond</word>
-                    <word>amices</word>
+                    <word>aandik</word>
+                    <word>aflees</word>
+                    <word>auctor</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: aalput,afrond,amices (5185.197058823529)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: aandik,aflees,auctor (5179.819117647059)</printvalue>
         </query>
         <query>
             <startingletter>b</startingletter>
@@ -34,8 +34,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>335</index>
-                <index>653</index>
+                <index>371</index>
+                <index>467</index>
             </indices>
             <bestscore>16184.966065747614</bestscore>
             <bestsets>
@@ -57,8 +57,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>87</index>
-                <index>310</index>
+                <index>146</index>
+                <index>306</index>
             </indices>
             <bestscore>7572.445147679325</bestscore>
             <bestsets>
@@ -80,8 +80,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>372</index>
-                <index>786</index>
+                <index>415</index>
+                <index>759</index>
             </indices>
             <bestscore>4520.2024886877825</bestscore>
             <bestsets>
@@ -103,8 +103,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>3</index>
-                <index>16</index>
-                <index>176</index>
+                <index>73</index>
+                <index>200</index>
             </indices>
             <bestscore>3905.789855072464</bestscore>
             <bestsets>
@@ -126,7 +126,7 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>8</index>
-                <index>25</index>
+                <index>150</index>
                 <index>158</index>
             </indices>
             <bestscore>2938.7743190661477</bestscore>
@@ -148,9 +148,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>0</index>
-                <index>598</index>
-                <index>695</index>
+                <index>1</index>
+                <index>18</index>
+                <index>660</index>
             </indices>
             <bestscore>7836.930327868852</bestscore>
             <bestsets>
@@ -172,8 +172,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>112</index>
-                <index>415</index>
+                <index>178</index>
+                <index>460</index>
             </indices>
             <bestscore>12024.0</bestscore>
             <bestsets>
@@ -195,8 +195,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>25</index>
-                <index>358</index>
+                <index>72</index>
+                <index>255</index>
             </indices>
             <bestscore>3941.7234468937877</bestscore>
             <bestsets>
@@ -218,8 +218,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>7</index>
-                <index>34</index>
-                <index>62</index>
+                <index>151</index>
+                <index>236</index>
             </indices>
             <bestscore>7832.213235294118</bestscore>
             <bestsets>
@@ -241,8 +241,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>294</index>
-                <index>473</index>
+                <index>408</index>
+                <index>440</index>
             </indices>
             <bestscore>8535.186219739293</bestscore>
             <bestsets>
@@ -264,8 +264,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>1</index>
-                <index>150</index>
-                <index>572</index>
+                <index>200</index>
+                <index>397</index>
             </indices>
             <bestscore>6339.865</bestscore>
             <bestsets>
@@ -287,8 +287,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>30</index>
-                <index>62</index>
+                <index>77</index>
+                <index>335</index>
             </indices>
             <bestscore>12584.90927419355</bestscore>
             <bestsets>
@@ -310,8 +310,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>0</index>
-                <index>356</index>
-                <index>402</index>
+                <index>396</index>
+                <index>502</index>
             </indices>
             <bestscore>12992.783333333333</bestscore>
             <bestsets>
@@ -333,8 +333,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>2</index>
-                <index>25</index>
-                <index>397</index>
+                <index>72</index>
+                <index>435</index>
             </indices>
             <bestscore>9007.792338709678</bestscore>
             <bestsets>
@@ -360,9 +360,9 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>1</index>
-                <index>361</index>
-                <index>476</index>
+                <index>2</index>
+                <index>20</index>
+                <index>113</index>
             </indices>
             <bestscore>3930.402697495183</bestscore>
             <bestsets>
@@ -384,8 +384,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>3</index>
-                <index>28</index>
-                <index>226</index>
+                <index>88</index>
+                <index>376</index>
             </indices>
             <bestscore>6340.405405405405</bestscore>
             <bestsets>
@@ -407,8 +407,8 @@
             <sortorder>best</sortorder>
             <indices>
                 <index>4</index>
-                <index>115</index>
-                <index>139</index>
+                <index>251</index>
+                <index>263</index>
             </indices>
             <bestscore>4139.831360946746</bestscore>
             <bestsets>
@@ -429,8 +429,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>184</index>
-                <index>693</index>
+                <index>212</index>
+                <index>875</index>
             </indices>
             <bestscore>45664.13891834571</bestscore>
             <bestsets>
@@ -450,8 +450,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>200</index>
-                <index>501</index>
+                <index>231</index>
+                <index>824</index>
             </indices>
             <bestscore>27452.702488687784</bestscore>
             <bestsets>
@@ -471,8 +471,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>261</index>
-                <index>401</index>
+                <index>308</index>
+                <index>439</index>
             </indices>
             <bestscore>27103.456284153006</bestscore>
             <bestsets>
@@ -492,8 +492,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>381</index>
-                <index>553</index>
+                <index>526</index>
+                <index>528</index>
             </indices>
             <bestscore>23796.831666666665</bestscore>
             <bestsets>
@@ -513,8 +513,8 @@
             <allocation>1000</allocation>
             <sortorder>best</sortorder>
             <indices>
-                <index>194</index>
-                <index>510</index>
+                <index>224</index>
+                <index>825</index>
             </indices>
             <bestscore>87709.84888888888</bestscore>
             <bestsets>
