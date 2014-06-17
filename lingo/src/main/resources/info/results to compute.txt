@@ -29,7 +29,7 @@ OTTUE
    - F: A-I,K-P,R-W,Z
    - G: A-I,K-P,R-W,Z
    - H: A-I,K-P,R-W,Z
-   - J: A-I,K-P,R-W,Z
+   - J: A-I,K-P,R-T,V-W,Z
  - Completed algorithms
    - A,B,I
 8 letter words

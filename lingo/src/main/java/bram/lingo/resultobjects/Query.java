@@ -5,9 +5,9 @@ public class Query {
 
 	public String startingletter;
 	public String wordset;
-	public int wordlength;
+	public Integer wordlength;
 	public String algorithm;
-	public int subsetsize;
+	public Integer subsetsize;
 	public String sortorder;
 	
 	public Double bestscore;
