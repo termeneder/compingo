@@ -1,6 +1,7 @@
 package bram.lingo.resultobjects;
 
 
+
 public class ResultQuery extends Query{
 
 	public enum CalculationType {Exhaustive, Genetic, MonteCarlo, Partial}
@@ -9,5 +10,6 @@ public class ResultQuery extends Query{
 	public String calculationParameter;
 	
 	public Integer totalAmountOfWords;
+	
 	
 }

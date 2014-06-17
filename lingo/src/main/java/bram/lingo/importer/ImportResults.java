@@ -15,9 +15,11 @@ import javax.xml.bind.Marshaller;
 
 import org.apache.commons.lang.StringUtils;
 
+import bram.lingo.resultobjects.BestSets;
 import bram.lingo.resultobjects.ResultQuery;
 import bram.lingo.resultobjects.ResultQuery.CalculationType;
 import bram.lingo.resultobjects.Results;
+import bram.lingo.resultobjects.Set;
 
 public class ImportResults {
 
@@ -69,8 +71,6 @@ public class ImportResults {
 		br.close();
 	}
 
-
-
 	private static ResultQuery createQuery(String fileTitle,
 			String headerLine, String line) {
 		ResultQuery query = new ResultQuery();
@@ -79,12 +79,6 @@ public class ImportResults {
 		addLineData(query, line);
 		return query;
 	}
-	
-	
-
-
-	
-
 
 	private static void addHeaderData(ResultQuery query, String headerLine) {
 		String[] headerLineSplit = headerLine.split("(( \\()|(\\)))");
@@ -145,13 +139,23 @@ public class ImportResults {
 	}
 
 	private static void addWords(ResultQuery query, String wordsetString) {
-		System.out.println(wordsetString);
-		String[] wordsetList = wordsetString.split(" || ");
+		String[] wordsetList = wordsetString.split(" \\|\\| ");
+		query.bestsets = new BestSets();
 		for (String wordset : wordsetList) {
-			System.out.println("\t"+wordset);
+			Set set = buildSet(wordset);
+			query.bestsets.add(set);
 		}
-		
 	}
+
+	private static Set buildSet(String wordset) {
+		Set set = new Set();
+		String[] wordList = wordset.split(",");
+		for (String word : wordList){
+			set.wordList.add(word);
+		}
+		return set;
+	}
+
 
 	private static void writeResults(Results results) {
 		try {
