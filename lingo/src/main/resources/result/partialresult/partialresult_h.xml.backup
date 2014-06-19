@@ -19,9 +19,9 @@
             <printvalue>G1p) Minimise average possible words with positive info, 3 words: aankom,afruil,asceet (4210.730882352941)</printvalue>
             <allocation>50000</allocation>
             <indices>
-                <index>31</index>
-                <index>288</index>
-                <index>461</index>
+                <index>35</index>
+                <index>337</index>
+                <index>475</index>
             </indices>
         </query>
         <query>
@@ -40,11 +40,11 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 3 words: baadde,betijen,bosuil (14384.601272534464)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>0</index>
-                <index>450</index>
-                <index>518</index>
+                <index>1</index>
+                <index>55</index>
+                <index>403</index>
             </indices>
         </query>
         <query>
@@ -65,9 +65,9 @@
             <printvalue>G1p) Minimise average possible words with positive info: daagde,doeken,druilt (7572.445147679325)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>2</index>
-                <index>322</index>
-                <index>330</index>
+                <index>3</index>
+                <index>15</index>
+                <index>443</index>
             </indices>
         </query>
         <query>
@@ -89,8 +89,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>516</index>
-                <index>642</index>
+                <index>566</index>
+                <index>567</index>
             </indices>
         </query>
         <query>
@@ -111,9 +111,9 @@
             <printvalue>G1p) Minimise average possible words with positive info: haagde,hielen,hortus (3905.789855072464)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>3</index>
-                <index>235</index>
-                <index>323</index>
+                <index>4</index>
+                <index>7</index>
+                <index>349</index>
             </indices>
         </query>
         <query>
@@ -135,8 +135,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>10</index>
-                <index>36</index>
-                <index>167</index>
+                <index>136</index>
+                <index>217</index>
             </indices>
         </query>
         <query>
@@ -158,8 +158,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>80</index>
-                <index>407</index>
+                <index>107</index>
+                <index>208</index>
             </indices>
         </query>
         <query>
@@ -181,8 +181,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>3</index>
-                <index>7</index>
-                <index>160</index>
+                <index>46</index>
+                <index>156</index>
             </indices>
         </query>
         <query>
@@ -204,8 +204,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>2</index>
-                <index>186</index>
                 <index>246</index>
+                <index>356</index>
             </indices>
         </query>
         <query>
@@ -227,8 +227,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>9</index>
-                <index>11</index>
-                <index>122</index>
+                <index>88</index>
+                <index>105</index>
             </indices>
         </query>
         <query>
@@ -250,8 +250,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>2</index>
-                <index>70</index>
-                <index>346</index>
+                <index>108</index>
+                <index>379</index>
             </indices>
         </query>
         <query>
@@ -261,20 +261,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6339.865</bestscore>
+            <bestscore>6244.59</bestscore>
             <bestsets>
                 <set>
-                    <word>paadje</word>
-                    <word>pinker</word>
+                    <word>paaide</word>
                     <word>polijst</word>
+                    <word>punker</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: paadje,pinker,polijst (6339.865)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: paaide,polijst,punker (6244.59)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>325</index>
-                <index>397</index>
+                <index>396</index>
+                <index>499</index>
             </indices>
         </query>
         <query>
@@ -284,20 +284,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>12584.90927419355</bestscore>
+            <bestscore>10738.064516129032</bestscore>
             <bestsets>
                 <set>
-                    <word>raadje</word>
-                    <word>roeren</word>
-                    <word>rijtuig</word>
+                    <word>raagde</word>
+                    <word>retors</word>
+                    <word>rinkel</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: raadje,roeren,rijtuig (12584.90927419355)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: raagde,retors,rinkel (10738.064516129032)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>2</index>
-                <index>194</index>
-                <index>332</index>
+                <index>257</index>
+                <index>385</index>
             </indices>
         </query>
         <query>
@@ -319,8 +319,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>488</index>
-                <index>504</index>
+                <index>531</index>
+                <index>777</index>
             </indices>
         </query>
         <query>
@@ -330,20 +330,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>8832.139112903225</bestscore>
+            <bestscore>8100.143145161291</bestscore>
             <bestsets>
                 <set>
                     <word>taaist</word>
-                    <word>teuter</word>
-                    <word>toplijn</word>
+                    <word>toerde</word>
+                    <word>tulpen</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: taaist,teuter,toplijn (8832.139112903225)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: taaist,toerde,tulpen (8100.143145161291)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>2</index>
-                <index>187</index>
-                <index>460</index>
+                <index>249</index>
+                <index>317</index>
             </indices>
         </query>
         <query>
@@ -365,8 +365,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>2</index>
-                <index>113</index>
-                <index>170</index>
+                <index>157</index>
+                <index>340</index>
             </indices>
         </query>
         <query>
@@ -387,9 +387,9 @@
             <printvalue>G1p) Minimise average possible words with positive info: waagde,wildst,wijnrek (6340.405405405405)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>3</index>
-                <index>276</index>
-                <index>358</index>
+                <index>4</index>
+                <index>26</index>
+                <index>382</index>
             </indices>
         </query>
         <query>
@@ -410,30 +410,9 @@
             <printvalue>G1p) Minimise average possible words with positive info: zaagde,zoeken,zijruit (4139.831360946746)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>5</index>
-                <index>154</index>
-                <index>315</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>6</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>45664.13891834571</bestscore>
-            <bestsets>
-                <set>
-                    <word>balijen</word>
-                    <word>bosrit</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: balijen,bosrit (45664.13891834571)</printvalue>
-            <allocation>10000</allocation>
-            <indices>
-                <index>542</index>
-                <index>590</index>
+                <index>6</index>
+                <index>7</index>
+                <index>332</index>
             </indices>
         </query>
         <query>
@@ -453,8 +432,8 @@
             <printvalue>G1p) Minimise average possible words with positive info: galons,geruit (27452.702488687784)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>299</index>
-                <index>834</index>
+                <index>329</index>
+                <index>779</index>
             </indices>
         </query>
         <query>
@@ -474,8 +453,8 @@
             <printvalue>G1p) Minimise average possible words with positive info: kakten,kloris (27103.456284153006)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>423</index>
-                <index>464</index>
+                <index>484</index>
+                <index>567</index>
             </indices>
         </query>
         <query>
@@ -495,10 +474,27 @@
             <printvalue>G1p) Minimise average possible words with positive info: scampi,stolen (87709.84888888888)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>290</index>
-                <index>486</index>
+                <index>318</index>
+                <index>840</index>
             </indices>
         </query>
     </running>
-    <finished/>
+    <finished>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>6</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <bestscore>45664.13891834571</bestscore>
+            <bestsets>
+                <set>
+                    <word>balijen</word>
+                    <word>bosrit</word>
+                </set>
+            </bestsets>
+            <printvalue>G1) Minimise average possible words with positive info, 2 words: balijen,bosrit (45664.13891834571)</printvalue>
+        </query>
+    </finished>
 </results>
