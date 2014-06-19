@@ -12,7 +12,7 @@ public class Analyse {
 	}
 
 	private static void trysomething(Results results) {
-		Results filteredResults = new ResultFilter()
+		Results filteredResults3 = new ResultFilter()
 				.keepWordLength(5)
 				.keepCalculationType(CalculationType.Exhaustive)
 				.keepAlgorithm("G1")
@@ -28,7 +28,7 @@ public class Analyse {
 			System.out.println(q.algorithm + "," + q.wordlength + "," + q.bestscore);
 		}
 		System.out.println();
-		for (ResultQuery q : filteredResults) {
+		for (ResultQuery q : filteredResults3) {
 			System.out.println(q.algorithm + "," + q.wordlength + "," + q.bestscore);
 		}
 	}

@@ -19,7 +19,7 @@ d (716):
 	F1g1K) Minimise maximum possible words, 3 words: doceren,duinpad,dijkslag (299484.0)
 	G1) Minimise average possible words with positive info, 1 word: doerian (8261044.467877095)
 	G1p) Minimise average possible words with positive info, 2 words: daaruit,doelens (284014.62709497206)
-	G1g1K) Minimise average possible words with positive info, 3 words: deukten,dolmans,dreigde (59249.304469273746)
+	G1g100K) Minimise average possible words with positive info, 3 words: dankmis,doodlag,dreutel (30664.980446927373)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: douarie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: doordat,duikles (1.4348907E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: dametje,drosten,duikles (2467531.0)

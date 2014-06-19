@@ -19,7 +19,7 @@ b (1600):
 	F1g1K) Minimise maximum possible words, 3 words: bambino,barkast,behuild || blikjes,bodybag,brisant || belfort,bouwkas,boyband || beknord,blauwig,brompijp || bladtin,bouwkas,bijgaven (567256.0)
 	G1) Minimise average possible words with positive info, 1 word: baronie (1.0603266828125E7)
 	G1g1K) Minimise average possible words with positive info, 2 words: boudeer,brisant (549803.245625)
-	G1g1K) Minimise average possible words with positive info, 3 words: bassins,belijder,boorput (45081.11625)
+	G1g100K) Minimise average possible words with positive info, 3 words: baardig,beukten,bijsloot (19596.8175)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: botanie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: beerton,buiklap (1.4348907E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: blekers,boerten,bogaard || bereikt,biggelt,brombas || beademd,besloop,bierton || bejaard,blutsen,bonkige || bastion,bedaard,bloeien || bedbank,beluste,bergtop || barkast,bedelen,bosspin || bariton,bedwelm,bouwrijp || beraadt,bokking,bonksel || bazigst,brossen,brulaap || bakeren,botmuil,boutade || baviaan,beukerij,bootjes || bakgoot,bandiet,baribal || baldert,bedrink,brombas || betonen,buurman,bijhaalt || baanwijs,boreale,buldert || banaler,behoord,blutste || beitels,braakte,brouwen (1.3729562E7)

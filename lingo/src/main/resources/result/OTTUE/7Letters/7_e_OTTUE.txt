@@ -19,7 +19,7 @@ e (309):
 	F1g1K) Minimise maximum possible words, 3 words: edelgas,enormst,epifyse (155818.0)
 	G1) Minimise average possible words with positive info, 1 word: erelint (5805181.443365696)
 	G1g1K) Minimise average possible words with positive info, 2 words: eetbare,epsilon (449431.4789644013)
-	G1g1K) Minimise average possible words with positive info, 3 words: eiglans,eredame,eurotop (51941.922330097084)
+	G1g100K) Minimise average possible words with positive info, 3 words: envelop,eredame,ethicus (24345.22653721683)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: erelint (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: echelon,eremiet || ecotaks,eiermijn || elitair,exogeen (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: ecotaks,eiermijn,exegeet || ecotaks,edeleer,eindtijd || edelman,ernstig,exploot || ecocide,efemeer,erlangt || eclairs,eponiem,estrade (2467531.0)
@@ -28,5 +28,5 @@ e (309):
 	I1) Vincents algorithm, 3 words: ernstig,emerald,echoput (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: eremiet (4.093851132686084)
 	J2) Minimise average neighbours per group (Jochem), 2 words: eiglans,eremiet (1.1423948220064726)
-	J2g1M) Minimise average neighbours per group (Jochem), 3 words: edelgas,endemie,erepost || eigenen,erepalm,etsdruk || ecotaks,eigenen,erepalm || epigram,erfleen,etsdruk || edelman,eeuwige,erepost || eczemen,edelgas,eruptie || edities,eenogen,erepalm || eczemen,eiglans,eurotop || embolie,engerds,exacter || enormer,ereplak,ernstig || eenogen,elixers,erbarmd || eenogen,elixers,ereambt || eenogen,elixers,erbarmt || edelman,epossen,etterig (1.0129449838187703)
+	J2) Minimise average neighbours per group (Jochem), 3 words: ecotaks,eigenen,erepalm || eczemen,edelgas,eruptie || eczemen,eiglans,eurotop || edelgas,endemie,erepost || edelman,eeuwige,erepost || edelman,epossen,etterig || edities,eenogen,erepalm || eenogen,elixers,erbarmd || eenogen,elixers,erbarmt || eenogen,elixers,ereambt || eenterm,egelvis,episode || eetlust,epigoon,eredame || eigenen,erepalm,etsdruk || eindlijn,erratum,exegese || embolie,engerds,exacter || enormer,ereplak,ernstig || epigram,erfleen,etsdruk (1.0129449838187703)
 
