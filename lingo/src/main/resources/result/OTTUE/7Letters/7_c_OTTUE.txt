@@ -19,7 +19,7 @@ c (345):
 	F1g1K) Minimise maximum possible words, 3 words: caprice,clubdas,crouton (164419.0)
 	G1) Minimise average possible words with positive info, 1 word: calorie (6860138.6144927535)
 	G1g1K) Minimise average possible words with positive info, 2 words: cineacs,coltrui (307895.3420289855)
-	G1p) Minimise average possible words with positive info, 3 words: cabaret,chinees,coulomb (23654.666666666668)
+	G1g100K) Minimise average possible words with positive info, 3 words: caritas,checken,coulomb (13688.904347826086)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: calorie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: cellist,crayons || cluster,conisch || cluster,concaaf || calypso,criante || coaches,couloir || camions,cirkels || charter,consuls || calorie,consult || creatie,creools || calicot,crashen || cluster,concave || cambium,creolen || casuele,coating || causale,concert || cheider,collaps || carieus,coulant || calicot,corners || chiasme,crouton || citeert,columns || cluster,coating (1.3729562E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: centime,cowboys,crapuul || censeer,cimbaal,cohorte || cauties,condoom,creolen || capsule,concaaf,cretins (1992060.0)
