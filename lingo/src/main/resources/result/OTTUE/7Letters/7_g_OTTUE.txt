@@ -19,7 +19,7 @@ g (1604):
 	F1g1K) Minimise maximum possible words, 3 words: gelonkt,gewijsde,giframp || gebluft,gejongd,gomhars (410041.0)
 	G1) Minimise average possible words with positive info, 1 word: getarnd (6643853.252493765)
 	G1g1K) Minimise average possible words with positive info, 2 words: gastrol,geminde (163592.1951371571)
-	G1g1K) Minimise average possible words with positive info, 3 words: gemoeid,glypten,grauwst (50447.09600997506)
+	G1g100K) Minimise average possible words with positive info, 3 words: geskied,glijbaan,gourmet (19975.84476309227)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: gasboei || gasolie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: gastrol,gemiauw (1.4348907E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: getalmd,gluiper,goddank (2467531.0)
