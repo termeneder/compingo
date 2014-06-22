@@ -5,7 +5,7 @@ l (464):
 	B3) Optimise amount of letters, 1 word: listen (3.038793103448276)
 	B3) Optimise amount of letters, 2 words: langst,loeier || lastig,loeren || lating,loeres || latino,legers (4.310344827586207)
 	B3) Optimise amount of letters, 3 words: lading,lepelt,losruk (5.008620689655173)
-	C1g1K) Minimise biggest group, 1 word: latino (37.0)
+	C2) Jochems C algorithm, 1 word: latino (37.0)
 	C1g1K) Minimise biggest group, 2 words: loeier,luidst || logees,lunair (10.0)
 	C1g1K) Minimise biggest group, 3 words: leefde,loenst,lunair || lamsla,leutig,loeren || lapjes,lelden,lunair || lamzak,legsel,lunair || langde,lelies,loomte || lariks,leuter,lijmige || leunde,loodst,lunair || letter,lopers,ludiek || lelden,lopers,lunair || lentes,likeur,loodst || lamzak,lensde,luidop (6.0)
 	D2) Minimise average group (Jochem), 1 word: lentes || listen (5.213483146067416)

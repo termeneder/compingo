@@ -5,7 +5,7 @@ r (496):
 	B3) Optimise amount of letters, 1 word: retina || riante (3.096774193548387)
 	B3) Optimise amount of letters, 2 words: radius,roeten || reiden,rostra || rieden,rostra (4.342741935483871)
 	B3) Optimise amount of letters, 3 words: roerde,ruling,rijtaks (5.094758064516129)
-	C1g1K) Minimise biggest group, 1 word: roeien (35.0)
+	C2) Jochems C algorithm, 1 word: roeien (35.0)
 	C1g1K) Minimise biggest group, 2 words: rentes,riblap (8.0)
 	C1g1K) Minimise biggest group, 3 words: roebel,rugpijn,ruimst (5.0)
 	D2) Minimise average group (Jochem), 1 word: ratsen (5.061224489795919)

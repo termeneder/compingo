@@ -3,7 +3,9 @@ package bram.lingo.resultobjects;
 public class FinishedQuery extends Query{
 	
 	private static final boolean PRINT_FINISHED = true;
-	
+	FinishedQuery() {
+		
+	}
 	
 	public FinishedQuery(RunningQuery query) {
 		startingletter = query.startingletter;

@@ -5,7 +5,7 @@ s (900):
 	B3) Optimise amount of letters, 1 word: snater || staren (3.0455555555555556)
 	B3) Optimise amount of letters, 2 words: solair,speent || solair,speten (4.236666666666666)
 	B3) Optimise amount of letters, 3 words: salons,scheep,struik || salons,schuit,spreek || salons,schuit,spreke || salons,speech,struik || saneer,schopt,sluiks || schalk,soepen,struis || schans,soepel,struik || schart,sluiks,soepen || schuil,soepen,straks || schuin,soepel,straks || scouts,skihal,speren || secure,skihal,sponst (5.033333333333333)
-	C1g1K) Minimise biggest group, 1 word: steler || streel (58.0)
+	C2) Jochems C algorithm, 1 word: stalen (52.0)
 	C1g1K) Minimise biggest group, 2 words: sproei,stands (11.0)
 	C1g1K) Minimise biggest group, 3 words: sluier,somden,spette || spilde,spreke,storax || skunks,stoepa,streel || slakom,slurpt,stenig || sleurt,slopen,strike (6.0)
 	D2) Minimise average group (Jochem), 1 word: spriet (6.7669172932330826)

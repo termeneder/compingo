@@ -18,7 +18,6 @@ public class PartialExhaustiveFinder {
 	private String c_location;
 	
 	public PartialExhaustiveFinder(String location) {
-
 		c_results = getRoot(location);
 		c_location = location;
 	}
@@ -33,7 +32,9 @@ public class PartialExhaustiveFinder {
 	public void runIteration() {
 		List<RunningQuery> finishedQueries = new ArrayList<RunningQuery>();
 		for (RunningQuery query : c_results.running) {
-			query.update();
+			if (0 < query.allocation) {
+				query.update();
+			}
 			if (query.finished()) {
 				finishedQueries.add(query);
 			}
@@ -43,12 +44,12 @@ public class PartialExhaustiveFinder {
 		for (RunningQuery query : finishedQueries) {
 			c_results.moveQueryToFinished(query);
 		}
+		setRoot(c_location, c_results, "");
+		setRoot(c_location, c_results, ".backup");
 	}
-
-
+	
 	public PartialResults getResults() {
-		return c_results;
-		
+		return c_results;	
 	}
 
 
@@ -81,5 +82,4 @@ public class PartialExhaustiveFinder {
 		}
 	}
 
-	
 }

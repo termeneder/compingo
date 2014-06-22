@@ -5,7 +5,7 @@ v (519):
 	B3) Optimise amount of letters, 1 word: vertil (3.2620423892100194)
 	B3) Optimise amount of letters, 2 words: versie,volant || vieren,volsta || viseer,volant (4.5626204238921)
 	B3) Optimise amount of letters, 3 words: vadsig,vleten,vrijkom || valtijd,vereng,viskom || valtijd,vergen,viskom || vangst,veilde,vrijkom || vangst,vleide,vrijkom || velden,visgat,vrijkom || vendel,visgat,vrijkom || venkel,visgat,vrijdom || visdag,vleten,vrijkom || viskom,vleten,vrijdag (5.223506743737958)
-	C1g1K) Minimise biggest group, 1 word: vedelt (48.0)
+	C2) Jochems C algorithm, 1 word: vedelt (48.0)
 	C1g1K) Minimise biggest group, 2 words: visgat,volder (9.0)
 	C1g1K) Minimise biggest group, 3 words: veneus,verrek,vlijtig || vegers,vlijmde,volant || verder,verkas,vlijtig || vadert,venkel,viskom || vaalst,verdik,vergen || verzak,voeden,volsta (5.0)
 	D2) Minimise average group (Jochem), 1 word: violet (4.942857142857143)

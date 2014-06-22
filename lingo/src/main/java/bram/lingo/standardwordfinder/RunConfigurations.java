@@ -16,15 +16,15 @@ public class RunConfigurations {
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
 	public final String descriptionPrefix = "G_Algorithm_Genetic_";
-	public final int wordLength = 7;
+	public final int wordLength = 6;
 	public final Source source = Source.OTTUE;
-	public final boolean printToFile = true;
+	public final boolean printToFile = false;
 	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
-	public final int minSubsetSize = 3;
-	public final int maxSubsetSize = 3;
+	public final int minSubsetSize = 1;
+	public final int maxSubsetSize = 1;
 	public final Select select = Select.BEST;
-	public final boolean runAllLetters = false;
+	public final boolean runAllLetters = true;
 	public final Letter[] lettersToRun = {Letter.a, Letter.b, Letter.c, Letter.d
 			, Letter.e, Letter.f, Letter.g, Letter.h, Letter.i, Letter.k, Letter.l
 			, Letter.m, Letter.n, Letter.o, Letter.p

@@ -5,7 +5,7 @@ d (474):
 	B3) Optimise amount of letters, 1 word: doener || doneer (3.1139240506329116)
 	B3) Optimise amount of letters, 2 words: dating,doseer (4.274261603375527)
 	B3) Optimise amount of letters, 3 words: daling,doemde,drukst || delgde,domina,drukst (5.086497890295359)
-	C1g1K) Minimise biggest group, 1 word: dineer (36.0)
+	C2) Jochems C algorithm, 1 word: doneer (35.0)
 	C1g1K) Minimise biggest group, 2 words: doneer,druilt (10.0)
 	C1g1K) Minimise biggest group, 3 words: diesel,donder,dijkgat || dadels,donker,dringt || denier,domweg,drukst || denier,dommel,dijkgat || daguil,denier,dopten || dampig,doneer,duitst (6.0)
 	D2) Minimise average group (Jochem), 1 word: denier || dorsen (5.325842696629214)

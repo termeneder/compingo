@@ -5,7 +5,7 @@ k (732):
 	B3) Optimise amount of letters, 1 word: kanter || karten || katern (3.260928961748634)
 	B3) Optimise amount of letters, 2 words: kaneel,korist || kation,kerels || knarst,koelie || koelie,kranst (4.55327868852459)
 	B3) Optimise amount of letters, 3 words: kelken,kompas,kruidt || keurde,klinkt,kompas || kiende,klampt,krokus || klimop,kneedt,krukas || knekel,kompas,kruidt (5.2076502732240435)
-	C1g1K) Minimise biggest group, 1 word: karton (53.0)
+	C2) Jochems C algorithm, 1 word: kation (51.0)
 	C1g1K) Minimise biggest group, 2 words: keilde,kornak || kapsel,korist || kapkar,koelie (14.0)
 	C1g1K) Minimise biggest group, 3 words: kabots,kerfde,klinkt (5.0)
 	D2) Minimise average group (Jochem), 1 word: korset || krates (6.1)

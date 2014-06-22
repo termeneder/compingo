@@ -186,7 +186,7 @@ public class RunningQuery extends Query{
 	}
 	
 	public boolean finished() {
-		return ! indices.hasNext(c_maxindex);
+		return indices != null && !indices.hasNext(c_maxindex);
 	}
 
 }

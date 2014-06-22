@@ -5,7 +5,7 @@ h (414):
 	B3) Optimise amount of letters, 1 word: hoeren (3.152173913043478)
 	B3) Optimise amount of letters, 2 words: harden,holist (4.355072463768116)
 	B3) Optimise amount of letters, 3 words: heerst,hopman,huldig (5.140096618357488)
-	C1g1K) Minimise biggest group, 1 word: hernia || houten (46.0)
+	C2) Jochems C algorithm, 1 word: hernia || houten (46.0)
 	C1g1K) Minimise biggest group, 2 words: hansop,huiler (9.0)
 	C1g1K) Minimise biggest group, 3 words: heuser,hinkel,hoempa (4.0)
 	D2) Minimise average group (Jochem), 1 word: harsen (4.813953488372093)

@@ -5,7 +5,7 @@ g (884):
 	B3) Optimise amount of letters, 1 word: gerant || graten (3.1278280542986425)
 	B3) Optimise amount of letters, 2 words: gerant,gildos || gesold,girant || gesold,gratin || gildos,graten || gloeit,grands || golden,gratis || gondel,gratis (4.417420814479638)
 	B3) Optimise amount of letters, 3 words: galops,gebeuk,grindt (5.131221719457014)
-	C1g1K) Minimise biggest group, 1 word: gloria (103.0)
+	C2) Jochems C algorithm, 1 word: getale (89.0)
 	C1g1K) Minimise biggest group, 2 words: gaslek,groeit (23.0)
 	C1g1K) Minimise biggest group, 3 words: gespen,graait,gulweg || gedekt,gelang,gluips (10.0)
 	D2) Minimise average group (Jochem), 1 word: grient (8.185185185185185)
