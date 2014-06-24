@@ -42,7 +42,7 @@ public class RunningQuery extends Query{
 				break;
 			}
 		}
-		
+		postpare();
 	}
 	
 	private void prepare() {
@@ -51,6 +51,15 @@ public class RunningQuery extends Query{
 		}
 		setWordSet();
 		setAlgorithm();
+	}
+	
+	/**
+	 * Since the word set and valuator can take up a lot of space (especially precomputing valuators)
+	 * and a lot of RunningQueries can be alive at the same time, unset those in between calculations. 
+	 */
+	private void postpare() {
+		c_totalWordSet = null;
+		c_valuator = null;
 	}
 
 	private void setWordSet() {
@@ -175,6 +184,9 @@ public class RunningQuery extends Query{
 	
 	private WordSet getWordSet() {
 		WordSet subwordset = new WordSet();
+		if (c_totalWordSet.size() < subsetsize) {
+			return subwordset;
+		}
 		for (int index : indices) {
 			subwordset.addWord(c_totalWordSet.get(index));
 		}

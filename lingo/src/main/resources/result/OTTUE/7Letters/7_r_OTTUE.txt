@@ -19,7 +19,7 @@ r (640):
 	F1g1K) Minimise maximum possible words, 3 words: ratings,redelijk,rostrum (223926.0)
 	G1) Minimise average possible words with positive info, 1 word: roadies (8423533.209375)
 	G1g1K) Minimise average possible words with positive info, 2 words: roepies,rugkant (656525.928125)
-	G1g1K) Minimise average possible words with positive info, 3 words: rakkers,ritueel,rijnboog (75192.809375)
+	G1g100K) Minimise average possible words with positive info, 3 words: roekoet,rugwind,rijlaars (29115.44375)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: rotatie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: rotgans,rijkelui (1.4348907E7)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: rechtse,ringlijn,roerbak || rettich,romusha,rondrijd || ridders,romance,rijshout || rietjes,romusha,rijendik || replica,roldeur,rijgenot || ragouts,roesden,rooilijn || resttijd,rooftas,rijkelui || ravotte,rijdster,rijkelui || ratsten,redoute,rijkelui || ravioli,rustbed,rijpelijk || reistas,rioleer,ronduit || replica,reuters,roosten || reistas,rooilijn,rumgrog || renstal,roofmijt,rouwmis || raampen,rendier,rotswol (1.3729562E7)
