@@ -78,20 +78,21 @@ public class RunningQuery extends Query{
 	}
 
 	private void setAlgorithm() {
-		switch(algorithm) {
-		case "A3" : c_valuator = new CorrectLetters3Valuator(c_totalWordSet); break;
-		case "B3" : c_valuator = new InformationAboutLetters3Valuator(c_totalWordSet); break;
-		case "C1" : c_valuator = new BiggestDifferentiationGroupValuator(); break;
-		case "C2" : c_valuator = new NonAmbiguityValuator(c_totalWordSet); break;
-		case "D2" : c_valuator = new AverageAmbiguousGroupSizeValuatorBram(c_totalWordSet); break;
-		case "E1" : c_valuator = new AveragePossibleWordsValuator(); break;
-		case "F1" : c_valuator = new MaximumPossibleWordsValuator(); break;
-		case "G1" : c_valuator = new PositiveAveragePossibleWordsValuator(); break;
-		case "H1" : c_valuator = new PositiveMaximumPossibleWordsValuator(); break;
-		case "J2" : c_valuator = new AverageAmbiguousGroupSizeValuator(c_totalWordSet); break;
-		default : throw new RuntimeException("Unknown algorithm " + algorithm + " in " + getClass());
+		if (c_valuator == null) {
+			switch(algorithm) {
+			case "A3" : c_valuator = new CorrectLetters3Valuator(c_totalWordSet); break;
+			case "B3" : c_valuator = new InformationAboutLetters3Valuator(c_totalWordSet); break;
+			case "C1" : c_valuator = new BiggestDifferentiationGroupValuator(); break;
+			case "C2" : c_valuator = new NonAmbiguityValuator(c_totalWordSet); break;
+			case "D2" : c_valuator = new AverageAmbiguousGroupSizeValuatorBram(c_totalWordSet); break;
+			case "E1" : c_valuator = new AveragePossibleWordsValuator(); break;
+			case "F1" : c_valuator = new MaximumPossibleWordsValuator(); break;
+			case "G1" : c_valuator = new PositiveAveragePossibleWordsValuator(); break;
+			case "H1" : c_valuator = new PositiveMaximumPossibleWordsValuator(); break;
+			case "J2" : c_valuator = new AverageAmbiguousGroupSizeValuator(c_totalWordSet); break;
+			default : throw new RuntimeException("Unknown algorithm " + algorithm + " in " + getClass());
+			}
 		}
-		
 		switch (sortorder) {
 		case "best" : c_order = SortOrder.getSortOrderFromSelectAndBest(Select.BEST, c_valuator.getSortOrderForBest()); break;
 		case "worst" : c_order = SortOrder.getSortOrderFromSelectAndBest(Select.WORST, c_valuator.getSortOrderForBest()); break;
@@ -151,7 +152,11 @@ public class RunningQuery extends Query{
 	public String createPrintValue(boolean finished) {
 		
 		StringBuffer valueBuffer = new StringBuffer();
+		setAlgorithm();
 		valueBuffer.append(c_valuator.getCode() + (finished?"":"p") + ") " + c_valuator.getDescription() + ", ");
+		if (finished) {
+			postpare();
+		}
 		valueBuffer.append(subsetsize + " word" + (subsetsize==1?"":"s") + ": ");
 		boolean isFirstSet = true;
 		for (Set set : bestsets) {
