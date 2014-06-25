@@ -150,13 +150,13 @@ public class RunningQuery extends Query{
 	}
 
 	public String createPrintValue(boolean finished) {
-		
-		StringBuffer valueBuffer = new StringBuffer();
-		setAlgorithm();
-		valueBuffer.append(c_valuator.getCode() + (finished?"":"p") + ") " + c_valuator.getDescription() + ", ");
 		if (finished) {
-			postpare();
+			prepare();
 		}
+		StringBuffer valueBuffer = new StringBuffer();
+		
+		valueBuffer.append(c_valuator.getCode() + (finished?"":"p") + ") " + c_valuator.getDescription() + ", ");
+		
 		valueBuffer.append(subsetsize + " word" + (subsetsize==1?"":"s") + ": ");
 		boolean isFirstSet = true;
 		for (Set set : bestsets) {
@@ -176,6 +176,9 @@ public class RunningQuery extends Query{
 			}
 		}
 		valueBuffer.append(" (" + bestscore + ")");
+		if (finished) {
+			postpare();
+		}
 		return valueBuffer.toString();
 	}
 
