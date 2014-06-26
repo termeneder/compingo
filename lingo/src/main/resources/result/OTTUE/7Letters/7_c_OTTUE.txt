@@ -11,7 +11,7 @@ c (345):
 	D1g1K) Minimise average group, 1 word: cantors (2.0294117647058822)
 	D1g1K) Minimise average group, 2 words: cantors,couplet || cantors,cupduel (1.074766355140187)
 	D1g1K) Minimise average group, 3 words: capsule,cheider,contact (1.0176991150442478)
-	E1g1K) Minimise average possible words, 1 word: calorie (2247354.9246376813)
+	E1) Minimise average possible words, 1 word: calorie (2247354.9246376813)
 	E1g1K) Minimise average possible words, 2 words: caprice,consult (34475.944927536235)
 	E1g1K) Minimise average possible words, 3 words: caching,capsule,colbert (6163.889855072463)
 	F1g1K) Minimise maximum possible words, 1 word: calorie (2.2460151E7)
