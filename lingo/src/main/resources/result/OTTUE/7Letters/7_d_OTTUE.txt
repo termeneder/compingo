@@ -11,7 +11,7 @@ d (716):
 	D1g1K) Minimise average group, 1 word: drosten (3.6345177664974617)
 	D1g1K) Minimise average group, 2 words: deeglap,drosten (1.2717584369449377)
 	D1g1K) Minimise average group, 3 words: dieptes,droegen,dukdalf (1.0346820809248556)
-	E1g1K) Minimise average possible words, 1 word: douarie (2824637.1662011174)
+	E1) Minimise average possible words, 1 word: doerian (2559662.027932961)
 	E1g1K) Minimise average possible words, 2 words: doelman,duivers (125188.73184357541)
 	E1g1K) Minimise average possible words, 3 words: dashond,deurmat,dociele (11225.27094972067)
 	F1g1K) Minimise maximum possible words, 1 word: douarie (2.2460151E7)
