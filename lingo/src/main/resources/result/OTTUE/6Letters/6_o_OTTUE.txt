@@ -6,7 +6,7 @@ o (537):
 	B3) Optimise amount of letters, 2 words: omroep,ontsla (4.1191806331471135)
 	B3) Optimise amount of letters, 3 words: omruil,oogden,opstak || ontpak,ooglid,oremus || ooglid,opsmuk,orante (4.973929236499069)
 	C2) Jochems C algorithm, 1 word: oprekt || optorn || optrek (44.0)
-	C1g1K) Minimise biggest group, 2 words: ooruil,opwekt (9.0)
+	C2) Jochems C algorithm, 2 words: omleid,opkort || ontlok,opsier (7.0)
 	C1g1K) Minimise biggest group, 3 words: oogbol,opzakt,orders || omgord,opliep,optant (4.0)
 	D2) Minimise average group (Jochem), 1 word: opliet (5.652631578947369)
 	D2) Minimise average group (Jochem), 2 words: omrank,opliet (1.432)

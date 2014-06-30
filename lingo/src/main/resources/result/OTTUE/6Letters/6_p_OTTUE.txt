@@ -6,7 +6,7 @@ p (600):
 	B3) Optimise amount of letters, 2 words: paleer,piston || paneel,prosit || pastor,peilen || pastor,pielen || penale,prosit || pesten,polair || petsen,polair || piesen,portal (4.576666666666667)
 	B3) Optimise amount of letters, 3 words: palrad,peuken,pispot || palrad,poepen,puikst (5.1866666666666665)
 	C2) Jochems C algorithm, 1 word: paneel (37.0)
-	C1g1K) Minimise biggest group, 2 words: paneel,proost (8.0)
+	C2) Jochems C algorithm, 2 words: penale,purist (5.0)
 	C1g1K) Minimise biggest group, 3 words: papzak,pluimt,poseer (4.0)
 	D2) Minimise average group (Jochem), 1 word: parten (4.958677685950414)
 	D2) Minimise average group (Jochem), 2 words: partus,pielen (1.3157894736842106)

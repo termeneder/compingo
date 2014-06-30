@@ -6,7 +6,7 @@ w (407):
 	B3) Optimise amount of letters, 2 words: wielen,wrakst (4.415233415233415)
 	B3) Optimise amount of letters, 3 words: warmst,woelde,wijking || wasdom,welker,wijting || waskom,wereld,wijting || wasmot,welker,wijding || wasmot,wereld,wijking || wastijd,welken,wormig (5.2063882063882065)
 	C2) Jochems C algorithm, 1 word: wentel (26.0)
-	C1g1K) Minimise biggest group, 2 words: welkom,winter || warrig,wentel || waaier,wentel (7.0)
+	C2) Jochems C algorithm, 2 words: warkop,wentel (5.0)
 	C1g1K) Minimise biggest group, 3 words: weelde,wegwijs,witkar || waskot,weblog,windes || waskot,wellen,wijders || wegert,woeden,wolkam || wentel,worgde,wijnzak || waagde,wemelt,winket || wentel,wrakke,wijduit || walker,wegert,wonden || weimes,witkar,wolkig (4.0)
 	D2) Minimise average group (Jochem), 1 word: wisten (4.472527472527473)
 	D2) Minimise average group (Jochem), 2 words: welker,windas (1.3171521035598706)

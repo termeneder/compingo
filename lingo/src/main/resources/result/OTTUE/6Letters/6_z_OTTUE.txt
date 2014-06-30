@@ -6,7 +6,7 @@ z (338):
 	B3) Optimise amount of letters, 2 words: zaligt,zoener || zaling,zeerot || zaling,zoeter (4.340236686390533)
 	B3) Optimise amount of letters, 3 words: zeegod,zinlijk,zwarts (5.165680473372781)
 	C2) Jochems C algorithm, 1 word: zoeten (22.0)
-	C1g1K) Minimise biggest group, 2 words: zaligt,zoemer (5.0)
+	C2) Jochems C algorithm, 2 words: zaligt,zoemer || zaligt,zoende || zandig,zoelte || zandig,zoeter || zanikt,zeegod || zanikt,zoeler || zeiler,zondag || ziende,zwarts || zinder,zwoele || zitdag,zoeler (5.0)
 	C1g1K) Minimise biggest group, 3 words: zelden,zitdag,zoeker || zamelt,zeekoe,zuring || zuring,zweemt,zijloge || zinder,zweemt,zijloge || zander,zeikte,zijloge || zander,ziekst,zijloge || zander,ziekst,zolang (3.0)
 	D2) Minimise average group (Jochem), 1 word: zielen (4.121951219512195)
 	D2) Minimise average group (Jochem), 2 words: zitdag,zoeler (1.3359683794466404)
