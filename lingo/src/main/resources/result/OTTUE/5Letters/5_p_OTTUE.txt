@@ -32,4 +32,5 @@ p (282):
 	J2) Minimise average neighbours per group (Jochem), 1 word: paret (13.21985815602837)
 	J2) Minimise average neighbours per group (Jochem), 2 words: pinas,poter (2.141843971631206)
 	J2) Minimise average neighbours per group (Jochem), 3 words: papil,poker,punts || peren,pipst,polak (1.2695035460992907)
+	J2p) Minimise average neighbours per group (Jochem), 4 words: paait,paalt,peper,punks (1.2624113475177305)
 

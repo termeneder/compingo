@@ -19,9 +19,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: aalvork,ademweg,afspint (1.1597337770382696)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>221</index>
-                <index>530</index>
-                <index>1047</index>
+                <index>242</index>
+                <index>816</index>
+                <index>881</index>
             </indices>
         </query>
         <query>
@@ -1322,8 +1322,6 @@
                 <index>316</index>
             </indices>
         </query>
-
-
         <query>
             <startingletter>a</startingletter>
             <wordset>ottue</wordset>
@@ -2270,8 +2268,7 @@
                 <index>4</index>
                 <index>205</index>
             </indices>
-        </query>    </running>
-    <finished>
-
-    </finished>
+        </query>
+    </running>
+    <finished/>
 </results>
