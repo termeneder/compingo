@@ -112,7 +112,19 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
+            <bestscore>7.55643402493617E8</bestscore>
+            <bestsets>
+                <set>
+                    <word>aanbaden</word>
+                    <word>aanwijzen</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanbaden,aanwijzen (7.55643402493617E8)</printvalue>
             <allocation>10000</allocation>
+            <indices>
+                <index>5</index>
+                <index>621</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
