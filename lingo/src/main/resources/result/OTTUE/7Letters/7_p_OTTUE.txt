@@ -26,6 +26,7 @@ p (907):
 	I1) Vincents algorithm, 1 word: pantser (1.0)
 	I1) Vincents algorithm, 2 words: pantser,polsdik (1.0)
 	I1) Vincents algorithm, 3 words: pantser,polsdik,pofmouw (1.0)
+	I1) Vincents algorithm, 4 words: pantser,polsdik,pofmouw,prijzige (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: piaster (8.13781697905182)
 	J2) Minimise average neighbours per group (Jochem), 2 words: polsdik,punteer (1.2579933847850056)
 	J2g1M) Minimise average neighbours per group (Jochem), 3 words: palette,podiums,prikpen (1.0418963616317531)

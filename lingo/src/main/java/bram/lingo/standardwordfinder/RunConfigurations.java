@@ -15,15 +15,15 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "";
-	public final int wordLength = 8;
+	public final String descriptionPrefix = "I_Algorithm_";
+	public final int wordLength = 7;
 	public final Source source = Source.OTTUE;
-	public final boolean printToFile = true;
+	public final boolean printToFile = false;
 	public final boolean appendTimestampToFilename = true;
 	public final boolean printTime = true;
 	public final int minSubsetSize = 1;
-	public final int maxSubsetSize = 1;
-	public final Select select = Select.WORST;
+	public final int maxSubsetSize = 4;
+	public final Select select = Select.BEST;
 	public final boolean runAllLetters = true;
 	public final Letter[] lettersToRun = {Letter.a, Letter.b, Letter.c, Letter.d
 			, Letter.e, Letter.f, Letter.g, Letter.h, Letter.i, Letter.k, Letter.l
@@ -52,14 +52,14 @@ public class RunConfigurations {
 		algorithmMap.put(Algorithm.A3, RunType.None);
 		algorithmMap.put(Algorithm.B3, RunType.None);
 		algorithmMap.put(Algorithm.C1, RunType.None);
-		algorithmMap.put(Algorithm.C2, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.D2, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.E1, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.F1, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.G1, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.H1, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.I1, RunType.None);
-		algorithmMap.put(Algorithm.J2, RunType.Exhaustive);
+		algorithmMap.put(Algorithm.C2, RunType.None);
+		algorithmMap.put(Algorithm.D2, RunType.None);
+		algorithmMap.put(Algorithm.E1, RunType.None);
+		algorithmMap.put(Algorithm.F1, RunType.None);
+		algorithmMap.put(Algorithm.G1, RunType.None);
+		algorithmMap.put(Algorithm.H1, RunType.None);
+		algorithmMap.put(Algorithm.I1, RunType.Exhaustive);
+		algorithmMap.put(Algorithm.J2, RunType.None);
 		return algorithmMap;
 	}
 	

@@ -28,6 +28,7 @@ n (128):
 	I1) Vincents algorithm, 1 word: natie (1.0)
 	I1) Vincents algorithm, 2 words: natie,norse (1.0)
 	I1) Vincents algorithm, 3 words: natie,norse,nijdig (1.0)
+	I1) Vincents algorithm, 4 words: natie,norst,nijdig,novum (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: natie (8.71875)
 	J2) Minimise average neighbours per group (Jochem), 2 words: notie,nijdas (2.59375)
 	J2) Minimise average neighbours per group (Jochem), 3 words: naast,nepen,nodig (1.359375)

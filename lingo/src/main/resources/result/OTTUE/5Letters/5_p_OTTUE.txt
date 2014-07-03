@@ -28,6 +28,7 @@ p (282):
 	I1) Vincents algorithm, 1 word: paret (1.0)
 	I1) Vincents algorithm, 2 words: paret,plons (1.0)
 	I1) Vincents algorithm, 3 words: paret,plons,puike (1.0)
+	I1) Vincents algorithm, 4 words: paret,plons,puike,pijnde (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: paret (13.21985815602837)
 	J2) Minimise average neighbours per group (Jochem), 2 words: pinas,poter (2.141843971631206)
 	J2) Minimise average neighbours per group (Jochem), 3 words: papil,poker,punts || peren,pipst,polak (1.2695035460992907)

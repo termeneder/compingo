@@ -28,6 +28,7 @@ i (86):
 	I1) Vincents algorithm, 1 word: iaden (1.0)
 	I1) Vincents algorithm, 2 words: iaden,items (1.0)
 	I1) Vincents algorithm, 3 words: iaden,items,inrol (1.0)
+	I1) Vincents algorithm, 4 words: iaden,items,inrol,inwijk (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: iaden (12.488372093023257)
 	J2) Minimise average neighbours per group (Jochem), 2 words: imker,insta (3.604651162790698)
 	J2) Minimise average neighbours per group (Jochem), 3 words: ieder,intik,islam (1.441860465116279)

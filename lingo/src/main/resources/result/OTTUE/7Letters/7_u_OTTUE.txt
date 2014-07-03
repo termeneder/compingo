@@ -26,6 +26,7 @@ u (295):
 	I1) Vincents algorithm, 1 word: uraniet (1.0)
 	I1) Vincents algorithm, 2 words: uraniet,uilskop (1.0)
 	I1) Vincents algorithm, 3 words: uraniet,uilskop,uitglijd (1.0)
+	I1) Vincents algorithm, 4 words: uraniet,uilskop,uitglijd,uitkwam (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: uraniet (14.416949152542372)
 	J2) Minimise average neighbours per group (Jochem), 2 words: uilskop,uraniet (2.247457627118644)
 	J2) Minimise average neighbours per group (Jochem), 3 words: uienbed,uitkipt,uurglas (1.1830508474576271)

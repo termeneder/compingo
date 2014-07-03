@@ -26,6 +26,7 @@ e (309):
 	I1) Vincents algorithm, 1 word: ernstig (1.0)
 	I1) Vincents algorithm, 2 words: ernstig,emerald (1.0)
 	I1) Vincents algorithm, 3 words: ernstig,emerald,echoput (1.0)
+	I1) Vincents algorithm, 4 words: ernstig,emerald,echoput,erfelijk (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: eremiet (4.093851132686084)
 	J2) Minimise average neighbours per group (Jochem), 2 words: eiglans,eremiet (1.1423948220064726)
 	J2) Minimise average neighbours per group (Jochem), 3 words: ecotaks,eigenen,erepalm || eczemen,edelgas,eruptie || eczemen,eiglans,eurotop || edelgas,endemie,erepost || edelman,eeuwige,erepost || edelman,epossen,etterig || edities,eenogen,erepalm || eenogen,elixers,erbarmd || eenogen,elixers,erbarmt || eenogen,elixers,ereambt || eenterm,egelvis,episode || eetlust,epigoon,eredame || eigenen,erepalm,etsdruk || eindlijn,erratum,exegese || embolie,engerds,exacter || enormer,ereplak,ernstig || epigram,erfleen,etsdruk (1.0129449838187703)

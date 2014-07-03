@@ -28,6 +28,7 @@ u (27):
 	I1) Vincents algorithm, 1 word: urine (1.0)
 	I1) Vincents algorithm, 2 words: urine,ultra (1.0)
 	I1) Vincents algorithm, 3 words: urine,ultra,urmde (1.0)
+	I1) Vincents algorithm, 4 words: urine,ultra,urmde,uniek (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: urine (1.8148148148148149)
 	J2) Minimise average neighbours per group (Jochem), 2 words: units,urmde (1.0740740740740742)
 	J2) Minimise average neighbours per group (Jochem), 3 words: ukken,units,urmde || unief,units,urmde || uniek,units,urmde || units,urmde,uzelf (1.0)

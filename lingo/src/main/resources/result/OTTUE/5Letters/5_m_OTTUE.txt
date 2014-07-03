@@ -28,6 +28,7 @@ m (220):
 	I1) Vincents algorithm, 1 word: maten (1.0)
 	I1) Vincents algorithm, 2 words: maten,molik (1.0)
 	I1) Vincents algorithm, 3 words: maten,molik,modus (1.0)
+	I1) Vincents algorithm, 4 words: maten,molik,modus,mager (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: maten (13.054545454545455)
 	J2) Minimise average neighbours per group (Jochem), 2 words: matse,minor (2.4272727272727272)
 	J2) Minimise average neighbours per group (Jochem), 3 words: makst,melde,minor (1.309090909090909)

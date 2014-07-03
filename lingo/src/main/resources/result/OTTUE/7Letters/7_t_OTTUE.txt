@@ -26,6 +26,7 @@ t (819):
 	I1) Vincents algorithm, 1 word: toendra (1.0)
 	I1) Vincents algorithm, 2 words: toendra,tsjilpt (1.0)
 	I1) Vincents algorithm, 3 words: toendra,tsjilpt,tuinwijk (1.0)
+	I1) Vincents algorithm, 4 words: toendra,tsjilpt,tuinwijk,tangram (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: treilen (8.323565323565324)
 	J2) Minimise average neighbours per group (Jochem), 2 words: toestel,tripang (1.3687423687423688)
 	J2g1M) Minimise average neighbours per group (Jochem), 3 words: topteam,treksel,tuinden (1.0488400488400489)

@@ -26,6 +26,7 @@ r (640):
 	I1) Vincents algorithm, 1 word: retsina (1.0)
 	I1) Vincents algorithm, 2 words: retsina,ruilbod (1.0)
 	I1) Vincents algorithm, 3 words: retsina,ruilbod,rijksweg (1.0)
+	I1) Vincents algorithm, 4 words: retsina,ruilbod,rijksweg,riempje (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: roadies (7.759375)
 	J2) Minimise average neighbours per group (Jochem), 2 words: rendier,roskamt (1.296875)
 	J2g1M) Minimise average neighbours per group (Jochem), 3 words: ringmus,roefdek,roltrap (1.03125)

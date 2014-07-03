@@ -28,6 +28,7 @@ f (145):
 	I1) Vincents algorithm, 1 word: faire (1.0)
 	I1) Vincents algorithm, 2 words: faire,fonts (1.0)
 	I1) Vincents algorithm, 3 words: faire,fonts,fylum (1.0)
+	I1) Vincents algorithm, 4 words: faire,fonts,fylum,fokte (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: filet (7.055172413793104)
 	J2) Minimise average neighbours per group (Jochem), 2 words: folie,frats (1.4413793103448276)
 	J2) Minimise average neighbours per group (Jochem), 3 words: feces,flikt,forma (1.0551724137931036)

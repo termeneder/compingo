@@ -26,6 +26,7 @@ o (991):
 	I1) Vincents algorithm, 1 word: oplaten (1.0)
 	I1) Vincents algorithm, 2 words: oplaten,omringd (1.0)
 	I1) Vincents algorithm, 3 words: oplaten,omringd,opsmukt (1.0)
+	I1) Vincents algorithm, 4 words: oplaten,omringd,opsmukt,opvijzen (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: optrees (14.148335015136226)
 	J2) Minimise average neighbours per group (Jochem), 2 words: omkrans,opleidt (1.6538849646821392)
 	J2g1M) Minimise average neighbours per group (Jochem), 3 words: omzwalk,onvrede,opspuit (1.1009081735620585)

@@ -26,6 +26,7 @@ l (588):
 	I1) Vincents algorithm, 1 word: lansier (1.0)
 	I1) Vincents algorithm, 2 words: lansier,lijkauto (1.0)
 	I1) Vincents algorithm, 3 words: lansier,lijkauto,lijfgoed (1.0)
+	I1) Vincents algorithm, 4 words: lansier,lijkauto,lijfgoed,luimpje (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: lansier (7.003401360544218)
 	J2) Minimise average neighbours per group (Jochem), 2 words: languit,loeders (1.2993197278911566)
 	J2g1M) Minimise average neighbours per group (Jochem), 3 words: lengten,lomperd,luiszak || lengten,loodarm,luiszak (1.054421768707483)

@@ -26,6 +26,7 @@ n (353):
 	I1) Vincents algorithm, 1 word: nareist (1.0)
 	I1) Vincents algorithm, 2 words: nareist,noodpil (1.0)
 	I1) Vincents algorithm, 3 words: nareist,noodpil,nukkige (1.0)
+	I1) Vincents algorithm, 4 words: nareist,noodpil,nukkige,nabijkom (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: noester (5.1303116147308785)
 	J2) Minimise average neighbours per group (Jochem), 2 words: neutels,nodiger (1.2322946175637395)
 	J2) Minimise average neighbours per group (Jochem), 3 words: nalazen,negerde,netkous (1.0113314447592068)

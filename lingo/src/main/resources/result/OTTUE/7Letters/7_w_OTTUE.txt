@@ -26,6 +26,7 @@ w (603):
 	I1) Vincents algorithm, 1 word: warnest (1.0)
 	I1) Vincents algorithm, 2 words: warnest,wolkige (1.0)
 	I1) Vincents algorithm, 3 words: warnest,wolkige,wijndorp (1.0)
+	I1) Vincents algorithm, 4 words: warnest,wolkige,wijndorp,wambuis (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: werkten (7.205638474295191)
 	J2) Minimise average neighbours per group (Jochem), 2 words: werkles,windgat (1.2122719734660032)
 	J2g1M) Minimise average neighbours per group (Jochem), 3 words: werkset,wipbrug,wijnland (1.0298507462686568)

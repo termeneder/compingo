@@ -28,6 +28,7 @@ j (77):
 	I1) Vincents algorithm, 1 word: jeton (1.0)
 	I1) Vincents algorithm, 2 words: jeton,judas (1.0)
 	I1) Vincents algorithm, 3 words: jeton,judas,jolig (1.0)
+	I1) Vincents algorithm, 4 words: jeton,judas,jolig,joker (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: janet (4.038961038961039)
 	J2) Minimise average neighbours per group (Jochem), 2 words: jodel,junta (1.4675324675324675)
 	J2) Minimise average neighbours per group (Jochem), 3 words: jaagt,jolde,junks (1.051948051948052)

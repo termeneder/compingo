@@ -28,6 +28,7 @@ w (177):
 	I1) Vincents algorithm, 1 word: water (1.0)
 	I1) Vincents algorithm, 2 words: water,winde (1.0)
 	I1) Vincents algorithm, 3 words: water,winde,wulps (1.0)
+	I1) Vincents algorithm, 4 words: water,windt,wulps,wijzig (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: wendt (11.07909604519774)
 	J2) Minimise average neighbours per group (Jochem), 2 words: weidt,wrang (2.638418079096045)
 	J2) Minimise average neighbours per group (Jochem), 3 words: weegs,windt,wrake (1.3276836158192091)
