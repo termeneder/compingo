@@ -28,6 +28,7 @@ y (3):
 	I1) Vincents algorithm, 1 word: yards (1.0)
 	I1) Vincents algorithm, 2 words: yards,yucca (1.0)
 	I1) Vincents algorithm, 3 words: yards,yucca,yells (1.0)
+	I1) Vincents algorithm, 4 words:  (4.9E-324)
 	J2) Minimise average neighbours per group (Jochem), 1 word: yards || yells || yucca (1.0)
 	J2) Minimise average neighbours per group (Jochem), 2 words: yards,yells || yards,yucca || yells,yucca (1.0)
 	J2) Minimise average neighbours per group (Jochem), 3 words: yards,yells,yucca (1.0)

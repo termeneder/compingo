@@ -28,6 +28,7 @@ e (108):
 	I1) Vincents algorithm, 1 word: ernst (1.0)
 	I1) Vincents algorithm, 2 words: ernst,email (1.0)
 	I1) Vincents algorithm, 3 words: ernst,email,edoch (1.0)
+	I1) Vincents algorithm, 4 words: ernst,email,edoch,ergon (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: enter (6.7407407407407405)
 	J2) Minimise average neighbours per group (Jochem), 2 words: eicel,engst (1.8888888888888888)
 	J2) Minimise average neighbours per group (Jochem), 3 words: eicel,engst,erfde || eland,epiek,ergst (1.2777777777777777)

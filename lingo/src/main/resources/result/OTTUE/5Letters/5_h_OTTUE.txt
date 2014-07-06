@@ -28,6 +28,7 @@ h (221):
 	I1) Vincents algorithm, 1 word: haten (1.0)
 	I1) Vincents algorithm, 2 words: haten,horig (1.0)
 	I1) Vincents algorithm, 3 words: haten,horig,hulst (1.0)
+	I1) Vincents algorithm, 4 words: haten,horig,hulst,humde (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: harte (15.063348416289593)
 	J2) Minimise average neighbours per group (Jochem), 2 words: halst,heier (3.244343891402715)
 	J2) Minimise average neighbours per group (Jochem), 3 words: hands,helpt,horig || harig,helpt,honds || harpt,helse,honig (1.4253393665158371)

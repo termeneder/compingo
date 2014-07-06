@@ -26,6 +26,7 @@ x (2):
 	I1) Vincents algorithm, 1 word: xylitol (1.0)
 	I1) Vincents algorithm, 2 words: xylitol,xeroxen (1.0)
 	I1) Vincents algorithm, 3 words:  (4.9E-324)
+	I1) Vincents algorithm, 4 words:  (4.9E-324)
 	J2) Minimise average neighbours per group (Jochem), 1 word: xeroxen || xylitol (1.0)
 	J2) Minimise average neighbours per group (Jochem), 2 words: xeroxen,xylitol (1.0)
 	J2) Minimise average neighbours per group (Jochem), 3 words:  (1.7976931348623157E308)

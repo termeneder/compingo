@@ -28,6 +28,7 @@ s (480):
 	I1) Vincents algorithm, 1 word: salet (1.0)
 	I1) Vincents algorithm, 2 words: salet,spion (1.0)
 	I1) Vincents algorithm, 3 words: salet,spion,scrum (1.0)
+	I1) Vincents algorithm, 4 words: salet,spion,scrum,schok (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: stoel (25.866666666666667)
 	J2) Minimise average neighbours per group (Jochem), 2 words: slapt,snoer (3.533333333333333)
 	J2) Minimise average neighbours per group (Jochem), 3 words: sluik,snoep,stram || sluip,snoek,stram || slump,snoei,strak (1.3708333333333333)

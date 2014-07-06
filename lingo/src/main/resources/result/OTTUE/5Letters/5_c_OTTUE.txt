@@ -28,6 +28,7 @@ c (89):
 	I1) Vincents algorithm, 1 word: cameo (1.0)
 	I1) Vincents algorithm, 2 words: cameo,clips (1.0)
 	I1) Vincents algorithm, 3 words: cameo,clips,crank (1.0)
+	I1) Vincents algorithm, 4 words: cameo,clips,crank,chant (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: cameo (6.033707865168539)
 	J2) Minimise average neighbours per group (Jochem), 2 words: casco,crime (1.449438202247191)
 	J2) Minimise average neighbours per group (Jochem), 3 words: caret,click,conus || cider,claus,cocon (1.0224719101123596)

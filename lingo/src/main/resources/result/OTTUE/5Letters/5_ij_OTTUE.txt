@@ -28,6 +28,7 @@ ij (38):
 	I1) Vincents algorithm, 1 word: ijsdek (1.0)
 	I1) Vincents algorithm, 2 words: ijsdek,ijsbal (1.0)
 	I1) Vincents algorithm, 3 words: ijsdek,ijsbal,ijzing (1.0)
+	I1) Vincents algorithm, 4 words: ijsdek,ijsbal,ijzing,ijvert (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: ijstak (4.421052631578948)
 	J2) Minimise average neighbours per group (Jochem), 2 words: ijlden,ijskar || ijlden,ijstak (1.368421052631579)
 	J2) Minimise average neighbours per group (Jochem), 3 words: ijking,ijsbar,ijzelt (1.0526315789473684)

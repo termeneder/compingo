@@ -28,6 +28,7 @@ o (183):
 	I1) Vincents algorithm, 1 word: oempa (1.0)
 	I1) Vincents algorithm, 2 words: oempa,onwis (1.0)
 	I1) Vincents algorithm, 3 words: oempa,onwis,orgel (1.0)
+	I1) Vincents algorithm, 4 words: oempa,onwis,orgel,oudst (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: oplet (15.92896174863388)
 	J2) Minimise average neighbours per group (Jochem), 2 words: onkel,opart (2.9453551912568305)
 	J2) Minimise average neighbours per group (Jochem), 3 words: omkat,oplos,orden (1.3934426229508197)

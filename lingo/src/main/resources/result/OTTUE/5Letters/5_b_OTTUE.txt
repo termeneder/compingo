@@ -28,6 +28,7 @@ b (417):
 	I1) Vincents algorithm, 1 word: baret (1.0)
 	I1) Vincents algorithm, 2 words: baret,blonk (1.0)
 	I1) Vincents algorithm, 3 words: baret,blonk,buist (1.0)
+	I1) Vincents algorithm, 4 words: baret,blonk,buist,bijpad (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: baret (23.41726618705036)
 	J2) Minimise average neighbours per group (Jochem), 2 words: blies,borat (3.316546762589928)
 	J2) Minimise average neighbours per group (Jochem), 3 words: batik,beleg,brons || bedek,bilan,brost (1.4028776978417266)
