@@ -19,9 +19,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: aalvork,ademweg,afspint (1.1597337770382696)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>339</index>
-                <index>521</index>
-                <index>1082</index>
+                <index>367</index>
+                <index>459</index>
+                <index>497</index>
             </indices>
         </query>
         <query>
@@ -42,9 +42,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: baardig,belezen,butskop (1.19)</printvalue>
             <allocation>500000</allocation>
             <indices>
-                <index>18</index>
-                <index>965</index>
-                <index>1131</index>
+                <index>19</index>
+                <index>222</index>
+                <index>436</index>
             </indices>
         </query>
         <query>
@@ -71,8 +71,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>35</index>
-                <index>176</index>
-                <index>207</index>
+                <index>413</index>
+                <index>667</index>
             </indices>
         </query>
         <query>
@@ -94,8 +94,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>6</index>
-                <index>762</index>
-                <index>1410</index>
+                <index>891</index>
+                <index>1306</index>
             </indices>
         </query>
         <query>
@@ -116,9 +116,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: haarkam,helften,huisgod (1.0280210157618213)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>58</index>
-                <index>343</index>
-                <index>537</index>
+                <index>59</index>
+                <index>235</index>
+                <index>526</index>
             </indices>
         </query>
         <query>
@@ -139,9 +139,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem): idolaat,inkrimp,inweven (1.119047619047619)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>138</index>
-                <index>394</index>
-                <index>400</index>
+                <index>141</index>
+                <index>236</index>
+                <index>409</index>
             </indices>
         </query>
         <query>
@@ -163,8 +163,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>13</index>
-                <index>608</index>
-                <index>1060</index>
+                <index>867</index>
+                <index>1086</index>
             </indices>
         </query>
         <query>
@@ -190,8 +190,8 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: laadbak,legioen,lustrum || laatmes,legeren,lokduif (1.0612244897959184)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>54</index>
-                <index>417</index>
+                <index>55</index>
+                <index>253</index>
                 <index>423</index>
             </indices>
         </query>
@@ -223,9 +223,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: maaltijd,mengkom,mieters || maatpak,mindere,moslems || maatpak,mindere,moslims (1.0513513513513513)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>32</index>
-                <index>574</index>
-                <index>675</index>
+                <index>33</index>
+                <index>169</index>
+                <index>445</index>
             </indices>
         </query>
         <query>
@@ -246,9 +246,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: obsceen,onkruid,opvolgt (1.1392532795156407)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>17</index>
-                <index>642</index>
-                <index>880</index>
+                <index>18</index>
+                <index>60</index>
+                <index>581</index>
             </indices>
         </query>
         <query>
@@ -270,8 +270,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>21</index>
-                <index>257</index>
-                <index>468</index>
+                <index>435</index>
+                <index>877</index>
             </indices>
         </query>
         <query>
@@ -293,8 +293,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>45</index>
-                <index>128</index>
-                <index>409</index>
+                <index>392</index>
+                <index>485</index>
             </indices>
         </query>
         <query>
@@ -316,8 +316,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>7</index>
-                <index>745</index>
-                <index>1201</index>
+                <index>893</index>
+                <index>1375</index>
             </indices>
         </query>
         <query>
@@ -344,8 +344,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>26</index>
-                <index>292</index>
-                <index>605</index>
+                <index>541</index>
+                <index>756</index>
             </indices>
         </query>
         <query>
@@ -366,9 +366,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: vaalwit,veegmes,verkond (1.2402957486136783)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>14</index>
-                <index>787</index>
-                <index>998</index>
+                <index>15</index>
+                <index>70</index>
+                <index>837</index>
             </indices>
         </query>
         <query>
@@ -389,9 +389,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: walbaas,werktop,wiegden (1.0464344941956882)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>51</index>
-                <index>349</index>
-                <index>455</index>
+                <index>52</index>
+                <index>195</index>
+                <index>223</index>
             </indices>
         </query>
         <query>
@@ -417,9 +417,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: zaliger,zetstuk,zoemden || zandrug,zeemvel,zotskap (1.047713717693837)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>80</index>
-                <index>192</index>
-                <index>487</index>
+                <index>81</index>
+                <index>232</index>
+                <index>497</index>
             </indices>
         </query>
         <query>
@@ -2254,7 +2254,7 @@
             </indices>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>C2</algorithm>
@@ -2263,7 +2263,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>C2</algorithm>
@@ -2272,7 +2272,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>C2</algorithm>
@@ -2281,7 +2281,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>D2</algorithm>
@@ -2290,7 +2290,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>D2</algorithm>
@@ -2299,7 +2299,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>D2</algorithm>
@@ -2308,7 +2308,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>F1</algorithm>
@@ -2317,7 +2317,34 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+            <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+            <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>1</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>H1</algorithm>
@@ -2326,16 +2353,7 @@
             <allocation>100</allocation>
         </query>
         <query>
-        <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>100</allocation>
-        </query>
-        <query>
-        <startingletter>a</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>H1</algorithm>
@@ -2344,7 +2362,5 @@
             <allocation>100</allocation>
         </query>
     </running>
-    <finished>
-
-    </finished>
+    <finished/>
 </results>
