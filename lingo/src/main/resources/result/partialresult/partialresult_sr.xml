@@ -19,9 +19,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: aalvork,ademweg,afspint (1.1597337770382696)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>242</index>
-                <index>816</index>
-                <index>881</index>
+                <index>339</index>
+                <index>521</index>
+                <index>1082</index>
             </indices>
         </query>
         <query>
@@ -42,9 +42,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: baardig,belezen,butskop (1.19)</printvalue>
             <allocation>500000</allocation>
             <indices>
-                <index>16</index>
-                <index>964</index>
-                <index>1326</index>
+                <index>18</index>
+                <index>965</index>
+                <index>1131</index>
             </indices>
         </query>
         <query>
@@ -61,13 +61,18 @@
                     <word>drenzen</word>
                     <word>duimdik</word>
                 </set>
+                <set>
+                    <word>dagtank</word>
+                    <word>dooplid</word>
+                    <word>dreumes</word>
+                </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: dagslot,drenzen,duimdik (1.058659217877095)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: dagslot,drenzen,duimdik || dagtank,dooplid,dreumes (1.058659217877095)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>33</index>
-                <index>110</index>
-                <index>326</index>
+                <index>35</index>
+                <index>176</index>
+                <index>207</index>
             </indices>
         </query>
         <query>
@@ -89,8 +94,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>6</index>
-                <index>297</index>
-                <index>355</index>
+                <index>762</index>
+                <index>1410</index>
             </indices>
         </query>
         <query>
@@ -111,9 +116,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: haarkam,helften,huisgod (1.0280210157618213)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>55</index>
-                <index>57</index>
-                <index>199</index>
+                <index>58</index>
+                <index>343</index>
+                <index>537</index>
             </indices>
         </query>
         <query>
@@ -134,9 +139,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem): idolaat,inkrimp,inweven (1.119047619047619)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>126</index>
-                <index>281</index>
-                <index>399</index>
+                <index>138</index>
+                <index>394</index>
+                <index>400</index>
             </indices>
         </query>
         <query>
@@ -157,9 +162,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: kaakbot,kleurde,knipmes (1.0977777777777777)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>12</index>
-                <index>943</index>
-                <index>1085</index>
+                <index>13</index>
+                <index>608</index>
+                <index>1060</index>
             </indices>
         </query>
         <query>
@@ -185,9 +190,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: laadbak,legioen,lustrum || laatmes,legeren,lokduif (1.0612244897959184)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>51</index>
-                <index>168</index>
-                <index>563</index>
+                <index>54</index>
+                <index>417</index>
+                <index>423</index>
             </indices>
         </query>
         <query>
@@ -204,13 +209,23 @@
                     <word>mengkom</word>
                     <word>mieters</word>
                 </set>
+                <set>
+                    <word>maatpak</word>
+                    <word>mindere</word>
+                    <word>moslems</word>
+                </set>
+                <set>
+                    <word>maatpak</word>
+                    <word>mindere</word>
+                    <word>moslims</word>
+                </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: maaltijd,mengkom,mieters (1.0513513513513513)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: maaltijd,mengkom,mieters || maatpak,mindere,moslems || maatpak,mindere,moslims (1.0513513513513513)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>30</index>
-                <index>573</index>
-                <index>689</index>
+                <index>32</index>
+                <index>574</index>
+                <index>675</index>
             </indices>
         </query>
         <query>
@@ -231,9 +246,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: obsceen,onkruid,opvolgt (1.1392532795156407)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>16</index>
-                <index>571</index>
-                <index>951</index>
+                <index>17</index>
+                <index>642</index>
+                <index>880</index>
             </indices>
         </query>
         <query>
@@ -254,9 +269,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: paaivis,pluktijd,propeen (1.061742006615215)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>20</index>
-                <index>107</index>
-                <index>163</index>
+                <index>21</index>
+                <index>257</index>
+                <index>468</index>
             </indices>
         </query>
         <query>
@@ -266,30 +281,20 @@
             <algorithm>J2</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1.05</bestscore>
+            <bestscore>1.04375</bestscore>
             <bestsets>
                 <set>
-                    <word>raamhor</word>
-                    <word>rakelde</word>
-                    <word>rusting</word>
-                </set>
-                <set>
-                    <word>raderen</word>
-                    <word>remblok</word>
-                    <word>rusting</word>
-                </set>
-                <set>
                     <word>rafelde</word>
-                    <word>ranking</word>
-                    <word>rostrum</word>
+                    <word>retours</word>
+                    <word>ringmap</word>
                 </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: raamhor,rakelde,rusting || raderen,remblok,rusting || rafelde,ranking,rostrum (1.05)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: rafelde,retours,ringmap (1.04375)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>42</index>
-                <index>191</index>
-                <index>378</index>
+                <index>45</index>
+                <index>128</index>
+                <index>409</index>
             </indices>
         </query>
         <query>
@@ -311,8 +316,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>7</index>
-                <index>245</index>
-                <index>451</index>
+                <index>745</index>
+                <index>1201</index>
             </indices>
         </query>
         <query>
@@ -338,9 +343,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: taalden,tipmuts,toereik || taalden,topstuk,trireem (1.0634920634920635)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>24</index>
-                <index>670</index>
-                <index>672</index>
+                <index>26</index>
+                <index>292</index>
+                <index>605</index>
             </indices>
         </query>
         <query>
@@ -362,8 +367,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>14</index>
-                <index>39</index>
-                <index>288</index>
+                <index>787</index>
+                <index>998</index>
             </indices>
         </query>
         <query>
@@ -384,9 +389,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: walbaas,werktop,wiegden (1.0464344941956882)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>48</index>
-                <index>213</index>
-                <index>272</index>
+                <index>51</index>
+                <index>349</index>
+                <index>455</index>
             </indices>
         </query>
         <query>
@@ -412,9 +417,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: zaliger,zetstuk,zoemden || zandrug,zeemvel,zotskap (1.047713717693837)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>74</index>
-                <index>371</index>
-                <index>443</index>
+                <index>80</index>
+                <index>192</index>
+                <index>487</index>
             </indices>
         </query>
         <query>
@@ -424,20 +429,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>38934.053244592345</bestscore>
+            <bestscore>34302.18635607321</bestscore>
             <bestsets>
                 <set>
                     <word>aalfuik</word>
-                    <word>aangoot</word>
-                    <word>afsmeer</word>
+                    <word>afboomt</word>
+                    <word>asregen</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: aalfuik,aangoot,afsmeer (38934.053244592345)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: aalfuik,afboomt,asregen (34302.18635607321)</printvalue>
             <allocation>50000</allocation>
             <indices>
                 <index>2</index>
-                <index>202</index>
-                <index>502</index>
+                <index>495</index>
+                <index>866</index>
             </indices>
         </query>
         <query>
@@ -447,20 +452,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>169056.425625</bestscore>
+            <bestscore>161019.635</bestscore>
             <bestsets>
                 <set>
                     <word>baadden</word>
-                    <word>badhuis</word>
-                    <word>beloert</word>
+                    <word>badmuts</word>
+                    <word>bloeier</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: baadden,badhuis,beloert (169056.425625)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: baadden,badmuts,bloeier (161019.635)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>44</index>
-                <index>1234</index>
+                <index>47</index>
+                <index>1575</index>
             </indices>
         </query>
         <query>
@@ -482,8 +487,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>32</index>
-                <index>212</index>
+                <index>49</index>
+                <index>61</index>
             </indices>
         </query>
         <query>
@@ -505,8 +510,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>103</index>
-                <index>427</index>
+                <index>111</index>
+                <index>567</index>
             </indices>
         </query>
         <query>
@@ -528,8 +533,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>75</index>
-                <index>88</index>
+                <index>97</index>
+                <index>215</index>
             </indices>
         </query>
         <query>
@@ -551,8 +556,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>6</index>
-                <index>232</index>
+                <index>20</index>
+                <index>353</index>
             </indices>
         </query>
         <query>
@@ -574,8 +579,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>42</index>
-                <index>181</index>
+                <index>45</index>
+                <index>504</index>
             </indices>
         </query>
         <query>
@@ -597,8 +602,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>127</index>
-                <index>309</index>
+                <index>138</index>
+                <index>502</index>
             </indices>
         </query>
         <query>
@@ -620,8 +625,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>202</index>
-                <index>285</index>
+                <index>226</index>
+                <index>377</index>
             </indices>
         </query>
         <query>
@@ -631,20 +636,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>77086.63644444445</bestscore>
+            <bestscore>75163.33511111111</bestscore>
             <bestsets>
                 <set>
                     <word>kaaiden</word>
-                    <word>kaalkop</word>
-                    <word>keuters</word>
+                    <word>kalkput</word>
+                    <word>koelers</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: kaaiden,kaalkop,keuters (77086.63644444445)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: kaaiden,kalkput,koelers (75163.33511111111)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>59</index>
-                <index>579</index>
+                <index>64</index>
+                <index>269</index>
             </indices>
         </query>
         <query>
@@ -666,8 +671,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>122</index>
-                <index>477</index>
+                <index>133</index>
+                <index>428</index>
             </indices>
         </query>
         <query>
@@ -689,8 +694,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>93</index>
-                <index>384</index>
+                <index>101</index>
+                <index>252</index>
             </indices>
         </query>
         <query>
@@ -712,8 +717,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>8</index>
-                <index>148</index>
+                <index>23</index>
+                <index>108</index>
             </indices>
         </query>
         <query>
@@ -723,20 +728,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>121907.81735620585</bestscore>
+            <bestscore>86070.27245206862</bestscore>
             <bestsets>
                 <set>
                     <word>oasetje</word>
-                    <word>oliedom</word>
-                    <word>openruk</word>
+                    <word>olieput</word>
+                    <word>omwrong</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: oasetje,oliedom,openruk (121907.81735620585)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: oasetje,olieput,omwrong (86070.27245206862)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>66</index>
-                <index>862</index>
+                <index>72</index>
+                <index>339</index>
             </indices>
         </query>
         <query>
@@ -758,8 +763,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>73</index>
-                <index>470</index>
+                <index>79</index>
+                <index>493</index>
             </indices>
         </query>
         <query>
@@ -781,8 +786,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>108</index>
-                <index>514</index>
+                <index>118</index>
+                <index>259</index>
             </indices>
         </query>
         <query>
@@ -804,8 +809,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>43</index>
-                <index>199</index>
+                <index>46</index>
+                <index>852</index>
             </indices>
         </query>
         <query>
@@ -827,8 +832,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>80</index>
-                <index>619</index>
+                <index>87</index>
+                <index>481</index>
             </indices>
         </query>
         <query>
@@ -850,8 +855,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>76</index>
-                <index>99</index>
+                <index>100</index>
+                <index>167</index>
             </indices>
         </query>
         <query>
@@ -873,8 +878,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>59</index>
-                <index>1073</index>
+                <index>64</index>
+                <index>978</index>
             </indices>
         </query>
         <query>
@@ -884,20 +889,20 @@
             <algorithm>G1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>91018.53565505805</bestscore>
+            <bestscore>61143.1824212272</bestscore>
             <bestsets>
                 <set>
                     <word>waadden</word>
-                    <word>walstro</word>
-                    <word>wegduik</word>
+                    <word>waskrijt</word>
+                    <word>woelige</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 3 words: waadden,walstro,wegduik (91018.53565505805)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 3 words: waadden,waskrijt,woelige (61143.1824212272)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>114</index>
-                <index>530</index>
+                <index>125</index>
+                <index>228</index>
             </indices>
         </query>
         <query>
@@ -919,8 +924,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>145</index>
-                <index>298</index>
+                <index>159</index>
+                <index>405</index>
             </indices>
         </query>
         <query>
@@ -940,8 +945,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanrist,afbolde (206027.63394342762)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>259</index>
-                <index>612</index>
+                <index>302</index>
+                <index>1052</index>
             </indices>
         </query>
         <query>
@@ -961,8 +966,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: baardig,boleten (519811.128125)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>38</index>
-                <index>980</index>
+                <index>41</index>
+                <index>303</index>
             </indices>
         </query>
         <query>
@@ -982,8 +987,8 @@
             <printvalue>G1p) Minimise average possible words with positive info: daaruit,doelens (284014.62709497206)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>91</index>
-                <index>122</index>
+                <index>97</index>
+                <index>399</index>
             </indices>
         </query>
         <query>
@@ -1003,8 +1008,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: foliant,fundeer (191638.2699724518)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>265</index>
-                <index>316</index>
+                <index>325</index>
+                <index>326</index>
             </indices>
         </query>
         <query>
@@ -1024,8 +1029,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: galnoot,gereisd (166722.16147132168)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>38</index>
-                <index>828</index>
+                <index>41</index>
+                <index>139</index>
             </indices>
         </query>
         <query>
@@ -1045,8 +1050,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: halster,houkind (246222.1541155867)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>119</index>
-                <index>311</index>
+                <index>128</index>
+                <index>297</index>
             </indices>
         </query>
         <query>
@@ -1066,8 +1071,8 @@
             <printvalue>G1p) Minimise average possible words with positive info: idealer,inkomst (112658.3880952381)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>187</index>
-                <index>226</index>
+                <index>205</index>
+                <index>221</index>
             </indices>
         </query>
         <query>
@@ -1087,8 +1092,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kakelen,korstig (240795.86222222223)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>55</index>
-                <index>721</index>
+                <index>59</index>
+                <index>455</index>
             </indices>
         </query>
         <query>
@@ -1108,8 +1113,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: landrug,losliet (479630.20238095237)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>115</index>
-                <index>166</index>
+                <index>123</index>
+                <index>426</index>
             </indices>
         </query>
         <query>
@@ -1129,29 +1134,8 @@
             <printvalue>G1p) Minimise average possible words with positive info: maaisel,montere (226901.6)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>87</index>
-                <index>536</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>n</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>180522.17847025496</bestscore>
-            <bestsets>
-                <set>
-                    <word>naploos</word>
-                    <word>neuriet</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: naploos,neuriet (180522.17847025496)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>305</index>
-                <index>306</index>
+                <index>93</index>
+                <index>645</index>
             </indices>
         </query>
         <query>
@@ -1171,8 +1155,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: oculair,optomen (443502.52875882946)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>63</index>
-                <index>647</index>
+                <index>67</index>
+                <index>949</index>
             </indices>
         </query>
         <query>
@@ -1192,8 +1176,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: paleren,pothuis (223309.5821389195)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>69</index>
-                <index>902</index>
+                <index>74</index>
+                <index>732</index>
             </indices>
         </query>
         <query>
@@ -1213,8 +1197,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: ransuil,rokeert (421706.771875)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>103</index>
-                <index>540</index>
+                <index>111</index>
+                <index>288</index>
             </indices>
         </query>
         <query>
@@ -1234,8 +1218,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: saphout,slieren (450586.7658862876)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>41</index>
-                <index>608</index>
+                <index>44</index>
+                <index>255</index>
             </indices>
         </query>
         <query>
@@ -1255,8 +1239,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: takelde,tritons (256942.86935286934)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>78</index>
-                <index>278</index>
+                <index>83</index>
+                <index>593</index>
             </indices>
         </query>
         <query>
@@ -1276,8 +1260,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: valigst,verkond (219383.1617375231)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>56</index>
-                <index>1061</index>
+                <index>60</index>
+                <index>971</index>
             </indices>
         </query>
         <query>
@@ -1297,8 +1281,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: walstro,wegknip (317933.92039800994)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>109</index>
-                <index>378</index>
+                <index>117</index>
+                <index>470</index>
             </indices>
         </query>
         <query>
@@ -1318,8 +1302,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: zandrug,zeoliet (490552.02584493044)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>138</index>
-                <index>316</index>
+                <index>149</index>
+                <index>378</index>
             </indices>
         </query>
         <query>
@@ -1329,20 +1313,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7882.666389351081</bestscore>
+            <bestscore>6641.305324459235</bestscore>
             <bestsets>
                 <set>
                     <word>aaibaar</word>
-                    <word>aalmoes</word>
-                    <word>afwendt</word>
+                    <word>aanduwt</word>
+                    <word>afsloeg</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: aaibaar,aalmoes,afwendt (7882.666389351081)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: aaibaar,aanduwt,afsloeg (6641.305324459235)</printvalue>
             <allocation>10000</allocation>
             <indices>
                 <index>0</index>
-                <index>27</index>
-                <index>553</index>
+                <index>62</index>
+                <index>93</index>
             </indices>
         </query>
         <query>
@@ -1352,18 +1336,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>220525.791875</bestscore>
+            <bestscore>184721.318125</bestscore>
             <bestsets>
                 <set>
-                    <word>baadden</word>
-                    <word>boletri</word>
+                    <word>baadjes</word>
+                    <word>beknort</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: baadden,boletri (220525.791875)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 2 words: baadjes,beknort (184721.318125)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>1</index>
-                <index>103</index>
+                <index>503</index>
             </indices>
         </query>
         <query>
@@ -1373,20 +1357,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>87739.694375</bestscore>
+            <bestscore>59691.033125</bestscore>
             <bestsets>
                 <set>
                     <word>baadden</word>
-                    <word>baadjes</word>
-                    <word>boletri</word>
+                    <word>baaierd</word>
+                    <word>beklopt</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: baadden,baadjes,boletri (87739.694375)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: baadden,baaierd,beklopt (59691.033125)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>105</index>
+                <index>505</index>
             </indices>
         </query>
         <query>
@@ -1396,18 +1380,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>58234.7652173913</bestscore>
+            <bestscore>37031.13333333333</bestscore>
             <bestsets>
                 <set>
-                    <word>cabines</word>
-                    <word>coltrui</word>
+                    <word>cahiers</word>
+                    <word>coulant</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: cabines,coltrui (58234.7652173913)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 2 words: cahiers,coulant (37031.13333333333)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>4</index>
-                <index>335</index>
+                <index>6</index>
+                <index>58</index>
             </indices>
         </query>
         <query>
@@ -1429,8 +1413,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>5</index>
-                <index>340</index>
+                <index>7</index>
+                <index>65</index>
             </indices>
         </query>
         <query>
@@ -1440,18 +1424,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>181364.56983240222</bestscore>
+            <bestscore>108271.92178770949</bestscore>
             <bestsets>
                 <set>
                     <word>daalden</word>
-                    <word>dekstro</word>
+                    <word>drogist</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: daalden,dekstro (181364.56983240222)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 2 words: daalden,drogist (108271.92178770949)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>2</index>
-                <index>274</index>
+                <index>674</index>
             </indices>
         </query>
         <query>
@@ -1474,7 +1458,7 @@
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>277</index>
+                <index>677</index>
             </indices>
         </query>
         <query>
@@ -1494,8 +1478,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: eboniet,erlangs (93212.24919093851)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>5</index>
-                <index>176</index>
+                <index>6</index>
+                <index>274</index>
             </indices>
         </query>
         <query>
@@ -1517,8 +1501,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>6</index>
-                <index>182</index>
+                <index>7</index>
+                <index>281</index>
             </indices>
         </query>
         <query>
@@ -1538,8 +1522,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: fabriek,foutlijn (66347.33884297521)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>4</index>
-                <index>263</index>
+                <index>5</index>
+                <index>306</index>
             </indices>
         </query>
         <query>
@@ -1561,8 +1545,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>5</index>
-                <index>268</index>
+                <index>6</index>
+                <index>312</index>
             </indices>
         </query>
         <query>
@@ -1583,7 +1567,7 @@
             <allocation>100</allocation>
             <indices>
                 <index>1</index>
-                <index>99</index>
+                <index>499</index>
             </indices>
         </query>
         <query>
@@ -1593,20 +1577,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>46190.1240648379</bestscore>
+            <bestscore>26743.346009975063</bestscore>
             <bestsets>
                 <set>
                     <word>gaaitje</word>
-                    <word>gaaltje</word>
-                    <word>gesnord</word>
+                    <word>gaapten</word>
+                    <word>gegrold</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: gaaitje,gaaltje,gesnord (46190.1240648379)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: gaaitje,gaapten,gegrold (26743.346009975063)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>101</index>
+                <index>501</index>
             </indices>
         </query>
         <query>
@@ -1626,8 +1610,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: haageik,holster (112535.43782837127)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>2</index>
-                <index>564</index>
+                <index>3</index>
+                <index>397</index>
             </indices>
         </query>
         <query>
@@ -1649,8 +1633,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>3</index>
-                <index>567</index>
+                <index>4</index>
+                <index>401</index>
             </indices>
         </query>
         <query>
@@ -1670,8 +1654,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: idealer,inkomst (23891.614285714284)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>4</index>
-                <index>35</index>
+                <index>5</index>
+                <index>21</index>
             </indices>
         </query>
         <query>
@@ -1693,8 +1677,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>5</index>
-                <index>40</index>
+                <index>6</index>
+                <index>27</index>
             </indices>
         </query>
         <query>
@@ -1715,7 +1699,7 @@
             <allocation>100</allocation>
             <indices>
                 <index>1</index>
-                <index>578</index>
+                <index>978</index>
             </indices>
         </query>
         <query>
@@ -1725,20 +1709,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>36715.124444444446</bestscore>
+            <bestscore>36533.83911111111</bestscore>
             <bestsets>
                 <set>
                     <word>kaaiden</word>
                     <word>kaaitje</word>
-                    <word>klokuur</word>
+                    <word>kropsla</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: kaaiden,kaaitje,klokuur (36715.124444444446)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: kaaiden,kaaitje,kropsla (36533.83911111111)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>580</index>
+                <index>980</index>
             </indices>
         </query>
         <query>
@@ -1748,18 +1732,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>274019.1360544218</bestscore>
+            <bestscore>259851.49829931973</bestscore>
             <bestsets>
                 <set>
-                    <word>laadden</word>
-                    <word>losrukt</word>
+                    <word>laafden</word>
+                    <word>likstok</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: laadden,losrukt (274019.1360544218)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 2 words: laafden,likstok (259851.49829931973)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>2</index>
-                <index>530</index>
+                <index>3</index>
+                <index>346</index>
             </indices>
         </query>
         <query>
@@ -1781,8 +1765,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>3</index>
-                <index>533</index>
+                <index>4</index>
+                <index>350</index>
             </indices>
         </query>
         <query>
@@ -1803,7 +1787,7 @@
             <allocation>100</allocation>
             <indices>
                 <index>2</index>
-                <index>226</index>
+                <index>626</index>
             </indices>
         </query>
         <query>
@@ -1826,7 +1810,7 @@
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>229</index>
+                <index>629</index>
             </indices>
         </query>
         <query>
@@ -1846,8 +1830,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: naailes,neutron (54072.322946175635)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>4</index>
-                <index>303</index>
+                <index>6</index>
+                <index>10</index>
             </indices>
         </query>
         <query>
@@ -1869,8 +1853,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>5</index>
-                <index>308</index>
+                <index>7</index>
+                <index>17</index>
             </indices>
         </query>
         <query>
@@ -1890,8 +1874,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: obelisk,omrandt (130430.01917255297)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>1</index>
-                <index>712</index>
+                <index>2</index>
+                <index>124</index>
             </indices>
         </query>
         <query>
@@ -1913,8 +1897,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>2</index>
-                <index>714</index>
+                <index>3</index>
+                <index>127</index>
             </indices>
         </query>
         <query>
@@ -1934,8 +1918,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: paaiden,polster (89040.76957001102)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>1</index>
-                <index>796</index>
+                <index>2</index>
+                <index>292</index>
             </indices>
         </query>
         <query>
@@ -1957,8 +1941,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>2</index>
-                <index>798</index>
+                <index>3</index>
+                <index>295</index>
             </indices>
         </query>
         <query>
@@ -1978,8 +1962,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: raadsel,ringrot (114229.0125)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>2</index>
-                <index>426</index>
+                <index>3</index>
+                <index>190</index>
             </indices>
         </query>
         <query>
@@ -2001,8 +1985,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>3</index>
-                <index>429</index>
+                <index>4</index>
+                <index>194</index>
             </indices>
         </query>
         <query>
@@ -2023,7 +2007,7 @@
             <allocation>100</allocation>
             <indices>
                 <index>1</index>
-                <index>208</index>
+                <index>608</index>
             </indices>
         </query>
         <query>
@@ -2046,7 +2030,7 @@
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>210</index>
+                <index>610</index>
             </indices>
         </query>
         <query>
@@ -2056,18 +2040,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>151691.97802197802</bestscore>
+            <bestscore>144198.78998779</bestscore>
             <bestsets>
                 <set>
-                    <word>taaierd</word>
-                    <word>toestel</word>
+                    <word>taakten</word>
+                    <word>tolhuis</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: taaierd,toestel (151691.97802197802)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 2 words: taakten,tolhuis (144198.78998779)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>2</index>
-                <index>68</index>
+                <index>468</index>
             </indices>
         </query>
         <query>
@@ -2090,7 +2074,7 @@
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>71</index>
+                <index>471</index>
             </indices>
         </query>
         <query>
@@ -2110,8 +2094,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: uiensap,uitrolt (24896.70508474576)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>5</index>
-                <index>246</index>
+                <index>7</index>
+                <index>71</index>
             </indices>
         </query>
         <query>
@@ -2133,8 +2117,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>6</index>
-                <index>252</index>
+                <index>8</index>
+                <index>79</index>
             </indices>
         </query>
         <query>
@@ -2155,7 +2139,7 @@
             <allocation>100</allocation>
             <indices>
                 <index>1</index>
-                <index>621</index>
+                <index>1021</index>
             </indices>
         </query>
         <query>
@@ -2165,20 +2149,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>19753.200554528652</bestscore>
+            <bestscore>13838.289279112754</bestscore>
             <bestsets>
                 <set>
                     <word>vaagden</word>
                     <word>vaaglijk</word>
-                    <word>verstom</word>
+                    <word>vorstig</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: vaagden,vaaglijk,verstom (19753.200554528652)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: vaagden,vaaglijk,vorstig (13838.289279112754)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>623</index>
+                <index>1023</index>
             </indices>
         </query>
         <query>
@@ -2188,18 +2172,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>174566.44610281923</bestscore>
+            <bestscore>140565.42122719734</bestscore>
             <bestsets>
                 <set>
-                    <word>waagden</word>
-                    <word>wortels</word>
+                    <word>waaiden</word>
+                    <word>wegrolt</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: waagden,wortels (174566.44610281923)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 2 words: waaiden,wegrolt (140565.42122719734)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>2</index>
-                <index>500</index>
+                <index>3</index>
+                <index>301</index>
             </indices>
         </query>
         <query>
@@ -2209,20 +2193,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>74794.42620232173</bestscore>
+            <bestscore>21341.920398009952</bestscore>
             <bestsets>
                 <set>
                     <word>waadden</word>
-                    <word>waadpak</word>
-                    <word>witgrijs</word>
+                    <word>waaiers</word>
+                    <word>weglokt</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: waadden,waadpak,witgrijs (74794.42620232173)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: waadden,waaiers,weglokt (21341.920398009952)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>3</index>
-                <index>503</index>
+                <index>4</index>
+                <index>305</index>
             </indices>
         </query>
         <query>
@@ -2242,8 +2226,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: zaadbol,zwikten (256143.10934393638)</printvalue>
             <allocation>100</allocation>
             <indices>
-                <index>3</index>
-                <index>201</index>
+                <index>4</index>
+                <index>103</index>
             </indices>
         </query>
         <query>
@@ -2253,22 +2237,114 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>204584.9940357853</bestscore>
+            <bestscore>157085.01789264413</bestscore>
             <bestsets>
                 <set>
                     <word>zaadbal</word>
-                    <word>zaadcel</word>
-                    <word>zurigst</word>
+                    <word>zaadrok</word>
+                    <word>zedigst</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: zaadbal,zaadcel,zurigst (204584.9940357853)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: zaadbal,zaadrok,zedigst (157085.01789264413)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>4</index>
-                <index>205</index>
+                <index>5</index>
+                <index>108</index>
             </indices>
         </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>1</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>1</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>1</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
+        <query>
+        <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>7</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>100</allocation>
+        </query>
     </running>
-    <finished/>
+    <finished>
+
+    </finished>
 </results>
