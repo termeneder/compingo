@@ -33,4 +33,4 @@ g (304):
 	J2) Minimise average neighbours per group (Jochem), 1 word: gelet (20.269736842105264)
 	J2) Minimise average neighbours per group (Jochem), 2 words: galei,gordt (3.6315789473684212)
 	J2) Minimise average neighbours per group (Jochem), 3 words: galmt,goden,gruis (1.605263157894737)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: gaapt,gaard,gelen,gibus (1.506578947368421)
+	J2p) Minimise average neighbours per group (Jochem), 4 words: gaapt,gaden,gebel,gruis (1.486842105263158)

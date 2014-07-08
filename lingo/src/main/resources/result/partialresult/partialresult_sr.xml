@@ -19,9 +19,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: aalvork,ademweg,afspint (1.1597337770382696)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>367</index>
-                <index>459</index>
-                <index>497</index>
+                <index>429</index>
+                <index>530</index>
+                <index>1127</index>
             </indices>
         </query>
         <query>
@@ -42,9 +42,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: baardig,belezen,butskop (1.19)</printvalue>
             <allocation>500000</allocation>
             <indices>
-                <index>19</index>
-                <index>222</index>
-                <index>436</index>
+                <index>20</index>
+                <index>53</index>
+                <index>1514</index>
             </indices>
         </query>
         <query>
@@ -70,9 +70,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: dagslot,drenzen,duimdik || dagtank,dooplid,dreumes (1.058659217877095)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>35</index>
-                <index>413</index>
-                <index>667</index>
+                <index>36</index>
+                <index>122</index>
+                <index>563</index>
             </indices>
         </query>
         <query>
@@ -94,8 +94,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>6</index>
-                <index>891</index>
-                <index>1306</index>
+                <index>1049</index>
+                <index>1371</index>
             </indices>
         </query>
         <query>
@@ -116,9 +116,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: haarkam,helften,huisgod (1.0280210157618213)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>59</index>
-                <index>235</index>
-                <index>526</index>
+                <index>60</index>
+                <index>156</index>
+                <index>277</index>
             </indices>
         </query>
         <query>
@@ -139,9 +139,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem): idolaat,inkrimp,inweven (1.119047619047619)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>141</index>
-                <index>236</index>
-                <index>409</index>
+                <index>144</index>
+                <index>172</index>
+                <index>286</index>
             </indices>
         </query>
         <query>
@@ -162,9 +162,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: kaakbot,kleurde,knipmes (1.0977777777777777)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>13</index>
-                <index>867</index>
-                <index>1086</index>
+                <index>14</index>
+                <index>77</index>
+                <index>276</index>
             </indices>
         </query>
         <query>
@@ -190,9 +190,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: laadbak,legioen,lustrum || laatmes,legeren,lokduif (1.0612244897959184)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>55</index>
-                <index>253</index>
-                <index>423</index>
+                <index>56</index>
+                <index>148</index>
+                <index>238</index>
             </indices>
         </query>
         <query>
@@ -224,8 +224,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>33</index>
-                <index>169</index>
-                <index>445</index>
+                <index>386</index>
+                <index>408</index>
             </indices>
         </query>
         <query>
@@ -247,8 +247,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>18</index>
-                <index>60</index>
-                <index>581</index>
+                <index>175</index>
+                <index>301</index>
             </indices>
         </query>
         <query>
@@ -270,8 +270,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>21</index>
-                <index>435</index>
-                <index>877</index>
+                <index>760</index>
+                <index>777</index>
             </indices>
         </query>
         <query>
@@ -292,9 +292,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: rafelde,retours,ringmap (1.04375)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>45</index>
-                <index>392</index>
-                <index>485</index>
+                <index>46</index>
+                <index>178</index>
+                <index>606</index>
             </indices>
         </query>
         <query>
@@ -316,8 +316,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>7</index>
-                <index>893</index>
-                <index>1375</index>
+                <index>1093</index>
+                <index>1275</index>
             </indices>
         </query>
         <query>
@@ -343,9 +343,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: taalden,tipmuts,toereik || taalden,topstuk,trireem (1.0634920634920635)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>26</index>
-                <index>541</index>
-                <index>756</index>
+                <index>27</index>
+                <index>110</index>
+                <index>363</index>
             </indices>
         </query>
         <query>
@@ -367,8 +367,8 @@
             <allocation>100000</allocation>
             <indices>
                 <index>15</index>
-                <index>70</index>
-                <index>837</index>
+                <index>175</index>
+                <index>247</index>
             </indices>
         </query>
         <query>
@@ -389,9 +389,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: walbaas,werktop,wiegden (1.0464344941956882)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>52</index>
-                <index>195</index>
-                <index>223</index>
+                <index>53</index>
+                <index>85</index>
+                <index>562</index>
             </indices>
         </query>
         <query>
@@ -417,9 +417,9 @@
             <printvalue>J2p) Minimise average neighbours per group (Jochem), 3 words: zaliger,zetstuk,zoemden || zandrug,zeemvel,zotskap (1.047713717693837)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>81</index>
-                <index>232</index>
-                <index>497</index>
+                <index>82</index>
+                <index>281</index>
+                <index>502</index>
             </indices>
         </query>
         <query>
@@ -441,8 +441,8 @@
             <allocation>50000</allocation>
             <indices>
                 <index>2</index>
-                <index>495</index>
-                <index>866</index>
+                <index>570</index>
+                <index>766</index>
             </indices>
         </query>
         <query>
@@ -464,8 +464,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>47</index>
-                <index>1575</index>
+                <index>48</index>
+                <index>1024</index>
             </indices>
         </query>
         <query>
@@ -487,8 +487,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>49</index>
-                <index>61</index>
+                <index>52</index>
+                <index>182</index>
             </indices>
         </query>
         <query>
@@ -510,8 +510,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>111</index>
-                <index>567</index>
+                <index>113</index>
+                <index>362</index>
             </indices>
         </query>
         <query>
@@ -533,8 +533,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>97</index>
-                <index>215</index>
+                <index>102</index>
+                <index>175</index>
             </indices>
         </query>
         <query>
@@ -556,8 +556,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>20</index>
-                <index>353</index>
+                <index>23</index>
+                <index>333</index>
             </indices>
         </query>
         <query>
@@ -580,7 +580,7 @@
             <indices>
                 <index>0</index>
                 <index>45</index>
-                <index>504</index>
+                <index>1504</index>
             </indices>
         </query>
         <query>
@@ -602,8 +602,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>138</index>
-                <index>502</index>
+                <index>141</index>
+                <index>212</index>
             </indices>
         </query>
         <query>
@@ -625,8 +625,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>226</index>
-                <index>377</index>
+                <index>232</index>
+                <index>240</index>
             </indices>
         </query>
         <query>
@@ -648,8 +648,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>64</index>
-                <index>269</index>
+                <index>65</index>
+                <index>210</index>
             </indices>
         </query>
         <query>
@@ -671,8 +671,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>133</index>
-                <index>428</index>
+                <index>135</index>
+                <index>523</index>
             </indices>
         </query>
         <query>
@@ -694,8 +694,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>101</index>
-                <index>252</index>
+                <index>102</index>
+                <index>615</index>
             </indices>
         </query>
         <query>
@@ -717,8 +717,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>23</index>
-                <index>108</index>
+                <index>26</index>
+                <index>127</index>
             </indices>
         </query>
         <query>
@@ -740,8 +740,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>72</index>
-                <index>339</index>
+                <index>73</index>
+                <index>422</index>
             </indices>
         </query>
         <query>
@@ -763,8 +763,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>79</index>
-                <index>493</index>
+                <index>80</index>
+                <index>667</index>
             </indices>
         </query>
         <query>
@@ -786,8 +786,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>118</index>
-                <index>259</index>
+                <index>120</index>
+                <index>220</index>
             </indices>
         </query>
         <query>
@@ -809,8 +809,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>46</index>
-                <index>852</index>
+                <index>47</index>
+                <index>405</index>
             </indices>
         </query>
         <query>
@@ -832,8 +832,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>87</index>
-                <index>481</index>
+                <index>88</index>
+                <index>751</index>
             </indices>
         </query>
         <query>
@@ -855,8 +855,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>100</index>
-                <index>167</index>
+                <index>105</index>
+                <index>212</index>
             </indices>
         </query>
         <query>
@@ -878,8 +878,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>64</index>
-                <index>978</index>
+                <index>65</index>
+                <index>962</index>
             </indices>
         </query>
         <query>
@@ -901,8 +901,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>125</index>
-                <index>228</index>
+                <index>127</index>
+                <index>277</index>
             </indices>
         </query>
         <query>
@@ -924,8 +924,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>159</index>
-                <index>405</index>
+                <index>162</index>
+                <index>382</index>
             </indices>
         </query>
         <query>
@@ -943,10 +943,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanrist,afbolde (206027.63394342762)</printvalue>
-            <allocation>10000</allocation>
+            <allocation>100000</allocation>
             <indices>
-                <index>302</index>
-                <index>1052</index>
+                <index>314</index>
+                <index>342</index>
             </indices>
         </query>
         <query>
@@ -956,18 +956,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>519811.128125</bestscore>
+            <bestscore>487576.511875</bestscore>
             <bestsets>
                 <set>
-                    <word>baardig</word>
-                    <word>boleten</word>
+                    <word>badgast</word>
+                    <word>bloeier</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: baardig,boleten (519811.128125)</printvalue>
-            <allocation>1000</allocation>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: badgast,bloeier (487576.511875)</printvalue>
+            <allocation>10000</allocation>
             <indices>
                 <index>41</index>
-                <index>303</index>
+                <index>1303</index>
             </indices>
         </query>
         <query>
@@ -985,31 +985,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info: daaruit,doelens (284014.62709497206)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>97</index>
-                <index>399</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>191638.2699724518</bestscore>
-            <bestsets>
-                <set>
-                    <word>foliant</word>
-                    <word>fundeer</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: foliant,fundeer (191638.2699724518)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>325</index>
-                <index>326</index>
+                <index>99</index>
+                <index>166</index>
             </indices>
         </query>
         <query>
@@ -1027,10 +1006,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: galnoot,gereisd (166722.16147132168)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>41</index>
-                <index>139</index>
+                <index>1139</index>
             </indices>
         </query>
         <query>
@@ -1048,10 +1027,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: halster,houkind (246222.1541155867)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>128</index>
-                <index>297</index>
+                <index>130</index>
+                <index>416</index>
             </indices>
         </query>
         <query>
@@ -1069,10 +1048,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info: idealer,inkomst (112658.3880952381)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>205</index>
-                <index>221</index>
+                <index>209</index>
+                <index>375</index>
             </indices>
         </query>
         <query>
@@ -1090,10 +1069,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kakelen,korstig (240795.86222222223)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>59</index>
-                <index>455</index>
+                <index>60</index>
+                <index>391</index>
             </indices>
         </query>
         <query>
@@ -1111,10 +1090,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: landrug,losliet (479630.20238095237)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>123</index>
-                <index>426</index>
+                <index>125</index>
+                <index>501</index>
             </indices>
         </query>
         <query>
@@ -1124,18 +1103,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>226901.6</bestscore>
+            <bestscore>214660.78783783785</bestscore>
             <bestsets>
                 <set>
-                    <word>maaisel</word>
-                    <word>montere</word>
+                    <word>mandoer</word>
+                    <word>meligst</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info: maaisel,montere (226901.6)</printvalue>
-            <allocation>1000</allocation>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: mandoer,meligst (214660.78783783785)</printvalue>
+            <allocation>10000</allocation>
             <indices>
-                <index>93</index>
-                <index>645</index>
+                <index>95</index>
+                <index>356</index>
             </indices>
         </query>
         <query>
@@ -1153,10 +1132,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: oculair,optomen (443502.52875882946)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>67</index>
-                <index>949</index>
+                <index>69</index>
+                <index>106</index>
             </indices>
         </query>
         <query>
@@ -1174,10 +1153,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: paleren,pothuis (223309.5821389195)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>74</index>
-                <index>732</index>
+                <index>75</index>
+                <index>901</index>
             </indices>
         </query>
         <query>
@@ -1195,10 +1174,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: ransuil,rokeert (421706.771875)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>111</index>
-                <index>288</index>
+                <index>113</index>
+                <index>235</index>
             </indices>
         </query>
         <query>
@@ -1216,10 +1195,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: saphout,slieren (450586.7658862876)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>44</index>
-                <index>255</index>
+                <index>1255</index>
             </indices>
         </query>
         <query>
@@ -1237,10 +1216,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: takelde,tritons (256942.86935286934)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>83</index>
-                <index>593</index>
+                <index>85</index>
+                <index>126</index>
             </indices>
         </query>
         <query>
@@ -1258,10 +1237,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: valigst,verkond (219383.1617375231)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>60</index>
-                <index>971</index>
+                <index>61</index>
+                <index>951</index>
             </indices>
         </query>
         <query>
@@ -1279,10 +1258,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: walstro,wegknip (317933.92039800994)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>117</index>
-                <index>470</index>
+                <index>119</index>
+                <index>503</index>
             </indices>
         </query>
         <query>
@@ -1300,10 +1279,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: zandrug,zeoliet (490552.02584493044)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>149</index>
-                <index>378</index>
+                <index>152</index>
+                <index>325</index>
             </indices>
         </query>
         <query>
@@ -1325,8 +1304,8 @@
             <allocation>10000</allocation>
             <indices>
                 <index>0</index>
-                <index>62</index>
-                <index>93</index>
+                <index>70</index>
+                <index>1017</index>
             </indices>
         </query>
         <query>
@@ -1344,10 +1323,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: baadjes,beknort (184721.318125)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
-                <index>503</index>
+                <index>603</index>
             </indices>
         </query>
         <query>
@@ -1370,7 +1349,7 @@
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>505</index>
+                <index>605</index>
             </indices>
         </query>
         <query>
@@ -1388,10 +1367,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: cahiers,coulant (37031.13333333333)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>6</index>
-                <index>58</index>
+                <index>158</index>
             </indices>
         </query>
         <query>
@@ -1414,7 +1393,7 @@
             <indices>
                 <index>0</index>
                 <index>7</index>
-                <index>65</index>
+                <index>165</index>
             </indices>
         </query>
         <query>
@@ -1432,10 +1411,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: daalden,drogist (108271.92178770949)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>2</index>
-                <index>674</index>
+                <index>3</index>
+                <index>62</index>
             </indices>
         </query>
         <query>
@@ -1457,8 +1436,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>3</index>
-                <index>677</index>
+                <index>4</index>
+                <index>66</index>
             </indices>
         </query>
         <query>
@@ -1476,10 +1455,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: eboniet,erlangs (93212.24919093851)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>6</index>
-                <index>274</index>
+                <index>7</index>
+                <index>73</index>
             </indices>
         </query>
         <query>
@@ -1501,8 +1480,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>7</index>
-                <index>281</index>
+                <index>8</index>
+                <index>81</index>
             </indices>
         </query>
         <query>
@@ -1512,18 +1491,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>66347.33884297521</bestscore>
+            <bestscore>58596.99724517906</bestscore>
             <bestsets>
                 <set>
-                    <word>fabriek</word>
-                    <word>foutlijn</word>
+                    <word>facteur</word>
+                    <word>fijnolie</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: fabriek,foutlijn (66347.33884297521)</printvalue>
-            <allocation>100</allocation>
+            <printvalue>E1p) Minimise average possible words, 2 words: facteur,fijnolie (58596.99724517906)</printvalue>
+            <allocation>10000</allocation>
             <indices>
-                <index>5</index>
-                <index>306</index>
+                <index>6</index>
+                <index>50</index>
             </indices>
         </query>
         <query>
@@ -1545,8 +1524,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>6</index>
-                <index>312</index>
+                <index>7</index>
+                <index>57</index>
             </indices>
         </query>
         <query>
@@ -1564,10 +1543,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: gaaitje,geknord (121018.0180798005)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
-                <index>499</index>
+                <index>599</index>
             </indices>
         </query>
         <query>
@@ -1590,7 +1569,7 @@
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>501</index>
+                <index>601</index>
             </indices>
         </query>
         <query>
@@ -1608,10 +1587,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: haageik,holster (112535.43782837127)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>3</index>
-                <index>397</index>
+                <index>497</index>
             </indices>
         </query>
         <query>
@@ -1634,7 +1613,7 @@
             <indices>
                 <index>0</index>
                 <index>4</index>
-                <index>401</index>
+                <index>501</index>
             </indices>
         </query>
         <query>
@@ -1652,10 +1631,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: idealer,inkomst (23891.614285714284)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>5</index>
-                <index>21</index>
+                <index>121</index>
             </indices>
         </query>
         <query>
@@ -1678,7 +1657,7 @@
             <indices>
                 <index>0</index>
                 <index>6</index>
-                <index>27</index>
+                <index>127</index>
             </indices>
         </query>
         <query>
@@ -1696,10 +1675,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: kaaiden,kraslot (89825.97244444444)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
-                <index>978</index>
+                <index>1078</index>
             </indices>
         </query>
         <query>
@@ -1722,7 +1701,7 @@
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>980</index>
+                <index>1080</index>
             </indices>
         </query>
         <query>
@@ -1732,18 +1711,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>259851.49829931973</bestscore>
+            <bestscore>185393.14285714287</bestscore>
             <bestsets>
                 <set>
                     <word>laafden</word>
-                    <word>likstok</word>
+                    <word>lomigst</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: laafden,likstok (259851.49829931973)</printvalue>
-            <allocation>100</allocation>
+            <printvalue>E1p) Minimise average possible words, 2 words: laafden,lomigst (185393.14285714287)</printvalue>
+            <allocation>10000</allocation>
             <indices>
                 <index>3</index>
-                <index>346</index>
+                <index>446</index>
             </indices>
         </query>
         <query>
@@ -1766,7 +1745,7 @@
             <indices>
                 <index>0</index>
                 <index>4</index>
-                <index>350</index>
+                <index>450</index>
             </indices>
         </query>
         <query>
@@ -1784,10 +1763,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: maagden,miskomt (120018.25)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
-                <index>626</index>
+                <index>726</index>
             </indices>
         </query>
         <query>
@@ -1797,20 +1776,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>57886.477027027024</bestscore>
+            <bestscore>45583.586486486485</bestscore>
             <bestsets>
                 <set>
                     <word>maagden</word>
-                    <word>maagpijn</word>
-                    <word>miskomt</word>
+                    <word>maaiden</word>
+                    <word>mortels</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: maagden,maagpijn,miskomt (57886.477027027024)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: maagden,maaiden,mortels (45583.586486486485)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>629</index>
+                <index>729</index>
             </indices>
         </query>
         <query>
@@ -1828,10 +1807,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: naailes,neutron (54072.322946175635)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>6</index>
-                <index>10</index>
+                <index>110</index>
             </indices>
         </query>
         <query>
@@ -1854,7 +1833,7 @@
             <indices>
                 <index>0</index>
                 <index>7</index>
-                <index>17</index>
+                <index>117</index>
             </indices>
         </query>
         <query>
@@ -1872,10 +1851,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: obelisk,omrandt (130430.01917255297)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
-                <index>124</index>
+                <index>224</index>
             </indices>
         </query>
         <query>
@@ -1898,7 +1877,7 @@
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>127</index>
+                <index>227</index>
             </indices>
         </query>
         <query>
@@ -1916,10 +1895,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: paaiden,polster (89040.76957001102)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
-                <index>292</index>
+                <index>392</index>
             </indices>
         </query>
         <query>
@@ -1942,7 +1921,7 @@
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>295</index>
+                <index>395</index>
             </indices>
         </query>
         <query>
@@ -1960,10 +1939,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: raadsel,ringrot (114229.0125)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>3</index>
-                <index>190</index>
+                <index>290</index>
             </indices>
         </query>
         <query>
@@ -1986,7 +1965,7 @@
             <indices>
                 <index>0</index>
                 <index>4</index>
-                <index>194</index>
+                <index>294</index>
             </indices>
         </query>
         <query>
@@ -2004,10 +1983,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: saalien,scrotum (111621.80602006688)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
-                <index>608</index>
+                <index>708</index>
             </indices>
         </query>
         <query>
@@ -2030,7 +2009,7 @@
             <indices>
                 <index>0</index>
                 <index>2</index>
-                <index>610</index>
+                <index>710</index>
             </indices>
         </query>
         <query>
@@ -2048,10 +2027,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: taakten,tolhuis (144198.78998779)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
-                <index>468</index>
+                <index>568</index>
             </indices>
         </query>
         <query>
@@ -2074,7 +2053,7 @@
             <indices>
                 <index>0</index>
                 <index>3</index>
-                <index>471</index>
+                <index>571</index>
             </indices>
         </query>
         <query>
@@ -2092,10 +2071,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: uiensap,uitrolt (24896.70508474576)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>7</index>
-                <index>71</index>
+                <index>171</index>
             </indices>
         </query>
         <query>
@@ -2118,7 +2097,7 @@
             <indices>
                 <index>0</index>
                 <index>8</index>
-                <index>79</index>
+                <index>179</index>
             </indices>
         </query>
         <query>
@@ -2136,10 +2115,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: vaagden,verlost (91468.91774491682)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>1</index>
-                <index>1021</index>
+                <index>2</index>
+                <index>42</index>
             </indices>
         </query>
         <query>
@@ -2161,8 +2140,8 @@
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
-                <index>2</index>
-                <index>1023</index>
+                <index>3</index>
+                <index>45</index>
             </indices>
         </query>
         <query>
@@ -2180,10 +2159,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: waaiden,wegrolt (140565.42122719734)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>3</index>
-                <index>301</index>
+                <index>401</index>
             </indices>
         </query>
         <query>
@@ -2206,7 +2185,7 @@
             <indices>
                 <index>0</index>
                 <index>4</index>
-                <index>305</index>
+                <index>405</index>
             </indices>
         </query>
         <query>
@@ -2224,10 +2203,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: zaadbol,zwikten (256143.10934393638)</printvalue>
-            <allocation>100</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>4</index>
-                <index>103</index>
+                <index>203</index>
             </indices>
         </query>
         <query>
@@ -2237,20 +2216,20 @@
             <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>157085.01789264413</bestscore>
+            <bestscore>70774.52683896621</bestscore>
             <bestsets>
                 <set>
                     <word>zaadbal</word>
                     <word>zaadrok</word>
-                    <word>zedigst</word>
+                    <word>zenigst</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 3 words: zaadbal,zaadrok,zedigst (157085.01789264413)</printvalue>
+            <printvalue>E1p) Minimise average possible words, 3 words: zaadbal,zaadrok,zenigst (70774.52683896621)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>5</index>
-                <index>108</index>
+                <index>208</index>
             </indices>
         </query>
         <query>
@@ -2260,7 +2239,17 @@
             <algorithm>C2</algorithm>
             <subsetsize>1</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>63.0</bestscore>
+            <bestsets>
+                <set>
+                    <word>aankeft</word>
+                </set>
+            </bestsets>
+            <printvalue>C2p) Jochems C algorithm, 1 word: aankeft (63.0)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>100</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2269,7 +2258,23 @@
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>26.0</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanholt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankomt</word>
+                </set>
+            </bestsets>
+            <printvalue>C2p) Jochems C algorithm, 2 words: aaibaar,aanholt || aaibaar,aankomt (26.0)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>0</index>
+                <index>101</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2278,7 +2283,26 @@
             <algorithm>C2</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
+            <bestscore>14.0</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaitjes</word>
+                    <word>aandeel</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaitjes</word>
+                    <word>aangolf</word>
+                </set>
+            </bestsets>
+            <printvalue>C2p) Jochems C algorithm, 3 words: aaibaar,aaitjes,aandeel || aaibaar,aaitjes,aangolf (14.0)</printvalue>
             <allocation>100</allocation>
+            <indices>
+                <index>0</index>
+                <index>1</index>
+                <index>102</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2287,7 +2311,17 @@
             <algorithm>D2</algorithm>
             <subsetsize>1</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>6.532608695652174</bestscore>
+            <bestsets>
+                <set>
+                    <word>aangiet</word>
+                </set>
+            </bestsets>
+            <printvalue>D2p) Minimise average group (Jochem), 1 word: aangiet (6.532608695652174)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>100</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2296,7 +2330,19 @@
             <algorithm>D2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>2.333980582524272</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankeft</word>
+                </set>
+            </bestsets>
+            <printvalue>D2p) Minimise average group (Jochem), 2 words: aaibaar,aankeft (2.333980582524272)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>0</index>
+                <index>101</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2305,7 +2351,21 @@
             <algorithm>D2</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
+            <bestscore>1.3800229621125144</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaitjes</word>
+                    <word>aanklop</word>
+                </set>
+            </bestsets>
+            <printvalue>D2p) Minimise average group (Jochem), 3 words: aaibaar,aaitjes,aanklop (1.3800229621125144)</printvalue>
             <allocation>100</allocation>
+            <indices>
+                <index>0</index>
+                <index>1</index>
+                <index>102</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2314,7 +2374,167 @@
             <algorithm>F1</algorithm>
             <subsetsize>1</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>8.5766121E7</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaitjes</word>
+                </set>
+                <set>
+                    <word>aalfuik</word>
+                </set>
+                <set>
+                    <word>aalkorf</word>
+                </set>
+                <set>
+                    <word>aalkuip</word>
+                </set>
+                <set>
+                    <word>aalmoes</word>
+                </set>
+                <set>
+                    <word>aaltjes</word>
+                </set>
+                <set>
+                    <word>aalvork</word>
+                </set>
+                <set>
+                    <word>aanbelt</word>
+                </set>
+                <set>
+                    <word>aanbidt</word>
+                </set>
+                <set>
+                    <word>aanbied</word>
+                </set>
+                <set>
+                    <word>aanbikt</word>
+                </set>
+                <set>
+                    <word>aanblik</word>
+                </set>
+                <set>
+                    <word>aanblijf</word>
+                </set>
+                <set>
+                    <word>aanboek</word>
+                </set>
+                <set>
+                    <word>aanbots</word>
+                </set>
+                <set>
+                    <word>aanbouw</word>
+                </set>
+                <set>
+                    <word>aanbrei</word>
+                </set>
+                <set>
+                    <word>aanbrug</word>
+                </set>
+                <set>
+                    <word>aanbrul</word>
+                </set>
+                <set>
+                    <word>aandiep</word>
+                </set>
+                <set>
+                    <word>aandikt</word>
+                </set>
+                <set>
+                    <word>aandruk</word>
+                </set>
+                <set>
+                    <word>aandrijf</word>
+                </set>
+                <set>
+                    <word>aanduwt</word>
+                </set>
+                <set>
+                    <word>aandijkt</word>
+                </set>
+                <set>
+                    <word>aanfokt</word>
+                </set>
+                <set>
+                    <word>aangesp</word>
+                </set>
+                <set>
+                    <word>aangier</word>
+                </set>
+                <set>
+                    <word>aangiet</word>
+                </set>
+                <set>
+                    <word>aanglim</word>
+                </set>
+                <set>
+                    <word>aanglom</word>
+                </set>
+                <set>
+                    <word>aangolf</word>
+                </set>
+                <set>
+                    <word>aangord</word>
+                </set>
+                <set>
+                    <word>aangrim</word>
+                </set>
+                <set>
+                    <word>aangrom</word>
+                </set>
+                <set>
+                    <word>aangrijp</word>
+                </set>
+                <set>
+                    <word>aanheft</word>
+                </set>
+                <set>
+                    <word>aanhief</word>
+                </set>
+                <set>
+                    <word>aanhikt</word>
+                </set>
+                <set>
+                    <word>aanhits</word>
+                </set>
+                <set>
+                    <word>aanholt</word>
+                </set>
+                <set>
+                    <word>aanhoud</word>
+                </set>
+                <set>
+                    <word>aankeft</word>
+                </set>
+                <set>
+                    <word>aankerf</word>
+                </set>
+                <set>
+                    <word>aanklem</word>
+                </set>
+                <set>
+                    <word>aanklop</word>
+                </set>
+                <set>
+                    <word>aanklos</word>
+                </set>
+                <set>
+                    <word>aankomt</word>
+                </set>
+                <set>
+                    <word>aankorf</word>
+                </set>
+                <set>
+                    <word>aankrui</word>
+                </set>
+                <set>
+                    <word>aankrijg</word>
+                </set>
+            </bestsets>
+            <printvalue>F1p) Minimise maximum possible words, 1 word: aaitjes || aalfuik || aalkorf || aalkuip || aalmoes || aaltjes || aalvork || aanbelt || aanbidt || aanbied || aanbikt || aanblik || aanblijf || aanboek || aanbots || aanbouw || aanbrei || aanbrug || aanbrul || aandiep || aandikt || aandruk || aandrijf || aanduwt || aandijkt || aanfokt || aangesp || aangier || aangiet || aanglim || aanglom || aangolf || aangord || aangrim || aangrom || aangrijp || aanheft || aanhief || aanhikt || aanhits || aanholt || aanhoud || aankeft || aankerf || aanklem || aanklop || aanklos || aankomt || aankorf || aankrui || aankrijg (8.5766121E7)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>100</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2323,7 +2543,79 @@
             <algorithm>F1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>3.4012224E7</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalmoes</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaltjes</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanduwt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandijkt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanfokt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangesp</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanglom</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangolf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanheft</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanholt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhoud</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankeft</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanklem</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanklop</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanklos</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankomt</word>
+                </set>
+            </bestsets>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: aaibaar,aalmoes || aaibaar,aaltjes || aaibaar,aanduwt || aaibaar,aandijkt || aaibaar,aanfokt || aaibaar,aangesp || aaibaar,aanglom || aaibaar,aangolf || aaibaar,aanheft || aaibaar,aanholt || aaibaar,aanhoud || aaibaar,aankeft || aaibaar,aanklem || aaibaar,aanklop || aaibaar,aanklos || aaibaar,aankomt (3.4012224E7)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>0</index>
+                <index>101</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2332,7 +2624,21 @@
             <algorithm>F1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
+            <bestscore>1012636.0</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaitjes</word>
+                    <word>aangolf</word>
+                </set>
+            </bestsets>
+            <printvalue>F1p) Minimise maximum possible words, 3 words: aaibaar,aaitjes,aangolf (1012636.0)</printvalue>
             <allocation>100</allocation>
+            <indices>
+                <index>0</index>
+                <index>1</index>
+                <index>102</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2341,7 +2647,314 @@
             <algorithm>H1</algorithm>
             <subsetsize>1</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>3.87420489E8</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                </set>
+                <set>
+                    <word>aaitjes</word>
+                </set>
+                <set>
+                    <word>aalfuik</word>
+                </set>
+                <set>
+                    <word>aalgeer</word>
+                </set>
+                <set>
+                    <word>aalglad</word>
+                </set>
+                <set>
+                    <word>aalkorf</word>
+                </set>
+                <set>
+                    <word>aalkuip</word>
+                </set>
+                <set>
+                    <word>aalmoes</word>
+                </set>
+                <set>
+                    <word>aalpomp</word>
+                </set>
+                <set>
+                    <word>aalstal</word>
+                </set>
+                <set>
+                    <word>aalsvel</word>
+                </set>
+                <set>
+                    <word>aaltjes</word>
+                </set>
+                <set>
+                    <word>aalvlug</word>
+                </set>
+                <set>
+                    <word>aalvork</word>
+                </set>
+                <set>
+                    <word>aanaard</word>
+                </set>
+                <set>
+                    <word>aanbakt</word>
+                </set>
+                <set>
+                    <word>aanbeen</word>
+                </set>
+                <set>
+                    <word>aanbeet</word>
+                </set>
+                <set>
+                    <word>aanbelt</word>
+                </set>
+                <set>
+                    <word>aanbidt</word>
+                </set>
+                <set>
+                    <word>aanbied</word>
+                </set>
+                <set>
+                    <word>aanbikt</word>
+                </set>
+                <set>
+                    <word>aanbind</word>
+                </set>
+                <set>
+                    <word>aanblaf</word>
+                </set>
+                <set>
+                    <word>aanblik</word>
+                </set>
+                <set>
+                    <word>aanblijf</word>
+                </set>
+                <set>
+                    <word>aanboek</word>
+                </set>
+                <set>
+                    <word>aanbond</word>
+                </set>
+                <set>
+                    <word>aanbood</word>
+                </set>
+                <set>
+                    <word>aanboor</word>
+                </set>
+                <set>
+                    <word>aanbots</word>
+                </set>
+                <set>
+                    <word>aanbouw</word>
+                </set>
+                <set>
+                    <word>aanbrak</word>
+                </set>
+                <set>
+                    <word>aanbras</word>
+                </set>
+                <set>
+                    <word>aanbrei</word>
+                </set>
+                <set>
+                    <word>aanbrug</word>
+                </set>
+                <set>
+                    <word>aanbrul</word>
+                </set>
+                <set>
+                    <word>aandamt</word>
+                </set>
+                <set>
+                    <word>aandeel</word>
+                </set>
+                <set>
+                    <word>aandien</word>
+                </set>
+                <set>
+                    <word>aandiep</word>
+                </set>
+                <set>
+                    <word>aandikt</word>
+                </set>
+                <set>
+                    <word>aandoen</word>
+                </set>
+                <set>
+                    <word>aandruk</word>
+                </set>
+                <set>
+                    <word>aandrijf</word>
+                </set>
+                <set>
+                    <word>aanduid</word>
+                </set>
+                <set>
+                    <word>aanduwt</word>
+                </set>
+                <set>
+                    <word>aandijkt</word>
+                </set>
+                <set>
+                    <word>aanfokt</word>
+                </set>
+                <set>
+                    <word>aangaan</word>
+                </set>
+                <set>
+                    <word>aangaap</word>
+                </set>
+                <set>
+                    <word>aangeef</word>
+                </set>
+                <set>
+                    <word>aangesp</word>
+                </set>
+                <set>
+                    <word>aangier</word>
+                </set>
+                <set>
+                    <word>aangiet</word>
+                </set>
+                <set>
+                    <word>aanglim</word>
+                </set>
+                <set>
+                    <word>aanglom</word>
+                </set>
+                <set>
+                    <word>aangolf</word>
+                </set>
+                <set>
+                    <word>aangoot</word>
+                </set>
+                <set>
+                    <word>aangord</word>
+                </set>
+                <set>
+                    <word>aangrim</word>
+                </set>
+                <set>
+                    <word>aangrom</word>
+                </set>
+                <set>
+                    <word>aangrijp</word>
+                </set>
+                <set>
+                    <word>aanhaak</word>
+                </set>
+                <set>
+                    <word>aanhaal</word>
+                </set>
+                <set>
+                    <word>aanhang</word>
+                </set>
+                <set>
+                    <word>aanhard</word>
+                </set>
+                <set>
+                    <word>aanhark</word>
+                </set>
+                <set>
+                    <word>aanheft</word>
+                </set>
+                <set>
+                    <word>aanhief</word>
+                </set>
+                <set>
+                    <word>aanhikt</word>
+                </set>
+                <set>
+                    <word>aanhing</word>
+                </set>
+                <set>
+                    <word>aanhink</word>
+                </set>
+                <set>
+                    <word>aanhits</word>
+                </set>
+                <set>
+                    <word>aanholt</word>
+                </set>
+                <set>
+                    <word>aanhoop</word>
+                </set>
+                <set>
+                    <word>aanhoor</word>
+                </set>
+                <set>
+                    <word>aanhoud</word>
+                </set>
+                <set>
+                    <word>aanjaag</word>
+                </set>
+                <set>
+                    <word>aankalk</word>
+                </set>
+                <set>
+                    <word>aankant</word>
+                </set>
+                <set>
+                    <word>aankapt</word>
+                </set>
+                <set>
+                    <word>aankeek</word>
+                </set>
+                <set>
+                    <word>aankeft</word>
+                </set>
+                <set>
+                    <word>aankerf</word>
+                </set>
+                <set>
+                    <word>aanklem</word>
+                </set>
+                <set>
+                    <word>aanklop</word>
+                </set>
+                <set>
+                    <word>aanklos</word>
+                </set>
+                <set>
+                    <word>aanknip</word>
+                </set>
+                <set>
+                    <word>aankoek</word>
+                </set>
+                <set>
+                    <word>aankomt</word>
+                </set>
+                <set>
+                    <word>aankooi</word>
+                </set>
+                <set>
+                    <word>aankoop</word>
+                </set>
+                <set>
+                    <word>aankorf</word>
+                </set>
+                <set>
+                    <word>aankram</word>
+                </set>
+                <set>
+                    <word>aankrui</word>
+                </set>
+                <set>
+                    <word>aankrijg</word>
+                </set>
+                <set>
+                    <word>aankunt</word>
+                </set>
+                <set>
+                    <word>aankwam</word>
+                </set>
+                <set>
+                    <word>aankijkt</word>
+                </set>
+            </bestsets>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 1 word: aaibaar || aaitjes || aalfuik || aalgeer || aalglad || aalkorf || aalkuip || aalmoes || aalpomp || aalstal || aalsvel || aaltjes || aalvlug || aalvork || aanaard || aanbakt || aanbeen || aanbeet || aanbelt || aanbidt || aanbied || aanbikt || aanbind || aanblaf || aanblik || aanblijf || aanboek || aanbond || aanbood || aanboor || aanbots || aanbouw || aanbrak || aanbras || aanbrei || aanbrug || aanbrul || aandamt || aandeel || aandien || aandiep || aandikt || aandoen || aandruk || aandrijf || aanduid || aanduwt || aandijkt || aanfokt || aangaan || aangaap || aangeef || aangesp || aangier || aangiet || aanglim || aanglom || aangolf || aangoot || aangord || aangrim || aangrom || aangrijp || aanhaak || aanhaal || aanhang || aanhard || aanhark || aanheft || aanhief || aanhikt || aanhing || aanhink || aanhits || aanholt || aanhoop || aanhoor || aanhoud || aanjaag || aankalk || aankant || aankapt || aankeek || aankeft || aankerf || aanklem || aanklop || aanklos || aanknip || aankoek || aankomt || aankooi || aankoop || aankorf || aankram || aankrui || aankrijg || aankunt || aankwam || aankijkt (3.87420489E8)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>100</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2350,7 +2963,415 @@
             <algorithm>H1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <allocation>100</allocation>
+            <bestscore>3.87420489E8</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaitjes</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalfuik</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalgeer</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalglad</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalkorf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalkuip</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalmoes</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalpomp</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalstal</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalsvel</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaltjes</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalvlug</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aalvork</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanaard</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbakt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbeen</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbeet</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbelt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbidt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbied</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbikt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbind</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanblaf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanblik</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanblijf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanboek</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbond</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbood</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanboor</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbots</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbouw</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbrak</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbras</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbrei</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbrug</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanbrul</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandamt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandeel</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandien</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandiep</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandikt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandoen</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandruk</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandrijf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanduid</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanduwt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aandijkt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanfokt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangaan</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangaap</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangeef</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangesp</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangier</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangiet</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanglim</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanglom</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangolf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangoot</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangord</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangrim</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangrom</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aangrijp</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhaak</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhaal</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhang</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhard</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhark</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanheft</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhief</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhikt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhing</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhink</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhits</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanholt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhoop</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhoor</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanhoud</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanjaag</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankalk</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankant</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankapt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankeek</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankeft</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankerf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanklem</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanklop</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanklos</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanknip</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankoek</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankomt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankooi</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankoop</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankorf</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankram</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankrui</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankrijg</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankunt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankwam</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aankijkt</word>
+                </set>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aanlaad</word>
+                </set>
+            </bestsets>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: aaibaar,aaitjes || aaibaar,aalfuik || aaibaar,aalgeer || aaibaar,aalglad || aaibaar,aalkorf || aaibaar,aalkuip || aaibaar,aalmoes || aaibaar,aalpomp || aaibaar,aalstal || aaibaar,aalsvel || aaibaar,aaltjes || aaibaar,aalvlug || aaibaar,aalvork || aaibaar,aanaard || aaibaar,aanbakt || aaibaar,aanbeen || aaibaar,aanbeet || aaibaar,aanbelt || aaibaar,aanbidt || aaibaar,aanbied || aaibaar,aanbikt || aaibaar,aanbind || aaibaar,aanblaf || aaibaar,aanblik || aaibaar,aanblijf || aaibaar,aanboek || aaibaar,aanbond || aaibaar,aanbood || aaibaar,aanboor || aaibaar,aanbots || aaibaar,aanbouw || aaibaar,aanbrak || aaibaar,aanbras || aaibaar,aanbrei || aaibaar,aanbrug || aaibaar,aanbrul || aaibaar,aandamt || aaibaar,aandeel || aaibaar,aandien || aaibaar,aandiep || aaibaar,aandikt || aaibaar,aandoen || aaibaar,aandruk || aaibaar,aandrijf || aaibaar,aanduid || aaibaar,aanduwt || aaibaar,aandijkt || aaibaar,aanfokt || aaibaar,aangaan || aaibaar,aangaap || aaibaar,aangeef || aaibaar,aangesp || aaibaar,aangier || aaibaar,aangiet || aaibaar,aanglim || aaibaar,aanglom || aaibaar,aangolf || aaibaar,aangoot || aaibaar,aangord || aaibaar,aangrim || aaibaar,aangrom || aaibaar,aangrijp || aaibaar,aanhaak || aaibaar,aanhaal || aaibaar,aanhang || aaibaar,aanhard || aaibaar,aanhark || aaibaar,aanheft || aaibaar,aanhief || aaibaar,aanhikt || aaibaar,aanhing || aaibaar,aanhink || aaibaar,aanhits || aaibaar,aanholt || aaibaar,aanhoop || aaibaar,aanhoor || aaibaar,aanhoud || aaibaar,aanjaag || aaibaar,aankalk || aaibaar,aankant || aaibaar,aankapt || aaibaar,aankeek || aaibaar,aankeft || aaibaar,aankerf || aaibaar,aanklem || aaibaar,aanklop || aaibaar,aanklos || aaibaar,aanknip || aaibaar,aankoek || aaibaar,aankomt || aaibaar,aankooi || aaibaar,aankoop || aaibaar,aankorf || aaibaar,aankram || aaibaar,aankrui || aaibaar,aankrijg || aaibaar,aankunt || aaibaar,aankwam || aaibaar,aankijkt || aaibaar,aanlaad (3.87420489E8)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>0</index>
+                <index>101</index>
+            </indices>
         </query>
         <query>
             <startingletter>a</startingletter>
@@ -2359,8 +3380,24 @@
             <algorithm>H1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
+            <bestscore>1.3729562E7</bestscore>
+            <bestsets>
+                <set>
+                    <word>aaibaar</word>
+                    <word>aaitjes</word>
+                    <word>aangolf</word>
+                </set>
+            </bestsets>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 3 words: aaibaar,aaitjes,aangolf (1.3729562E7)</printvalue>
             <allocation>100</allocation>
+            <indices>
+                <index>0</index>
+                <index>1</index>
+                <index>102</index>
+            </indices>
         </query>
     </running>
-    <finished/>
+    <finished>
+
+    </finished>
 </results>

@@ -8,7 +8,7 @@ a (1880):
 	D2) Minimise average group (Jochem), 1 word: accuzuur (26.11111111111111)
 	D1g1K) Minimise average group, 2 words: avontuur,azijnzuur (7.34375)
 	E1) Minimise average possible words, 1 word: agaragar (2.049630405825E9)
-	E1p) Minimise average possible words, 2 words: aanbaden,aanbeden (2.5650523247925532E8)
+	E1p) Minimise average possible words, 2 words: aanbenen,aankeken (3.019263942079787E8)
 	F1) Minimise maximum possible words, 1 word: agaragar || antennen (4.586471424E9)
 	F1g1K) Minimise maximum possible words, 2 words: aanmaant,aanmeren || aankeken,afbekken || afsmette,altemets || aanraden,aanwende || aankeken,aanmaant || afpeelde,afpenden || aanladen,aanwende (1.801088541E9)
 	G1) Minimise average possible words with positive info, 1 word: accuzuur (5.416658724137234E9)

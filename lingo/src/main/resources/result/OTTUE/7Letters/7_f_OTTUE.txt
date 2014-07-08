@@ -18,7 +18,7 @@ f (363):
 	F1g1K) Minimise maximum possible words, 2 words: factorij,filmden (1314721.0)
 	F1g1K) Minimise maximum possible words, 3 words: fanfare,fletser,fopduik (194012.0)
 	G1) Minimise average possible words with positive info, 1 word: flinter (7211160.435261708)
-	G1p) Minimise average possible words with positive info, 2 words: filmers,fondant (226317.51515151514)
+	G1) Minimise average possible words with positive info, 2 words: foliant,fundeer (191638.2699724518)
 	G1g100K) Minimise average possible words with positive info, 3 words: fielder,focuste,fijnmaak (14920.793388429753)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: flirten || fatsoen || flipten || flikten || flitsen || flinter || flitten (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: fantasy,flinker || fabriek,flitsen || farceur,flinkst || flatwijk,forsige || fascist,flinker || filmset,franker || factors,flinker || flinkst,fratsen || flikken,fratsen || fauvist,flonker (1.3729562E7)

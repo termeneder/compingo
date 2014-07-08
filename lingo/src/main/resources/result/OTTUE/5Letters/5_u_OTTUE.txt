@@ -26,7 +26,7 @@ u (27):
 	G1) Minimise average possible words with positive info, 1 word: uiten (12632.111111111111)
 	G1) Minimise average possible words with positive info, 2 words: uilen,ultra (1207.888888888889)
 	G1) Minimise average possible words with positive info, 3 words: uitat,urmen,uzelf (361.51851851851853)
-	G1p) Minimise average possible words with positive info, 4 words: uiige,ultra,urmen,uzelf (160.03703703703704)
+	G1) Minimise average possible words with positive info, 4 words: uiige,ultra,urmen,uzelf (160.03703703703704)
 	H1) Minimise maximum possible words with positive info, 1 word: uilen || uiten || urine (74465.0)
 	H1) Minimise maximum possible words with positive info, 2 words: uilen,uitrij || uilen,ultra || uiten,ultra || ultra,unief || ultra,uniek || ultra,unies || ultra,urine (8114.0)
 	H1) Minimise maximum possible words with positive info, 3 words: uiers,ultra,urmen || uiers,ultra,urnen || uilen,uitat,ureum || uilen,ultra,ureum || uilen,units,ureum || uitat,urmen,uzelf || uitat,urnen,uzelf || uiten,ulaan,ureum || uiten,ultra,ureum || uiten,uraan,uzelf || uiten,urine,uzelf (2107.0)
