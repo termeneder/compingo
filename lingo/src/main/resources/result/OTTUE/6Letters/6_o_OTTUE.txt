@@ -26,6 +26,7 @@ o (537):
 	I1) Vincents algorithm, 1 word: onpare (1.0)
 	I1) Vincents algorithm, 2 words: onpare,omlijst (1.0)
 	I1) Vincents algorithm, 3 words: onpare,omlijst,opduik (1.0)
+	I1) Vincents algorithm, 4 words: onpare,omlijst,opduik,opwoog (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: oprekt (17.819366852886407)
 	J2) Minimise average neighbours per group (Jochem), 2 words: omrank,opliet (2.169459962756052)
 	J2) Minimise average neighbours per group (Jochem), 3 words: omwald,opving,orkest (1.1452513966480447)

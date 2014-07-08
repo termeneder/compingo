@@ -26,6 +26,7 @@ e (185):
 	I1) Vincents algorithm, 1 word: esprit (1.0)
 	I1) Vincents algorithm, 2 words: esprit,eiland (1.0)
 	I1) Vincents algorithm, 3 words: esprit,eiland,ecloge (1.0)
+	I1) Vincents algorithm, 4 words: esprit,eiland,ecloge,eskimo (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: ertsen (4.654054054054054)
 	J2) Minimise average neighbours per group (Jochem), 2 words: eclair,eesten || eirond,elpees (1.2918918918918918)
 	J2) Minimise average neighbours per group (Jochem), 3 words: echode,elegie,ertsen || echode,elixer,entmes || echode,elixer,ertsen || echode,elixir,entmes || echode,elixir,ertsen || echtst,egaler,eirond || eclair,eestte,erkend || ecloge,eisten,ermede || edeler,enigma,escort (1.0324324324324323)

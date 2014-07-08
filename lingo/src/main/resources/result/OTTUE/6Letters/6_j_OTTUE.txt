@@ -26,6 +26,7 @@ j (121):
 	I1) Vincents algorithm, 1 word: jokten (1.0)
 	I1) Vincents algorithm, 2 words: jokten,jaguar (1.0)
 	I1) Vincents algorithm, 3 words: jokten,jaguar,jutmis (1.0)
+	I1) Vincents algorithm, 4 words: jokten,jaguar,jutmis,jijzelf (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: jokten (5.462809917355372)
 	J2) Minimise average neighbours per group (Jochem), 2 words: jengel,juskom (1.4297520661157024)
 	J2) Minimise average neighbours per group (Jochem), 3 words: jabots,jengel,jurkje || jakamp,jengel,jurist || jaspis,jengel,jokert || jaspis,jengel,jukten || jengel,jokers,jutmis || jengel,jokert,jutmis || jengel,jokken,jutmis || jengel,jokten,jutmis || jengel,jonker,jutmis || jengel,jouker,jutmis || jetski,joepen,jungle || joekel,jonger,jutmis (1.115702479338843)

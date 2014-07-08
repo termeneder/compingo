@@ -26,6 +26,7 @@ f (220):
 	I1) Vincents algorithm, 1 word: flater (1.0)
 	I1) Vincents algorithm, 2 words: flater,fusion (1.0)
 	I1) Vincents algorithm, 3 words: flater,fusion,fijnhak (1.0)
+	I1) Vincents algorithm, 4 words: flater,fusion,fijnhak,factum (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: filter (4.7)
 	J2) Minimise average neighbours per group (Jochem), 2 words: fineer,flatus (1.2181818181818183)
 	J2) Minimise average neighbours per group (Jochem), 3 words: fakirs,felste,fondue || fakirs,femelt,fondue || fakirs,fezelt,fondue || fakirs,fleemt,fondue (1.0272727272727273)
