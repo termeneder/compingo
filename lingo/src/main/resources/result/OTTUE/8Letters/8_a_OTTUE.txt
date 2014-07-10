@@ -8,7 +8,7 @@ a (1880):
 	D2) Minimise average group (Jochem), 1 word: accuzuur (26.11111111111111)
 	D1g1K) Minimise average group, 2 words: avontuur,azijnzuur (7.34375)
 	E1) Minimise average possible words, 1 word: agaragar (2.049630405825E9)
-	E1p) Minimise average possible words, 2 words: aanbenen,aankeken (3.019263942079787E8)
+	E1p) Minimise average possible words, 2 words: aanblaas,aanslaan (4.0705577985531914E8)
 	F1) Minimise maximum possible words, 1 word: agaragar || antennen (4.586471424E9)
 	F1g1K) Minimise maximum possible words, 2 words: aanmaant,aanmeren || aankeken,afbekken || afsmette,altemets || aanraden,aanwende || aankeken,aanmaant || afpeelde,afpenden || aanladen,aanwende (1.801088541E9)
 	G1) Minimise average possible words with positive info, 1 word: accuzuur (5.416658724137234E9)
@@ -18,3 +18,4 @@ a (1880):
 	I1) Vincents algorithm, 1 word: agaragar (1.0)
 	I1) Vincents algorithm, 2 words: agaragar,accuzuur (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: accuzuur (475.45531914893616)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: aanbenen,aanwezen (46.0531914893617)

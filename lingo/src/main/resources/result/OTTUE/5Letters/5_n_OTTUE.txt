@@ -33,5 +33,5 @@ n (128):
 	J2) Minimise average neighbours per group (Jochem), 1 word: natie (8.71875)
 	J2) Minimise average neighbours per group (Jochem), 2 words: notie,nijdas (2.59375)
 	J2) Minimise average neighbours per group (Jochem), 3 words: naast,nepen,nodig (1.359375)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: naait,nakom,napijn,neger (1.234375)
+	J2p) Minimise average neighbours per group (Jochem), 4 words: naait,napijn,neder,negus (1.203125)
 

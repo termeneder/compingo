@@ -17,7 +17,7 @@ i (86):
 	E1) Minimise average possible words, 1 word: inleg (13367.337209302326)
 	E1) Minimise average possible words, 2 words: imker,inlos (2011.8255813953488)
 	E1) Minimise average possible words, 3 words: imker,inlos,inwit (428.4186046511628)
-	E1p) Minimise average possible words, 4 words: iaden,icing,imker,inlos (222.45348837209303)
+	E1p) Minimise average possible words, 4 words: iaden,icing,inlos,inruk (198.37209302325581)
 	F1) Minimise maximum possible words, 1 word: iaden || icing || image || imago || imker || inbed || inblij || inbox || inbijt || indam || indek || index || indik || indom || indut || induw || indijk || inert || infra || ingaf || inhak || inham || inhei || inkom || inlap || inlas || inleg || inlos || inlijf || inmat || inpak || inpek || inpik || input || inrit || inrol || inruk || inrijd || inrijg || insla || insop || insta || insuf || intik || intro || intyp || inval || invet || invul || invijs || inwip || inwit || inwijd || inwijk || inzag || inzak || inzat || inzet || inzie || inzit || islam || ismen || items (279841.0)
 	F1) Minimise maximum possible words, 2 words: inleg,insop (9261.0)
 	F1) Minimise maximum possible words, 3 words: icing,imker,inlos || icing,inrol,items (4624.0)
