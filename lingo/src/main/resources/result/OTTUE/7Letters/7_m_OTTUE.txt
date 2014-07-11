@@ -18,7 +18,7 @@ m (740):
 	F1g1K) Minimise maximum possible words, 2 words: miljard,morsten || megaton,midrasj || moralen,mutisme || mandoer,meligst (1679856.0)
 	F1g1K) Minimise maximum possible words, 3 words: moderne,muiskat,mijnworm (375106.0)
 	G1) Minimise average possible words with positive info, 1 word: minaret (8664663.50945946)
-	G1g1K) Minimise average possible words with positive info, 2 words: materie,mopneus (432885.79594594595)
+	G1p) Minimise average possible words with positive info, 2 words: mandril,mestkoe (204583.3216216216)
 	G1g100K) Minimise average possible words with positive info, 3 words: mangaan,meteoor,milieus (18949.964864864865)
 	H1g1K) Minimise maximum possible words with positive info, 1 word: mahonie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: mankeer,moslims || mierden,moslaag (1.3729562E7)
