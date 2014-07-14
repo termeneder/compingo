@@ -6,7 +6,7 @@ b (2099):
 	C2) Jochems C algorithm, 1 word: bushbush (980.0)
 	C1g1K) Minimise biggest group, 2 words: bonhomme,bijpompte (203.0)
 	D2) Minimise average group (Jochem), 1 word: bushbush (25.91358024691358)
-	D1g1K) Minimise average group, 2 words: behangen,belangen (5.057831325301205)
+	D2p) Minimise average group (Jochem), 2 words: baaitjes,basisset (5.195544554455446)
 	E1) Minimise average possible words, 1 word: bushbush (2.0419173165826583E9)
 	E1g1K) Minimise average possible words, 2 words: begeerde,bergmeer (2.0388590956979513E8)
 	F1) Minimise maximum possible words, 1 word: bedeelde || bedeesde || bekekene || bekennen || beredder || berennen || binnenin (4.586471424E9)
@@ -18,3 +18,4 @@ b (2099):
 	I1) Vincents algorithm, 1 word: bushbush (1.0)
 	I1) Vincents algorithm, 2 words: bushbush,bijschuif (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: bushbush (509.15435921867555)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: baaitjes,basisset (51.66984278227727)

@@ -6,7 +6,7 @@ o (1608):
 	C2) Jochems C algorithm, 1 word: officium (690.0)
 	C1g1K) Minimise biggest group, 2 words: overbuur,overjaag (265.0)
 	D2) Minimise average group (Jochem), 1 word: officium (21.157894736842106)
-	D1g1K) Minimise average group, 2 words: opossums,otoscoop (5.826086956521739)
+	D2p) Minimise average group (Jochem), 2 words: oasetjes,odyssees (6.0)
 	E1) Minimise average possible words, 1 word: officium (1.3686308368501244E9)
 	E1g1K) Minimise average possible words, 2 words: overkook,overwerk (2.83121921005597E8)
 	F1) Minimise maximum possible words, 1 word: oekelele || oppeppen || oppepper (4.586471424E9)
@@ -18,3 +18,4 @@ o (1608):
 	I1) Vincents algorithm, 1 word: officium (1.0)
 	I1) Vincents algorithm, 2 words: officium,olijfboom (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: officium (349.7450248756219)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: oasestad,outcasts (30.24502487562189)

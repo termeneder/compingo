@@ -10,6 +10,7 @@ n (128):
 	C1) Minimise biggest group, 1 word: natel || nonet || noten (18.0)
 	C1) Minimise biggest group, 2 words: neten,nijdas (5.0)
 	C1) Minimise biggest group, 3 words: naait,nepen,nodig || naakt,nepen,nodig || naald,nerts,nijpen || naast,nemen,nodig || naast,nemen,nijdig || naast,nepen,nodig || naast,nepen,nijdig || naast,neren,nodig || naast,neren,nijdig || naast,nodig,nopen || naast,nodig,nijpen || naast,nopen,nijdig || nadar,negen,notie || nadat,negus,nepen || nadat,negus,nopen || nadat,negus,nijpen || nadat,nepen,nodig || naken,nerts,nijdig || naken,norst,nijdig || namat,nepen,nodig || namen,netst,nijdig || natst,nemen,nijdig || natst,nomen,nijdig || nazat,nepen,nodig || negen,nipte,nijdas || neigt,nemen,nijdas || neigt,nepen,nijdas || neigt,neren,nijdas || neigt,nomen,nijdas || neigt,nopen,nijdas || neigt,noren,nijdas || neigt,nijdas,nijpen || nemen,noest,nijdig || nemen,norst,nijdig || nerts,nomen,nijdig || netst,nomen,nijdig || neust,nomen,nijdig || neven,nipte,nijdas (3.0)
+	C2p) Jochems C algorithm, 4 words: naait,naakt,napijn,neger (3.0)
 	D2) Minimise average group (Jochem), 1 word: natie (3.878787878787879)
 	D2) Minimise average group (Jochem), 2 words: notie,nijdas (1.5802469135802468)
 	D2) Minimise average group (Jochem), 3 words: naast,nepen,nodig (1.1851851851851851)
@@ -33,5 +34,5 @@ n (128):
 	J2) Minimise average neighbours per group (Jochem), 1 word: natie (8.71875)
 	J2) Minimise average neighbours per group (Jochem), 2 words: notie,nijdas (2.59375)
 	J2) Minimise average neighbours per group (Jochem), 3 words: naast,nepen,nodig (1.359375)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: naait,napijn,neder,negus (1.203125)
+	J2p) Minimise average neighbours per group (Jochem), 4 words: naait,napijn,negus,nemer (1.171875)
 
