@@ -34,6 +34,7 @@ y (5):
 	I1) Vincents algorithm, 1 word: yuppen (1.0)
 	I1) Vincents algorithm, 2 words: yuppen,yammen (1.0)
 	I1) Vincents algorithm, 3 words: yuppen,yammen,yellen (1.0)
+	I1) Vincents algorithm, 4 words: yuppen,yammen,yellen,yuppie (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: yankee (1.0)
 	J2) Minimise average neighbours per group (Jochem), 2 words: yammen,yankee || yammen,yellen || yammen,yuppen || yammen,yuppie || yankee,yellen || yankee,yuppen || yankee,yuppie || yellen,yuppen || yellen,yuppie (1.0)
 	J2) Minimise average neighbours per group (Jochem), 3 words: yammen,yankee,yellen || yammen,yankee,yuppen || yammen,yankee,yuppie || yammen,yellen,yuppen || yammen,yellen,yuppie || yammen,yuppen,yuppie || yankee,yellen,yuppen || yankee,yellen,yuppie || yankee,yuppen,yuppie || yellen,yuppen,yuppie (1.0)

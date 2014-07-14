@@ -26,6 +26,7 @@ z (338):
 	I1) Vincents algorithm, 1 word: zakten (1.0)
 	I1) Vincents algorithm, 2 words: zakten,zondig (1.0)
 	I1) Vincents algorithm, 3 words: zakten,zondig,zwijmel (1.0)
+	I1) Vincents algorithm, 4 words: zakten,zondig,zwijmel,zuurst (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: zoeten (10.781065088757396)
 	J2) Minimise average neighbours per group (Jochem), 2 words: zanikt,zoeler || zitdag,zoeler (1.757396449704142)
 	J2) Minimise average neighbours per group (Jochem), 3 words: zender,zompig,zwalkt (1.1005917159763314)

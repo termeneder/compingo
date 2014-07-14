@@ -16,11 +16,11 @@ public class RunConfigurations {
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
 	public final String descriptionPrefix = "I_Algorithm_";
-	public final int wordLength = 7;
+	public final int wordLength = 6;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = false;
 	public final boolean appendTimestampToFilename = true;
-	public final boolean printTime = true;
+	public final boolean printTime = false;
 	public final int minSubsetSize = 1;
 	public final int maxSubsetSize = 4;
 	public final Select select = Select.BEST;

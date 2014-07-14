@@ -26,6 +26,7 @@ b (943):
 	I1) Vincents algorithm, 1 word: bantoe (1.0)
 	I1) Vincents algorithm, 2 words: bantoe,brilde (1.0)
 	I1) Vincents algorithm, 3 words: bantoe,brilde,buksen (1.0)
+	I1) Vincents algorithm, 4 words: bantoe,brilde,buksen,bijmeng (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: beloer (24.13679745493107)
 	J2) Minimise average neighbours per group (Jochem), 2 words: bekoel,brandt (2.429480381760339)
 	J2) Minimise average neighbours per group (Jochem), 3 words: baring,beklem,boudst (1.2163308589607635)

@@ -26,6 +26,7 @@ l (464):
 	I1) Vincents algorithm, 1 word: lasten (1.0)
 	I1) Vincents algorithm, 2 words: lasten,luidop (1.0)
 	I1) Vincents algorithm, 3 words: lasten,luidop,lekvrij (1.0)
+	I1) Vincents algorithm, 4 words: lasten,luidop,lekvrij,lomige (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: liseen (15.905172413793103)
 	J2) Minimise average neighbours per group (Jochem), 2 words: leader,linkst (2.310344827586207)
 	J2) Minimise average neighbours per group (Jochem), 3 words: lakser,lengte,luidop (1.2198275862068966)
