@@ -2,6 +2,7 @@ c (184):
 	A3) Optimise correct letters, 1 word: carter (1.8532608695652173)
 	A3) Optimise correct letters, 2 words: cactus,corvee (2.516304347826087)
 	A3) Optimise correct letters, 3 words: cantor,chorus,corvee (3.0706521739130435)
+	A3p) Optimise correct letters, 4 words: cabans,cancan,chaoot,corvee (3.282608695652174)
 	B3) Optimise amount of letters, 1 word: carnet || centra (3.114130434782609)
 	B3) Optimise amount of letters, 2 words: coltan,cruise (4.5)
 	B3) Optimise amount of letters, 3 words: cantor,chemie,cyclus || catchy,cerise,column || chemie,contra,cyclus (5.114130434782608)

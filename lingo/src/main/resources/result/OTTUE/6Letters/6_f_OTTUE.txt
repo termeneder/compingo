@@ -2,6 +2,7 @@ f (220):
 	A3) Optimise correct letters, 1 word: forten (2.0272727272727273)
 	A3) Optimise correct letters, 2 words: fleece,forten (2.690909090909091)
 	A3) Optimise correct letters, 3 words: filets,fletse,frasen (3.227272727272727)
+	A3p) Optimise correct letters, 4 words: faalde,falies,fleert,forten (3.4863636363636363)
 	B3) Optimise amount of letters, 1 word: filter (3.2772727272727273)
 	B3) Optimise amount of letters, 2 words: flater,fusion (4.754545454545455)
 	B3) Optimise amount of letters, 3 words: fluimt,fokvee,francs (5.2681818181818185)
