@@ -18,3 +18,4 @@ e (458):
 	I1) Vincents algorithm, 1 word: embedded (1.0)
 	I1) Vincents algorithm, 2 words: embedded,emfyseem (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: echolood (50.995633187772924)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: ecclesia,elysisch (9.34061135371179)
