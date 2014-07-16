@@ -15,7 +15,7 @@ public class Run {
 		int played = 0;
 		int correct = 0;
 		while (true) {
-			WordSet wordSet = NLetterWords.getInstance(6, Source.OTTUE).getWordsStartingWith(Letter.a, Letter.b, Letter.c);
+			WordSet wordSet = NLetterWords.getInstance(5, Source.OTTUE).getWordsStartingWith(Letter.ij);
 			Word randomWord = getRandomWord(wordSet);
 			WordSet correctWordSet = getCorrectWordSet(randomWord, wordSet);
 			PlayWord playWord = new PlayWord(randomWord, correctWordSet, new ManualInput());
