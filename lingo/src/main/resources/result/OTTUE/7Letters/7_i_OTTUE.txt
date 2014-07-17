@@ -18,7 +18,7 @@ i (420):
 	F1g1K) Minimise maximum possible words, 2 words: imperia,inslokt (303783.0)
 	F1g1K) Minimise maximum possible words, 3 words: inkoude,inplant,ischias (204827.0)
 	G1) Minimise average possible words with positive info, 1 word: inroest (1679164.8714285714)
-	G1g1K) Minimise average possible words with positive info, 2 words: inrolde,inslikt (204194.50714285715)
+	G1) Minimise average possible words with positive info, 2 words: idealer,inkomst (112658.3880952381)
 	G1g100K) Minimise average possible words with positive info, 3 words: idealen,inkuipt,isomorf (9627.778571428571)
 	H1) Minimise maximum possible words with positive info, 1 word: idioten || inademt || inbreit || indices || inertie || inertst || inmetst || inpalmt || inperst || inroest || inslikt || insluit || insmeet || instemt || instiet || instore || instrijk || insufte || interim || intiems || intrest || intrige || inwater (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: iemkers,inhoudt (2467531.0)

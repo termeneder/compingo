@@ -18,3 +18,5 @@ ij (60):
 	I1) Vincents algorithm, 1 word: ijsschuit (1.0)
 	I1) Vincents algorithm, 2 words: ijsschuit,ijsschots (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: ijsschots (4.866666666666666)
+	J2) Minimise average neighbours per group (Jochem), 2 words: ijzergaas,ijzerzaag (3.1333333333333333)
+	

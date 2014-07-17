@@ -18,3 +18,4 @@ d (1069):
 	I1) Vincents algorithm, 1 word: dividivi (1.0)
 	I1) Vincents algorithm, 2 words: dividivi,dichtzit (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: dividivi (228.53227315247895)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: daarvoor,doorvaar (29.84377923292797)
