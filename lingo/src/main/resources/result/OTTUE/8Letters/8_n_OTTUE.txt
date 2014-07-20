@@ -18,4 +18,4 @@ n (462):
 	I1) Vincents algorithm, 1 word: nooddoop (1.0)
 	I1) Vincents algorithm, 2 words: nooddoop,noodknop (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: nooddoop (107.41991341991341)
-	J2p) Minimise average neighbours per group (Jochem), 2 words: naaimand,namiddag (9.380952380952381)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: naaldhak,naaldvak (19.38095238095238)

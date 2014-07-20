@@ -18,3 +18,4 @@ w (873):
 	I1) Vincents algorithm, 1 word: wijziging (1.0)
 	I1) Vincents algorithm, 2 words: wijziging,wringing (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: waakzaam (112.58991981672393)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: waakvlam,waakzaam (46.10423825887744)
