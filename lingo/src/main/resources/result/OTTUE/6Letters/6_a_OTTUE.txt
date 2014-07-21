@@ -6,7 +6,7 @@ a (680):
 	B3) Optimise amount of letters, 1 word: afrent (2.9073529411764705)
 	B3) Optimise amount of letters, 2 words: afrost,alinea (4.219117647058823)
 	B3) Optimise amount of letters, 3 words: aanleg,afsopt,armdik || aanleg,afstop,armdik || aanpik,afmeld,argots || afkomt,agenda,aprils || aflost,agapen,armdik || afsolt,agapen,armdik (4.975)
-	B3p) Optimise amount of letters, 4 words: aagten,afkoop,airbus,almede (5.329411764705882)
+	B3p) Optimise amount of letters, 4 words: aaiing,abrupt,afkoos,almede (5.333823529411765)
 	C2) Jochems C algorithm, 1 word: aantel (56.0)
 	C2) Jochems C algorithm, 2 words: aardig,anklet (9.0)
 	C2p) Jochems C algorithm, 3 words: aagten,aankom,aprils || aagten,abrupt,afklim || aagten,absurd,afklop || aagten,afdokt,aprils || aagten,afklad,airbus || aagten,afklap,airbus || aagten,afklim,afprijs || aagten,afklop,arbeid || aagten,afklop,armdik || aagten,afkrab,aprils || aagten,afkrui,aplomb || aagten,afkwam,aprils || aagten,afplof,armdik || aagten,afprik,albums || aagten,afpulk,armdik || aagten,afslijp,armdik || aagten,aprils,armdik || aaiden,afklop,ageert (4.0)
