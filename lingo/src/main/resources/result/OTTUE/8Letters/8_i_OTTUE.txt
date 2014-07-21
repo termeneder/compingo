@@ -18,3 +18,4 @@ i (603):
 	I1) Vincents algorithm, 1 word: impulsijs (1.0)
 	I1) Vincents algorithm, 2 words: impulsijs,illusoir (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: inschoof (128.7379767827529)
+	J2) Minimise average neighbours per group (Jochem), 2 words: iconisch,inschoof (61.09618573797678)

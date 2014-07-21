@@ -18,4 +18,4 @@ g (2020):
 	I1) Vincents algorithm, 1 word: gasmassa (1.0)
 	I1) Vincents algorithm, 2 words: gasmassa,galabals (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: gasmassa (380.680198019802)
-	J2p) Minimise average neighbours per group (Jochem), 2 words: gaaswerk,graskaas (77.65247524752475)
+	J2p) Minimise average neighbours per group (Jochem), 2 words: galabals,galblaas (189.3990099009901)

@@ -12,7 +12,7 @@ e (309):
 	D1g1K) Minimise average group, 2 words: endemie,erlangt (1.0957446808510638)
 	D1g1K) Minimise average group, 3 words: eiglans,ergonen,extreem (1.0164473684210527)
 	E1) Minimise average possible words, 1 word: erelint (1921189.3851132686)
-	E1g1K) Minimise average possible words, 2 words: emoties,erfland (52753.37540453074)
+	E1p) Minimise average possible words, 2 words: emoties,erlangd (45837.297734627835)
 	E1g1K) Minimise average possible words, 3 words: edelman,etnisch,euregio (9112.932038834952)
 	F1g1K) Minimise maximum possible words, 1 word: erelint (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: envelop,estrade || edelgas,enormst || ecotaks,erelint || erlangt,eufonie || ethanol,euregio || eiermijn,equator (1679856.0)

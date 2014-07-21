@@ -18,4 +18,4 @@ j (164):
 	I1) Vincents algorithm, 1 word: judicium (1.0)
 	I1) Vincents algorithm, 2 words: judicium,jiujitsu (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: judicium (15.231707317073171)
-	J2p) Minimise average neighbours per group (Jochem), 2 words: jiujitsu,jumpsuit (7.048780487804878)
+	J2) Minimise average neighbours per group (Jochem), 2 words: jiujitsu,jumpsuit (7.048780487804878)

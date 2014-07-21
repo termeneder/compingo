@@ -18,5 +18,5 @@ t (1037):
 	I1) Vincents algorithm, 1 word: tulpplug (1.0)
 	I1) Vincents algorithm, 2 words: tulpplug,tuchtigt (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: turfvuur (183.30279652844743)
-	J2p) Minimise average neighbours per group (Jochem), 2 words: taakbalk,taaldaad (72.91706846673095)
+	J2) Minimise average neighbours per group (Jochem), 2 words: taakbalk,taaldaad (72.91706846673095)
 
