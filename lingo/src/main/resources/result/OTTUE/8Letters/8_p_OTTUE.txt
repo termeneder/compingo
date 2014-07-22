@@ -18,3 +18,4 @@ p (1156):
 	I1) Vincents algorithm, 1 word: pijniging (1.0)
 	I1) Vincents algorithm, 2 words: pijniging,pingping (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: paashaas (139.7975778546713)
+	J2) Minimise average neighbours per group (Jochem), 2 words: pingping,pijniging (88.92214532871972)

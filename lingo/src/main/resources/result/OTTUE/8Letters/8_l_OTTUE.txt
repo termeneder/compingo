@@ -18,4 +18,5 @@ l (829):
 	I1) Vincents algorithm, 1 word: loopzool (1.0)
 	I1) Vincents algorithm, 2 words: loopzool,loophulp (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: loofboom (180.66948130277441)
+	J2) Minimise average neighbours per group (Jochem), 2 words: loofboom,loopzool (85.10615199034982)
 

@@ -8,18 +8,18 @@
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>208.0</bestscore>
+            <bestscore>214.0</bestscore>
             <bestsets>
                 <set>
-                    <word>aanbraad</word>
-                    <word>aanvaard</word>
+                    <word>aandraag</word>
+                    <word>agaragar</word>
                 </set>
             </bestsets>
-            <printvalue>C2p) Jochems C algorithm, 2 words: aanbraad,aanvaard (208.0)</printvalue>
+            <printvalue>C2p) Jochems C algorithm, 2 words: aandraag,agaragar (214.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>44</index>
-                <index>1315</index>
+                <index>56</index>
+                <index>373</index>
             </indices>
         </query>
         <query>
@@ -39,8 +39,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: aanbraad,aanbrand (7.800829875518672)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>44</index>
-                <index>1315</index>
+                <index>56</index>
+                <index>373</index>
             </indices>
         </query>
         <query>
@@ -60,8 +60,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: aanbraad,aanbrand (5.235624201287234E8)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>44</index>
-                <index>1315</index>
+                <index>56</index>
+                <index>373</index>
             </indices>
         </query>
         <query>
@@ -80,18 +80,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>1.3691258036287234E9</bestscore>
+            <bestscore>1.5542527588388298E9</bestscore>
             <bestsets>
                 <set>
-                    <word>aanblaas</word>
-                    <word>aanslaan</word>
+                    <word>aanbraad</word>
+                    <word>aanbrand</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanblaas,aanslaan (1.3691258036287234E9)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanbraad,aanbrand (1.5542527588388298E9)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>27</index>
-                <index>1646</index>
+                <index>39</index>
+                <index>1500</index>
             </indices>
         </query>
         <query>
@@ -104,49 +104,24 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>61.734042553191486</bestscore>
-            <bestsets>
-                <set>
-                    <word>aanbraad</word>
-                    <word>aanvaard</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: aanbraad,aanvaard (61.734042553191486)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>37</index>
-                <index>1181</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>203.0</bestscore>
+            <bestscore>237.0</bestscore>
             <bestsets>
                 <set>
-                    <word>baaitjes</word>
-                    <word>basisset</word>
-                </set>
-                <set>
-                    <word>baaitjes</word>
-                    <word>bassiste</word>
+                    <word>baakgeld</word>
+                    <word>balklaag</word>
                 </set>
             </bestsets>
-            <printvalue>C2p) Jochems C algorithm, 2 words: baaitjes,basisset || baaitjes,bassiste (203.0)</printvalue>
-            <allocation>100</allocation>
+            <printvalue>C2p) Jochems C algorithm, 2 words: baakgeld,balklaag (237.0)</printvalue>
+            <allocation>1000</allocation>
             <indices>
-                <index>1</index>
-                <index>1104</index>
+                <index>2</index>
+                <index>1008</index>
             </indices>
         </query>
         <query>
@@ -164,10 +139,10 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: baaitjes,basisset (5.195544554455446)</printvalue>
-            <allocation>100</allocation>
+            <allocation>1000</allocation>
             <indices>
-                <index>1</index>
-                <index>1104</index>
+                <index>2</index>
+                <index>1008</index>
             </indices>
         </query>
         <query>
@@ -177,18 +152,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>1.2246902597427346E8</bestscore>
+            <bestscore>1.6402160495759887E8</bestscore>
             <bestsets>
                 <set>
-                    <word>baaitjes</word>
-                    <word>basisset</word>
+                    <word>baakgeld</word>
+                    <word>balklaag</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: baaitjes,basisset (1.2246902597427346E8)</printvalue>
-            <allocation>100</allocation>
+            <printvalue>E1p) Minimise average possible words, 2 words: baakgeld,balklaag (1.6402160495759887E8)</printvalue>
+            <allocation>1000</allocation>
             <indices>
-                <index>1</index>
-                <index>1104</index>
+                <index>2</index>
+                <index>1008</index>
             </indices>
         </query>
         <query>
@@ -207,18 +182,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>4.7333644102906144E8</bestscore>
+            <bestscore>6.781429270933778E8</bestscore>
             <bestsets>
                 <set>
-                    <word>baaitjes</word>
-                    <word>basisset</word>
+                    <word>baakgeld</word>
+                    <word>balklaag</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: baaitjes,basisset (4.7333644102906144E8)</printvalue>
-            <allocation>100</allocation>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: baakgeld,balklaag (6.781429270933778E8)</printvalue>
+            <allocation>1000</allocation>
             <indices>
-                <index>1</index>
-                <index>1104</index>
+                <index>2</index>
+                <index>1008</index>
             </indices>
         </query>
         <query>
@@ -237,18 +212,18 @@
             <algorithm>J2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>86.32253454025727</bestscore>
+            <bestscore>201.07813244402095</bestscore>
             <bestsets>
                 <set>
-                    <word>baanrace</word>
-                    <word>babyface</word>
+                    <word>babyzaak</word>
+                    <word>bankzaak</word>
                 </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: baanrace,babyface (86.32253454025727)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: babyzaak,bankzaak (201.07813244402095)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>10</index>
-                <index>2076</index>
+                <index>1500</index>
+                <index>1751</index>
             </indices>
         </query>
         <query>
@@ -266,10 +241,10 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: cacaomot,chowchow (33.0)</printvalue>
-            <allocation>10</allocation>
+            <allocation>100</allocation>
             <indices>
-                <index>6</index>
-                <index>354</index>
+                <index>7</index>
+                <index>113</index>
             </indices>
         </query>
         <query>
@@ -279,18 +254,18 @@
             <algorithm>D2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>2.4944444444444445</bestscore>
+            <bestscore>2.61046511627907</bestscore>
             <bestsets>
                 <set>
-                    <word>cacaomot</word>
-                    <word>chowchow</word>
+                    <word>cafeetje</word>
+                    <word>cijfertje</word>
                 </set>
             </bestsets>
-            <printvalue>D2p) Minimise average group (Jochem), 2 words: cacaomot,chowchow (2.4944444444444445)</printvalue>
-            <allocation>10</allocation>
+            <printvalue>D2p) Minimise average group (Jochem), 2 words: cafeetje,cijfertje (2.61046511627907)</printvalue>
+            <allocation>100</allocation>
             <indices>
-                <index>6</index>
-                <index>354</index>
+                <index>7</index>
+                <index>113</index>
             </indices>
         </query>
         <query>
@@ -308,10 +283,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: cacaomot,chowchow (1.9010414742093542E8)</printvalue>
-            <allocation>10</allocation>
+            <allocation>100</allocation>
             <indices>
                 <index>4</index>
-                <index>239</index>
+                <index>439</index>
             </indices>
         </query>
         <query>
@@ -338,10 +313,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: cacaomot,chowchow (9.792418886948775E8)</printvalue>
-            <allocation>10</allocation>
+            <allocation>100</allocation>
             <indices>
                 <index>4</index>
-                <index>239</index>
+                <index>439</index>
             </indices>
         </query>
         <query>
@@ -352,27 +327,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>13.414253897550111</bestscore>
-            <bestsets>
-                <set>
-                    <word>cakeblik</word>
-                    <word>cakewalk</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: cakeblik,cakewalk (13.414253897550111)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>52</index>
-                <index>83</index>
-            </indices>
         </query>
         <query>
             <startingletter>d</startingletter>
@@ -389,7 +343,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: daadloos,doodloop (82.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10</allocation>
             <indices>
                 <index>1</index>
                 <index>934</index>
@@ -410,7 +364,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: daadloos,dadeloos (3.172106824925816)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10</allocation>
             <indices>
                 <index>1</index>
                 <index>934</index>
@@ -431,7 +385,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: daadloos,doodloop (2.6133764420767072E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10</allocation>
             <indices>
                 <index>1</index>
                 <index>934</index>
@@ -461,7 +415,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: daadloos,doodloop (1.2272555850636108E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10</allocation>
             <indices>
                 <index>1</index>
                 <index>934</index>
@@ -475,27 +429,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>d</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>29.84377923292797</bestscore>
-            <bestsets>
-                <set>
-                    <word>daarvoor</word>
-                    <word>doorvaar</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: daarvoor,doorvaar (29.84377923292797)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>20</index>
-                <index>851</index>
-            </indices>
         </query>
         <query>
             <startingletter>e</startingletter>
@@ -600,27 +533,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>15.825327510917031</bestscore>
-            <bestsets>
-                <set>
-                    <word>echolood</word>
-                    <word>elleboog</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: echolood,elleboog (15.825327510917031)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>50</index>
-                <index>426</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>f</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -721,27 +633,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>13.273913043478261</bestscore>
-            <bestsets>
-                <set>
-                    <word>fanatica</word>
-                    <word>fanatici</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: fanatica,fanatici (13.273913043478261)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>50</index>
-                <index>326</index>
-            </indices>
         </query>
         <query>
             <startingletter>g</startingletter>
@@ -852,18 +743,18 @@
             <algorithm>J2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>77.65247524752475</bestscore>
+            <bestscore>189.3990099009901</bestscore>
             <bestsets>
                 <set>
-                    <word>gaaswerk</word>
-                    <word>graskaas</word>
+                    <word>galabals</word>
+                    <word>galblaas</word>
                 </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: gaaswerk,graskaas (77.65247524752475)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: galabals,galblaas (189.3990099009901)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>10</index>
-                <index>1866</index>
+                <index>1834</index>
+                <index>1850</index>
             </indices>
         </query>
         <query>
@@ -969,27 +860,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>h</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>35.26888888888889</bestscore>
-            <bestsets>
-                <set>
-                    <word>haakwerk</word>
-                    <word>haarwerk</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: haakwerk,haarwerk (35.26888888888889)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>24</index>
-                <index>725</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>i</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -1090,27 +960,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>i</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>61.09618573797678</bestscore>
-            <bestsets>
-                <set>
-                    <word>iconisch</word>
-                    <word>inschoof</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: iconisch,inschoof (61.09618573797678)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>37</index>
-                <index>430</index>
-            </indices>
         </query>
         <query>
             <startingletter>j</startingletter>
@@ -1215,27 +1064,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>j</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>7.048780487804878</bestscore>
-            <bestsets>
-                <set>
-                    <word>jiujitsu</word>
-                    <word>jumpsuit</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: jiujitsu,jumpsuit (7.048780487804878)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>162</index>
-                <index>163</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>k</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -1336,27 +1164,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>k</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>43.02181818181818</bestscore>
-            <bestsets>
-                <set>
-                    <word>kaalslag</word>
-                    <word>kaaswaag</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: kaalslag,kaaswaag (43.02181818181818)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>16</index>
-                <index>153</index>
-            </indices>
         </query>
         <query>
             <startingletter>l</startingletter>
@@ -1461,27 +1268,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>l</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>31.533172496984317</bestscore>
-            <bestsets>
-                <set>
-                    <word>laadboom</word>
-                    <word>loofboom</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: laadboom,loofboom (31.533172496984317)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>26</index>
-                <index>824</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>m</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -1582,27 +1368,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>m</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>51.194251734390484</bestscore>
-            <bestsets>
-                <set>
-                    <word>maagband</word>
-                    <word>maagwand</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: maagband,maagwand (51.194251734390484)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>11</index>
-                <index>979</index>
-            </indices>
         </query>
         <query>
             <startingletter>n</startingletter>
@@ -1711,27 +1476,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>n</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>19.38095238095238</bestscore>
-            <bestsets>
-                <set>
-                    <word>naaldhak</word>
-                    <word>naaldvak</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: naaldhak,naaldvak (19.38095238095238)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>26</index>
-                <index>366</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>o</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -1832,27 +1576,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>o</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>46.5136815920398</bestscore>
-            <bestsets>
-                <set>
-                    <word>obligaat</word>
-                    <word>official</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: obligaat,official (46.5136815920398)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>7</index>
-                <index>780</index>
-            </indices>
         </query>
         <query>
             <startingletter>p</startingletter>
@@ -1957,27 +1680,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>p</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>76.92733564013841</bestscore>
-            <bestsets>
-                <set>
-                    <word>paalbalk</word>
-                    <word>playback</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: paalbalk,playback (76.92733564013841)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>10</index>
-                <index>506</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>r</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -2078,27 +1780,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>r</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>99.57051961823966</bestscore>
-            <bestsets>
-                <set>
-                    <word>raadzaam</word>
-                    <word>raapzaad</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: raadzaam,raapzaad (99.57051961823966)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>12</index>
-                <index>775</index>
-            </indices>
         </query>
         <query>
             <startingletter>s</startingletter>
@@ -2209,18 +1890,18 @@
             <algorithm>J2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
-            <bestscore>48.22343973320629</bestscore>
+            <bestscore>194.72367794187707</bestscore>
             <bestsets>
                 <set>
-                    <word>sabberde</word>
-                    <word>sakkerde</word>
+                    <word>sambabal</word>
+                    <word>slijmzwam</word>
                 </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: sabberde,sakkerde (48.22343973320629)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: sambabal,slijmzwam (194.72367794187707)</printvalue>
             <allocation>100000</allocation>
             <indices>
-                <index>5</index>
-                <index>1526</index>
+                <index>1482</index>
+                <index>1668</index>
             </indices>
         </query>
         <query>
@@ -2326,27 +2007,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>t</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>72.91706846673095</bestscore>
-            <bestsets>
-                <set>
-                    <word>taakbalk</word>
-                    <word>taaldaad</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: taakbalk,taaldaad (72.91706846673095)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>11</index>
-                <index>671</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>u</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -2449,27 +2109,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>u</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>36.974736842105266</bestscore>
-            <bestsets>
-                <set>
-                    <word>uiachtig</word>
-                    <word>uitvraag</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: uiachtig,uitvraag (36.974736842105266)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>26</index>
-                <index>28</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>v</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -2570,27 +2209,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>v</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>59.88062187673515</bestscore>
-            <bestsets>
-                <set>
-                    <word>vaalgrijs</word>
-                    <word>vlashaar</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: vaalgrijs,vlashaar (59.88062187673515)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>6</index>
-                <index>1222</index>
-            </indices>
         </query>
         <query>
             <startingletter>w</startingletter>
@@ -2699,27 +2317,6 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>w</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>46.10423825887744</bestscore>
-            <bestsets>
-                <set>
-                    <word>waakvlam</word>
-                    <word>waakzaam</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: waakvlam,waakzaam (46.10423825887744)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>12</index>
-                <index>615</index>
-            </indices>
-        </query>
-        <query>
             <startingletter>z</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -2824,27 +2421,6 @@
             <subsetsize>2</subsetsize>
             <sortorder>worst</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>z</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>33.05571847507331</bestscore>
-            <bestsets>
-                <set>
-                    <word>zaadbank</word>
-                    <word>zandbank</word>
-                </set>
-            </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 2 words: zaadbank,zandbank (33.05571847507331)</printvalue>
-            <allocation>100000</allocation>
-            <indices>
-                <index>16</index>
-                <index>241</index>
-            </indices>
         </query>
         <query>
             <startingletter>ij</startingletter>
@@ -2954,21 +2530,6 @@
         </query>
     </running>
     <finished>
-        <query>
-            <startingletter>ij</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>3.1333333333333333</bestscore>
-            <bestsets>
-                <set>
-                    <word>ijzergaas</word>
-                    <word>ijzerzaag</word>
-                </set>
-            </bestsets>
-            <printvalue>J2) Minimise average neighbours per group (Jochem), 2 words: ijzergaas,ijzerzaag (3.1333333333333333)</printvalue>
-        </query>
+
     </finished>
 </results>

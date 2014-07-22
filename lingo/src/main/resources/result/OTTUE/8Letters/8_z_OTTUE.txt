@@ -18,3 +18,4 @@ z (682):
 	I1) Vincents algorithm, 1 word: zuigbuis (1.0)
 	I1) Vincents algorithm, 2 words: zuigbuis,zitkubus (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: zuurvrije (72.61876832844575)
+	J2) Minimise average neighbours per group (Jochem), 2 words: zaadbank,zandbank (33.05571847507331)

@@ -18,3 +18,4 @@ u (475):
 	I1) Vincents algorithm, 1 word: uurwijzer (1.0)
 	I1) Vincents algorithm, 2 words: uurwijzer,usurpeer (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: uitschud (103.66526315789474)
+	J2) Minimise average neighbours per group (Jochem), 2 words: uitgraaf,uitvraag (68.65473684210527)

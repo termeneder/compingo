@@ -18,5 +18,5 @@ v (1801):
 	I1) Vincents algorithm, 1 word: visschub (1.0)
 	I1) Vincents algorithm, 2 words: visschub,vitzucht (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: visschub (320.9822320932815)
-	J2p) Minimise average neighbours per group (Jochem), 2 words: vaalgrijs,vlashaar (59.88062187673515)
+	J2) Minimise average neighbours per group (Jochem), 2 words: voormuur,vuurmuur (155.54858411993337)
 	
