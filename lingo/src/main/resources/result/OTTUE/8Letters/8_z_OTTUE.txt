@@ -6,7 +6,7 @@ z (682):
 	C2) Jochems C algorithm, 1 word: zuurvrije (189.0)
 	C1g1K) Minimise biggest group, 2 words: zuidmuur,zuurheid || zandbank,zandland (76.0)
 	D2) Minimise average group (Jochem), 1 word: zichzelf (8.023529411764706)
-	D1g1K) Minimise average group, 2 words: zeelucht,zeetocht (3.085972850678733)
+	D2p) Minimise average group (Jochem), 2 words: zaadhuid,zaaizaad (3.875)
 	E1) Minimise average possible words, 1 word: zaagraam (1.0845243647492669E9)
 	E1g1K) Minimise average possible words, 2 words: zeeotter,zeerover (2.522891565542522E8)
 	F1) Minimise maximum possible words, 1 word: zeebenen || zeelelie (4.586471424E9)

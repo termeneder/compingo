@@ -6,7 +6,7 @@ j (164):
 	C2) Jochems C algorithm, 1 word: judicium (44.0)
 	C1g1K) Minimise biggest group, 2 words: jachthut,jachttijd (22.0)
 	D2) Minimise average group (Jochem), 1 word: jojootje || juffrouw (4.4324324324324325)
-	D1g1K) Minimise average group, 2 words: jachthut,jachttijd (2.3768115942028984)
+	D2) Minimise average group (Jochem), 2 words: jachthut,jachttijd (2.3768115942028984)
 	E1) Minimise average possible words, 1 word: jiujitsu (9.453993987378049E8)
 	E1g1K) Minimise average possible words, 2 words: jeugdige,judicium (1.9778504187804878E8)
 	F1) Minimise maximum possible words, 1 word: jaargang || jaarhuur || jaarrede || jaartaak || jengelen || jojootje || jureerde (3.404825447E9)

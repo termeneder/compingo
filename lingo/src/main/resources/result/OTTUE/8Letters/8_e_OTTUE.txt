@@ -6,7 +6,7 @@ e (458):
 	C2) Jochems C algorithm, 1 word: echolood (128.0)
 	C1g1K) Minimise biggest group, 2 words: echolood,etholoog (49.0)
 	D2) Minimise average group (Jochem), 1 word: embedded (6.361111111111111)
-	D1g1K) Minimise average group, 2 words: egeltjes,ezeltjes (2.775757575757576)
+	D2p) Minimise average group (Jochem), 2 words: echolood,etholoog (3.24822695035461)
 	E1) Minimise average possible words, 1 word: echolood (9.853545763537118E8)
 	E1g1K) Minimise average possible words, 2 words: effenden,embedded (2.4289877412008733E8)
 	F1) Minimise maximum possible words, 1 word: eendenei || eeneiige || eenheden || eerrover || eetketel || eetlepel || effenaan || effenden || ellenden || embedded || emissies || enerveer || enternet || entiteit || erkennen || erkenner || essencen || essences || eveneens || evenveel || exerceer (3.404825447E9)

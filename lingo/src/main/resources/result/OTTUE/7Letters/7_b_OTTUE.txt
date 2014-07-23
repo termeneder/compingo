@@ -18,7 +18,7 @@ b (1600):
 	F1g1K) Minimise maximum possible words, 2 words: badkuip,bolster || bidbank,bustoer (1314721.0)
 	F1g1K) Minimise maximum possible words, 3 words: bambino,barkast,behuild || blikjes,bodybag,brisant || belfort,bouwkas,boyband || beknord,blauwig,brompijp || bladtin,bouwkas,bijgaven (567256.0)
 	G1) Minimise average possible words with positive info, 1 word: baronie (1.0603266828125E7)
-	G1p) Minimise average possible words with positive info, 2 words: baklijst,begroei (404804.305625)
+	G1p) Minimise average possible words with positive info, 2 words: balkons,bereidt (258358.42625)
 	G1g100K) Minimise average possible words with positive info, 3 words: baardig,beukten,bijsloot (19596.8175)
 	H1) Minimise maximum possible words with positive info, 1 word: botanie (7.8504713E7)
 	H1g1K) Minimise maximum possible words with positive info, 2 words: beerton,buiklap (1.4348907E7)
