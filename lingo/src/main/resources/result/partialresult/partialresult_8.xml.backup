@@ -2,6 +2,25 @@
 <results>
     <running>
         <query>
+            <startingletter>l</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>1</subsetsize>
+            <sortorder>worst</sortorder>
+            <bestscore>371.0</bestscore>
+            <bestsets>
+                <set>
+                    <word>loofboom</word>
+                </set>
+            </bestsets>
+            <printvalue>C2p) Jochems C algorithm, 1 word: loofboom (371.0)</printvalue>
+            <allocation>10000</allocation>
+            <indices>
+                <index>828</index>
+            </indices>
+        </query>
+        <query>
             <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
@@ -19,7 +38,7 @@
             <allocation>1000</allocation>
             <indices>
                 <index>60</index>
-                <index>91</index>
+                <index>1091</index>
             </indices>
         </query>
         <query>
@@ -39,8 +58,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: aangaapt,aanjaagt (8.663594470046084)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>74</index>
-                <index>1730</index>
+                <index>80</index>
+                <index>921</index>
             </indices>
         </query>
         <query>
@@ -2428,38 +2447,5 @@
             <allocation>0</allocation>
         </query>
     </running>
-    <finished>
-        <query>
-            <startingletter>ij</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>1.8181818181818181</bestscore>
-            <bestsets>
-                <set>
-                    <word>ijzermaal</word>
-                    <word>ijzerzaag</word>
-                </set>
-            </bestsets>
-            <printvalue>D2) Minimise average group (Jochem), 2 words: ijzermaal,ijzerzaag (1.8181818181818181)</printvalue>
-        </query>
-        <query>
-            <startingletter>j</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>2.3768115942028984</bestscore>
-            <bestsets>
-                <set>
-                    <word>jachthut</word>
-                    <word>jachttijd</word>
-                </set>
-            </bestsets>
-            <printvalue>D2) Minimise average group (Jochem), 2 words: jachthut,jachttijd (2.3768115942028984)</printvalue>
-        </query>
-    </finished>
+    <finished/>
 </results>

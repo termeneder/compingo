@@ -12,7 +12,7 @@ r (640):
 	D1g1K) Minimise average group, 2 words: ransuil,roekoet (1.2052730696798493)
 	D1g1K) Minimise average group, 3 words: raseert,requiem,ringdijk (1.0578512396694215)
 	E1) Minimise average possible words, 1 word: roadies (2665607.55625)
-	E1p) Minimise average possible words, 2 words: ramsjer,ronduit (89325.278125)
+	E1p) Minimise average possible words, 2 words: ransuil,rokeert (83312.153125)
 	E1g1K) Minimise average possible words, 3 words: rafelde,rinkelt,rostrum (12994.1640625)
 	F1) Minimise maximum possible words, 1 word: rotatie (5.153632E7)
 	F1g1K) Minimise maximum possible words, 2 words: rondzag,rijhelft || ravelijn,rugkorf (4338015.0)
