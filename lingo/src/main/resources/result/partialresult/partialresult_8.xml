@@ -167,7 +167,7 @@
             <allocation>1000</allocation>
             <indices>
                 <index>6</index>
-                <index>634</index>
+                <index>1634</index>
             </indices>
         </query>
         <query>
@@ -2429,20 +2429,6 @@
         </query>
     </running>
     <finished>
-        <query>
-            <startingletter>l</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>1</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>371.0</bestscore>
-            <bestsets>
-                <set>
-                    <word>loofboom</word>
-                </set>
-            </bestsets>
-            <printvalue>C2) Jochems C algorithm, 1 word: loofboom (371.0)</printvalue>
-        </query>
+
     </finished>
 </results>

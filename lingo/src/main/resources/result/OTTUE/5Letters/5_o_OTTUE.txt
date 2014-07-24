@@ -32,4 +32,4 @@ o (183):
 	J2) Minimise average neighbours per group (Jochem), 1 word: oplet (15.92896174863388)
 	J2) Minimise average neighbours per group (Jochem), 2 words: onkel,opart (2.9453551912568305)
 	J2) Minimise average neighbours per group (Jochem), 3 words: omkat,oplos,orden (1.3934426229508197)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: oasen,obool,omdijk,opart (1.2513661202185793)
+	J2p) Minimise average neighbours per group (Jochem), 4 words: oasen,oever,omdijk,optil (1.2404371584699454)
