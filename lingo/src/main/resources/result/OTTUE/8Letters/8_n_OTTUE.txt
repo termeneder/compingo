@@ -6,7 +6,7 @@ n (462):
 	C2) Jochems C algorithm, 1 word: nooddoop (210.0)
 	C1g1K) Minimise biggest group, 2 words: nastuurt,natuurijs (54.0)
 	D2) Minimise average group (Jochem), 1 word: nooddoop (7.9655172413793105)
-	D1g1K) Minimise average group, 2 words: nooddoop,noodloop (5.566265060240964)
+	D2) Minimise average group (Jochem), 2 words: nooddoop,noodloop (5.566265060240964)
 	E1) Minimise average possible words, 1 word: nooddoop (2.5776831897294374E9)
 	E1g1K) Minimise average possible words, 2 words: nooddoop,noodloop (1.4765552368939395E9)
 	F1) Minimise maximum possible words, 1 word: neerkeek || nooddoop (4.586471424E9)

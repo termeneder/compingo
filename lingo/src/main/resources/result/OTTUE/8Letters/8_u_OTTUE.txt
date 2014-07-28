@@ -6,7 +6,7 @@ u (475):
 	C2) Jochems C algorithm, 1 word: uitschud (206.0)
 	C1g1K) Minimise biggest group, 2 words: uitkaard,uitkraai (110.0)
 	D2) Minimise average group (Jochem), 1 word: uitschijn || uitzicht (9.313725490196079)
-	D2p) Minimise average group (Jochem), 2 words: uitbouwt,uitjouwt (6.785714285714286)
+	D2) Minimise average group (Jochem), 2 words: uittocht,uitvocht (7.661290322580645)
 	E1) Minimise average possible words, 1 word: ukeleles (7.896758039936842E8)
 	E1g1K) Minimise average possible words, 2 words: uitbuilt,uithuilt (4.6689968774736844E7)
 	F1) Minimise maximum possible words, 1 word: uitduidt || uitgooit || uitkookt || uitstoot || uitwaait || uitzaait || ukeleles (3.404825447E9)

@@ -12,7 +12,7 @@ f (363):
 	D1g1K) Minimise average group, 2 words: factors,fielden (1.09009009009009)
 	D1g1K) Minimise average group, 3 words: fikfakt,flodder,funeste (1.0225352112676056)
 	E1) Minimise average possible words, 1 word: flinter (2257904.3168044076)
-	E1g1K) Minimise average possible words, 2 words: filmvak,forenst (57193.11019283746)
+	E1p) Minimise average possible words, 2 words: foliant,fundeer (34771.36914600551)
 	E1g1K) Minimise average possible words, 3 words: filmzon,fluiter,fijnspar (8973.079889807163)
 	F1) Minimise maximum possible words, 1 word: fatsoen || flikten || flinter || flipten || flirten || flitsen || fluiten (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: factorij,filmden (1314721.0)
