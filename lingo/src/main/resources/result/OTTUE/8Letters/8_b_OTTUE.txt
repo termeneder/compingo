@@ -8,7 +8,7 @@ b (2099):
 	D2) Minimise average group (Jochem), 1 word: bushbush (25.91358024691358)
 	D2p) Minimise average group (Jochem), 2 words: babyzaak,bankzaak (9.854460093896714)
 	E1) Minimise average possible words, 1 word: bushbush (2.0419173165826583E9)
-	E1p) Minimise average possible words, 2 words: baanplan,baanvlak (3.994663248408766E8)
+	E1p) Minimise average possible words, 2 words: baanvlak,bankzaak (4.173232027894235E8)
 	F1) Minimise maximum possible words, 1 word: bedeelde || bedeesde || bekekene || bekennen || beredder || berennen || binnenin (4.586471424E9)
 	F1g1K) Minimise maximum possible words, 2 words: beeldend,beleende || bedeelde,beleende || bereidde,bereider (3.404825447E9)
 	G1) Minimise average possible words with positive info, 1 word: bushbush (5.548779736850405E9)

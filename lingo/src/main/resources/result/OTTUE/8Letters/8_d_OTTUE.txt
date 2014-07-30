@@ -6,7 +6,7 @@ d (1069):
 	C2) Jochems C algorithm, 1 word: dividivi (449.0)
 	C1g1K) Minimise biggest group, 2 words: doorkook,doorwerk (140.0)
 	D2) Minimise average group (Jochem), 1 word: dividivi (22.74468085106383)
-	D1g1K) Minimise average group, 2 words: doorboog,doorkook (5.6861702127659575)
+	E1p) Minimise average possible words, 2 words: daarvoor,doorvaar (5.7699964204116E8)
 	E1) Minimise average possible words, 1 word: dividivi (2.4610716864031806E9)
 	E1p) Minimise average possible words, 2 words: daardoor,daarvoor (4.8430147734237605E8)
 	F1) Minimise maximum possible words, 1 word: daarnaar || deletete || dividivi || doorboor || doorkook || doorroer || doorrook || dresseer (4.586471424E9)
