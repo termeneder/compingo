@@ -16,10 +16,10 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: aangaven,aanjagen (217.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>69</index>
-                <index>1765</index>
+                <index>75</index>
+                <index>926</index>
             </indices>
         </query>
         <query>
@@ -39,8 +39,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: aanhecht,aanvecht (9.494949494949495)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>177</index>
-                <index>1171</index>
+                <index>183</index>
+                <index>980</index>
             </indices>
         </query>
         <query>
@@ -118,7 +118,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: baanplan,babynaam (294.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>13</index>
                 <index>18</index>
@@ -220,7 +220,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: cakeblik,cakewalk (52.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>37</index>
                 <index>48</index>
@@ -301,7 +301,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: daarvoor,doorvaar (109.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>12</index>
                 <index>333</index>
@@ -403,7 +403,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: echolood,elleboog (68.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>29</index>
                 <index>183</index>
@@ -484,7 +484,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: fandango,focaccia (50.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>26</index>
                 <index>418</index>
@@ -565,7 +565,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: gaafheid,gezwaaid (230.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>2001</index>
@@ -607,7 +607,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: gaafheid,gladheid (9.378563328465347E7)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>0</index>
                 <index>2001</index>
@@ -637,7 +637,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: gaafheid,gladheid (4.273901137648515E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>0</index>
                 <index>2001</index>
@@ -667,7 +667,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: haagbeuk,haaibaai (83.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>206</index>
@@ -709,7 +709,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: haagroos,haargras (3.152183447544444E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>206</index>
@@ -739,7 +739,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: haagroos,haargras (9.2770896418E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>206</index>
@@ -769,7 +769,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: iconisch,inschoof (163.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>3</index>
                 <index>201</index>
@@ -811,7 +811,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: iconisch,ironisch (1.3997302802321726E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>3</index>
                 <index>201</index>
@@ -841,7 +841,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: iconisch,ironisch (7.007903256616915E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>3</index>
                 <index>201</index>
@@ -871,7 +871,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: jaarhuur,jaarwerk (14.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>12</index>
                 <index>123</index>
@@ -892,7 +892,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: jaarhuur,jachthut (3.144104679207317E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>12</index>
                 <index>123</index>
@@ -922,7 +922,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: jaarhuur,jachthut (1.2075523530609756E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>12</index>
                 <index>123</index>
@@ -952,7 +952,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: kaaigeld,kaalheid (100.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>628</index>
@@ -994,7 +994,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: kaaimans,kasbasis (2.5400136833381817E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>628</index>
@@ -1024,7 +1024,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kaaimans,kasbasis (1.220650145770909E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>628</index>
@@ -1054,7 +1054,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: laadboom,loofboom (128.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>348</index>
@@ -1096,7 +1096,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: laadboom,loofboom (4.2663583322316045E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>348</index>
@@ -1126,7 +1126,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: laadboom,loofboom (2.1015866306863692E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>348</index>
@@ -1156,7 +1156,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: maagband,maanbaan (157.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>994</index>
@@ -1198,7 +1198,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: maagband,maanbaan (5.790110738721507E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>994</index>
@@ -1228,7 +1228,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: maagband,maanzaad (2.2164061026333003E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>994</index>
@@ -1262,7 +1262,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: naadloze,nooddoop || naadloze,noodloop (40.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>4</index>
                 <index>167</index>
@@ -1283,7 +1283,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: naadloos,naaldbos (2.5581298176190478E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>4</index>
                 <index>167</index>
@@ -1313,7 +1313,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: naadloos,naaldbos (1.1869608323246753E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>4</index>
                 <index>167</index>
@@ -1343,7 +1343,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: oasestad,outcasts (130.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>395</index>
@@ -1385,7 +1385,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: oasetjes,ommetjes (1.1108559262189054E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>395</index>
@@ -1415,7 +1415,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: oasestad,outcasts (4.4396320260012436E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>395</index>
@@ -1445,7 +1445,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: paalbalk,playback (259.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>847</index>
@@ -1487,7 +1487,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: paalbalk,plaklaag (7.002612598486159E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>847</index>
@@ -1517,7 +1517,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: paalbalk,playback (2.8819954094878893E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>847</index>
@@ -1547,7 +1547,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: raadsels,raadzaal (106.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>120</index>
@@ -1589,7 +1589,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: raadslag,raadzaal (3.5062184660339344E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>120</index>
@@ -1619,7 +1619,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: raadslag,raadzaal (1.7058943182173913E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>120</index>
@@ -1649,7 +1649,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: saaiheid,schabbig (221.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>2001</index>
@@ -1691,7 +1691,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: saaiheid,schaadde (1.8069718434683183E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>0</index>
                 <index>2001</index>
@@ -1721,7 +1721,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: saaiheid,schaadde (7.930568819032873E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>0</index>
                 <index>2001</index>
@@ -1751,7 +1751,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: taaitaai,tjiftjaf (199.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>966</index>
@@ -1793,7 +1793,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: taaitaai,tjiftjaf (7.033237453481196E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>966</index>
@@ -1823,7 +1823,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: taaitaai,tjiftjaf (2.573622135529412E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>966</index>
@@ -1853,7 +1853,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: uiachtig,uitvraag (113.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>4</index>
                 <index>115</index>
@@ -1874,7 +1874,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: uiachtig,uitvaagt (2.8206335635789473E7)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>4</index>
                 <index>115</index>
@@ -1904,7 +1904,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: uiachtig,uitvaagt (1.886645769936842E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>4</index>
                 <index>115</index>
@@ -1934,7 +1934,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: vaagheid,vaderdag (209.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>202</index>
@@ -1976,7 +1976,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: vaalbont,vannacht (1.1985162372515269E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>202</index>
@@ -2006,7 +2006,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: vaalbont,vannacht (9.384154217462521E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>202</index>
@@ -2040,7 +2040,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: waadbaar,waardoor || waadbaar,waarmaak (108.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>260</index>
@@ -2082,7 +2082,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: waadbaar,waardoor (5.284982471168385E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>2</index>
                 <index>260</index>
@@ -2112,7 +2112,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: waadbaar,waardoor (1.793747539908362E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>130</index>
@@ -2146,7 +2146,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: zaadbank,zandbaan || zaadbank,zandbank (125.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>321</index>
@@ -2188,7 +2188,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: zaadbank,zandbank (6.796427493269795E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>321</index>
@@ -2218,7 +2218,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: zaadbank,zandbank (2.445911596887097E9)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>1</index>
                 <index>321</index>
@@ -2252,7 +2252,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: ijsachtig,ijsschuit || ijsbedrijf,ijsbeerde (7.0)</printvalue>
-            <allocation>0</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>20</index>
                 <index>31</index>
@@ -2273,7 +2273,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: ijskegels,ijspegels (1.2435909866666667E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>20</index>
                 <index>31</index>
@@ -2303,7 +2303,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: ijsachtig,ijsschuit (8.836142098E8)</printvalue>
-            <allocation>0</allocation>
+            <allocation>1000</allocation>
             <indices>
                 <index>20</index>
                 <index>31</index>
