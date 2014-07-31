@@ -2,6 +2,7 @@ l (588):
 	A3) Optimise correct letters, 1 word: laseren (2.042517006802721)
 	A3) Optimise correct letters, 2 words: lassers,lengten (2.925170068027211)
 	A3) Optimise correct letters, 3 words: lantert,leesles,losgaan (3.5952380952380953)
+	A3p) Optimise correct letters, 4 words: laagtes,legeert,lindaan,lostrok (4.059523809523809)
 	B3) Optimise amount of letters, 1 word: lansier (3.564625850340136)
 	B3) Optimise amount of letters, 2 words: languit,loeders (5.112244897959184)
 	B3) Optimise amount of letters, 3 words: leukerd,lotions,lijmlaag (5.95578231292517)

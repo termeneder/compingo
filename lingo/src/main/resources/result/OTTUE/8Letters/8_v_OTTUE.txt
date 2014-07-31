@@ -6,7 +6,7 @@ v (1801):
 	C2) Jochems C algorithm, 1 word: visschub (710.0)
 	C1g1K) Minimise biggest group, 2 words: voormuur,vuurmuur (450.0)
 	D2) Minimise average group (Jochem), 1 word: vuurmuur (25.728571428571428)
-	D2p) Minimise average group (Jochem), 2 words: vaalgeel,vaalgele (6.7706766917293235)
+	D2p) Minimise average group (Jochem), 2 words: vacature,vacatuur (6.953667953667954)
 	E1) Minimise average possible words, 1 word: vuurmuur (1.6827754836890616E9)
 	E1g1K) Minimise average possible words, 2 words: voorraad,voorraam (4.040355119200444E8)
 	F1) Minimise maximum possible words, 1 word: veeteelt || vereerde || vererger || veretter || verteert || vuurmuur (4.586471424E9)

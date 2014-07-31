@@ -12,7 +12,7 @@ m (740):
 	D1g1K) Minimise average group, 2 words: metalen,misraad (1.187800963081862)
 	D1g1K) Minimise average group, 3 words: mastiek,meester,mondvol (1.048158640226629)
 	E1) Minimise average possible words, 1 word: minaret (2616676.6824324327)
-	E1g1K) Minimise average possible words, 2 words: merites,mondbal (44566.02027027027)
+	E1p) Minimise average possible words, 2 words: mandoer,mislukt (33901.09459459459)
 	E1g1K) Minimise average possible words, 3 words: manisch,meelzak,mouterij (6523.045945945946)
 	F1) Minimise maximum possible words, 1 word: mahonie (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: miljard,morsten || megaton,midrasj || moralen,mutisme || mandoer,meligst (1679856.0)

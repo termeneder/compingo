@@ -2,6 +2,7 @@ b (1600):
 	A3) Optimise correct letters, 1 word: beleden (2.228125)
 	A3) Optimise correct letters, 2 words: beroert,boleten (2.9825)
 	A3) Optimise correct letters, 3 words: banaten,beloert,boreale (3.520625)
+	A3p) Optimise correct letters, 4 words: baadden,beboert,bosrand,broeide (3.90875)
 	B3) Optimise amount of letters, 1 word: beerton || boerten || boteren (3.6775)
 	B3) Optimise amount of letters, 2 words: balkons,bereidt || bekoeld,brisant || bekorte,bindsla || bereikt,bosland || blankst,broedei || blankst,broeide || boskant,breidel (5.35375)
 	B3) Optimise amount of letters, 3 words: baardig,belijmen,butskop || bankpas,bruigom,bijtelde || beeldig,bornput,bijsmaak || beledig,bornput,bijsmaak || besprek,botmuil,bijgaand || birmaan,butskop,bijlegde (6.118125)
