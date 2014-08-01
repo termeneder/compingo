@@ -8,22 +8,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.0357737104825295</bestscore>
+            <bestscore>4.066555740432612</bestscore>
             <bestsets>
                 <set>
-                    <word>aaibaar</word>
-                    <word>afreedt</word>
-                    <word>annalen</word>
-                    <word>artrose</word>
+                    <word>aalgeer</word>
+                    <word>aanrolt</word>
+                    <word>afslaan</word>
+                    <word>arterie</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: aaibaar,afreedt,annalen,artrose (4.0357737104825295)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: aalgeer,aanrolt,afslaan,arterie (4.066555740432612)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>1</index>
-                <index>291</index>
-                <index>757</index>
-                <index>768</index>
+                <index>7</index>
+                <index>81</index>
+                <index>313</index>
+                <index>596</index>
             </indices>
         </query>
         <query>
@@ -33,22 +33,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6.43261231281198</bestscore>
+            <bestscore>6.4891846921797</bestscore>
             <bestsets>
                 <set>
-                    <word>aaibaar</word>
-                    <word>aanklop</word>
+                    <word>aalkuip</word>
+                    <word>aanbras</word>
                     <word>ademweg</word>
-                    <word>afschut</word>
+                    <word>afvocht</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: aaibaar,aanklop,ademweg,afschut (6.43261231281198)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: aalkuip,aanbras,ademweg,afvocht (6.4891846921797)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>1</index>
-                <index>95</index>
-                <index>297</index>
-                <index>1078</index>
+                <index>6</index>
+                <index>527</index>
+                <index>692</index>
+                <index>782</index>
             </indices>
         </query>
         <query>
@@ -94,22 +94,22 @@
             <algorithm>G1</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>63178.51913477537</bestscore>
+            <bestscore>60993.14309484193</bestscore>
             <bestsets>
                 <set>
                     <word>aaibaar</word>
                     <word>aaitjes</word>
-                    <word>aalfuik</word>
-                    <word>afdwong</word>
+                    <word>aalglad</word>
+                    <word>afwoont</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 4 words: aaibaar,aaitjes,aalfuik,afdwong (63178.51913477537)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 4 words: aaibaar,aaitjes,aalglad,afwoont (60993.14309484193)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>4</index>
-                <index>8</index>
+                <index>5</index>
+                <index>312</index>
             </indices>
         </query>
         <query>
@@ -142,8 +142,8 @@
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>22</index>
-                <index>233</index>
+                <index>34</index>
+                <index>1163</index>
             </indices>
         </query>
         <query>
@@ -153,22 +153,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>3.914375</bestscore>
+            <bestscore>3.915</bestscore>
             <bestsets>
                 <set>
                     <word>baadden</word>
-                    <word>bedaard</word>
-                    <word>borrelt</word>
+                    <word>bekoelt</word>
+                    <word>bosrand</word>
                     <word>broeide</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: baadden,bedaard,borrelt,broeide (3.914375)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: baadden,bekoelt,bosrand,broeide (3.915)</printvalue>
             <allocation>10000000</allocation>
             <indices>
                 <index>0</index>
-                <index>227</index>
-                <index>493</index>
-                <index>806</index>
+                <index>410</index>
+                <index>447</index>
+                <index>891</index>
             </indices>
         </query>
         <query>
@@ -178,22 +178,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6.343125</bestscore>
+            <bestscore>6.38875</bestscore>
             <bestsets>
                 <set>
                     <word>baadden</word>
-                    <word>bakvorm</word>
-                    <word>bespeel</word>
-                    <word>bijbuigt</word>
+                    <word>begreep</word>
+                    <word>billijkt</word>
+                    <word>bouwsom</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: baadden,bakvorm,bespeel,bijbuigt (6.343125)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: baadden,begreep,billijkt,bouwsom (6.38875)</printvalue>
             <allocation>10000000</allocation>
             <indices>
                 <index>0</index>
-                <index>227</index>
-                <index>493</index>
-                <index>806</index>
+                <index>410</index>
+                <index>447</index>
+                <index>891</index>
             </indices>
         </query>
         <query>
@@ -253,8 +253,8 @@
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>3</index>
-                <index>807</index>
+                <index>4</index>
+                <index>712</index>
             </indices>
         </query>
         <query>
@@ -273,22 +273,22 @@
             <algorithm>J2</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1.4625</bestscore>
+            <bestscore>1.4</bestscore>
             <bestsets>
                 <set>
                     <word>baadden</word>
                     <word>baadjes</word>
-                    <word>baardig</word>
-                    <word>bekoelt</word>
+                    <word>baarlijk</word>
+                    <word>bemoeit</word>
                 </set>
             </bestsets>
-            <printvalue>J2p) Minimise average neighbours per group (Jochem), 4 words: baadden,baadjes,baardig,bekoelt (1.4625)</printvalue>
+            <printvalue>J2p) Minimise average neighbours per group (Jochem), 4 words: baadden,baadjes,baarlijk,bemoeit (1.4)</printvalue>
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>17</index>
-                <index>168</index>
+                <index>26</index>
+                <index>975</index>
             </indices>
         </query>
         <query>
@@ -310,10 +310,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: carieus,chatten,clipart,console (4.101449275362318)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>45</index>
-                <index>63</index>
-                <index>65</index>
-                <index>202</index>
+                <index>87</index>
+                <index>96</index>
+                <index>199</index>
+                <index>271</index>
             </indices>
         </query>
         <query>
@@ -331,14 +331,20 @@
                     <word>coulomb</word>
                     <word>csardas</word>
                 </set>
+                <set>
+                    <word>centert</word>
+                    <word>chiasma</word>
+                    <word>clubdag</word>
+                    <word>cycloop</word>
+                </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: caching,celtype,coulomb,csardas (6.423188405797101)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: caching,celtype,coulomb,csardas || centert,chiasma,clubdag,cycloop (6.423188405797101)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>45</index>
-                <index>63</index>
-                <index>65</index>
-                <index>202</index>
+                <index>87</index>
+                <index>96</index>
+                <index>199</index>
+                <index>271</index>
             </indices>
         </query>
         <query>
@@ -398,8 +404,8 @@
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>3</index>
-                <index>62</index>
+                <index>7</index>
+                <index>208</index>
             </indices>
         </query>
         <query>
@@ -432,8 +438,8 @@
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>13</index>
-                <index>307</index>
+                <index>62</index>
+                <index>313</index>
             </indices>
         </query>
         <query>
@@ -443,28 +449,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.054469273743017</bestscore>
+            <bestscore>4.100558659217877</bestscore>
             <bestsets>
                 <set>
-                    <word>daagden</word>
-                    <word>deurtje</word>
-                    <word>doellat</word>
+                    <word>daaraan</word>
+                    <word>deletie</word>
+                    <word>doeniet</word>
                     <word>dromers</word>
                 </set>
-                <set>
-                    <word>daalden</word>
-                    <word>deletie</word>
-                    <word>diepers</word>
-                    <word>doornat</word>
-                </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: daagden,deurtje,doellat,dromers || daalden,deletie,diepers,doornat (4.054469273743017)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: daaraan,deletie,doeniet,dromers (4.100558659217877)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>4</index>
-                <index>42</index>
-                <index>63</index>
-                <index>498</index>
+                <index>6</index>
+                <index>227</index>
+                <index>294</index>
+                <index>468</index>
             </indices>
         </query>
         <query>
@@ -486,10 +486,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: daagden,dempers,dichtbij,duoblok (6.347765363128492)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>4</index>
-                <index>42</index>
-                <index>63</index>
-                <index>498</index>
+                <index>6</index>
+                <index>227</index>
+                <index>294</index>
+                <index>468</index>
             </indices>
         </query>
         <query>
@@ -554,56 +554,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>3.8446601941747574</bestscore>
-            <bestsets>
-                <set>
-                    <word>eendere</word>
-                    <word>elitair</word>
-                    <word>enteren</word>
-                    <word>erelint</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: eendere,elitair,enteren,erelint (3.8446601941747574)</printvalue>
-            <allocation>10000000</allocation>
-            <indices>
-                <index>74</index>
-                <index>140</index>
-                <index>229</index>
-                <index>231</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>6.284789644012945</bestscore>
-            <bestsets>
-                <set>
-                    <word>echoput</word>
-                    <word>elkaars</word>
-                    <word>ergerde</word>
-                    <word>evenmin</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: echoput,elkaars,ergerde,evenmin (6.284789644012945)</printvalue>
-            <allocation>10000000</allocation>
-            <indices>
-                <index>74</index>
-                <index>140</index>
-                <index>229</index>
-                <index>231</index>
-            </indices>
         </query>
         <query>
             <startingletter>e</startingletter>
@@ -687,10 +637,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: fantast,filmers,flensde,frieten (4.201101928374656)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>37</index>
-                <index>46</index>
-                <index>126</index>
-                <index>188</index>
+                <index>67</index>
+                <index>119</index>
+                <index>145</index>
+                <index>345</index>
             </indices>
         </query>
         <query>
@@ -712,10 +662,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: factoor,felgeel,fidibus,fijnmaak (6.404958677685951)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>37</index>
-                <index>46</index>
-                <index>126</index>
-                <index>188</index>
+                <index>67</index>
+                <index>119</index>
+                <index>145</index>
+                <index>345</index>
             </indices>
         </query>
         <query>
@@ -801,9 +751,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>0</index>
-                <index>225</index>
-                <index>1234</index>
-                <index>1275</index>
+                <index>406</index>
+                <index>1155</index>
+                <index>1521</index>
             </indices>
         </query>
         <query>
@@ -826,9 +776,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>0</index>
-                <index>225</index>
-                <index>1234</index>
-                <index>1275</index>
+                <index>406</index>
+                <index>1155</index>
+                <index>1521</index>
             </indices>
         </query>
         <query>
@@ -913,10 +863,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: haakaas,hengelt,hordden,huistoe (4.231173380035027)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>8</index>
-                <index>72</index>
-                <index>125</index>
-                <index>567</index>
+                <index>13</index>
+                <index>118</index>
+                <index>232</index>
+                <index>549</index>
             </indices>
         </query>
         <query>
@@ -938,10 +888,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: haagden,hekserij,hitfilm,hopbouw (6.462346760070052)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>8</index>
-                <index>72</index>
-                <index>125</index>
-                <index>567</index>
+                <index>13</index>
+                <index>118</index>
+                <index>232</index>
+                <index>549</index>
             </indices>
         </query>
         <query>
@@ -1026,10 +976,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: imkeren,inlaadt,insloop,inzoete (4.442857142857143)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>22</index>
-                <index>46</index>
-                <index>59</index>
-                <index>356</index>
+                <index>37</index>
+                <index>114</index>
+                <index>125</index>
+                <index>391</index>
             </indices>
         </query>
         <query>
@@ -1051,10 +1001,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: ikzucht,imperia,insneed,invloog (6.440476190476191)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>22</index>
-                <index>46</index>
-                <index>59</index>
-                <index>356</index>
+                <index>37</index>
+                <index>114</index>
+                <index>125</index>
+                <index>391</index>
             </indices>
         </query>
         <query>
@@ -1163,22 +1113,22 @@
             <algorithm>G1</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>144088.4909090909</bestscore>
+            <bestscore>15442.154545454545</bestscore>
             <bestsets>
                 <set>
                     <word>jaagden</word>
                     <word>jaaglijn</word>
-                    <word>jaartal</word>
-                    <word>jockeys</word>
+                    <word>jackpot</word>
+                    <word>juriste</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 4 words: jaagden,jaaglijn,jaartal,jockeys (144088.4909090909)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 4 words: jaagden,jaaglijn,jackpot,juriste (15442.154545454545)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>5</index>
-                <index>88</index>
+                <index>21</index>
+                <index>60</index>
             </indices>
         </query>
         <query>
@@ -1219,9 +1169,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>1</index>
-                <index>24</index>
-                <index>455</index>
-                <index>1026</index>
+                <index>369</index>
+                <index>991</index>
+                <index>1043</index>
             </indices>
         </query>
         <query>
@@ -1231,22 +1181,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6.373333333333333</bestscore>
+            <bestscore>6.393777777777777</bestscore>
             <bestsets>
                 <set>
-                    <word>kaaiden</word>
-                    <word>kalmweg</word>
-                    <word>kerkjes</word>
-                    <word>kopbout</word>
+                    <word>kaaiman</word>
+                    <word>keerweg</word>
+                    <word>klapbus</word>
+                    <word>kooktijd</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: kaaiden,kalmweg,kerkjes,kopbout (6.373333333333333)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: kaaiman,keerweg,klapbus,kooktijd (6.393777777777777)</printvalue>
             <allocation>10000000</allocation>
             <indices>
                 <index>1</index>
-                <index>24</index>
-                <index>455</index>
-                <index>1026</index>
+                <index>369</index>
+                <index>991</index>
+                <index>1043</index>
             </indices>
         </query>
         <query>
@@ -1331,10 +1281,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: laagtes,legeert,lindaan,lostrok (4.059523809523809)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>7</index>
-                <index>153</index>
-                <index>453</index>
-                <index>573</index>
+                <index>12</index>
+                <index>71</index>
+                <index>346</index>
+                <index>378</index>
             </indices>
         </query>
         <query>
@@ -1356,10 +1306,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: laadbak,lemmers,looplijn,luchtig (6.33843537414966)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>7</index>
-                <index>153</index>
-                <index>453</index>
-                <index>573</index>
+                <index>12</index>
+                <index>71</index>
+                <index>346</index>
+                <index>378</index>
             </indices>
         </query>
         <query>
@@ -1432,22 +1382,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.274324324324325</bestscore>
+            <bestscore>4.312162162162162</bestscore>
             <bestsets>
                 <set>
-                    <word>maagden</word>
-                    <word>messias</word>
-                    <word>mietert</word>
-                    <word>monitor</word>
+                    <word>maaiers</word>
+                    <word>mentale</word>
+                    <word>miskomt</word>
+                    <word>moesten</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: maagden,messias,mietert,monitor (4.274324324324325)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: maaiers,mentale,miskomt,moesten (4.312162162162162)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>3</index>
-                <index>198</index>
-                <index>311</index>
-                <index>443</index>
+                <index>5</index>
+                <index>377</index>
+                <index>452</index>
+                <index>737</index>
             </indices>
         </query>
         <query>
@@ -1469,10 +1419,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: maagsap,meetrek,mondlijm,musisch (6.382432432432433)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>3</index>
-                <index>198</index>
-                <index>311</index>
-                <index>443</index>
+                <index>5</index>
+                <index>377</index>
+                <index>452</index>
+                <index>737</index>
             </indices>
         </query>
         <query>
@@ -1557,10 +1507,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: naderde,nestels,nitraat,noesten (4.2974504249291785)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>39</index>
-                <index>69</index>
-                <index>247</index>
-                <index>284</index>
+                <index>74</index>
+                <index>105</index>
+                <index>138</index>
+                <index>334</index>
             </indices>
         </query>
         <query>
@@ -1582,10 +1532,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: naampje,nevelig,niksnut,noordzij (6.436260623229462)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>39</index>
-                <index>69</index>
-                <index>247</index>
-                <index>284</index>
+                <index>74</index>
+                <index>105</index>
+                <index>138</index>
+                <index>334</index>
             </indices>
         </query>
         <query>
@@ -1670,10 +1620,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: oasetje,omdoolt,ontleen,operand (4.15438950554995)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>1</index>
-                <index>200</index>
-                <index>535</index>
-                <index>662</index>
+                <index>2</index>
+                <index>169</index>
+                <index>189</index>
+                <index>291</index>
             </indices>
         </query>
         <query>
@@ -1683,22 +1633,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6.421796165489405</bestscore>
+            <bestscore>6.474268415741675</bestscore>
             <bestsets>
                 <set>
                     <word>obelisk</word>
-                    <word>omdraag</word>
-                    <word>ontvouw</word>
-                    <word>opzette</word>
+                    <word>omvraag</word>
+                    <word>onthoud</word>
+                    <word>opzweep</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: obelisk,omdraag,ontvouw,opzette (6.421796165489405)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: obelisk,omvraag,onthoud,opzweep (6.474268415741675)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>1</index>
-                <index>200</index>
-                <index>535</index>
-                <index>662</index>
+                <index>2</index>
+                <index>169</index>
+                <index>189</index>
+                <index>291</index>
             </indices>
         </query>
         <query>
@@ -1783,10 +1733,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: paaiden,persers,pootgat,prentte (4.054024255788313)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>1</index>
-                <index>564</index>
-                <index>576</index>
-                <index>592</index>
+                <index>3</index>
+                <index>57</index>
+                <index>558</index>
+                <index>774</index>
             </indices>
         </query>
         <query>
@@ -1796,22 +1746,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6.38257993384785</bestscore>
+            <bestscore>6.384785005512679</bestscore>
             <bestsets>
                 <set>
-                    <word>paadjes</word>
-                    <word>piechem</word>
-                    <word>prutoog</word>
-                    <word>pijnplek</word>
+                    <word>paaitijd</word>
+                    <word>pensums</word>
+                    <word>plengen</word>
+                    <word>poprock</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: paadjes,piechem,prutoog,pijnplek (6.38257993384785)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: paaitijd,pensums,plengen,poprock (6.384785005512679)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>1</index>
-                <index>564</index>
-                <index>576</index>
-                <index>592</index>
+                <index>3</index>
+                <index>57</index>
+                <index>558</index>
+                <index>774</index>
             </indices>
         </query>
         <query>
@@ -1896,10 +1846,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: raadden,reistas,roteert,rustige (4.0015625)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>5</index>
-                <index>174</index>
-                <index>508</index>
-                <index>521</index>
+                <index>9</index>
+                <index>51</index>
+                <index>342</index>
+                <index>347</index>
             </indices>
         </query>
         <query>
@@ -1921,10 +1871,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: raagden,ribstuk,rolvorm,rijzweep (6.3921875)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>5</index>
-                <index>174</index>
-                <index>508</index>
-                <index>521</index>
+                <index>9</index>
+                <index>51</index>
+                <index>342</index>
+                <index>347</index>
             </indices>
         </query>
         <query>
@@ -2010,9 +1960,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>0</index>
-                <index>258</index>
-                <index>294</index>
-                <index>1391</index>
+                <index>498</index>
+                <index>512</index>
+                <index>702</index>
             </indices>
         </query>
         <query>
@@ -2041,9 +1991,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>0</index>
-                <index>258</index>
-                <index>294</index>
-                <index>1391</index>
+                <index>498</index>
+                <index>512</index>
+                <index>702</index>
             </indices>
         </query>
         <query>
@@ -2116,22 +2066,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.131868131868132</bestscore>
+            <bestscore>4.167277167277168</bestscore>
             <bestsets>
                 <set>
                     <word>taakten</word>
-                    <word>tellers</word>
-                    <word>toemaat</word>
-                    <word>trielje</word>
+                    <word>tengere</word>
+                    <word>toelaat</word>
+                    <word>tritons</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: taakten,tellers,toemaat,trielje (4.131868131868132)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: taakten,tengere,toelaat,tritons (4.167277167277168)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>2</index>
-                <index>188</index>
-                <index>196</index>
-                <index>554</index>
+                <index>4</index>
+                <index>65</index>
+                <index>116</index>
+                <index>371</index>
             </indices>
         </query>
         <query>
@@ -2153,10 +2103,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: taakjes,thermen,topclub,tijdigst (6.329670329670329)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>2</index>
-                <index>188</index>
-                <index>196</index>
-                <index>554</index>
+                <index>4</index>
+                <index>65</index>
+                <index>116</index>
+                <index>371</index>
             </indices>
         </query>
         <query>
@@ -2221,62 +2171,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>u</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.8338983050847455</bestscore>
-            <bestsets>
-                <set>
-                    <word>uitdiep</word>
-                    <word>uitraas</word>
-                    <word>uniteit</word>
-                    <word>uroloog</word>
-                </set>
-                <set>
-                    <word>uitdiep</word>
-                    <word>uitzaad</word>
-                    <word>uniteit</word>
-                    <word>uroloog</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: uitdiep,uitraas,uniteit,uroloog || uitdiep,uitzaad,uniteit,uroloog (4.8338983050847455)</printvalue>
-            <allocation>10000000</allocation>
-            <indices>
-                <index>84</index>
-                <index>155</index>
-                <index>242</index>
-                <index>275</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>u</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>6.406779661016949</bestscore>
-            <bestsets>
-                <set>
-                    <word>uienbed</word>
-                    <word>uitkoop</word>
-                    <word>uitzift</word>
-                    <word>uurglas</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: uienbed,uitkoop,uitzift,uurglas (6.406779661016949)</printvalue>
-            <allocation>10000000</allocation>
-            <indices>
-                <index>72</index>
-                <index>133</index>
-                <index>212</index>
-                <index>226</index>
-            </indices>
         </query>
         <query>
             <startingletter>u</startingletter>
@@ -2373,9 +2267,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>1</index>
-                <index>2</index>
-                <index>48</index>
-                <index>709</index>
+                <index>372</index>
+                <index>495</index>
+                <index>541</index>
             </indices>
         </query>
         <query>
@@ -2404,9 +2298,9 @@
             <allocation>10000000</allocation>
             <indices>
                 <index>1</index>
-                <index>2</index>
-                <index>48</index>
-                <index>709</index>
+                <index>372</index>
+                <index>495</index>
+                <index>541</index>
             </indices>
         </query>
         <query>
@@ -2479,22 +2373,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.174129353233831</bestscore>
+            <bestscore>4.223880597014926</bestscore>
             <bestsets>
                 <set>
-                    <word>waagden</word>
-                    <word>wegkant</word>
+                    <word>waakten</word>
+                    <word>weglaat</word>
                     <word>wieders</word>
-                    <word>wijnstad</word>
+                    <word>wijnrood</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: waagden,wegkant,wieders,wijnstad (4.174129353233831)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: waakten,weglaat,wieders,wijnrood (4.223880597014926)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>5</index>
-                <index>304</index>
-                <index>390</index>
-                <index>580</index>
+                <index>10</index>
+                <index>49</index>
+                <index>89</index>
+                <index>237</index>
             </indices>
         </query>
         <query>
@@ -2516,10 +2410,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: waadpak,wegberm,witloof,wijnhuis (6.444444444444445)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>5</index>
-                <index>304</index>
-                <index>390</index>
-                <index>580</index>
+                <index>10</index>
+                <index>49</index>
+                <index>89</index>
+                <index>237</index>
             </indices>
         </query>
         <query>
@@ -2604,10 +2498,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: zaagdak,zenders,zoutten,zweelde (4.270377733598409)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>10</index>
-                <index>66</index>
-                <index>311</index>
-                <index>468</index>
+                <index>18</index>
+                <index>32</index>
+                <index>100</index>
+                <index>270</index>
             </indices>
         </query>
         <query>
@@ -2617,34 +2511,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6.449304174950298</bestscore>
+            <bestscore>6.475149105367794</bestscore>
             <bestsets>
                 <set>
-                    <word>zaadbol</word>
-                    <word>zeemvel</word>
-                    <word>zinkput</word>
-                    <word>zwijgers</word>
-                </set>
-                <set>
-                    <word>zaadlob</word>
-                    <word>zeemvel</word>
-                    <word>zinkput</word>
-                    <word>zwijgers</word>
-                </set>
-                <set>
-                    <word>zaagbok</word>
-                    <word>zevende</word>
-                    <word>zuipers</word>
-                    <word>zwijmelt</word>
+                    <word>zaagvijl</word>
+                    <word>zinkers</word>
+                    <word>zoutpot</word>
+                    <word>zweemde</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: zaadbol,zeemvel,zinkput,zwijgers || zaadlob,zeemvel,zinkput,zwijgers || zaagbok,zevende,zuipers,zwijmelt (6.449304174950298)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: zaagvijl,zinkers,zoutpot,zweemde (6.475149105367794)</printvalue>
             <allocation>10000000</allocation>
             <indices>
-                <index>10</index>
-                <index>66</index>
-                <index>311</index>
-                <index>468</index>
+                <index>18</index>
+                <index>32</index>
+                <index>100</index>
+                <index>270</index>
             </indices>
         </query>
         <query>
@@ -2753,22 +2635,22 @@
             <algorithm>G1</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>20480.151515151516</bestscore>
+            <bestscore>9244.59090909091</bestscore>
             <bestsets>
                 <set>
                     <word>ijdellijk</word>
                     <word>ijkingen</word>
-                    <word>ijkmaten</word>
-                    <word>ijscokar</word>
+                    <word>ijscoupe</word>
+                    <word>ijstaart</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 4 words: ijdellijk,ijkingen,ijkmaten,ijscokar (20480.151515151516)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 4 words: ijdellijk,ijkingen,ijscoupe,ijstaart (9244.59090909091)</printvalue>
             <allocation>100</allocation>
             <indices>
                 <index>0</index>
                 <index>1</index>
-                <index>3</index>
-                <index>41</index>
+                <index>36</index>
+                <index>56</index>
             </indices>
         </query>
         <query>
@@ -2790,5 +2672,6 @@
             <allocation>0</allocation>
         </query>
     </running>
-    <finished/>
+    <finished>
+    </finished>
 </results>

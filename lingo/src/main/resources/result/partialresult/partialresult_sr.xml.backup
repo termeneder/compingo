@@ -428,8 +428,8 @@
             <allocation>50000</allocation>
             <indices>
                 <index>3</index>
-                <index>406</index>
-                <index>613</index>
+                <index>471</index>
+                <index>1083</index>
             </indices>
         </query>
         <query>
@@ -451,8 +451,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>56</index>
-                <index>652</index>
+                <index>57</index>
+                <index>110</index>
             </indices>
         </query>
         <query>
@@ -474,8 +474,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>96</index>
-                <index>324</index>
+                <index>100</index>
+                <index>342</index>
             </indices>
         </query>
         <query>
@@ -497,8 +497,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>133</index>
-                <index>532</index>
+                <index>135</index>
+                <index>371</index>
             </indices>
         </query>
         <query>
@@ -520,8 +520,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>172</index>
-                <index>240</index>
+                <index>180</index>
+                <index>188</index>
             </indices>
         </query>
         <query>
@@ -543,8 +543,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>61</index>
-                <index>192</index>
+                <index>64</index>
+                <index>295</index>
             </indices>
         </query>
         <query>
@@ -566,8 +566,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>53</index>
-                <index>1076</index>
+                <index>54</index>
+                <index>527</index>
             </indices>
         </query>
         <query>
@@ -589,8 +589,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>167</index>
-                <index>409</index>
+                <index>170</index>
+                <index>206</index>
             </indices>
         </query>
         <query>
@@ -612,8 +612,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>304</index>
-                <index>404</index>
+                <index>313</index>
+                <index>414</index>
             </indices>
         </query>
         <query>
@@ -635,8 +635,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>75</index>
-                <index>675</index>
+                <index>76</index>
+                <index>627</index>
             </indices>
         </query>
         <query>
@@ -658,8 +658,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>160</index>
-                <index>548</index>
+                <index>163</index>
+                <index>273</index>
             </indices>
         </query>
         <query>
@@ -681,8 +681,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>120</index>
-                <index>320</index>
+                <index>121</index>
+                <index>702</index>
             </indices>
         </query>
         <query>
@@ -704,8 +704,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>61</index>
-                <index>347</index>
+                <index>65</index>
+                <index>193</index>
             </indices>
         </query>
         <query>
@@ -727,8 +727,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>85</index>
-                <index>496</index>
+                <index>86</index>
+                <index>592</index>
             </indices>
         </query>
         <query>
@@ -750,8 +750,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>94</index>
-                <index>208</index>
+                <index>95</index>
+                <index>397</index>
             </indices>
         </query>
         <query>
@@ -773,8 +773,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>141</index>
-                <index>552</index>
+                <index>143</index>
+                <index>559</index>
             </indices>
         </query>
         <query>
@@ -796,8 +796,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>54</index>
-                <index>1304</index>
+                <index>55</index>
+                <index>865</index>
             </indices>
         </query>
         <query>
@@ -819,8 +819,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>104</index>
-                <index>207</index>
+                <index>105</index>
+                <index>494</index>
             </indices>
         </query>
         <query>
@@ -842,8 +842,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>1</index>
-                <index>177</index>
-                <index>232</index>
+                <index>186</index>
+                <index>224</index>
             </indices>
         </query>
         <query>
@@ -865,8 +865,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>76</index>
-                <index>852</index>
+                <index>77</index>
+                <index>848</index>
             </indices>
         </query>
         <query>
@@ -888,8 +888,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>151</index>
-                <index>177</index>
+                <index>153</index>
+                <index>278</index>
             </indices>
         </query>
         <query>
@@ -911,8 +911,8 @@
             <allocation>1000</allocation>
             <indices>
                 <index>0</index>
-                <index>196</index>
-                <index>417</index>
+                <index>200</index>
+                <index>203</index>
             </indices>
         </query>
         <query>
@@ -932,8 +932,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: balkons,bereidt (258358.42625)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>114</index>
-                <index>270</index>
+                <index>120</index>
+                <index>1381</index>
             </indices>
         </query>
         <query>
@@ -953,8 +953,8 @@
             <printvalue>G1p) Minimise average possible words with positive info: daaruit,doelens (284014.62709497206)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>291</index>
-                <index>422</index>
+                <index>315</index>
+                <index>546</index>
             </indices>
         </query>
         <query>
@@ -974,8 +974,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: gastrol,geminde (163592.1951371571)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>107</index>
-                <index>258</index>
+                <index>113</index>
+                <index>1303</index>
             </indices>
         </query>
         <query>
@@ -1016,8 +1016,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kakelen,korstig (240795.86222222223)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>158</index>
-                <index>970</index>
+                <index>169</index>
+                <index>410</index>
             </indices>
         </query>
         <query>
@@ -1037,8 +1037,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: landrug,losliet (479630.20238095237)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>472</index>
-                <index>565</index>
+                <index>586</index>
+                <index>587</index>
             </indices>
         </query>
         <query>
@@ -1058,8 +1058,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: mandril,mestkoe (204583.3216216216)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>275</index>
-                <index>726</index>
+                <index>298</index>
+                <index>330</index>
             </indices>
         </query>
         <query>
