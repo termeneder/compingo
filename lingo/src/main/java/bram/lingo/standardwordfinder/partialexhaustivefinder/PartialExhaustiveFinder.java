@@ -54,7 +54,12 @@ public class PartialExhaustiveFinder {
 
 
 	public boolean hasRunning() {
-		return c_results.running.size() > 0;
+		for (RunningQuery running : c_results.running) {
+			if (running.allocation > 0) {
+				return true;
+			}
+		}
+		return false;
 	}
 	
 	
