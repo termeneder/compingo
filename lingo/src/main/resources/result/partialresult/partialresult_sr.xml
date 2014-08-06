@@ -930,10 +930,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: balkons,bereidt (258358.42625)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>128</index>
-                <index>1585</index>
+                <index>136</index>
+                <index>853</index>
             </indices>
         </query>
         <query>
@@ -951,10 +951,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info: daaruit,doelens (284014.62709497206)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>344</index>
-                <index>381</index>
+                <index>375</index>
+                <index>376</index>
             </indices>
         </query>
         <query>
@@ -972,10 +972,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: gastrol,geminde (163592.1951371571)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>121</index>
-                <index>419</index>
+                <index>128</index>
+                <index>1073</index>
             </indices>
         </query>
         <query>
@@ -993,7 +993,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: halster,houkind (246222.1541155867)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>569</index>
                 <index>570</index>
@@ -1014,10 +1014,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kakelen,korstig (240795.86222222223)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>179</index>
-                <index>915</index>
+                <index>192</index>
+                <index>721</index>
             </indices>
         </query>
         <query>
@@ -1035,7 +1035,7 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: landrug,losliet (479630.20238095237)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>586</index>
                 <index>587</index>
@@ -1056,10 +1056,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: mandril,mestkoe (204583.3216216216)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>321</index>
-                <index>463</index>
+                <index>351</index>
+                <index>388</index>
             </indices>
         </query>
         <query>
@@ -1077,10 +1077,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: omdroeg,ontslip (295630.1866801211)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>184</index>
-                <index>861</index>
+                <index>199</index>
+                <index>891</index>
             </indices>
         </query>
         <query>
@@ -1098,10 +1098,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: paneert,polsdik (180155.00661521498)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>192</index>
-                <index>577</index>
+                <index>209</index>
+                <index>592</index>
             </indices>
         </query>
         <query>
@@ -1119,10 +1119,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: ransuil,rokeert (421706.771875)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>328</index>
-                <index>365</index>
+                <index>369</index>
+                <index>475</index>
             </indices>
         </query>
         <query>
@@ -1140,10 +1140,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: scalair,stoepen (430212.4107023411)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>108</index>
-                <index>535</index>
+                <index>116</index>
+                <index>1483</index>
             </indices>
         </query>
         <query>
@@ -1161,10 +1161,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: takelde,tritons (256942.86935286934)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>220</index>
-                <index>351</index>
+                <index>240</index>
+                <index>601</index>
             </indices>
         </query>
         <query>
@@ -1182,10 +1182,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: vastlig,verkond (206041.86691312384)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>154</index>
-                <index>462</index>
+                <index>167</index>
+                <index>502</index>
             </indices>
         </query>
         <query>
@@ -1203,10 +1203,10 @@
                 </set>
             </bestsets>
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: werkbon,witglas (269271.34494195686)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>372</index>
-                <index>435</index>
+                <index>432</index>
+                <index>465</index>
             </indices>
         </query>
         <query>
@@ -1239,18 +1239,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>71294.915625</bestscore>
+            <bestscore>70774.784375</bestscore>
             <bestsets>
                 <set>
-                    <word>badmuts</word>
-                    <word>beloner</word>
+                    <word>badzout</word>
+                    <word>blinker</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: badmuts,beloner (71294.915625)</printvalue>
-            <allocation>1000</allocation>
+            <printvalue>E1p) Minimise average possible words, 2 words: badzout,blinker (70774.784375)</printvalue>
+            <allocation>10000</allocation>
             <indices>
-                <index>52</index>
-                <index>431</index>
+                <index>60</index>
+                <index>91</index>
             </indices>
         </query>
         <query>
@@ -1314,10 +1314,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: daktuin,dorpels (52811.01815642458)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>125</index>
-                <index>701</index>
+                <index>146</index>
+                <index>542</index>
             </indices>
         </query>
         <query>
@@ -1404,10 +1404,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: gardist,geloken (29389.21571072319)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>52</index>
-                <index>223</index>
+                <index>59</index>
+                <index>1394</index>
             </indices>
         </query>
         <query>
@@ -1448,10 +1448,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: halster,houkind (33424.69001751314)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>169</index>
-                <index>236</index>
+                <index>200</index>
+                <index>301</index>
             </indices>
         </query>
         <query>
@@ -1492,10 +1492,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: imperia,inslokt (20016.064285714285)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>311</index>
-                <index>408</index>
+                <index>418</index>
+                <index>419</index>
             </indices>
         </query>
         <query>
@@ -1536,10 +1536,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: kakster,koeling (44899.03466666667)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>75</index>
-                <index>751</index>
+                <index>87</index>
+                <index>241</index>
             </indices>
         </query>
         <query>
@@ -1580,10 +1580,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: landrug,losliet (60689.72619047619)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>162</index>
-                <index>310</index>
+                <index>191</index>
+                <index>420</index>
             </indices>
         </query>
         <query>
@@ -1624,10 +1624,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: mandoer,mislukt (33901.09459459459)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>121</index>
-                <index>163</index>
+                <index>140</index>
+                <index>611</index>
             </indices>
         </query>
         <query>
@@ -1683,18 +1683,18 @@
             <algorithm>E1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>58462.44096871847</bestscore>
+            <bestscore>41041.4106962664</bestscore>
             <bestsets>
                 <set>
-                    <word>oculair</word>
-                    <word>optomen</word>
+                    <word>omdolen</word>
+                    <word>opkrast</word>
                 </set>
             </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: oculair,optomen (58462.44096871847)</printvalue>
-            <allocation>1000</allocation>
+            <printvalue>E1p) Minimise average possible words, 2 words: omdolen,opkrast (41041.4106962664)</printvalue>
+            <allocation>10000</allocation>
             <indices>
-                <index>86</index>
-                <index>802</index>
+                <index>100</index>
+                <index>251</index>
             </indices>
         </query>
         <query>
@@ -1735,10 +1735,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: papkind,polster (32483.909592061744)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>95</index>
-                <index>691</index>
+                <index>109</index>
+                <index>442</index>
             </indices>
         </query>
         <query>
@@ -1779,10 +1779,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: ratings,roldeur (71292.371875)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>144</index>
-                <index>625</index>
+                <index>167</index>
+                <index>516</index>
             </indices>
         </query>
         <query>
@@ -1823,10 +1823,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: sardien,subplot (74696.48896321071)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>56</index>
-                <index>133</index>
+                <index>63</index>
+                <index>95</index>
             </indices>
         </query>
         <query>
@@ -1867,10 +1867,10 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: tagrijns,toeliet (49955.67032967033)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
-                <index>107</index>
-                <index>453</index>
+                <index>121</index>
+                <index>604</index>
             </indices>
         </query>
         <query>
@@ -1934,7 +1934,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: valigst,verkond (30294.107208872458)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>78</index>
                 <index>964</index>
@@ -1978,7 +1978,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: walstro,wegknip (43965.953565505806)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>156</index>
                 <index>535</index>
@@ -2022,7 +2022,7 @@
                 </set>
             </bestsets>
             <printvalue>E1p) Minimise average possible words, 2 words: zandrug,zeoliet (77224.66799204772)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>173</index>
                 <index>406</index>
@@ -2082,7 +2082,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: aalkorf,afsteeg || aalkorf,agentes || aandikt,asleger || aanglom,afperkt || aanglom,afreikt (9.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>59</index>
                 <index>1012</index>
@@ -2126,7 +2126,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: aalmoes,afprikt (1.3976744186046512)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>59</index>
                 <index>1012</index>
@@ -2282,7 +2282,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: aalkorf,amicten || aalkorf,aucties || aalkorf,autisme || aalmoes,afkruit || aalmoes,afprikt || aalmoes,africht || aalmoes,afwrikt || aalvork,afdient || aanbikt,afrolde || aanboek,afruilt || aanbrei,afklopt || aanbrei,afsmolt || aanbrug,afloste || aanbrul,afdopte || aandiep,afkorst || aandruk,acoliet || aandruk,afloste || aandrijf,acoliet || aanfokt,armelui || aangier,afblokt || aangier,afhoudt || aangier,afklopt || aangier,afkomst || aanglom,afbreit || aanglom,afreikt || aangolf,abrupte || aangolf,acteurs || aangolf,autisme || aangolf,averuit (1314721.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>59</index>
                 <index>1012</index>
@@ -2400,7 +2400,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: aalkorf,amicten || aanbrei,afsmolt || aanbrug,afloste || aanbrul,afdopte || aandoen,afruilt || aandruk,afloste || aandrijf,acoliet || aanduid,afloert || aanfokt,armelui || aangier,afhoudt || aangier,afstook || aangolf,acteurs || aangolf,actrice || aangolf,auteurs || aangolf,averuit || aangoot,afruide || aangoot,afsleur (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>59</index>
                 <index>1012</index>
@@ -2514,7 +2514,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: baadden,beloert (16.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -2558,7 +2558,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: baadden,beloert (1.7222820236813778)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -2602,7 +2602,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: baadden,balorig (1.0557558E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -2745,7 +2745,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: baadden,baktrog || baadden,balorig || baadden,bariton || baadden,barokst || baadden,bastion || baadden,bedstro || baadden,behoort || baadden,behoudt || baadden,behouwt || baadden,beklopt || baadden,beknort || baadden,bekoelt || baadden,bekoort || baadden,bekorte || baadden,belster || baadden,bemoeit || baadden,bemorst || baadden,beoliet || baadden,berookt || baadden,besloeg || baadden,besloot || baadden,bestorm (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -3136,7 +3136,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: cabaret,camions || cabaret,columns || cabaret,condens || cabaret,conisch || cabaret,coupons || cabines,coltrui || cabines,compact || cabines,concert || cabines,contour || cabines,corrupt || cabines,coulant || cabines,courant || cabines,couture || cabines,couvert (3.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>16</index>
@@ -3190,7 +3190,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: cabines,corrupt (1.0849056603773586)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>16</index>
@@ -3260,7 +3260,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: cabaret,columns || cabines,coltrui || cabines,comfort || cabines,country || cabines,crochet (1679856.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>16</index>
@@ -3316,7 +3316,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: cabaret,columns || cabines,colbert || cabines,coltrui || cabines,country (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>16</index>
@@ -3419,7 +3419,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: daagden,drieste || daagden,drogist (7.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -3463,7 +3463,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: daagden,doseert (1.335820895522388)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -3511,7 +3511,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: daagden,dolhuis || daagden,drijftil (5940496.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -3719,7 +3719,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: daagden,daklijst || daagden,decurio || daagden,deklast || daagden,dekstro || daagden,desktop || daagden,devotie || daagden,dibboek || daagden,dikoren || daagden,dikwerf || daagden,dimorfe || daagden,diorama || daagden,dioriet || daagden,dobbers || daagden,doerian || daagden,dokters || daagden,dolhuis || daagden,dooiers || daagden,doorlig || daagden,doornig || daagden,doorrit || daagden,doorzie || daagden,doorzit || daagden,dorheid || daagden,dorstig || daagden,dossier || daagden,douarie || daagden,doublet || daagden,douwtje || daagden,dreutel || daagden,drietal || daagden,droevig || daagden,droezig || daagden,droging || daagden,drogist || daagden,drollig || daagden,druifje || daagden,drijftil || daagden,duikelt || daagden,duintop || daagden,dukaton || daagden,duwboot || daagden,duwfout (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -4081,7 +4081,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: ebenist,eerloze || ebenist,etaleer || eboniet,erlangs (3.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>88</index>
@@ -4125,7 +4125,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: eboniet,edelgas (1.1444444444444444)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>88</index>
@@ -4256,7 +4256,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: fabelde,fietser || fabelde,flinkst || fabelde,flitser || fabelde,fortuin || fabelde,frisket (3.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>340</index>
@@ -4435,7 +4435,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: faalden,fietser (1.1379310344827587)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>340</index>
@@ -4479,7 +4479,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: faalden,frisket (3857302.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>340</index>
@@ -4528,7 +4528,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: faalden,frisket (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>340</index>
@@ -4577,7 +4577,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: gaaitje,geloerd (20.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -4621,7 +4621,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: gaaitje,gelensd (2.2002743484224965)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -4669,7 +4669,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: gaaitje,gegrold || gaaitje,geldsom (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -5418,7 +5418,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: gaaitje,galarok || gaaitje,galjoen || gaaitje,galjoot || gaaitje,gallons || gaaitje,galnoot || gaaitje,galoche || gaaitje,gameboy || gaaitje,gasblok || gaaitje,gasboei || gaaitje,gasboer || gaaitje,gasbron || gaaitje,gasdood || gaaitje,gasloeg || gaaitje,gasolie || gaaitje,gasoven || gaaitje,gaspomp || gaaitje,gaspook || gaaitje,gastrol || gaaitje,gasvorm || gaaitje,gaswolk || gaaitje,gavotte || gaaitje,gebloed || gaaitje,geblokt || gaaitje,geblust || gaaitje,geboden || gaaitje,geboeid || gaaitje,geboekt || gaaitje,geboend || gaaitje,geboerd || gaaitje,gebogen || gaaitje,gebokst || gaaitje,gebolde || gaaitje,gebomde || gaaitje,gebonkt || gaaitje,gebonsd || gaaitje,geboogd || gaaitje,geboomd || gaaitje,geboord || gaaitje,geboren || gaaitje,geborgd || gaaitje,gebotst || gaaitje,gebouwd || gaaitje,gebowld || gaaitje,gebroed || gaaitje,gebrokt || gaaitje,gebromd || gaaitje,gedocht || gaaitje,gedoden || gaaitje,gedoeld || gaaitje,gedoemd || gaaitje,gedogen || gaaitje,gedoken || gaaitje,gedokte || gaaitje,gedolde || gaaitje,gedoofd || gaaitje,gedoogd || gaaitje,gedoogt || gaaitje,gedooid || gaaitje,gedoold || gaaitje,gedoomd || gaaitje,gedoopt || gaaitje,gedopte || gaaitje,gedorst || gaaitje,gedoste || gaaitje,gedouwd || gaaitje,gedroeg || gaaitje,gedromd || gaaitje,gedropt || gaaitje,gedrost || gaaitje,geflopt || gaaitje,geflost || gaaitje,gefokte || gaaitje,gefopte || gaaitje,gefrons || gaaitje,gegoede || gaaitje,gegolfd || gaaitje,gegomde || gaaitje,gegonsd || gaaitje,gegooid || gaaitje,gegoten || gaaitje,gegroet || gaaitje,gegrold || gaaitje,gegromd || gaaitje,gegrond || gaaitje,gehoefd || gaaitje,gehoekt || gaaitje,gehoerd || gaaitje,gehoest || gaaitje,gehokte || gaaitje,geholde || gaaitje,gehonkt || gaaitje,gehoofd || gaaitje,gehoogd || gaaitje,gehooid || gaaitje,gehoond || gaaitje,gehoopt || gaaitje,gehoord || gaaitje,gehoosd || gaaitje,gehorig || gaaitje,gehoste || gaaitje,gehotst || gaaitje,geiblok || gaaitje,geitouw || gaaitje,gejodel || gaaitje,gejoeld || gaaitje,gejongd || gaaitje,gejoold || gaaitje,gejouwd || gaaitje,geklemd || gaaitje,gekloet || gaaitje,gekloft || gaaitje,geklokt || gaaitje,geklooi || gaaitje,gekloot || gaaitje,geklopt || gaaitje,geklost || gaaitje,geklots || gaaitje,geknoei || gaaitje,geknokt || gaaitje,geknopt || gaaitje,geknord || gaaitje,gekocht || gaaitje,gekoekt || gaaitje,gekoeld || gaaitje,gekoerd || gaaitje,gekolfd || gaaitje,gekolkt || gaaitje,gekomen || gaaitje,gekooid || gaaitje,gekookt || gaaitje,gekoosd || gaaitje,gekopte || gaaitje,gekorfd || gaaitje,gekorst || gaaitje,gekorte || gaaitje,gekotst || gaaitje,gekozen || gaaitje,gekromd || gaaitje,gekropt || gaaitje,geldgod || gaaitje,geldpot || gaaitje,geldsom || gaaitje,gelobby || gaaitje,gelobde || gaaitje,geloefd || gaaitje,geloeid || gaaitje,geloerd || gaaitje,gelofte || gaaitje,gelogen || gaaitje,geloken || gaaitje,gelokte || gaaitje,gelonkt || gaaitje,geloofd || gaaitje,gelooft || gaaitje,geloogd || gaaitje,gelooid || gaaitje,geloond || gaaitje,geloosd || gaaitje,gelopen || gaaitje,geloste || gaaitje,geloven || gaaitje,gelovig || gaaitje,gelijmde || gaaitje,gemarld || gaaitje,gemocht || gaaitje,gemoede || gaaitje,gemoeid || gaaitje,gemoerd || gaaitje,gemogen || gaaitje,gemolmd || gaaitje,gemonde || gaaitje,gemoogd || gaaitje,gemoord || gaaitje,gemorst || gaaitje,gemotst || gaaitje,gemsbok (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -5471,7 +5471,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: haagbos,hielden || haagbos,hindert (4.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>132</index>
@@ -5740,7 +5740,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: haagbos,hurkten (1.2359307359307359)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>132</index>
@@ -5828,7 +5828,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: haagbos,heilrijk || haagbos,hervind || haagbos,herwint || haagbos,hindert || haagbos,hinkelt || haagbos,huidcel || haagbos,huifden || haagbos,huilden || haagbos,huivert || haagbos,hunkert || haagbos,hunzelf || haagbos,hurkten (5940496.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>132</index>
@@ -6404,7 +6404,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: haagbos,haaiden || haagbos,haakten || haagbos,haaltje || haagbos,haantje || haagbos,haasten || haagbos,haatten || haagbos,habijten || haagbos,hakkelt || haagbos,halfdek || haagbos,halfvet || haagbos,halster || haagbos,halters || haagbos,handelt || haagbos,handige || haagbos,handset || haagbos,haniger || haagbos,hannest || haagbos,hanteer || haagbos,harksel || haagbos,harkten || haagbos,harpten || haagbos,harsten || haagbos,hartens || haagbos,haspelt || haagbos,hatelijk || haagbos,hauwtje || haagbos,havenot || haagbos,hearing || haagbos,hechten || haagbos,hedging || haagbos,heeften || haagbos,heenrit || haagbos,heerlijk || haagbos,heftang || haagbos,heidens || haagbos,heikant || haagbos,heiland || haagbos,heilbot || haagbos,heiligt || haagbos,heilrijk || haagbos,heiveld || haagbos,hekelde || haagbos,heksten || haagbos,helften || haagbos,helidek || haagbos,heloten || haagbos,hemelst || haagbos,hengelt || haagbos,herenig || haagbos,herkent || haagbos,herleid || haagbos,herpakt || haagbos,herriep || haagbos,herrijst || haagbos,herstel || haagbos,hervalt || haagbos,herviel || haagbos,hervind || haagbos,herwint || haagbos,herzien || haagbos,herijkte || haagbos,hetgeen || haagbos,hetwelk || haagbos,heuglijk || haagbos,heulden || haagbos,heultje || haagbos,heupkom || haagbos,heuptas || haagbos,hielden || haagbos,hieltje || haagbos,hieraan || haagbos,hieruit || haagbos,hiervan || haagbos,hieuwde || haagbos,hieuwen || haagbos,hindert || haagbos,hindoes || haagbos,hinkelt || haagbos,hinkten || haagbos,hintjes || haagbos,hippelt || haagbos,hobbelt || haagbos,hoeklijn || haagbos,hoekten || haagbos,hoentje || haagbos,hoepelt || haagbos,hoepnet || haagbos,hoesten || haagbos,hogelijk || haagbos,holheid || haagbos,holster || haagbos,holvoet || haagbos,homerun || haagbos,hompelt || haagbos,hongert || haagbos,honkten || haagbos,hoogten || haagbos,hooiden || haagbos,hoopten || haagbos,hopelijk || haagbos,horigen || haagbos,horsten || haagbos,hortten || haagbos,hostiel || haagbos,hotline || haagbos,hotsten || haagbos,houtcel || haagbos,houtige || haagbos,houtjes || haagbos,houwtje || haagbos,huichel || haagbos,huidcel || haagbos,huidige || haagbos,huifden || haagbos,huilden || haagbos,huisbel || haagbos,huiself || haagbos,huisjes || haagbos,huistoe || haagbos,huivert || haagbos,hulsten || haagbos,humaner || haagbos,hunkert || haagbos,hunnent || haagbos,hunzelf || haagbos,huppelt || haagbos,hurkten || haagbos,hussiet || haagbos,hutselt || haagbos,huurwet || haagbos,huwelijk || haagbos,hijgerig || haagbos,hijslier || haagden,hakhout (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>132</index>
@@ -6453,7 +6453,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: idealen,inkromp (8.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>283</index>
@@ -6507,7 +6507,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: idealen,inprikt (1.3548387096774193)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>283</index>
@@ -6571,7 +6571,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: ibissen,inklopt || ibissen,inktgom || ibissen,inktmop || ibissen,inktrol || idealen,inborst || idealen,inkomst (2116261.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>283</index>
@@ -6615,7 +6615,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: idealen,inkomst (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>283</index>
@@ -6664,7 +6664,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: kaaiden,kletser (9.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -6708,7 +6708,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: kaaiden,kletser (1.404494382022472)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -6756,7 +6756,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: kaaiden,koerste || kaaiden,koester (4822742.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -6809,7 +6809,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: kaaiden,koerste || kaaiden,koester (1.4348907E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -6862,7 +6862,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: laadbak,leagues || laadbak,leniger (7.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>115</index>
@@ -6936,7 +6936,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: laadbak,lengtes (1.3642691415313226)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>115</index>
@@ -6988,7 +6988,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: laadbak,lensput || laadbak,losliet || laadbak,lupines (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>115</index>
@@ -7072,7 +7072,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: laadbak,lensput || laadbak,litotes || laadbak,loenste || laadbak,looiers || laadbak,looneis || laadbak,lorries || laadbak,losheid || laadbak,losliep || laadbak,losliet || laadbak,lupines || laadden,langsom (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>115</index>
@@ -7136,7 +7136,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: maagden,mesterij || maagden,metsers || maagden,mieters || maagden,mietert || maagden,miezert || maagden,mortels (5.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -7180,7 +7180,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: maagden,mortels (1.2171052631578947)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -7232,7 +7232,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: maagden,miskomt || maagden,misvorm || maagden,mopmuts (5940496.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -7804,7 +7804,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: maagden,maaiers || maagden,maartse || maagden,maestro || maagden,magerst || maagden,mahonie || maagden,mailbom || maagden,mailbox || maagden,maillot || maagden,majoors || maagden,makrons || maagden,mansoor || maagden,markies || maagden,marrons || maagden,marters || maagden,marxist || maagden,maskert || maagden,mastino || maagden,matroos || maagden,meester || maagden,mefisto || maagden,meibock || maagden,meiboom || maagden,meikers || maagden,meiknol || maagden,meilers || maagden,melodie || maagden,memorie || maagden,menhirs || maagden,mentors || maagden,merinos || maagden,merites || maagden,merries || maagden,mesterij || maagden,mestkar || maagden,mesttor || maagden,metrums || maagden,metsers || maagden,microbe || maagden,microns || maagden,midrasj || maagden,midvoor || maagden,mierser || maagden,mieters || maagden,miljoen || maagden,mineurs || maagden,minirok || maagden,minitop || maagden,mioceen || maagden,misbaar || maagden,misboek || maagden,misdoen || maagden,misdruk || maagden,misdrijf || maagden,miserie || maagden,misgold || maagden,misgrijp || maagden,miskomt || maagden,miskoop || maagden,miskwam || maagden,misloop || maagden,misnoeg || maagden,misogyn || maagden,mispeer || maagden,misprijs || maagden,misraad || maagden,misried || maagden,missers || maagden,mistral || maagden,mistred || maagden,misvorm || maagden,mobbing || maagden,mobiele || maagden,moderns || maagden,modieus || maagden,modisch || maagden,modiste || maagden,moeders || maagden,moedige || maagden,moedigs || maagden,moedigt || maagden,moedwil || maagden,moeheid || maagden,moeiden || maagden,moeilijk || maagden,moeiten || maagden,moerbei || maagden,moerbes || maagden,moerige || maagden,moervos || maagden,mokkige || maagden,mollige || maagden,mombers || maagden,mondain || maagden,mondige || maagden,monding || maagden,monisme || maagden,monitor || maagden,monodie || maagden,monster || maagden,monstra || maagden,mooiere || maagden,mooiers || maagden,mooizat || maagden,mooizit || maagden,mopmuts || maagden,moppige || maagden,morbide || maagden,morenes || maagden,moreske || maagden,morfine || maagden,morgens || maagden,moriaan || maagden,morille || maagden,mormels || maagden,morserij || maagden,morsige || maagden,morspot || maagden,morsten || maagden,mortels || maagden,mortier || maagden,morzels || maagden,moslima || maagden,moslims || maagden,mosroos || maagden,mossige || maagden,mosterd || maagden,motoras || maagden,mottige || maagden,mouters || maagden,muisarm || maagden,muiters || maagden,munster || maagden,munters (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -7912,7 +7912,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: naaiden,neerlag || naaiden,neerleg || naaiden,neerlig || naaiden,neertel || naaiden,neervlij || naaiden,neuzelt || naaiden,nijverst || naailes,nawerkt || naailes,nederig || naailes,neerzag || naailes,neerzak || naailes,neerzat || naailes,neerzet || naailes,neerzit || naailes,negeert || naailes,negerde || naailes,netwerk (5.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>350</index>
@@ -7964,7 +7964,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: naailes,negeert || naailes,netwerk || naailes,neutron (1.1611842105263157)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>350</index>
@@ -8008,7 +8008,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: naailes,normtijd (1679856.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>350</index>
@@ -8116,7 +8116,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: naaiden,nadorst || naaiden,navorst || naaiden,neostijl || naaiden,nestors || naaiden,neuroot || naaiden,neutron || naaiden,noesten || naaiden,noester || naaiden,notaris || naailes,nadorst || naailes,neetoor || naailes,neurons || naailes,neutron || naailes,noester || naailes,normtijd || naailes,noteert || naailes,noteren (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>350</index>
@@ -8175,7 +8175,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: oasetje,omrolde (10.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -8229,7 +8229,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: oasetje,opdrink (1.4552129221732746)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -8273,7 +8273,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: oasetje,opdring (5940496.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -8554,7 +8554,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: oasetje,octrooi || oasetje,oerbron || oasetje,oervonk || oasetje,oliedom || oasetje,olijkerd || oasetje,omboord || oasetje,omdopen || oasetje,omgooit || oasetje,omklonk || oasetje,omkomen || oasetje,omkopen || oasetje,omlopen || oasetje,omplooi || oasetje,ompolen || oasetje,omringd || oasetje,omrolde || oasetje,omwierp || oasetje,omwring || oasetje,omwrong || oasetje,onderom || oasetje,onderop || oasetje,onnodig || oasetje,onrooms || oasetje,onshore || oasetje,onspoed || oasetje,ontdooi || oasetje,ontdook || oasetje,onthoud || oasetje,ontkomt || oasetje,ontroer || oasetje,ontrold || oasetje,ontrolt || oasetje,ontroof || oasetje,ontroom || oasetje,ontrouw || oasetje,onttrok || oasetje,ontvoer || oasetje,ontvouw || oasetje,oogdruk || oasetje,oogmerk || oasetje,oogpunt || oasetje,oogrand || oasetje,oogring || oasetje,oorclip || oasetje,oordeel || oasetje,oorknop || oasetje,oorloog || oasetje,oorring || oasetje,oorzaak || oasetje,opbomen || oasetje,opboren || oasetje,opdoken || oasetje,opdring || oasetje,opdrong || oasetje,opdronk || oasetje,opgroei || oasetje,ophoren || oasetje,opkomen || oasetje,oplader (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -8623,7 +8623,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: paadjes,ploeter (7.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -8677,7 +8677,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: paadjes,pleiter (1.4105754276827371)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -8725,7 +8725,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: paadjes,pointer || paadjes,poulain (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -9105,7 +9105,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: paadjes,paalrot || paadjes,paktouw || paadjes,paletot || paadjes,palmpit || paadjes,palmtop || paadjes,parolen || paadjes,patriot || paadjes,peloton || paadjes,penurie || paadjes,pesthol || paadjes,pianola || paadjes,pierrot || paadjes,piespot || paadjes,pikolet || paadjes,piloten || paadjes,pimpelt || paadjes,pinkoog || paadjes,pionier || paadjes,piskous || paadjes,pistool || paadjes,pitloos || paadjes,pitstop || paadjes,plafond || paadjes,plafons || paadjes,planton || paadjes,platkop || paadjes,pletrol || paadjes,ploegen || paadjes,ploeter || paadjes,ploffen || paadjes,ploften || paadjes,plokken || paadjes,plompen || paadjes,plompte || paadjes,plonsde || paadjes,plonsen || paadjes,plonzen || paadjes,plooien || paadjes,plootte || paadjes,plotlijn || paadjes,plotten || paadjes,plotter || paadjes,plukrijp || paadjes,podiums || paadjes,poedelt || paadjes,poeiert || paadjes,poeljen || paadjes,poeltje || paadjes,poenaal || paadjes,poenale || paadjes,poepgat || paadjes,pointer || paadjes,pokhout || paadjes,polenta || paadjes,poliert || paadjes,politie || paadjes,polstas || paadjes,polsten || paadjes,polster || paadjes,pompeus || paadjes,pompput || paadjes,pooling || paadjes,popelen || paadjes,popquiz || paadjes,poreust || paadjes,poreuze || paadjes,porring || paadjes,portaal || paadjes,portelt || paadjes,portiek || paadjes,portier || paadjes,porties || paadjes,portuur || paadjes,poseurs || paadjes,postaal || paadjes,postale || paadjes,postuur || paadjes,potgeld || paadjes,pothelm || paadjes,pothuis || paadjes,potiger || paadjes,potlood || paadjes,potspel || paadjes,potstal || paadjes,poulain (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -9164,7 +9164,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: raadden,rostrum (6.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>63</index>
@@ -9213,7 +9213,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: raadden,rostrum (1.3733905579399142)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>63</index>
@@ -9277,7 +9277,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: raadden,ribstof || raadden,rostrum || raadden,rozigst || raadden,rijshout || raadden,rijsport || raadden,rijstkom (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>63</index>
@@ -9710,7 +9710,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: raadden,ragouts || raadden,rapport || raadden,raptrio || raadden,ravotte || raadden,reactor || raadden,rectors || raadden,redoute || raadden,reebout || raadden,rekstok || raadden,remstof || raadden,ressort || raadden,retinol || raadden,retoren || raadden,retours || raadden,revisor || raadden,revolte || raadden,ribhout || raadden,ribstof || raadden,ricotta || raadden,ringrot || raadden,riotgun || raadden,riposte || raadden,risotto || raadden,robbert || raadden,robuust || raadden,roeiers || raadden,roepies || raadden,roerige || raadden,roering || raadden,roertje || raadden,roesten || raadden,roestig || raadden,roestte || raadden,roetige || raadden,roetjes || raadden,rokeert || raadden,rokerig || raadden,rokvest || raadden,rolluik || raadden,rolstok || raadden,roltrap || raadden,rolvast || raadden,romiger || raadden,rondrit || raadden,rondtes || raadden,ronduit || raadden,rondzit || raadden,ronselt || raadden,roofmijt || raadden,rooftas || raadden,rooiers || raadden,rooilat || raadden,rooirok || raadden,rooitijd || raadden,roomwit || raadden,roosten || raadden,rooster || raadden,roostte || raadden,rootput || raadden,roskamt || raadden,rostrum || raadden,rotatie || raadden,rotator || raadden,rotding || raadden,roteert || raadden,roteren || raadden,rotgans || raadden,rotheid || raadden,rotoren || raadden,rotshol || raadden,rotsige || raadden,rotspad || raadden,rotswol || raadden,rottige || raadden,rotting || raadden,rotweer || raadden,rotzooi || raadden,rotzorg || raadden,routier || raadden,routine || raadden,routing || raadden,rouwige || raadden,rouwmis || raadden,rouwtijd || raadden,royeert || raadden,roziger || raadden,rozigst || raadden,rugkorf || raadden,ruilbod || raadden,rumoert || raadden,rijgenot || raadden,rijnboot || raadden,rijshout || raadden,rijsport || raadden,rijstkom || raadden,rijstoel || raadden,rijtocht (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>63</index>
@@ -10359,7 +10359,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: saalien,scepter (16.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10403,7 +10403,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: saalien,scrotum (1.6285403050108933)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10463,7 +10463,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: saalien,schrobt || saalien,schrokt || saalien,schurft || saalien,schurkt || saalien,scrotum (5940496.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10751,7 +10751,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: saalien,saguaro || saalien,saphout || saalien,sarcast || saalien,sarongs || saalien,scepter || saalien,schaart || saalien,schampt || saalien,schater || saalien,scheept || saalien,scheert || saalien,schepte || saalien,schermt || saalien,scherpt || saalien,scherts || saalien,scheurt || saalien,schimpt || saalien,schobde || saalien,schoort || saalien,schopte || saalien,schorst || saalien,schrabt || saalien,schramt || saalien,schrapt || saalien,schreit || saalien,schrift || saalien,schrikt || saalien,schrobt || saalien,schrokt || saalien,schroot || saalien,schrijdt || saalien,schrijft || saalien,schrijnt || saalien,schulpt || saalien,schurft || saalien,schurkt || saalien,schuurt || saalien,schijter || saalien,scoorde || saalien,scooter || saalien,scoring || saalien,scripts || saalien,scrotum || saalien,secreet || saalien,sectors || saalien,senator || saalien,septimo || saalien,serviet || saalien,shelter || saalien,shutter || saalien,skistok || saalien,sloomst || saalien,sloopte || saalien,slorpte || saalien,slotbel || saalien,slotrit || saalien,slotsom || saalien,slijptol || saalien,smetvrij || saalien,smotsen || saalien,smotsig || saalien,smotste || saalien,smouste (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10804,7 +10804,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: taaierd,treknet || taaierd,treksel (7.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10848,7 +10848,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: taaierd,toetsen (1.2938388625592416)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10909,7 +10909,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: taaierd,tongkus || taaierd,topclub || taaierd,toplijst || taaierd,topstuk (5940496.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -10953,7 +10953,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: taaierd,tolueen (1.4348907E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -11052,7 +11052,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: ufologe,uraniet (10.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>116</index>
@@ -11096,7 +11096,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: uienbed,uurglas (1.6573033707865168)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>116</index>
@@ -11176,7 +11176,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: ufologe,uitknijp || ufologe,uitkras || ufologe,uitspuw || uiensap,uitbouw || uiensap,uitbrom || uiensap,uitbrul || uiensap,uithoud || uiensap,uithouw || uiensap,uitjouw || uiensap,uitkorf (1679856.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>116</index>
@@ -11268,7 +11268,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: ufologe,uitknijp || ufologe,uitkras || ufologe,uitpers || ufologe,uitrust || ufologe,uitspuw || uienbed,uitbrul || uienbed,uitruil || uiensap,uitbrul || uiensap,uitklop || uiensap,uitkook || uiensap,uitkoop || uiensap,uitkoos || uiensap,uitkorf (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>2</index>
                 <index>116</index>
@@ -11312,7 +11312,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: vaagden,violist (13.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -11356,7 +11356,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: vaagden,verkilt (1.5613275613275612)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -11428,7 +11428,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: vaagden,verblik || vaagden,verfilm || vaagden,verkilt || vaagden,verslik || vaagden,verslof || vaagden,verslijt || vaagden,verspil || vaagden,verstok (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -11817,7 +11817,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: vaagden,valeurs || vaagden,valiger || vaagden,valslot || vaagden,vanouds || vaagden,veeauto || vaagden,veerlui || vaagden,veldrat || vaagden,veldrit || vaagden,velours || vaagden,verblik || vaagden,vereelt || vaagden,verfilm || vaagden,vergalt || vaagden,verglim || vaagden,verhout || vaagden,verhult || vaagden,verkild || vaagden,verkilt || vaagden,verklik || vaagden,verknol || vaagden,verkoel || vaagden,verkool || vaagden,verlaat || vaagden,verlakt || vaagden,verlamt || vaagden,verlapt || vaagden,verlate || vaagden,verlees || vaagden,verlegt || vaagden,verleid || vaagden,verlept || vaagden,verlief || vaagden,verliep || vaagden,verlies || vaagden,verliet || vaagden,verligt || vaagden,verlokt || vaagden,verloot || vaagden,verlost || vaagden,verlote || vaagden,verluid || vaagden,verlijdt || vaagden,vermout || vaagden,verniel || vaagden,verplet || vaagden,verrolt || vaagden,verruil || vaagden,verslag || vaagden,verslap || vaagden,verslik || vaagden,verslof || vaagden,verslijt || vaagden,versmal || vaagden,versnel || vaagden,verspil || vaagden,verstal || vaagden,verstel || vaagden,verstil || vaagden,verstok || vaagden,vertaal || vaagden,verteld || vaagden,vertelt || vaagden,vertild || vaagden,vertilt || vaagden,vertolk || vaagden,vervals || vaagden,vervelt || vaagden,verviel || vaagden,vervilt || vaagden,vervult || vaagden,verwijlt || vaagden,verzeil || vaagden,verzout || vaagden,vetleer || vaagden,vibrato || vaagden,viertal || vaagden,vilders || vaagden,vilderij || vaagden,violent || vaagden,violier || vaagden,violist || vaagden,viriele || vaagden,visboer || vaagden,visgrom || vaagden,visloos || vaagden,visolie (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>0</index>
                 <index>701</index>
@@ -11886,7 +11886,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: waadden,weglekt || waadden,wegliet || waadden,wegrukt || waadden,wegtrek || waadden,werkles || waadden,woekert (6.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>100</index>
@@ -11965,7 +11965,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: waadden,wegrolt (1.3108695652173914)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>100</index>
@@ -12013,7 +12013,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: waadden,wijkpost || waadden,wijkzorg (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>100</index>
@@ -12221,7 +12221,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: waadden,walstro || waadden,wartels || waadden,wegdook || waadden,wegkomt || waadden,weglokt || waadden,wegsmijt || waadden,wegstop || waadden,wegtrok || waadden,wegzonk || waadden,werklui || waadden,wetsrol || waadden,wieldop || waadden,wierook || waadden,wierpot || waadden,wildrijk || waadden,willoos || waadden,willoze || waadden,wimpers || waadden,wipbrug || waadden,wiphout || waadden,wisdoek || waadden,witboek || waadden,witgoud || waadden,without || waadden,witloof || waadden,witloog || waadden,witpoot || waadden,woelige || waadden,woeling || waadden,wolgras || waadden,wolkige || waadden,wollige || waadden,wolluis || waadden,wolvilt || waadden,worstel || waadden,wortels || waadden,wouters || waadden,wrokkig || waadden,wijkpost || waadden,wijkzorg || waadden,wijngoed || waadden,wijngrog (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>100</index>
@@ -12305,7 +12305,7 @@
                 </set>
             </bestsets>
             <printvalue>C2p) Jochems C algorithm, 2 words: zaadbal,zeepten || zaadbal,zeester || zaadbal,zegster || zaadbal,zeikten || zaadbal,zeniger || zaadbal,zetboer || zaadbal,ziekten || zaadbal,zieners || zaadbal,ziertje || zaadbal,zwetsen || zaadbal,zwieren (7.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>200</index>
@@ -12383,7 +12383,7 @@
                 </set>
             </bestsets>
             <printvalue>D2p) Minimise average group (Jochem), 2 words: zaadbal,zeikten || zaadbal,ziekten (1.3342175066312998)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>200</index>
@@ -12443,7 +12443,7 @@
                 </set>
             </bestsets>
             <printvalue>F1p) Minimise maximum possible words, 2 words: zaadbal,zichter || zaadbal,zifters || zaadbal,zifterij || zaadbal,zoutige || zaadbal,zuivert (7985087.0)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>200</index>
@@ -12575,7 +12575,7 @@
                 </set>
             </bestsets>
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: zaadbal,zeekust || zaadbal,zeestuk || zaadbal,zetstuk || zaadbal,zeurige || zaadbal,zichter || zaadbal,ziertje || zaadbal,zifters || zaadbal,zifterij || zaadbal,zindert || zaadbal,zitters || zaadbal,zoutige || zaadbal,zuiders || zaadbal,zuigers || zaadbal,zuipers || zaadbal,zuivere || zaadbal,zuivert || zaadbal,zuriger || zaadbal,zijmuren (7.8504713E7)</printvalue>
-            <allocation>1000</allocation>
+            <allocation>10000</allocation>
             <indices>
                 <index>1</index>
                 <index>200</index>
