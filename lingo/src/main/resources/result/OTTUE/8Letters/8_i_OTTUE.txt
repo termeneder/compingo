@@ -6,7 +6,7 @@ i (603):
 	C2) Jochems C algorithm, 1 word: inschoof (264.0)
 	C1g1K) Minimise biggest group, 2 words: inschept,intactst (123.0)
 	D2) Minimise average group (Jochem), 1 word: iconisch || inschrijf (10.220338983050848)
-	D1g1K) Minimise average group, 2 words: inbouwen,inhouden (3.526315789473684)
+	D2) Minimise average group (Jochem), 2 words: iconisch,ironisch (6.775280898876405)
 	E1) Minimise average possible words, 1 word: isotroop (7.97066057230514E8)
 	E1g1K) Minimise average possible words, 2 words: inbedden,inbellen (6.3682185232172474E7)
 	F1) Minimise maximum possible words, 1 word: inentten || inrennen (4.586471424E9)

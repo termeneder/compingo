@@ -4,7 +4,7 @@ j (164):
 	B3) Optimise amount of letters, 1 word: judicium (2.2865853658536586)
 	B3) Optimise amount of letters, 2 words: jiujitsu,jumpsuit (2.701219512195122)
 	C2) Jochems C algorithm, 1 word: judicium (44.0)
-	C1g1K) Minimise biggest group, 2 words: jachthut,jachttijd (22.0)
+	C2) Jochems C algorithm, 2 words: jiujitsu,jumpsuit (27.0)
 	D2) Minimise average group (Jochem), 1 word: jojootje || juffrouw (4.4324324324324325)
 	D2) Minimise average group (Jochem), 2 words: jachthut,jachttijd (2.3768115942028984)
 	E1) Minimise average possible words, 1 word: jiujitsu (9.453993987378049E8)

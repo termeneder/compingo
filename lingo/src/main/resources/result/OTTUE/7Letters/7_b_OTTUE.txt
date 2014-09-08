@@ -13,7 +13,7 @@ b (1600):
 	D1g1K) Minimise average group, 2 words: bazigst,berkoen (1.465201465201465)
 	D1g1K) Minimise average group, 3 words: badmuts,beroofd,bliezen (1.1535688536409516)
 	E1) Minimise average possible words, 1 word: baronie (3331685.82)
-	E1g1K) Minimise average possible words, 2 words: baljurk,bestond (66412.36125)
+	E1p) Minimise average possible words, 2 words: baklijst,borgden (63023.949375)
 	E1g1K) Minimise average possible words, 3 words: bakkerij,beluste,bondige (7012.40875)
 	F1) Minimise maximum possible words, 1 word: botanie (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: badkuip,bolster || bidbank,bustoer (1314721.0)
