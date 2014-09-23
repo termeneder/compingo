@@ -12,7 +12,7 @@ i (420):
 	D1g1K) Minimise average group, 2 words: induikt,isoleer (1.3504823151125402)
 	D1g1K) Minimise average group, 3 words: inbogen,indeelt,inkruip || indronk,inpalmt,inwegen (1.105263157894737)
 	E1) Minimise average possible words, 1 word: inroest (599114.2119047618)
-	E1g1K) Minimise average possible words, 2 words: indampt,isoleer (23269.495238095238)
+	E1) Minimise average possible words, 2 words: imperia,inslokt (20016.064285714285)
 	E1g1K) Minimise average possible words, 3 words: inkuipt,inlands,isoleer (2721.9214285714284)
 	F1) Minimise maximum possible words, 1 word: idioten || inademt || inbreit || indices || inpalmt || inperst || inroest || inslikt || insluit || instore || instrijk || insufte || interim || intiems || intrige || inwater (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: imperia,inslokt (303783.0)

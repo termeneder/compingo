@@ -11,7 +11,7 @@ a (1202):
 	C1g1K) Minimise biggest group, 2 words: afklimt,asregen (11.0)
 	C1g1K) Minimise biggest group, 3 words: afdroog,afknijpt,armelui || aanlapt,afmoord,askegel || afdrong,aktetas,aniline || aanmeer,afdingt,afklopt || afdwong,afslorp,aktetas (5.0)
 	D2) Minimise average group (Jochem), 1 word: aanliet (5.488584474885845)
-	D1g1K) Minimise average group, 2 words: aaseter,afklopt (1.5331632653061225)
+	D2p) Minimise average group (Jochem), 2 words: aanliep,afkorst (1.3768613974799542)
 	D1g1K) Minimise average group, 3 words: aanplak,afnames,arbeidt (1.166990291262136)
 	E1) Minimise average possible words, 1 word: aflaten (2141959.415973378)
 	E1) Minimise average possible words, 2 words: aanried,afsmolt (28627.544093178036)

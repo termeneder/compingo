@@ -4,7 +4,7 @@ f (460):
 	B3) Optimise amount of letters, 1 word: froufrou (2.3)
 	B3) Optimise amount of letters, 2 words: fotoshow,fotostop (2.5891304347826085)
 	C2) Jochems C algorithm, 1 word: froufrou (110.0)
-	C2p) Jochems C algorithm, 2 words: fandango,focaccia (50.0)
+	C2) Jochems C algorithm, 2 words: fotoshow,fotostop (83.0)
 	D2) Minimise average group (Jochem), 1 word: focaccia (9.2)
 	D2) Minimise average group (Jochem), 2 words: fotoshow,fotostop (4.299065420560748)
 	E1) Minimise average possible words, 1 word: froufrou (1.3291571982260869E9)

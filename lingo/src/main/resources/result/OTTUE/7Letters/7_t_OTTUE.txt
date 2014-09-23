@@ -9,7 +9,7 @@ t (819):
 	C1g1K) Minimise biggest group, 2 words: thermen,tijdslot || toedekt,tsarina || teelden,transit (6.0)
 	C1g1K) Minimise biggest group, 3 words: toesnel,torpedo,tuinkas || teerdag,totalen,tuinkas || tantums,theekop,trippel (3.0)
 	D2) Minimise average group (Jochem), 1 word: trasten (3.6238938053097347)
-	D1g1K) Minimise average group, 2 words: toetste,tripang (1.2717391304347827)
+	D2p) Minimise average group (Jochem), 2 words: tabstop,treilen (1.1938775510204083)
 	D1g1K) Minimise average group, 3 words: tengels,topstuk,triaden (1.0446428571428572)
 	E1) Minimise average possible words, 1 word: toaster (2523614.8144078143)
 	E1p) Minimise average possible words, 2 words: tagrijns,toeliet (49955.67032967033)

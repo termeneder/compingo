@@ -4,7 +4,7 @@ e (458):
 	B3) Optimise amount of letters, 1 word: echolood (2.1877729257641922)
 	B3) Optimise amount of letters, 2 words: eischaal,elysisch (2.831877729257642)
 	C2) Jochems C algorithm, 1 word: echolood (128.0)
-	C2p) Jochems C algorithm, 2 words: echolood,elleboog (68.0)
+	C2) Jochems C algorithm, 2 words: eerwraak,erewraak (89.0)
 	D2) Minimise average group (Jochem), 1 word: embedded (6.361111111111111)
 	D2) Minimise average group (Jochem), 2 words: eerwraak,erewraak (3.9482758620689653)
 	E1) Minimise average possible words, 1 word: echolood (9.853545763537118E8)

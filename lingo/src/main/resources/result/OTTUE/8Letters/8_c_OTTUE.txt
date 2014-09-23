@@ -4,7 +4,7 @@ c (449):
 	B3) Optimise amount of letters, 1 word: combobox (1.9265033407572383)
 	B3) Optimise amount of letters, 2 words: chowchow,combobox (2.3207126948775056)
 	C2) Jochems C algorithm, 1 word: combobox (162.0)
-	C1g1K) Minimise biggest group, 2 words: chowchow,combobox (111.0)
+	C2) Jochems C algorithm, 2 words: chowchow,combobox (111.0)
 	D2) Minimise average group (Jochem), 1 word: chowchow (10.204545454545455)
 	D2) Minimise average group (Jochem), 2 words: checkbox,chowchow (4.276190476190476)
 	E1) Minimise average possible words, 1 word: chowchow (1.7381768072405345E9)

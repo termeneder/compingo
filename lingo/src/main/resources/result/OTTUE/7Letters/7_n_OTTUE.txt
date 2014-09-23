@@ -9,7 +9,7 @@ n (353):
 	C1g1K) Minimise biggest group, 2 words: notaris,nijlgans || naaktst,neervel || netsuke,nodigen || neigden,nulpost (4.0)
 	C1g1K) Minimise biggest group, 3 words: naamdag,neukten,novices || najagen,neerzak,nimrods || naoogst,naijlden,neerzak || nakaart,naijlden,negatie || nadorst,nalezen,neukgat || nadoken,neervel,nuttigs (2.0)
 	D2) Minimise average group (Jochem), 1 word: noester (2.576642335766423)
-	D1g1K) Minimise average group, 2 words: nagelen,nimrods (1.1314102564102564)
+	D2p) Minimise average group (Jochem), 2 words: naglans,neuriet (1.1065830721003134)
 	D1g1K) Minimise average group, 3 words: naglans,naredes,netkous (1.0202312138728324)
 	E1) Minimise average possible words, 1 word: nareist (1589831.0481586403)
 	E1) Minimise average possible words, 2 words: nadroeg,niksnut (34020.30028328612)
