@@ -9,7 +9,7 @@ z (503):
 	C1g1K) Minimise biggest group, 2 words: zeildag,ziekten || zoutbak,zwendel (4.0)
 	C1g1K) Minimise biggest group, 3 words: zeeprik,zetboer,zwingel || zegenen,zeilers,zuidtak || zabbert,zitkuil,zoemden || zaagbek,zemiger,zoutpan || zatheid,zegelen,zonuren || zetboer,zwingel,zijpelde || zuursel,zwemdok,zijlinie || zakband,zetboer,zwingel || zinkbak,zwemlip,zwoeger || zalving,zeurder,zoekers || zestien,zinloze,zwembad || zanikte,zeulden,zompige || zeeterm,ziedaar,zwalken || zeeramp,zetboer,zwingel || zeepbel,zinkmijn,zoutmijn || zalmpje,zinlijke,zoeterd || zandkop,zeikerd,ziftsel || zeempje,zienlijk,zwaarst || zatheid,zeempje,zienlijk || zaaisel,zeebonk,zoeterd || zeebonk,zemiger,zijpaden || zeedorp,zetboer,zwingel || zediger,zitbank,zwempak || zeoliet,zonuren,zijkamer || zanderij,zeepbel,zeikten || zediger,zotskap,zwingel || zalfden,zienlijk,zwartig || zaadbal,zemiger,zoutpan || zetboer,zinkmijn,zwingel || zalfden,zienlijk,ziertje (3.0)
 	D2) Minimise average group (Jochem), 1 word: zeikten (3.0119760479041915)
-	D2p) Minimise average group (Jochem), 2 words: zaligst,zoemden (1.169767441860465)
+	D2p) Minimise average group (Jochem), 2 words: zeikten,zorgpad (1.1589861751152073)
 	D1g1K) Minimise average group, 3 words: zomerse,zoutbad,zwingel (1.0457380457380456)
 	E1) Minimise average possible words, 1 word: zeiknat (3670369.24055666)
 	E1) Minimise average possible words, 2 words: zandrug,zeoliet (77224.66799204772)

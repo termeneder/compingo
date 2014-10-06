@@ -4,7 +4,7 @@ i (603):
 	B3) Optimise amount of letters, 1 word: impulsijs (2.1475953565505805)
 	B3) Optimise amount of letters, 2 words: illusoir,iriscoop (2.9751243781094527)
 	C2) Jochems C algorithm, 1 word: inschoof (264.0)
-	C1g1K) Minimise biggest group, 2 words: inschept,intactst (123.0)
+	C2) Jochems C algorithm, 2 words: iconisch,inschoof (163.0)
 	D2) Minimise average group (Jochem), 1 word: iconisch || inschrijf (10.220338983050848)
 	D2) Minimise average group (Jochem), 2 words: iconisch,ironisch (6.775280898876405)
 	E1) Minimise average possible words, 1 word: isotroop (7.97066057230514E8)

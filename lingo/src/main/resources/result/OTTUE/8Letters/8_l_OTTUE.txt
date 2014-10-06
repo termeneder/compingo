@@ -6,7 +6,7 @@ l (829):
 	C2) Jochems C algorithm, 1 word: loofboom (371.0)
 	C1g1K) Minimise biggest group, 2 words: lichtmis,lijkwitst (102.0)
 	D2) Minimise average group (Jochem), 1 word: luxueuze (13.370967741935484)
-	D2p) Minimise average group (Jochem), 2 words: lammetje,lemmetje (4.934523809523809)
+	D2) Minimise average group (Jochem), 2 words: lichthal,lichtval (6.2330827067669174)
 	E1) Minimise average possible words, 1 word: loofboom (1.752117150960193E9)
 	E1g1K) Minimise average possible words, 2 words: leerbaar,leerzaam (2.565702049951749E8)
 	F1) Minimise maximum possible words, 1 word: leeneden || leerrede || leestest || lellebel || lendenen (4.586471424E9)

@@ -6,7 +6,7 @@ h (900):
 	C2) Jochems C algorithm, 1 word: hobbykok (359.0)
 	C1g1K) Minimise biggest group, 2 words: homofoon,honnepon (104.0)
 	D2) Minimise average group (Jochem), 1 word: hobbykok (14.516129032258064)
-	D2p) Minimise average group (Jochem), 2 words: hammetje,hemmetje (5.172413793103448)
+	D2) Minimise average group (Jochem), 2 words: homofoob,homofoon (6.569343065693431)
 	E1) Minimise average possible words, 1 word: haaibaai (1.8019513973344445E9)
 	E1g1K) Minimise average possible words, 2 words: heggetje,hennetje (4.564966700188889E8)
 	F1) Minimise maximum possible words, 1 word: haaibaai || heersers || hellenen || hennenei || hennepen (4.586471424E9)

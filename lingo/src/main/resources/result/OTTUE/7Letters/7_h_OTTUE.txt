@@ -9,7 +9,7 @@ h (571):
 	C1g1K) Minimise biggest group, 2 words: haarlok,heidens (3.0)
 	C1g1K) Minimise biggest group, 3 words: heksten,herdaan,homilie || halster,harding,hoekman || haaklijn,hoereer,huisgod (2.0)
 	D2) Minimise average group (Jochem), 1 word: harsten (2.8407960199004973)
-	D2p) Minimise average group (Jochem), 2 words: hakstro,hielden (1.1306930693069306)
+	D2p) Minimise average group (Jochem), 2 words: harpist,heulden (1.126232741617357)
 	D1g1K) Minimise average group, 3 words: hederik,houtjes,hulplijn (1.0496323529411764)
 	E1) Minimise average possible words, 1 word: holster (3400343.4308231175)
 	E1) Minimise average possible words, 2 words: halster,houkind (33424.69001751314)

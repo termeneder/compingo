@@ -10,7 +10,7 @@ l (588):
 	C1g1K) Minimise biggest group, 2 words: lanceer,lomigst || leskist,loerden || lidmaat,loenser || lansier,leertijd (5.0)
 	C1g1K) Minimise biggest group, 3 words: laagten,leveren,luisden || leiriem,lenskop,loopdag || landden,lezeres,losrukt || legboor,leunden,lijfarts || lakeien,leedjes,lomiger || leestip,looiden,lijmerig || lakverf,leeneed,luikgat || legaten,linkser,lomperd || lengten,lidmaat,losbrak (3.0)
 	D2) Minimise average group (Jochem), 1 word: lansier (3.230769230769231)
-	D2p) Minimise average group (Jochem), 2 words: landrug,lokstem (1.1552062868369353)
+	D2p) Minimise average group (Jochem), 2 words: languit,loeders (1.141747572815534)
 	D1g1K) Minimise average group, 3 words: legsels,lidmaat,lijkroof (1.0556552962298025)
 	E1) Minimise average possible words, 1 word: lansier (3244576.7636054424)
 	E1) Minimise average possible words, 2 words: landrug,losliet (60689.72619047619)

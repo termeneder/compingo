@@ -4,7 +4,7 @@ n (462):
 	B3) Optimise amount of letters, 1 word: nooddoop (1.8744588744588744)
 	B3) Optimise amount of letters, 2 words: nooddoop,noodloop (2.205627705627706)
 	C2) Jochems C algorithm, 1 word: nooddoop (210.0)
-	C1g1K) Minimise biggest group, 2 words: nastuurt,natuurijs (54.0)
+	C2) Jochems C algorithm, 2 words: nooddoop,noodloop (149.0)
 	D2) Minimise average group (Jochem), 1 word: nooddoop (7.9655172413793105)
 	D2) Minimise average group (Jochem), 2 words: nooddoop,noodloop (5.566265060240964)
 	E1) Minimise average possible words, 1 word: nooddoop (2.5776831897294374E9)

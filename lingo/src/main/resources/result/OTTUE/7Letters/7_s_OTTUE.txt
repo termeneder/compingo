@@ -6,7 +6,7 @@ s (1495):
 	B3) Optimise amount of letters, 2 words: serieus,snotlap (5.2)
 	B3) Optimise amount of letters, 3 words: schmink,spoelde,stratus (6.086956521739131)
 	C2) Jochems C algorithm, 1 word: staniol (49.0)
-	C1g1K) Minimise biggest group, 2 words: sloerie,snapten (9.0)
+	C2p) Jochems C algorithm, 2 words: sapkuur,stielen (8.0)
 	C1g1K) Minimise biggest group, 3 words: saldeer,spuikom,stunter (4.0)
 	D2) Minimise average group (Jochem), 1 word: slipten (5.301418439716312)
 	D1g1K) Minimise average group, 2 words: siropen,stakelt (1.431992337164751)

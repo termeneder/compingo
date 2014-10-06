@@ -4,7 +4,7 @@ o (1608):
 	B3) Optimise amount of letters, 1 word: officium (1.7779850746268657)
 	B3) Optimise amount of letters, 2 words: officium,opiumpijp (2.3426616915422884)
 	C2) Jochems C algorithm, 1 word: officium (690.0)
-	C1g1K) Minimise biggest group, 2 words: overbuur,overjaag (265.0)
+	C2p) Jochems C algorithm, 2 words: official,officium (301.0)
 	D2) Minimise average group (Jochem), 1 word: officium (21.157894736842106)
 	D2p) Minimise average group (Jochem), 2 words: officier,officies (9.745454545454546)
 	E1) Minimise average possible words, 1 word: officium (1.3686308368501244E9)

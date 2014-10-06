@@ -9,7 +9,7 @@ p (907):
 	C1g1K) Minimise biggest group, 2 words: planeet,portiek || plantje,poeiers || patriot,penseel || plating,poseren (5.0)
 	C1g1K) Minimise biggest group, 3 words: peptide,plakjes,posteer || patchen,pezerik,porster || pepsine,probaat,prondel || parkbos,peinsde,polsten || penaten,podiums,prevelt || panters,poelier,puinbak (3.0)
 	D2) Minimise average group (Jochem), 1 word: porties (3.475095785440613)
-	D1g1K) Minimise average group, 2 words: postaal,priemen (1.1794538361508453)
+	D2p) Minimise average group (Jochem), 2 words: papkind,poetser (1.1718346253229974)
 	D1g1K) Minimise average group, 3 words: pisdoek,plompte,punteer (1.057109557109557)
 	E1) Minimise average possible words, 1 word: parolen (2472166.9691289966)
 	E1p) Minimise average possible words, 2 words: pastorij,puilden (28695.94046306505)
