@@ -14,6 +14,7 @@ f (145):
 	D2) Minimise average group (Jochem), 1 word: friet (3.2222222222222223)
 	D2) Minimise average group (Jochem), 2 words: fiets,fluor (1.1983471074380165)
 	D2) Minimise average group (Jochem), 3 words: feces,flikt,forma (1.0283687943262412)
+	D2p) Minimise average group (Jochem), 4 words: faalt,facie,feeks,forum (1.0211267605633803)
 	E1) Minimise average possible words, 1 word: friet (36876.510344827584)
 	E1) Minimise average possible words, 2 words: fairs,fenol (1235.751724137931)
 	E1) Minimise average possible words, 3 words: falen,fikst,forum (79.19310344827586)

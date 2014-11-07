@@ -9,7 +9,7 @@ o (991):
 	C2p) Jochems C algorithm, 2 words: oksalen,omgordt (6.0)
 	C1g1K) Minimise biggest group, 3 words: ontwijdt,oppookt,overals || oksalen,ondeugd,oppompt || onkiese,oogdruk,opknapt || omboord,oplages,opprikt || omvouwt,onenige,opklaar (4.0)
 	D2) Minimise average group (Jochem), 1 word: ontried (4.504545454545455)
-	D2p) Minimise average group (Jochem), 2 words: oksalen,omgordt (1.2803617571059431)
+	D2p) Minimise average group (Jochem), 2 words: omkrans,opleidt (1.262420382165605)
 	D1g1K) Minimise average group, 3 words: omwoelt,ongemak,opruide (1.098669623059867)
 	E1) Minimise average possible words, 1 word: opmaten (3181863.5933400607)
 	E1p) Minimise average possible words, 2 words: oculair,optomen (58462.44096871847)

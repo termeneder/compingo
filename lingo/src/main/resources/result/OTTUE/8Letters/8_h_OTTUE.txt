@@ -4,7 +4,7 @@ h (900):
 	B3) Optimise amount of letters, 1 word: hobbykok (1.9555555555555555)
 	B3) Optimise amount of letters, 2 words: hobbykok,homofoob (2.2688888888888887)
 	C2) Jochems C algorithm, 1 word: hobbykok (359.0)
-	C1g1K) Minimise biggest group, 2 words: homofoon,honnepon (104.0)
+	C2) Jochems C algorithm, 2 words: hobbykok,homofoob (260.0)
 	D2) Minimise average group (Jochem), 1 word: hobbykok (14.516129032258064)
 	D2) Minimise average group (Jochem), 2 words: homofoob,homofoon (6.569343065693431)
 	E1) Minimise average possible words, 1 word: haaibaai (1.8019513973344445E9)

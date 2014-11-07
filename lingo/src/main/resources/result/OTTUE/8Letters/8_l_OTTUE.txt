@@ -4,7 +4,7 @@ l (829):
 	B3) Optimise amount of letters, 1 word: loofboom (1.8552472858866105)
 	B3) Optimise amount of letters, 2 words: loophulp,loopzool (2.226779252110977)
 	C2) Jochems C algorithm, 1 word: loofboom (371.0)
-	C1g1K) Minimise biggest group, 2 words: lichtmis,lijkwitst (102.0)
+	C2) Jochems C algorithm, 2 words: loofboom,loopzool (249.0)
 	D2) Minimise average group (Jochem), 1 word: luxueuze (13.370967741935484)
 	D2) Minimise average group (Jochem), 2 words: lichthal,lichtval (6.2330827067669174)
 	E1) Minimise average possible words, 1 word: loofboom (1.752117150960193E9)

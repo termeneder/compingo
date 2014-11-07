@@ -4,7 +4,7 @@ u (475):
 	B3) Optimise amount of letters, 1 word: uurwijzer (2.385263157894737)
 	B3) Optimise amount of letters, 2 words: uurwijzer,uwerzijds (2.825263157894737)
 	C2) Jochems C algorithm, 1 word: uitschud (206.0)
-	C1g1K) Minimise biggest group, 2 words: uitkaard,uitkraai (110.0)
+	C2) Jochems C algorithm, 2 words: uitgraaf,uitvraag (167.0)
 	D2) Minimise average group (Jochem), 1 word: uitschijn || uitzicht (9.313725490196079)
 	D2) Minimise average group (Jochem), 2 words: uittocht,uitvocht (7.661290322580645)
 	E1) Minimise average possible words, 1 word: ukeleles (7.896758039936842E8)
