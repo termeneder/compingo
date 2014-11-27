@@ -4,7 +4,7 @@ d (1069):
 	B3) Optimise amount of letters, 1 word: dividivi (1.7427502338634238)
 	B3) Optimise amount of letters, 2 words: dichtzit,dividivi (2.3573433115060802)
 	C2) Jochems C algorithm, 1 word: dividivi (449.0)
-	C2p) Jochems C algorithm, 2 words: davylamp,dwaalpad (209.0)
+	C2) Jochems C algorithm, 2 words: doorkook,doorrook (210.0)
 	D2) Minimise average group (Jochem), 1 word: dividivi (22.74468085106383)
 	D2) Minimise average group (Jochem), 2 words: doorkook,doorrook (7.222972972972973)
 	E1) Minimise average possible words, 1 word: dividivi (2.4610716864031806E9)
