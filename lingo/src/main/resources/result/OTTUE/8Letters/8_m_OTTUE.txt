@@ -6,7 +6,7 @@ m (1009):
 	C2) Jochems C algorithm, 1 word: monofoon (309.0)
 	C1g1K) Minimise biggest group, 2 words: muithuis,mysticus (196.0)
 	D2) Minimise average group (Jochem), 1 word: mythisch (13.453333333333333)
-	D2p) Minimise average group (Jochem), 2 words: maffioos,maffioso (6.682119205298013)
+	D2) Minimise average group (Jochem), 2 words: monoloog,mycoloog (6.771812080536913)
 	E1) Minimise average possible words, 1 word: monofoon (1.7099914860891972E9)
 	E1g1K) Minimise average possible words, 2 words: maanbaan,monotoon (3.1070104561050546E8)
 	F1) Minimise maximum possible words, 1 word: maanbaan || mededeel || meenemen || meerdere || monddood || monofoon || monotoon (4.586471424E9)
