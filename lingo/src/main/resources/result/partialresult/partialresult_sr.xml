@@ -932,8 +932,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: bastion,belijder (234163.03625)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>474</index>
-                <index>650</index>
+                <index>497</index>
+                <index>1051</index>
             </indices>
         </query>
         <query>
@@ -953,29 +953,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: gastrol,geminde (163592.1951371571)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>454</index>
-                <index>524</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>k</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>240795.86222222223</bestscore>
-            <bestsets>
-                <set>
-                    <word>kakelen</word>
-                    <word>korstig</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: kakelen,korstig (240795.86222222223)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>1004</index>
-                <index>1015</index>
+                <index>476</index>
+                <index>1499</index>
             </indices>
         </query>
         <query>
@@ -995,8 +974,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: scrupel,stadion (306980.42274247494)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>467</index>
-                <index>581</index>
+                <index>493</index>
+                <index>1230</index>
             </indices>
         </query>
         <query>
@@ -1039,8 +1018,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: bebrild,boskant (41585.866875)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>344</index>
-                <index>1485</index>
+                <index>366</index>
+                <index>1128</index>
             </indices>
         </query>
         <query>
@@ -1175,8 +1154,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: gardist,geloken (29389.21571072319)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>335</index>
-                <index>476</index>
+                <index>356</index>
+                <index>1079</index>
             </indices>
         </query>
         <query>
@@ -1265,8 +1244,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: kartons,kuildek (36470.11555555555)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>574</index>
-                <index>1050</index>
+                <index>626</index>
+                <index>828</index>
             </indices>
         </query>
         <query>
@@ -1366,27 +1345,6 @@
             <wordset>ottue</wordset>
             <wordlength>7</wordlength>
             <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>41041.4106962664</bestscore>
-            <bestsets>
-                <set>
-                    <word>omdolen</word>
-                    <word>opkrast</word>
-                </set>
-            </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: omdolen,opkrast (41041.4106962664)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>846</index>
-                <index>942</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>o</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>E1</algorithm>
             <subsetsize>3</subsetsize>
             <sortorder>best</sortorder>
             <bestscore>16392.78405650858</bestscore>
@@ -1468,8 +1426,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: scrupel,stadion (41935.09632107023)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>353</index>
-                <index>1300</index>
+                <index>377</index>
+                <index>1216</index>
             </indices>
         </query>
         <query>
@@ -1558,8 +1516,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: vastlig,verkond (28289.767097966727)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>554</index>
-                <index>1062</index>
+                <index>609</index>
+                <index>617</index>
             </indices>
         </query>
         <query>
@@ -1656,8 +1614,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: aanlokt,asperge || aanport,akelige || aardigs,afmelkt (8.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>442</index>
-                <index>1162</index>
+                <index>479</index>
+                <index>782</index>
             </indices>
         </query>
         <query>
@@ -1700,8 +1658,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: aasdier,afklopt (1.3597285067873304)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>441</index>
-                <index>921</index>
+                <index>478</index>
+                <index>504</index>
             </indices>
         </query>
         <query>
@@ -2372,12 +2330,40 @@
                     <word>afgaven</word>
                     <word>auditor</word>
                 </set>
+                <set>
+                    <word>afgoden</word>
+                    <word>arabist</word>
+                </set>
+                <set>
+                    <word>afgodin</word>
+                    <word>amateur</word>
+                </set>
+                <set>
+                    <word>afgoten</word>
+                    <word>airplay</word>
+                </set>
+                <set>
+                    <word>afgrauw</word>
+                    <word>alstoen</word>
+                </set>
+                <set>
+                    <word>afgrist</word>
+                    <word>anabole</word>
+                </set>
+                <set>
+                    <word>afhaken</word>
+                    <word>auditor</word>
+                </set>
+                <set>
+                    <word>afhalen</word>
+                    <word>auditor</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: aalkorf,amicten || aalkorf,aucties || aalkorf,autisme || aalmoes,afkruit || aalmoes,afprikt || aalmoes,africht || aalmoes,afwrikt || aalvork,afdient || aanbikt,afrolde || aanboek,afruilt || aanbrei,afklopt || aanbrei,afsmolt || aanbrug,afloste || aanbrul,afdopte || aandiep,afkorst || aandruk,acoliet || aandruk,afloste || aandrijf,acoliet || aanfokt,armelui || aangier,afblokt || aangier,afhoudt || aangier,afklopt || aangier,afkomst || aanglom,afbreit || aanglom,afreikt || aangolf,abrupte || aangolf,acteurs || aangolf,autisme || aangolf,averuit || aangrim,afkoelt || aangrom,afkiest || aangrom,afklets || aanhikt,afrolde || aanholt,afkerig || aanholt,afkuier || aanholt,afruide || aanholt,aquifer || aanhoud,afreikt || aanhoud,afreist || aanklem,afdorst || aanklos,afvergt || aankomt,afslier || aankrui,afdopte || aankrui,afwoelt || aanliep,afhoudt || aanliep,afkorst || aanloei,afdrukt || aanloei,afdrupt || aanloei,afkrijgt || aanloei,afstrijk || aanloer,afbuigt || aanloer,afspuit || aanloer,afzicht || aanloer,afzuigt || aanloer,afzuipt || aanlokt,afdreig || aanlokt,afruide || aanlokt,afvries || aanlokt,afwierp || aanlokt,afzwier || aanlokt,aquifer || aanlokt,archief || aanmeld,afkorst || aanpikt,afrolde || aanport,afblies || aanprik,afwoelt || aanreik,afsmolt || aanried,afblokt || aanried,afklopt || aanriep,afblokt || aanrist,afbolde || aanroei,afplukt || aanroei,afpulkt || aanroep,afklimt || aanroep,aflicht || aanroep,afluist || aanroep,afslibt || aanroep,afsluit || aanrolt,abusief || aanrolt,afhieuw || aanrukt,afsloeg || aanrukt,afsolde || aanrukt,afvloei || aanslib,afdopte || aanslib,aftover || aanslof,arbeidt || aanslof,averuit || aanstik,afrolde || aanstip,afbolde || aanstop,afkerig || aanstuw,afbolde || aanstuw,afrolde || aantrok,afblies || aantrok,afspied || aanviel,afkorst || aanvlot,afkerig || aanvlot,afkuier || aanvlot,afruide || aanvlot,aquifer || aanvlot,archief || aanvoeg,afruilt || aanvoel,afdrupt || aanvoel,afkruit || aanvoel,afprikt || aanvoel,africht || aanvoel,afruimt || aanvoel,afwrikt || aanvoer,afklimt || aanvoer,aflicht || aanvoer,afluist || aanvoer,afslibt || aanvoer,afsluit || aanwrijf,acoliet || aanzeul,afdorst || aanzeul,afstorm || aanzoek,afruilt || aanzoet,afslurp || aanzuig,afloert || aanzwol,afbreit || aanzwol,afreikt || aardbei,afsmolt || aardbol,afkiest || aardbol,afneust || aardbol,afseint || aardbol,afviste || aardbol,afwiste || aardigs,afboent || aardigs,afkoelt || aardigs,aflokte || aarding,afkoelt || aardlek,afstomp || aardvlo,afbiest || aardvlo,afkiest || aardvlo,afneust || aasdier,afblokt || aasdier,afklopt || aasdier,autolijn || aasgier,afblokt || aasgier,afbonkt || aasgier,afklopt || aasgier,autolijn || ablatie,afdrong || ablatie,afdronk || ablatie,afgrond || ablatie,afwrong || abortus,afdalen || abortus,afladen || abortus,aflagen || abortus,aflazen || acoliet,afbrand || aerobic,aflangt || afbaken,auditor || afboent,armslag || afbolde,amusant || afdorst,amicale || afdruip,atonale || afdrupt,anabole || afdrupt,analoge || afgaven,auditor (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: aalkorf,amicten || aalkorf,aucties || aalkorf,autisme || aalmoes,afkruit || aalmoes,afprikt || aalmoes,africht || aalmoes,afwrikt || aalvork,afdient || aanbikt,afrolde || aanboek,afruilt || aanbrei,afklopt || aanbrei,afsmolt || aanbrug,afloste || aanbrul,afdopte || aandiep,afkorst || aandruk,acoliet || aandruk,afloste || aandrijf,acoliet || aanfokt,armelui || aangier,afblokt || aangier,afhoudt || aangier,afklopt || aangier,afkomst || aanglom,afbreit || aanglom,afreikt || aangolf,abrupte || aangolf,acteurs || aangolf,autisme || aangolf,averuit || aangrim,afkoelt || aangrom,afkiest || aangrom,afklets || aanhikt,afrolde || aanholt,afkerig || aanholt,afkuier || aanholt,afruide || aanholt,aquifer || aanhoud,afreikt || aanhoud,afreist || aanklem,afdorst || aanklos,afvergt || aankomt,afslier || aankrui,afdopte || aankrui,afwoelt || aanliep,afhoudt || aanliep,afkorst || aanloei,afdrukt || aanloei,afdrupt || aanloei,afkrijgt || aanloei,afstrijk || aanloer,afbuigt || aanloer,afspuit || aanloer,afzicht || aanloer,afzuigt || aanloer,afzuipt || aanlokt,afdreig || aanlokt,afruide || aanlokt,afvries || aanlokt,afwierp || aanlokt,afzwier || aanlokt,aquifer || aanlokt,archief || aanmeld,afkorst || aanpikt,afrolde || aanport,afblies || aanprik,afwoelt || aanreik,afsmolt || aanried,afblokt || aanried,afklopt || aanriep,afblokt || aanrist,afbolde || aanroei,afplukt || aanroei,afpulkt || aanroep,afklimt || aanroep,aflicht || aanroep,afluist || aanroep,afslibt || aanroep,afsluit || aanrolt,abusief || aanrolt,afhieuw || aanrukt,afsloeg || aanrukt,afsolde || aanrukt,afvloei || aanslib,afdopte || aanslib,aftover || aanslof,arbeidt || aanslof,averuit || aanstik,afrolde || aanstip,afbolde || aanstop,afkerig || aanstuw,afbolde || aanstuw,afrolde || aantrok,afblies || aantrok,afspied || aanviel,afkorst || aanvlot,afkerig || aanvlot,afkuier || aanvlot,afruide || aanvlot,aquifer || aanvlot,archief || aanvoeg,afruilt || aanvoel,afdrupt || aanvoel,afkruit || aanvoel,afprikt || aanvoel,africht || aanvoel,afruimt || aanvoel,afwrikt || aanvoer,afklimt || aanvoer,aflicht || aanvoer,afluist || aanvoer,afslibt || aanvoer,afsluit || aanwrijf,acoliet || aanzeul,afdorst || aanzeul,afstorm || aanzoek,afruilt || aanzoet,afslurp || aanzuig,afloert || aanzwol,afbreit || aanzwol,afreikt || aardbei,afsmolt || aardbol,afkiest || aardbol,afneust || aardbol,afseint || aardbol,afviste || aardbol,afwiste || aardigs,afboent || aardigs,afkoelt || aardigs,aflokte || aarding,afkoelt || aardlek,afstomp || aardvlo,afbiest || aardvlo,afkiest || aardvlo,afneust || aasdier,afblokt || aasdier,afklopt || aasdier,autolijn || aasgier,afblokt || aasgier,afbonkt || aasgier,afklopt || aasgier,autolijn || ablatie,afdrong || ablatie,afdronk || ablatie,afgrond || ablatie,afwrong || abortus,afdalen || abortus,afladen || abortus,aflagen || abortus,aflazen || acoliet,afbrand || aerobic,aflangt || afbaken,auditor || afboent,armslag || afbolde,amusant || afdorst,amicale || afdruip,atonale || afdrupt,anabole || afdrupt,analoge || afgaven,auditor || afgoden,arabist || afgodin,amateur || afgoten,airplay || afgrauw,alstoen || afgrist,anabole || afhaken,auditor || afhalen,auditor (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>440</index>
-                <index>681</index>
+                <index>475</index>
+                <index>676</index>
             </indices>
         </query>
         <query>
@@ -2758,12 +2744,28 @@
                     <word>affront</word>
                     <word>amicale</word>
                 </set>
+                <set>
+                    <word>afgoten</word>
+                    <word>aurelia</word>
+                </set>
+                <set>
+                    <word>afgrauw</word>
+                    <word>alstoen</word>
+                </set>
+                <set>
+                    <word>afgrist</word>
+                    <word>anabole</word>
+                </set>
+                <set>
+                    <word>afhalen</word>
+                    <word>auditor</word>
+                </set>
             </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: aalkorf,amicten || aanbrei,afsmolt || aanbrug,afloste || aanbrul,afdopte || aandoen,afruilt || aandruk,afloste || aandrijf,acoliet || aanduid,afloert || aanfokt,armelui || aangier,afhoudt || aangier,afstook || aangolf,acteurs || aangolf,actrice || aangolf,auteurs || aangolf,averuit || aangoot,afruide || aangoot,afsleur || aangrom,afklets || aanholt,afruide || aanklem,afdorst || aanklos,afvergt || aankomt,afslier || aankrui,afwoelt || aanleun,afdorst || aanloei,afdrukt || aanloei,afdrupt || aanloei,afruimt || aanloer,afbuigt || aanloer,afdrupt || aanloer,afgunst || aanloer,afruimt || aanloer,aftuigt || aanloer,afzuigt || aanlokt,afruide || aanmeld,afkorst || aanpunt,afrolde || aanreik,afoogst || aanreik,afsmolt || aanrist,afbolde || aanrolt,afhieuw || aanrolt,afruide || aanrukt,afsloeg || aanrukt,afsolde || aanslof,arbeidt || aanstik,afrolde || aanstuw,afrolde || aantrof,amicale || aantrof,angelus || aantrof,armelui || aantuur,afsloeg || aantuur,afsolde || aanvlot,afruide || aanvoeg,afruilt || aanvoel,afdrupt || aanvoel,afruimt || aanwerf,acoliet || aanwrijf,acoliet || aanzeul,afdorst || aanzeul,afstorm || aanzuig,afloert || aardbol,afneust || aardbol,afseint || aardrol,afneust || aardvlo,afneust || abortus,afdalen || abortus,afladen || abortus,aflagen || acoliet,afbrand || acoliet,afgraas || acoliet,afraden || acoliet,afragen || acoliet,afrandt || acoliet,agrafen || aerobic,aflangt || afboent,armslag || afbolde,amusant || afdalen,auditor || afdalen,autorit || afdanst,aureool || afdruip,atonale || afdrupt,anabole || afdrupt,analoge || afdrupt,atonale || affront,amicale (1.3729562E7)</printvalue>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: aalkorf,amicten || aanbrei,afsmolt || aanbrug,afloste || aanbrul,afdopte || aandoen,afruilt || aandruk,afloste || aandrijf,acoliet || aanduid,afloert || aanfokt,armelui || aangier,afhoudt || aangier,afstook || aangolf,acteurs || aangolf,actrice || aangolf,auteurs || aangolf,averuit || aangoot,afruide || aangoot,afsleur || aangrom,afklets || aanholt,afruide || aanklem,afdorst || aanklos,afvergt || aankomt,afslier || aankrui,afwoelt || aanleun,afdorst || aanloei,afdrukt || aanloei,afdrupt || aanloei,afruimt || aanloer,afbuigt || aanloer,afdrupt || aanloer,afgunst || aanloer,afruimt || aanloer,aftuigt || aanloer,afzuigt || aanlokt,afruide || aanmeld,afkorst || aanpunt,afrolde || aanreik,afoogst || aanreik,afsmolt || aanrist,afbolde || aanrolt,afhieuw || aanrolt,afruide || aanrukt,afsloeg || aanrukt,afsolde || aanslof,arbeidt || aanstik,afrolde || aanstuw,afrolde || aantrof,amicale || aantrof,angelus || aantrof,armelui || aantuur,afsloeg || aantuur,afsolde || aanvlot,afruide || aanvoeg,afruilt || aanvoel,afdrupt || aanvoel,afruimt || aanwerf,acoliet || aanwrijf,acoliet || aanzeul,afdorst || aanzeul,afstorm || aanzuig,afloert || aardbol,afneust || aardbol,afseint || aardrol,afneust || aardvlo,afneust || abortus,afdalen || abortus,afladen || abortus,aflagen || acoliet,afbrand || acoliet,afgraas || acoliet,afraden || acoliet,afragen || acoliet,afrandt || acoliet,agrafen || aerobic,aflangt || afboent,armslag || afbolde,amusant || afdalen,auditor || afdalen,autorit || afdanst,aureool || afdruip,atonale || afdrupt,anabole || afdrupt,analoge || afdrupt,atonale || affront,amicale || afgoten,aurelia || afgrauw,alstoen || afgrist,anabole || afhalen,auditor (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>440</index>
-                <index>681</index>
+                <index>475</index>
+                <index>676</index>
             </indices>
         </query>
         <query>
@@ -2876,8 +2878,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: barokst,belegen (7.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>244</index>
-                <index>1435</index>
+                <index>264</index>
+                <index>545</index>
             </indices>
         </query>
         <query>
@@ -2920,8 +2922,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: balkons,bereidt (1.309328968903437)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>244</index>
-                <index>1435</index>
+                <index>264</index>
+                <index>545</index>
             </indices>
         </query>
         <query>
@@ -3176,12 +3178,20 @@
                     <word>bedolah</word>
                     <word>bruinst</word>
                 </set>
+                <set>
+                    <word>bedrink</word>
+                    <word>bombast</word>
+                </set>
+                <set>
+                    <word>bedrukt</word>
+                    <word>bosplan</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: babysit,bedronk || babysit,beknord || babysit,blonder || babysit,bongerd || babysit,borgden || babysit,bromden || babysit,bijdroeg || backing,boldert || badjing,bolster || badjing,borstel || badkuip,bolster || badkuip,borstel || badstof,beuring || badstof,blinker || bakster,bulhond || baktrog,bindsel || baktrog,builden || bakzeil,bornput || baldert,bosnimf || baljurk,bestond || balkons,bedrupt || balkons,bedrijft || balkons,begrijpt || balkons,berghut || balkons,bericht || balkons,berucht || balkons,bevrijdt || balkons,bridget || balorig,besnijdt || baltsen,bruigom || bambino,bedrust || bambino,bestrijd || bambino,bulster || bambino,butlers || bandiet,bouwrijp || bandrem,blokhut || bangerd,botmuil || banjers,botmuil || banjirs,beklopt || banjirs,bevolkt || banjirs,bewolkt || bankier,bouwtijd || barokst,beuglijn || barokst,beuling || barokst,builden || basdrum,blokten || basterd,bowling || baziger,blondst || bazigst,blonder || bazigst,bromden || bebindt,bospark || bebrild,bontjas || bebrild,boskant || bebrild,botscan || bedolah,bruinst (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: babysit,bedronk || babysit,beknord || babysit,blonder || babysit,bongerd || babysit,borgden || babysit,bromden || babysit,bijdroeg || backing,boldert || badjing,bolster || badjing,borstel || badkuip,bolster || badkuip,borstel || badstof,beuring || badstof,blinker || bakster,bulhond || baktrog,bindsel || baktrog,builden || bakzeil,bornput || baldert,bosnimf || baljurk,bestond || balkons,bedrupt || balkons,bedrijft || balkons,begrijpt || balkons,berghut || balkons,bericht || balkons,berucht || balkons,bevrijdt || balkons,bridget || balorig,besnijdt || baltsen,bruigom || bambino,bedrust || bambino,bestrijd || bambino,bulster || bambino,butlers || bandiet,bouwrijp || bandrem,blokhut || bangerd,botmuil || banjers,botmuil || banjirs,beklopt || banjirs,bevolkt || banjirs,bewolkt || bankier,bouwtijd || barokst,beuglijn || barokst,beuling || barokst,builden || basdrum,blokten || basterd,bowling || baziger,blondst || bazigst,blonder || bazigst,bromden || bebindt,bospark || bebrild,bontjas || bebrild,boskant || bebrild,botscan || bedolah,bruinst || bedrink,bombast || bedrukt,bosplan (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>243</index>
-                <index>790</index>
+                <index>262</index>
+                <index>1216</index>
             </indices>
         </query>
         <query>
@@ -3251,8 +3261,8 @@
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: batsman,breiwol || bebloed,brisant || beboert,bindsla || bebrild,boskant (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>241</index>
-                <index>1503</index>
+                <index>261</index>
+                <index>553</index>
             </indices>
         </query>
         <query>
@@ -4513,8 +4523,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: garelen,gekuist (12.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>239</index>
-                <index>264</index>
+                <index>258</index>
+                <index>538</index>
             </indices>
         </query>
         <query>
@@ -4547,18 +4557,18 @@
             <algorithm>D2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1.597609561752988</bestscore>
+            <bestscore>1.5261655566127497</bestscore>
             <bestsets>
                 <set>
-                    <word>gastrol</word>
-                    <word>gekiend</word>
+                    <word>gedrein</word>
+                    <word>goklust</word>
                 </set>
             </bestsets>
-            <printvalue>D2p) Minimise average group (Jochem), 2 words: gastrol,gekiend (1.597609561752988)</printvalue>
+            <printvalue>D2p) Minimise average group (Jochem), 2 words: gedrein,goklust (1.5261655566127497)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>239</index>
-                <index>264</index>
+                <index>258</index>
+                <index>538</index>
             </indices>
         </query>
         <query>
@@ -4761,8 +4771,8 @@
             <printvalue>F1p) Minimise maximum possible words, 2 words: galmden,gorigst || gasblok,gefruit || gasblok,gegrint || gasblok,geprint || gasblok,getrimd || gasbron,geflikt || gasbron,geflipt || gasbron,geglipt || gasbron,gelicht || gasbron,gepuild || gasbron,getjilp || gastrol,gekuifd || gastrol,gezwind || gasvorm,geblikt || gasvorm,geflikt || gasvorm,geflipt || gasvorm,gefluit || gasvorm,geglipt || gasvorm,gepuild || gasvorm,getjilp || gaswolk,gefruit || gaswolk,gegrint || gaswolk,geprint || gaswolk,getrimd || gearing,goklust || gebalkt,gording || gebalkt,grondig || gebankt,gidsrol || geblaft,gording || geblind,gomhars || geblokt,grauwig || gebrast,golving || gebrokt,glaspui || gebromd,glaspui || gebruik,golftas || gebruis,golfkam || gebruld,gigaton || gebuikt,graspol || gebuild,gomhars || gebuisd,golfkar || gebulkt,giropas (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>239</index>
-                <index>264</index>
+                <index>258</index>
+                <index>538</index>
             </indices>
         </query>
         <query>
@@ -4826,8 +4836,8 @@
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: galerie,goudmijn || galmgat,geroeid || galmgat,goeierd || galmgat,groeide || gastrol,geminde (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>239</index>
-                <index>264</index>
+                <index>258</index>
+                <index>538</index>
             </indices>
         </query>
         <query>
@@ -5312,8 +5322,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: kapstok,klieder || kerkten,klipdas || kistdam,kreukel (5.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>364</index>
-                <index>995</index>
+                <index>399</index>
+                <index>1025</index>
             </indices>
         </query>
         <query>
@@ -5356,8 +5366,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: kapstok,krielen (1.2083780880773363)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>364</index>
-                <index>995</index>
+                <index>399</index>
+                <index>1025</index>
             </indices>
         </query>
         <query>
@@ -5624,12 +5634,40 @@
                     <word>kistdam</word>
                     <word>kronkel</word>
                 </set>
+                <set>
+                    <word>klaphek</word>
+                    <word>kornuit</word>
+                </set>
+                <set>
+                    <word>klaphek</word>
+                    <word>korting</word>
+                </set>
+                <set>
+                    <word>klauwde</word>
+                    <word>kniptor</word>
+                </set>
+                <set>
+                    <word>klauwde</word>
+                    <word>korstig</word>
+                </set>
+                <set>
+                    <word>klauwde</word>
+                    <word>korting</word>
+                </set>
+                <set>
+                    <word>klauwen</word>
+                    <word>korstig</word>
+                </set>
+                <set>
+                    <word>klauwer</word>
+                    <word>kondigt</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: kakster,kloving || kalfjes,kniptor || kalfjes,kornuit || kalfjes,korting || kalfkoe,kunstig || kalimijn,korstje || kalimijn,kortweg || kalkoen,krimpst || kalkoen,kustrif || kalkput,kongsie || kalkvrij,koenjit || kalmink,kersouw || kalmink,korstje || kalmink,kortweg || kalmink,kosterij || kalmink,kouters || kamhout,klinker || kamhout,krinkel || kamigst,kronkel || kampong,krielst || kanelig,kopstuk || kanjers,kilkoud || kapblok,kristen || kapbord,kleinst || kapbord,klikten || kapbord,klinket || kapstok,kernlid || kapstok,kribden || kapstok,kringel || kapstok,kuilden || karbouw,kinkels || karbouw,kleinst || karbouw,klimnet || karbouw,klisten || kariboe,kustlijn || karigst,klokhen || karting,klokjes || karting,klopjes || karting,kolfjes || kartons,kuildek || kartons,kijkfile || kartouw,kinkels || kartouw,kniples || kartouw,knipsel || kastrol,kundige || kastrol,kweking || katwilg,kernkop || katwilg,korpsen || kauwden,korstig || kauwgom,klinker || kauwgom,krinkel || kerkmis,knalpot || kielzog,krankst || kielzog,kwartijn || kielzog,kwatrijn || kiemvrij,knalpot || kilkoud,knarpte || kistdam,kronkel (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: kakster,kloving || kalfjes,kniptor || kalfjes,kornuit || kalfjes,korting || kalfkoe,kunstig || kalimijn,korstje || kalimijn,kortweg || kalkoen,krimpst || kalkoen,kustrif || kalkput,kongsie || kalkvrij,koenjit || kalmink,kersouw || kalmink,korstje || kalmink,kortweg || kalmink,kosterij || kalmink,kouters || kamhout,klinker || kamhout,krinkel || kamigst,kronkel || kampong,krielst || kanelig,kopstuk || kanjers,kilkoud || kapblok,kristen || kapbord,kleinst || kapbord,klikten || kapbord,klinket || kapstok,kernlid || kapstok,kribden || kapstok,kringel || kapstok,kuilden || karbouw,kinkels || karbouw,kleinst || karbouw,klimnet || karbouw,klisten || kariboe,kustlijn || karigst,klokhen || karting,klokjes || karting,klopjes || karting,kolfjes || kartons,kuildek || kartons,kijkfile || kartouw,kinkels || kartouw,kniples || kartouw,knipsel || kastrol,kundige || kastrol,kweking || katwilg,kernkop || katwilg,korpsen || kauwden,korstig || kauwgom,klinker || kauwgom,krinkel || kerkmis,knalpot || kielzog,krankst || kielzog,kwartijn || kielzog,kwatrijn || kiemvrij,knalpot || kilkoud,knarpte || kistdam,kronkel || klaphek,kornuit || klaphek,korting || klauwde,kniptor || klauwde,korstig || klauwde,korting || klauwen,korstig || klauwer,kondigt (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>363</index>
-                <index>755</index>
+                <index>398</index>
+                <index>750</index>
             </indices>
         </query>
         <query>
@@ -6185,12 +6223,96 @@
                     <word>klanken</word>
                     <word>korstig</word>
                 </set>
+                <set>
+                    <word>klantje</word>
+                    <word>korstig</word>
+                </set>
+                <set>
+                    <word>klaphek</word>
+                    <word>kornuit</word>
+                </set>
+                <set>
+                    <word>klaphek</word>
+                    <word>korting</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>kloekst</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koemest</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koerste</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koester</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koetjes</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koetsen</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koetsje</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koetste</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>koketst</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>kontjes</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>kookten</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>kootjes</word>
+                </set>
+                <set>
+                    <word>klaring</word>
+                    <word>korstje</word>
+                </set>
+                <set>
+                    <word>klaroen</word>
+                    <word>kwastig</word>
+                </set>
+                <set>
+                    <word>klaroen</word>
+                    <word>kwistig</word>
+                </set>
+                <set>
+                    <word>klauwde</word>
+                    <word>kniptor</word>
+                </set>
+                <set>
+                    <word>klauwen</word>
+                    <word>korstig</word>
+                </set>
+                <set>
+                    <word>kleiige</word>
+                    <word>kratons</word>
+                </set>
             </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: kabelen,korstig || kakelen,korstig || kakster,kloving || kakster,koeling || kalfjes,korting || kalfkoe,korting || kalimijn,kortweg || kalkarm,koenjit || kalkoen,karigst || kalkoen,korstig || kalkoen,krimpst || kalkput,knoeier || kalkput,kroniek || kalkten,kopriem || kalkten,korstig || kalmink,kordate || kalmink,kortweg || kalmink,kropten || kamelen,korstig || kamiger,klokten || kamiger,kolkten || kamiger,konkelt || kamigst,kroelen || kamigst,kronkel || kamille,krokant || kamwiel,krokant || kandeel,korstig || kanelig,koerste || kanelig,koester || kanelig,koriste || kanelig,korstje || kanelig,korstte || kankert,kooplui || kanteel,korstig || kantiek,kromlag || kantige,klokrok || kantige,koelers || kantons,kriegel || kantoor,kwispel || kantore,kwispel || kaolien,karwats || kaoline,karwats || kapstok,kringel || karaoke,klimnet || karigst,kloefen || karigst,kloeken || karigst,kloeten || karigst,klokhen || karigst,klokken || karigst,klokten || karigst,klonken || karigst,klontje || karigst,knoedel || karigst,knokkel || karigst,koelden || karigst,koelkan || karigst,kogelen || karigst,kolkten || karigst,konkels || karigst,konkelt || karigst,kroelen || karigst,kronkel || karkiet,klompen || karkiet,kolgans || karnton,kwispel || kartels,knokige || karting,kloekst || karting,klokjes || karting,klopjes || karting,koelers || karting,koelies || karting,koelkop || karting,koemelk || karting,koepels || karting,kokkels || karting,kolfjes || karting,konkels || karting,kookles || karting,kooksel || karting,kopklep || kartons,kleiige || kartons,kleiweg || kartons,kriegel || kartons,kwispel || kartouw,kniples || kartouw,knipsel || karwats,klooien || karwats,koeling || karwats,koelvin || karwats,kolonie || karweit,kolgans || karweit,kopduel || kasteel,knorrig || kasteel,korting || kasteel,kroning || kastrol,knokige || kastrol,kweking || katogen,klimrek || katsjoe,klaring || katsjoe,kringel || katwilg,kernkop || katwilg,koersen || katwilg,korpsen || katwilg,korsten || kavelen,korstig || keelgat,koornis || kegelas,kniptor || kegelas,kornuit || kegelas,korting || kerkdag,kiloton || kerkmis,knalpot || kerkuil,knalpot || kernkop,klimaat || kiekten,kromlag || kielzog,knarste || kielzog,krankst || kielzog,kranste || kielzog,krokant || kiepert,kolgans || kiertje,kolgans || kikkert,kolgans || kilkoud,knarpte || klaarst,knokige || klagers,koenjit || klakken,korstig || klakten,kopriem || klakten,korstig || klampte,kroniek || klanken,korstig (1.3729562E7)</printvalue>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: kabelen,korstig || kakelen,korstig || kakster,kloving || kakster,koeling || kalfjes,korting || kalfkoe,korting || kalimijn,kortweg || kalkarm,koenjit || kalkoen,karigst || kalkoen,korstig || kalkoen,krimpst || kalkput,knoeier || kalkput,kroniek || kalkten,kopriem || kalkten,korstig || kalmink,kordate || kalmink,kortweg || kalmink,kropten || kamelen,korstig || kamiger,klokten || kamiger,kolkten || kamiger,konkelt || kamigst,kroelen || kamigst,kronkel || kamille,krokant || kamwiel,krokant || kandeel,korstig || kanelig,koerste || kanelig,koester || kanelig,koriste || kanelig,korstje || kanelig,korstte || kankert,kooplui || kanteel,korstig || kantiek,kromlag || kantige,klokrok || kantige,koelers || kantons,kriegel || kantoor,kwispel || kantore,kwispel || kaolien,karwats || kaoline,karwats || kapstok,kringel || karaoke,klimnet || karigst,kloefen || karigst,kloeken || karigst,kloeten || karigst,klokhen || karigst,klokken || karigst,klokten || karigst,klonken || karigst,klontje || karigst,knoedel || karigst,knokkel || karigst,koelden || karigst,koelkan || karigst,kogelen || karigst,kolkten || karigst,konkels || karigst,konkelt || karigst,kroelen || karigst,kronkel || karkiet,klompen || karkiet,kolgans || karnton,kwispel || kartels,knokige || karting,kloekst || karting,klokjes || karting,klopjes || karting,koelers || karting,koelies || karting,koelkop || karting,koemelk || karting,koepels || karting,kokkels || karting,kolfjes || karting,konkels || karting,kookles || karting,kooksel || karting,kopklep || kartons,kleiige || kartons,kleiweg || kartons,kriegel || kartons,kwispel || kartouw,kniples || kartouw,knipsel || karwats,klooien || karwats,koeling || karwats,koelvin || karwats,kolonie || karweit,kolgans || karweit,kopduel || kasteel,knorrig || kasteel,korting || kasteel,kroning || kastrol,knokige || kastrol,kweking || katogen,klimrek || katsjoe,klaring || katsjoe,kringel || katwilg,kernkop || katwilg,koersen || katwilg,korpsen || katwilg,korsten || kavelen,korstig || keelgat,koornis || kegelas,kniptor || kegelas,kornuit || kegelas,korting || kerkdag,kiloton || kerkmis,knalpot || kerkuil,knalpot || kernkop,klimaat || kiekten,kromlag || kielzog,knarste || kielzog,krankst || kielzog,kranste || kielzog,krokant || kiepert,kolgans || kiertje,kolgans || kikkert,kolgans || kilkoud,knarpte || klaarst,knokige || klagers,koenjit || klakken,korstig || klakten,kopriem || klakten,korstig || klampte,kroniek || klanken,korstig || klantje,korstig || klaphek,kornuit || klaphek,korting || klaring,kloekst || klaring,koemest || klaring,koerste || klaring,koester || klaring,koetjes || klaring,koetsen || klaring,koetsje || klaring,koetste || klaring,koketst || klaring,kontjes || klaring,kookten || klaring,kootjes || klaring,korstje || klaroen,kwastig || klaroen,kwistig || klauwde,kniptor || klauwen,korstig || kleiige,kratons (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>362</index>
-                <index>516</index>
+                <index>397</index>
+                <index>476</index>
             </indices>
         </query>
         <query>
@@ -6567,12 +6689,20 @@
                     <word>ontrolt</word>
                     <word>opgehad</word>
                 </set>
+                <set>
+                    <word>onweder</word>
+                    <word>opslokt</word>
+                </set>
+                <set>
+                    <word>oogdruk</word>
+                    <word>opleest</word>
+                </set>
             </bestsets>
-            <printvalue>C2p) Jochems C algorithm, 2 words: oksalen,omgordt || omsleep,oogdruk || onderaf,opslokt || ontrolt,opgehad (6.0)</printvalue>
+            <printvalue>C2p) Jochems C algorithm, 2 words: oksalen,omgordt || omsleep,oogdruk || onderaf,opslokt || ontrolt,opgehad || onweder,opslokt || oogdruk,opleest (6.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>443</index>
-                <index>477</index>
+                <index>492</index>
+                <index>899</index>
             </indices>
         </query>
         <query>
@@ -6625,8 +6755,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: omkrans,opleidt (1.262420382165605)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>443</index>
-                <index>477</index>
+                <index>492</index>
+                <index>899</index>
             </indices>
         </query>
         <query>
@@ -6829,12 +6959,16 @@
                     <word>ontward</word>
                     <word>opbloei</word>
                 </set>
+                <set>
+                    <word>oogmerk</word>
+                    <word>opbindt</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: oculair,opgoten || oculair,optomen || odalisk,omtover || odalisk,omwroet || odalisk,ontvoer || oliegas,ontrouw || oliejas,ontrouw || olieman,opsjort || ombindt,oorklep || ombindt,oplazer || ombogen,opdirkt || ombogen,opkruit || omdolen,opfrist || omdolen,opkruit || omdolen,opricht || omdroeg,ontslip || omgorde,ontslip || omkoper,ontluis || omkrans,opboeit || omloper,ondicht || omloper,ontduik || omloper,ontijdig || omloper,oxidant || omrandt,opbloei || omringd,oploste || omschop,onterfd || omsloeg,opdirkt || omsluit,onderop || omsluit,opboren || omsluit,ophoren || omsluit,oproken || omtover,opsnuif || omwoeld,onfrist || omwroet,opsnuif || onderaf,opkomst || onderom,opsluit || onmacht,oprolde || ontluis,opkomer || ontruim,oogklep || ontruim,opsloeg || ontslip,oudroze || ontward,opbloei (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: oculair,opgoten || oculair,optomen || odalisk,omtover || odalisk,omwroet || odalisk,ontvoer || oliegas,ontrouw || oliejas,ontrouw || olieman,opsjort || ombindt,oorklep || ombindt,oplazer || ombogen,opdirkt || ombogen,opkruit || omdolen,opfrist || omdolen,opkruit || omdolen,opricht || omdroeg,ontslip || omgorde,ontslip || omkoper,ontluis || omkrans,opboeit || omloper,ondicht || omloper,ontduik || omloper,ontijdig || omloper,oxidant || omrandt,opbloei || omringd,oploste || omschop,onterfd || omsloeg,opdirkt || omsluit,onderop || omsluit,opboren || omsluit,ophoren || omsluit,oproken || omtover,opsnuif || omwoeld,onfrist || omwroet,opsnuif || onderaf,opkomst || onderom,opsluit || onmacht,oprolde || ontluis,opkomer || ontruim,oogklep || ontruim,opsloeg || ontslip,oudroze || ontward,opbloei || oogmerk,opbindt (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>443</index>
-                <index>477</index>
+                <index>492</index>
+                <index>899</index>
             </indices>
         </query>
         <query>
@@ -6910,8 +7044,8 @@
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: olieden,oogarts || olieden,oorarts || omdolen,opfrist || omkrans,opboeit || omrandt,opbloei || omwroet,opsnuif || onanist,oordeel || onmacht,oprolde (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>443</index>
-                <index>477</index>
+                <index>492</index>
+                <index>899</index>
             </indices>
         </query>
         <query>
@@ -7131,12 +7265,24 @@
                     <word>poeiers</word>
                     <word>pulkten</word>
                 </set>
+                <set>
+                    <word>polsdik</word>
+                    <word>prenten</word>
+                </set>
+                <set>
+                    <word>polsdik</word>
+                    <word>preutel</word>
+                </set>
+                <set>
+                    <word>polsdik</word>
+                    <word>punteer</word>
+                </set>
             </bestsets>
-            <printvalue>C2p) Jochems C algorithm, 2 words: pakkist,pleuren || pakkist,poerden || paleert,pointes || paneert,polsdik || papkind,poetser || papkind,preutel || parfums,plekten || parkbos,pleiten || parkiet,poedels || parkiet,poeljes || pasbout,pleiner || passtuk,poelier || peauter,polsdik || peinzer,postaal || perikel,ponsgat || perikel,postman || perkjes,planton || pestbui,planeer || pierden,platkop || piespot,planeer || pikeurs,planeet || piskous,ploeter || planeer,pootvis || planeet,poeiers || planeet,pooiers || planeet,protsig || planket,poeders || planket,poeiers || planket,poepers || plastic,pokeren || plateer,polsdik || platkop,pressen || platkop,prinses || platvis,poerden || platvis,pokeren || plavuis,pretnet || plensde,portiek || plukten,poeiers || poeiers,prakten || poeiers,pulkten (4.0)</printvalue>
+            <printvalue>C2p) Jochems C algorithm, 2 words: pakkist,pleuren || pakkist,poerden || paleert,pointes || paneert,polsdik || papkind,poetser || papkind,preutel || parfums,plekten || parkbos,pleiten || parkiet,poedels || parkiet,poeljes || pasbout,pleiner || passtuk,poelier || peauter,polsdik || peinzer,postaal || perikel,ponsgat || perikel,postman || perkjes,planton || pestbui,planeer || pierden,platkop || piespot,planeer || pikeurs,planeet || piskous,ploeter || planeer,pootvis || planeet,poeiers || planeet,pooiers || planeet,protsig || planket,poeders || planket,poeiers || planket,poepers || plastic,pokeren || plateer,polsdik || platkop,pressen || platkop,prinses || platvis,poerden || platvis,pokeren || plavuis,pretnet || plensde,portiek || plukten,poeiers || poeiers,prakten || poeiers,pulkten || polsdik,prenten || polsdik,preutel || polsdik,punteer (4.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>531</index>
-                <index>861</index>
+                <index>609</index>
+                <index>692</index>
             </indices>
         </query>
         <query>
@@ -7179,18 +7325,18 @@
             <algorithm>D2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1.1394472361809045</bestscore>
+            <bestscore>1.1253101736972704</bestscore>
             <bestsets>
                 <set>
-                    <word>peilden</word>
-                    <word>postkar</word>
+                    <word>polsdik</word>
+                    <word>punteer</word>
                 </set>
             </bestsets>
-            <printvalue>D2p) Minimise average group (Jochem), 2 words: peilden,postkar (1.1394472361809045)</printvalue>
+            <printvalue>D2p) Minimise average group (Jochem), 2 words: polsdik,punteer (1.1253101736972704)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>531</index>
-                <index>861</index>
+                <index>609</index>
+                <index>692</index>
             </indices>
         </query>
         <query>
@@ -7805,12 +7951,100 @@
                     <word>pockets</word>
                     <word>primula</word>
                 </set>
+                <set>
+                    <word>pofmais</word>
+                    <word>prudent</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>punktijd</word>
+                </set>
+                <set>
+                    <word>polders</word>
+                    <word>puinbak</word>
+                </set>
+                <set>
+                    <word>polsdik</word>
+                    <word>prauwen</word>
+                </set>
+                <set>
+                    <word>polster</word>
+                    <word>puinbak</word>
+                </set>
+                <set>
+                    <word>pompier</word>
+                    <word>puntdak</word>
+                </set>
+                <set>
+                    <word>ponders</word>
+                    <word>puibalk</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pruilde</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pruimde</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pijlbrem</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>prikten</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>printje</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>pruiken</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>pruimen</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>prutsen</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>puisten</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>puistje</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>puitjes</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>purisme</word>
+                </set>
+                <set>
+                    <word>popdiva</word>
+                    <word>prutsen</word>
+                </set>
+                <set>
+                    <word>popdiva</word>
+                    <word>punters</word>
+                </set>
+                <set>
+                    <word>popster</word>
+                    <word>puibalk</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: pakhuis,plompte || pakhuis,prondel || paklijst,pompier || pakster,pijnpoli || paktouw,persing || paktouw,pimpels || paktouw,prinsje || palfium,pestkop || palfium,ponders || palfium,procent || palfium,pronkte || palfium,propten || palfium,protsen || palmden,protsig || palmpit,ponders || palmpit,provenu || palmtop,persing || palmtop,pikeurs || palmtop,pincher || palmtop,pinkers || palmtop,prinsje || palmtop,pruiken || palmwijn,porties || panders,plofkip || panders,pijlhout || pandhof,pleuris || panters,plofkip || pantser,plofkip || papbuik,pesthol || papbuik,polsten || papbuik,polster || papbuik,prondel || papiers,pijlhout || papisme,portwijn || papisme,pijlhout || papkind,polster || papkind,poreust || papyrus,piloten || parfums,pikolet || parfums,piloten || parkbos,pigment || parkbos,pluimen || parkbos,pluizen || parkbos,puilden || parkbos,punctie || parkbos,puntige || parking,postume || parking,potspel || parodie,puntvijl || parodie,pijlpunt || partjes,pijnpoli || partyen,plofkip || partyen,podiums || partyen,polsdik || partijen,plofkip || partijen,podiums || partijen,polsdik || parvenu,polsdik || pasbout,pelgrim || pasbout,pilvrije || paskwil,pompten || paskwil,procent || paskwil,propten || pasmunt,pikorde || pasmunt,poplied || pasmunt,profiel || pastorij,pluchen || pastorij,pluimde || pastorij,pluimen || pastorij,pluizen || pastorij,publiek || pastorij,puilden || pastorij,puinbed || pasvorm,pingelt || pasvorm,pinkelt || pasvorm,pluizen || pasvorm,plukten || pasvorm,puilden || pasvorm,pulkten || pasvorm,punctie || pasvorm,puntige || paswerk,pijnpoli || pausdom,pilvrije || pausdom,prikten || pausdom,printje || peilvak,pijnhout || peptalk,podiums || persdag,pijlhout || persico,puntdak || persman,plofkip || persman,pijlhout || pertang,plofkip || pertang,podiums || pertang,polsdik || pestkop,primula || petrand,plofkip || picador,plukten || picador,plunjes || picador,pulkten || picador,pulsten || picture,plafond || picture,plafons || pikeurs,plafond || pilvrije,postman || pimpels,putrand || pinakel,product || pinkers,popblad || pitcher,plafond || plafond,purisme || plafons,predikt || plafons,pruimde || plakten,podiums || planket,podiums || planter,podiums || planter,popquiz || plastic,provenu || platkop,pruimen || platkop,purisme || plavuis,procent || plavuis,pronkte || plavuis,propten || pleuris,pompbak || pleuris,popband || plombes,putrand || pluchen,postkar || pluimde,postpak || pluimen,postkar || pluimen,postpak || pluizen,postkar || pluizen,postpak || pluizer,ponsgat || pluizer,postman || plunder,pofmais || plunder,postbak || plunder,postpak || plunder,postvak || plunder,postzak || plunjer,pofmais || plunjer,postbak || plunjer,postpak || plunjer,postvak || plunjer,postzak || pluvier,ponsgat || pluvier,postman || pockets,primula (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: pakhuis,plompte || pakhuis,prondel || paklijst,pompier || pakster,pijnpoli || paktouw,persing || paktouw,pimpels || paktouw,prinsje || palfium,pestkop || palfium,ponders || palfium,procent || palfium,pronkte || palfium,propten || palfium,protsen || palmden,protsig || palmpit,ponders || palmpit,provenu || palmtop,persing || palmtop,pikeurs || palmtop,pincher || palmtop,pinkers || palmtop,prinsje || palmtop,pruiken || palmwijn,porties || panders,plofkip || panders,pijlhout || pandhof,pleuris || panters,plofkip || pantser,plofkip || papbuik,pesthol || papbuik,polsten || papbuik,polster || papbuik,prondel || papiers,pijlhout || papisme,portwijn || papisme,pijlhout || papkind,polster || papkind,poreust || papyrus,piloten || parfums,pikolet || parfums,piloten || parkbos,pigment || parkbos,pluimen || parkbos,pluizen || parkbos,puilden || parkbos,punctie || parkbos,puntige || parking,postume || parking,potspel || parodie,puntvijl || parodie,pijlpunt || partjes,pijnpoli || partyen,plofkip || partyen,podiums || partyen,polsdik || partijen,plofkip || partijen,podiums || partijen,polsdik || parvenu,polsdik || pasbout,pelgrim || pasbout,pilvrije || paskwil,pompten || paskwil,procent || paskwil,propten || pasmunt,pikorde || pasmunt,poplied || pasmunt,profiel || pastorij,pluchen || pastorij,pluimde || pastorij,pluimen || pastorij,pluizen || pastorij,publiek || pastorij,puilden || pastorij,puinbed || pasvorm,pingelt || pasvorm,pinkelt || pasvorm,pluizen || pasvorm,plukten || pasvorm,puilden || pasvorm,pulkten || pasvorm,punctie || pasvorm,puntige || paswerk,pijnpoli || pausdom,pilvrije || pausdom,prikten || pausdom,printje || peilvak,pijnhout || peptalk,podiums || persdag,pijlhout || persico,puntdak || persman,plofkip || persman,pijlhout || pertang,plofkip || pertang,podiums || pertang,polsdik || pestkop,primula || petrand,plofkip || picador,plukten || picador,plunjes || picador,pulkten || picador,pulsten || picture,plafond || picture,plafons || pikeurs,plafond || pilvrije,postman || pimpels,putrand || pinakel,product || pinkers,popblad || pitcher,plafond || plafond,purisme || plafons,predikt || plafons,pruimde || plakten,podiums || planket,podiums || planter,podiums || planter,popquiz || plastic,provenu || platkop,pruimen || platkop,purisme || plavuis,procent || plavuis,pronkte || plavuis,propten || pleuris,pompbak || pleuris,popband || plombes,putrand || pluchen,postkar || pluimde,postpak || pluimen,postkar || pluimen,postpak || pluizen,postkar || pluizen,postpak || pluizer,ponsgat || pluizer,postman || plunder,pofmais || plunder,postbak || plunder,postpak || plunder,postvak || plunder,postzak || plunjer,pofmais || plunjer,postbak || plunjer,postpak || plunjer,postvak || plunjer,postzak || pluvier,ponsgat || pluvier,postman || pockets,primula || pofmais,prudent || polaire,punktijd || polders,puinbak || polsdik,prauwen || polster,puinbak || pompier,puntdak || ponders,puibalk || ponsgat,pruilde || ponsgat,pruimde || ponsgat,pijlbrem || popblad,prikten || popblad,printje || popblad,pruiken || popblad,pruimen || popblad,prutsen || popblad,puisten || popblad,puistje || popblad,puitjes || popblad,purisme || popdiva,prutsen || popdiva,punters || popster,puibalk (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>531</index>
-                <index>861</index>
+                <index>609</index>
+                <index>692</index>
             </indices>
         </query>
         <query>
@@ -10285,12 +10519,360 @@
                     <word>poerden</word>
                     <word>puitaal</word>
                 </set>
+                <set>
+                    <word>poetsen</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>poetser</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>poffers</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>pofmais</word>
+                    <word>prudent</word>
+                </set>
+                <set>
+                    <word>pofmais</word>
+                    <word>pruilen</word>
+                </set>
+                <set>
+                    <word>pofmais</word>
+                    <word>prullen</word>
+                </set>
+                <set>
+                    <word>pointer</word>
+                    <word>psalmen</word>
+                </set>
+                <set>
+                    <word>pointer</word>
+                    <word>puitaal</word>
+                </set>
+                <set>
+                    <word>pointer</word>
+                    <word>putgalg</word>
+                </set>
+                <set>
+                    <word>pointes</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>pokeren</word>
+                    <word>puitaal</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>postman</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>prudent</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>prutsen</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>puisten</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>pulsten</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>punktijd</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>puntdak</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>punters</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>puntige</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>puntjes</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>putrand</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>putsten</word>
+                </set>
+                <set>
+                    <word>polaire</word>
+                    <word>putting</word>
+                </set>
+                <set>
+                    <word>polders</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>polders</word>
+                    <word>puinbak</word>
+                </set>
+                <set>
+                    <word>polders</word>
+                    <word>punaise</word>
+                </set>
+                <set>
+                    <word>polenta</word>
+                    <word>premies</word>
+                </set>
+                <set>
+                    <word>polenta</word>
+                    <word>primers</word>
+                </set>
+                <set>
+                    <word>polenta</word>
+                    <word>pruilde</word>
+                </set>
+                <set>
+                    <word>polenta</word>
+                    <word>pruimde</word>
+                </set>
+                <set>
+                    <word>polenta</word>
+                    <word>prullig</word>
+                </set>
+                <set>
+                    <word>polenta</word>
+                    <word>purisme</word>
+                </set>
+                <set>
+                    <word>poliert</word>
+                    <word>postman</word>
+                </set>
+                <set>
+                    <word>poliert</word>
+                    <word>psalmen</word>
+                </set>
+                <set>
+                    <word>poliert</word>
+                    <word>punaise</word>
+                </set>
+                <set>
+                    <word>poliert</word>
+                    <word>puntdak</word>
+                </set>
+                <set>
+                    <word>poliert</word>
+                    <word>putrand</word>
+                </set>
+                <set>
+                    <word>politie</word>
+                    <word>profaan</word>
+                </set>
+                <set>
+                    <word>politie</word>
+                    <word>putrand</word>
+                </set>
+                <set>
+                    <word>polsdik</word>
+                    <word>prauwen</word>
+                </set>
+                <set>
+                    <word>polstas</word>
+                    <word>priemen</word>
+                </set>
+                <set>
+                    <word>polstas</word>
+                    <word>pruiken</word>
+                </set>
+                <set>
+                    <word>polstas</word>
+                    <word>pruilen</word>
+                </set>
+                <set>
+                    <word>polstas</word>
+                    <word>pruimen</word>
+                </set>
+                <set>
+                    <word>polsten</word>
+                    <word>primaat</word>
+                </set>
+                <set>
+                    <word>polsten</word>
+                    <word>primair</word>
+                </set>
+                <set>
+                    <word>polsten</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>polster</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>polster</word>
+                    <word>puinbak</word>
+                </set>
+                <set>
+                    <word>polster</word>
+                    <word>punaise</word>
+                </set>
+                <set>
+                    <word>ponders</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>ponders</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>ponders</word>
+                    <word>puibalk</word>
+                </set>
+                <set>
+                    <word>ponders</word>
+                    <word>puitaal</word>
+                </set>
+                <set>
+                    <word>poneert</word>
+                    <word>puitaal</word>
+                </set>
+                <set>
+                    <word>poneren</word>
+                    <word>puitaal</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pruilde</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pruilen</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pruiler</word>
+                </set>
+                <set>
+                    <word>ponsgat</word>
+                    <word>pueriel</word>
+                </set>
+                <set>
+                    <word>ponsoen</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>ponsten</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>pontman</word>
+                    <word>pruilde</word>
+                </set>
+                <set>
+                    <word>pooiden</word>
+                    <word>psalter</word>
+                </set>
+                <set>
+                    <word>pooiers</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>pooiers</word>
+                    <word>pullman</word>
+                </set>
+                <set>
+                    <word>poolkap</word>
+                    <word>puisten</word>
+                </set>
+                <set>
+                    <word>poolkap</word>
+                    <word>puistje</word>
+                </set>
+                <set>
+                    <word>poolkap</word>
+                    <word>puitjes</word>
+                </set>
+                <set>
+                    <word>poorten</word>
+                    <word>puitaal</word>
+                </set>
+                <set>
+                    <word>poosden</word>
+                    <word>primula</word>
+                </set>
+                <set>
+                    <word>pootaan</word>
+                    <word>pruilde</word>
+                </set>
+                <set>
+                    <word>pootaan</word>
+                    <word>pruilen</word>
+                </set>
+                <set>
+                    <word>pootaan</word>
+                    <word>pruiler</word>
+                </set>
+                <set>
+                    <word>pootaan</word>
+                    <word>pueriel</word>
+                </set>
+                <set>
+                    <word>pootaan</word>
+                    <word>pulseer</word>
+                </set>
+                <set>
+                    <word>pootgat</word>
+                    <word>pruilen</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>puisten</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>puistje</word>
+                </set>
+                <set>
+                    <word>popblad</word>
+                    <word>puitjes</word>
+                </set>
+                <set>
+                    <word>popdiva</word>
+                    <word>prutsen</word>
+                </set>
+                <set>
+                    <word>popdiva</word>
+                    <word>punters</word>
+                </set>
+                <set>
+                    <word>poplied</word>
+                    <word>putbaas</word>
+                </set>
+                <set>
+                    <word>poplied</word>
+                    <word>putrand</word>
+                </set>
+                <set>
+                    <word>popster</word>
+                    <word>poulain</word>
+                </set>
+                <set>
+                    <word>popster</word>
+                    <word>puibalk</word>
+                </set>
             </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: paaiden,poreust || paaiden,postuur || paalrot,pecunia || paalrot,pensums || paalrot,penurie || paalrot,petunia || paalrot,pluimen || paalrot,pluizen || paalrot,pruiken || paalrot,pruilen || paalrot,pruimen || paalrot,puilden || paalrot,puinbed || paalrot,puinweg || paalrot,puisten || paalrot,punaise || paalrot,punctie || paalrot,puntige || paander,pistool || paander,pitloos || paander,pothuis || paarden,pistool || paarden,pitloos || paarden,pothuis || paarlen,pistool || paarlen,pitloos || paarlen,podiums || paarlen,pootvis || paarlen,postmix || paarlen,postume || paarlen,postuum || paarlen,pothuis || paarsig,peloton || paarsig,ploften || paarsig,pookten || paartje,poulain || paaslam,pointer || pagoden,pleuris || pagodes,pruilen || pakhuis,plompte || pakhuis,prondel || pakster,poulain || paktouw,pimpels || paktouw,praline || palatum,perrons || palatum,persoon || palatum,pionier || palatum,pointer || palatum,ponders || palatum,poseren || palatum,prooien || palatum,protsen || paleren,podiums || paleren,postmix || paleren,pothuis || palfium,perrons || palfium,persoon || palfium,pestkop || palfium,ponders || palfium,poseren || palfium,protsen || pallium,persoon || pallium,pestkop || pallium,ponders || pallium,protsen || palmden,porties || palmden,protsig || palmpit,perrons || palmpit,persoon || palmpit,ponders || palmpit,poseren || palmpit,protsen || palmtak,pionier || palmtop,persing || palmtop,pestbui || palmtop,pikeurs || palmtop,pinkers || palmtop,prinsen || palmtop,prinses || palmtop,prinsje || palmwijn,porties || palters,pooiden || palters,poulain || panders,pistool || panders,pitloos || panders,poulain || panders,puiloog || pandhof,pleuris || pandita,poreust || pandita,poseurs || pandoer,pietlut || pandoer,pistool || pandoer,pitbull || pandoer,pitloos || pandoer,platuit || pandoer,plavuis || pandoer,pleuris || pandoer,pluisde || pandoer,pluisje || pandoer,politie || pandoer,puitaal || paneert,puiloog || panters,plofkip || panters,plooide || panters,poulain || panters,puiloog || pantser,plofkip || pantser,plooide || pantser,poulain || pantser,puiloog || papbuik,pesthol || papbuik,polsten || papbuik,polster || papbuik,postale || papbuik,potspel || papfles,pointer || papiers,peloton || papiers,ploften || papkind,poreust || papyrus,piloten || papyrus,plooien || parades,poulain || paradox,puisten || parafen,pistool || parafen,pitloos || parafen,politie || paraplu,piloten || paraplu,piotten || paraplu,poetsen || paraplu,pointer || paraplu,pointes || parasol,petunia || parasol,pigment || parasol,puilden || parasol,puinbed || parasol,puisten || parasol,punctie || parasol,puntige || pardoen,pietlut || pardoen,pistool || pardoen,pitbull || pardoen,pitloos || pardoen,platuit || pardoen,plavuis || pardoen,pleuris || pardoen,pluisde || pardoen,pluisje || pardoen,politie || pardoen,puitaal || pardoes,pluimen || pardoes,pluizen || pardoes,poulain || pardoes,pruilen || pardoes,puilden || parelen,podiums || parelen,postmix || parelen,pothuis || parfait,piloten || parfait,plonsde || parfait,plonsen || parfait,polsten || parfums,piloten || parfums,plooien || parkbos,puilden || parkiet,popsong || parmant,politie || parodie,plukten || parodie,plunjes || parodie,plussen || parodie,pulkten || parodie,pulsten || parodie,puntlijn || parodie,puntvijl || parodie,pijlpunt || parolen,pestbui || parolen,platuit || parolen,pluisde || parolen,podiums || parolen,postmix || parolen,pothuis || parolen,puisten || parolen,puistig || parolen,puistje || parolen,puitaal || parolen,puitjes || parolen,puntige || parolen,putting || partjes,poulain || partner,puiloog || partyen,puiloog || partijen,puiloog || paruren,pistool || paruren,pitloos || paruren,polsdik || parures,piloten || parures,plooien || parures,pooling || parvenu,pistool || parvenu,pitloos || parvenu,polsdik || pasbout,pelgrim || pasbout,pilaren || pasbout,pimpels || pasbout,pimpelt || pasbout,pleiner || pasbout,plenair || pasbout,poplied || pasbout,praline || pasbout,prielen || pasbout,pruilen || pasfoto,pilaren || pasfoto,pruilen || paskwil,propten || paslood,penurie || paslood,pienter || paslood,piraten || paslood,pointer || paslood,prikten || paslood,printen || paslood,printer || paslood,printje || paslood,printte || paslood,pruiken || paslood,pruilen || paslood,pruimen || pasmunt,pelorie || pasmunt,poelier || pasmunt,polaire || pasmunt,poliert || pasmunt,profiel || passant,profiel || pastifi,prondel || pastoor,peilden || pastoor,pilaren || pastoor,pinakel || pastoor,pluchen || pastoor,pluimen || pastoor,pluizen || pastoor,pruilen || pastoor,puilden || pastors,pluimen || pastors,pluizen || pastors,pruilen || pastors,puilden || pastorij,pluimde || pastorij,pluimen || pastorij,pluisde || pastorij,pluizen || pastorij,pruilde || pastorij,pruilen || pastorij,publiek || pastorij,puilden || pasvorm,piloten || pasvorm,pingelt || pasvorm,pinkelt || pasvorm,pleiten || pasvorm,plinten || pasvorm,plukten || pasvorm,puilden || pasvorm,pulkten || patriot,pendule || patriot,pluggen || patriot,plunder || patriot,plunjes || patriot,plussen || patriot,psalmen || patriot,puilden || patriot,pulsten || patroon,pimpels || patroon,pleuris || patroon,pluimde || patroon,pluisde || patroon,pluisje || patroon,pruilde || patroon,puilden || patsers,poulain || paupers,piloten || paupers,plooien || paupers,pooling || pausdom,pilaren || pausdom,pleiner || pausdom,plenair || pausdom,praline || pausdom,prielen || pausdom,pruilen || peauter,pianola || peauter,pooling || pecunia,polders || pecunia,polster || pecunia,portaal || peilers,pontman || peilers,pootaan || peilers,postman || pelgrim,ponsgat || pelgrim,postman || pelorie,postman || pelorie,puntdak || pelorie,putrand || pelsrob,petunia || pelsrob,poulain || pelster,poulain || penster,poulain || pensums,portaal || penters,poulain || penurie,plafons || penurie,polstas || penurie,portaal || penurie,postaal || penurie,postale || penurie,postpak || penurie,potstal || peptalk,podiums || pergola,petunia || pergola,puisten || pergola,punctie || pergola,puntige || pergola,putting || perikel,postman || perkoen,puitaal || perrons,platuit || perrons,poulain || perrons,puitaal || persdag,poulain || persman,pikolet || persman,piloten || persman,pistool || persman,pitloos || persman,plofkip || persman,poliert || persman,politie || persman,priktol || persman,puiloog || persman,pijlhout || persmap,piloten || persoon,platina || persoon,platuit || persoon,plavuis || persoon,poulain || persoon,primula || persoon,puibalk || persoon,puitaal || persten,poulain || perswet,pianola || perswet,poulain || pertang,poulain || pertang,puiloog || pestbui,platkop || pestbui,poolkap || pestbui,popblad || pesterij,poulain || pestkop,poulain || pestkop,primula || pestkop,puibalk || petrand,pistool || petrand,pitloos || petrand,poulain || petrand,puiloog || petunia,ploeger || petunia,polders || petunia,polster || petunia,portaal || petunia,proloog || petunia,prondel || peuters,pianola || peuters,poulain || peutert,pianola || pianola,picture || pianola,poetser || pianola,polster || pianola,popster || pianola,poreust || pianola,porster || pianola,porties || pianola,poseert || pianola,poseurs || pianola,posteer || pianola,posters || pianola,potters || pianola,poverst || pianola,preutel || pianola,preutse || pianola,profest || pianola,prudent || pianola,prutsen || pianola,prutser || pianola,prutste || pianola,pruttel || pianola,punteer || pianola,punters || pianola,puntert || pianola,pureert || pianola,purpert || pianola,putters || piaster,plafond || piaster,plompen || piaster,poulain || picador,plukten || picador,plunjes || picador,plussen || picador,pulkten || picador,pulsten || picture,plafond || picture,plafons || picture,poenaal || piekuur,plafons || pierrot,psalmen || piespot,puibalk || piespot,putrand || pietlut,profaan || pietlut,propaan || pikeurs,plafond || pikeurs,plafons || pikeurs,planton || pikeurs,polenta || pikolet,putrand || pilaren,podiums || pilaren,poreust || pilaren,postbus || pilaren,postdoc || pilaren,postman || pilaren,postmix || pilaren,postume || pilaren,postuum || pilaren,postuur || pilaren,pothuis || pilaren,potteus || pilaren,product || pilaren,prutoog || piloten,pluraal || piloten,putrand || pilvrije,postman || pimpels,putrand || pinakel,poreust || pinakel,postuur || pinakel,product || pinakel,prutoog || pionier,plateau || pionier,puitaal || pionier,putgalg || piotten,pluraal || piraten,plombes || piraten,puiloog || piskous,planter || pispaal,poorten || pistier,plafond || pistier,poulain || pistool,praaien || pistool,prangde || pistool,prauwen || pitloos,praaien || pitloos,prangde || pitloos,prauwen || pitriet,plafond || plaatst,prooien || plafond,pleuris || plafond,porties || plafond,purisme || plafons,pleuris || plafons,pluizer || plafons,pluvier || plafons,predikt || plafons,premium || plafons,primeur || plafons,pruiken || plafons,pruilde || plafons,pruilen || plafons,pruiler || plafons,pruimde || plafons,pruimen || plafons,pruimer || plafons,pueriel || plafons,purisme || plamuur,pointes || planeer,podiums || planeer,postmix || planeer,pothuis || planner,podiums || planner,postmix || planner,pothuis || planter,podiums || planter,pofmais || planter,postmix || planter,pothuis || planter,puiloog || planton,pleuris || planton,premies || planton,primers || planton,pruilde || planton,pruimde || planton,purisme || plaspil,poorten || plasten,pompier || plastic,provenu || plataan,pooiers || plateau,pointer || plateau,porring || plateau,priorin || plateau,pronazi || plateau,prooien || platina,poffers || platina,pompeus || platina,pooiers || platina,poreust || platina,poreuze || platina,poseurs || platina,profase || platina,profest || platina,provenu || plating,poreust || plating,poreuze || plating,poseurs || plating,provenu || platkop,puisten || platkop,punaise || platkop,purisme || platuit,poerden || platuit,ponders || platuit,poseren || platuit,prondel || platuit,protsen || platvis,provenu || plavuis,poerden || plavuis,pointer || plavuis,ponders || plavuis,poneert || plavuis,poorten || plavuis,procent || plavuis,profane || plavuis,proffen || plavuis,prondel || plavuis,pronkte || plavuis,pronter || plavuis,prooien || plavuis,propten || plavuis,protsen || pleiner,postman || pleiter,postman || plenair,podiums || plenair,poreust || plenair,postbus || plenair,postdoc || plenair,postman || plenair,postmix || plenair,postume || plenair,postuum || plenair,postuur || plenair,pothuis || plenair,potteus || plenair,product || plenair,prutoog || pletrol,punaise || pleuren,pofmais || pleuren,postpak || pleuris,polenta || pleuris,ponsgat || pleuris,pontman || pleuris,pootaan || pleuris,popband || pleuris,postman || pleuris,profaan || pleuris,profane || plevier,postman || plezier,postman || ploeter,punaise || ploffer,punaise || plonsde,primaat || plonsde,primula || plonsen,primaat || plooide,putrand || plooien,probaat || plooien,putrand || plotter,punaise || pluimde,postpak || pluimen,portaal || pluimen,postkar || pluimen,postpak || pluimen,probaat || pluimen,profase || pluisde,profaan || pluisde,profane || pluisde,pronazi || pluisde,propaan || pluisje,profaan || pluisje,profane || pluizen,portaal || pluizen,postkar || pluizen,postpak || pluizen,probaat || pluizen,profase || pluizer,ponsgat || pluizer,pootaan || pluizer,postman || plukker,postman || plunder,pofmais || plunjer,pofmais || pluraal,pointer || pluraal,pointes || pluvier,ponsgat || pluvier,pootaan || pluvier,postman || podagra,puisten || podiums,praline || poeders,poulain || poedert,poulain || poeiert,psalmen || poelier,postman || poelier,puntdak || poelier,putrand || poepgat,pruilen || poerden,puitaal (1.3729562E7)</printvalue>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: paaiden,poreust || paaiden,postuur || paalrot,pecunia || paalrot,pensums || paalrot,penurie || paalrot,petunia || paalrot,pluimen || paalrot,pluizen || paalrot,pruiken || paalrot,pruilen || paalrot,pruimen || paalrot,puilden || paalrot,puinbed || paalrot,puinweg || paalrot,puisten || paalrot,punaise || paalrot,punctie || paalrot,puntige || paander,pistool || paander,pitloos || paander,pothuis || paarden,pistool || paarden,pitloos || paarden,pothuis || paarlen,pistool || paarlen,pitloos || paarlen,podiums || paarlen,pootvis || paarlen,postmix || paarlen,postume || paarlen,postuum || paarlen,pothuis || paarsig,peloton || paarsig,ploften || paarsig,pookten || paartje,poulain || paaslam,pointer || pagoden,pleuris || pagodes,pruilen || pakhuis,plompte || pakhuis,prondel || pakster,poulain || paktouw,pimpels || paktouw,praline || palatum,perrons || palatum,persoon || palatum,pionier || palatum,pointer || palatum,ponders || palatum,poseren || palatum,prooien || palatum,protsen || paleren,podiums || paleren,postmix || paleren,pothuis || palfium,perrons || palfium,persoon || palfium,pestkop || palfium,ponders || palfium,poseren || palfium,protsen || pallium,persoon || pallium,pestkop || pallium,ponders || pallium,protsen || palmden,porties || palmden,protsig || palmpit,perrons || palmpit,persoon || palmpit,ponders || palmpit,poseren || palmpit,protsen || palmtak,pionier || palmtop,persing || palmtop,pestbui || palmtop,pikeurs || palmtop,pinkers || palmtop,prinsen || palmtop,prinses || palmtop,prinsje || palmwijn,porties || palters,pooiden || palters,poulain || panders,pistool || panders,pitloos || panders,poulain || panders,puiloog || pandhof,pleuris || pandita,poreust || pandita,poseurs || pandoer,pietlut || pandoer,pistool || pandoer,pitbull || pandoer,pitloos || pandoer,platuit || pandoer,plavuis || pandoer,pleuris || pandoer,pluisde || pandoer,pluisje || pandoer,politie || pandoer,puitaal || paneert,puiloog || panters,plofkip || panters,plooide || panters,poulain || panters,puiloog || pantser,plofkip || pantser,plooide || pantser,poulain || pantser,puiloog || papbuik,pesthol || papbuik,polsten || papbuik,polster || papbuik,postale || papbuik,potspel || papfles,pointer || papiers,peloton || papiers,ploften || papkind,poreust || papyrus,piloten || papyrus,plooien || parades,poulain || paradox,puisten || parafen,pistool || parafen,pitloos || parafen,politie || paraplu,piloten || paraplu,piotten || paraplu,poetsen || paraplu,pointer || paraplu,pointes || parasol,petunia || parasol,pigment || parasol,puilden || parasol,puinbed || parasol,puisten || parasol,punctie || parasol,puntige || pardoen,pietlut || pardoen,pistool || pardoen,pitbull || pardoen,pitloos || pardoen,platuit || pardoen,plavuis || pardoen,pleuris || pardoen,pluisde || pardoen,pluisje || pardoen,politie || pardoen,puitaal || pardoes,pluimen || pardoes,pluizen || pardoes,poulain || pardoes,pruilen || pardoes,puilden || parelen,podiums || parelen,postmix || parelen,pothuis || parfait,piloten || parfait,plonsde || parfait,plonsen || parfait,polsten || parfums,piloten || parfums,plooien || parkbos,puilden || parkiet,popsong || parmant,politie || parodie,plukten || parodie,plunjes || parodie,plussen || parodie,pulkten || parodie,pulsten || parodie,puntlijn || parodie,puntvijl || parodie,pijlpunt || parolen,pestbui || parolen,platuit || parolen,pluisde || parolen,podiums || parolen,postmix || parolen,pothuis || parolen,puisten || parolen,puistig || parolen,puistje || parolen,puitaal || parolen,puitjes || parolen,puntige || parolen,putting || partjes,poulain || partner,puiloog || partyen,puiloog || partijen,puiloog || paruren,pistool || paruren,pitloos || paruren,polsdik || parures,piloten || parures,plooien || parures,pooling || parvenu,pistool || parvenu,pitloos || parvenu,polsdik || pasbout,pelgrim || pasbout,pilaren || pasbout,pimpels || pasbout,pimpelt || pasbout,pleiner || pasbout,plenair || pasbout,poplied || pasbout,praline || pasbout,prielen || pasbout,pruilen || pasfoto,pilaren || pasfoto,pruilen || paskwil,propten || paslood,penurie || paslood,pienter || paslood,piraten || paslood,pointer || paslood,prikten || paslood,printen || paslood,printer || paslood,printje || paslood,printte || paslood,pruiken || paslood,pruilen || paslood,pruimen || pasmunt,pelorie || pasmunt,poelier || pasmunt,polaire || pasmunt,poliert || pasmunt,profiel || passant,profiel || pastifi,prondel || pastoor,peilden || pastoor,pilaren || pastoor,pinakel || pastoor,pluchen || pastoor,pluimen || pastoor,pluizen || pastoor,pruilen || pastoor,puilden || pastors,pluimen || pastors,pluizen || pastors,pruilen || pastors,puilden || pastorij,pluimde || pastorij,pluimen || pastorij,pluisde || pastorij,pluizen || pastorij,pruilde || pastorij,pruilen || pastorij,publiek || pastorij,puilden || pasvorm,piloten || pasvorm,pingelt || pasvorm,pinkelt || pasvorm,pleiten || pasvorm,plinten || pasvorm,plukten || pasvorm,puilden || pasvorm,pulkten || patriot,pendule || patriot,pluggen || patriot,plunder || patriot,plunjes || patriot,plussen || patriot,psalmen || patriot,puilden || patriot,pulsten || patroon,pimpels || patroon,pleuris || patroon,pluimde || patroon,pluisde || patroon,pluisje || patroon,pruilde || patroon,puilden || patsers,poulain || paupers,piloten || paupers,plooien || paupers,pooling || pausdom,pilaren || pausdom,pleiner || pausdom,plenair || pausdom,praline || pausdom,prielen || pausdom,pruilen || peauter,pianola || peauter,pooling || pecunia,polders || pecunia,polster || pecunia,portaal || peilers,pontman || peilers,pootaan || peilers,postman || pelgrim,ponsgat || pelgrim,postman || pelorie,postman || pelorie,puntdak || pelorie,putrand || pelsrob,petunia || pelsrob,poulain || pelster,poulain || penster,poulain || pensums,portaal || penters,poulain || penurie,plafons || penurie,polstas || penurie,portaal || penurie,postaal || penurie,postale || penurie,postpak || penurie,potstal || peptalk,podiums || pergola,petunia || pergola,puisten || pergola,punctie || pergola,puntige || pergola,putting || perikel,postman || perkoen,puitaal || perrons,platuit || perrons,poulain || perrons,puitaal || persdag,poulain || persman,pikolet || persman,piloten || persman,pistool || persman,pitloos || persman,plofkip || persman,poliert || persman,politie || persman,priktol || persman,puiloog || persman,pijlhout || persmap,piloten || persoon,platina || persoon,platuit || persoon,plavuis || persoon,poulain || persoon,primula || persoon,puibalk || persoon,puitaal || persten,poulain || perswet,pianola || perswet,poulain || pertang,poulain || pertang,puiloog || pestbui,platkop || pestbui,poolkap || pestbui,popblad || pesterij,poulain || pestkop,poulain || pestkop,primula || pestkop,puibalk || petrand,pistool || petrand,pitloos || petrand,poulain || petrand,puiloog || petunia,ploeger || petunia,polders || petunia,polster || petunia,portaal || petunia,proloog || petunia,prondel || peuters,pianola || peuters,poulain || peutert,pianola || pianola,picture || pianola,poetser || pianola,polster || pianola,popster || pianola,poreust || pianola,porster || pianola,porties || pianola,poseert || pianola,poseurs || pianola,posteer || pianola,posters || pianola,potters || pianola,poverst || pianola,preutel || pianola,preutse || pianola,profest || pianola,prudent || pianola,prutsen || pianola,prutser || pianola,prutste || pianola,pruttel || pianola,punteer || pianola,punters || pianola,puntert || pianola,pureert || pianola,purpert || pianola,putters || piaster,plafond || piaster,plompen || piaster,poulain || picador,plukten || picador,plunjes || picador,plussen || picador,pulkten || picador,pulsten || picture,plafond || picture,plafons || picture,poenaal || piekuur,plafons || pierrot,psalmen || piespot,puibalk || piespot,putrand || pietlut,profaan || pietlut,propaan || pikeurs,plafond || pikeurs,plafons || pikeurs,planton || pikeurs,polenta || pikolet,putrand || pilaren,podiums || pilaren,poreust || pilaren,postbus || pilaren,postdoc || pilaren,postman || pilaren,postmix || pilaren,postume || pilaren,postuum || pilaren,postuur || pilaren,pothuis || pilaren,potteus || pilaren,product || pilaren,prutoog || piloten,pluraal || piloten,putrand || pilvrije,postman || pimpels,putrand || pinakel,poreust || pinakel,postuur || pinakel,product || pinakel,prutoog || pionier,plateau || pionier,puitaal || pionier,putgalg || piotten,pluraal || piraten,plombes || piraten,puiloog || piskous,planter || pispaal,poorten || pistier,plafond || pistier,poulain || pistool,praaien || pistool,prangde || pistool,prauwen || pitloos,praaien || pitloos,prangde || pitloos,prauwen || pitriet,plafond || plaatst,prooien || plafond,pleuris || plafond,porties || plafond,purisme || plafons,pleuris || plafons,pluizer || plafons,pluvier || plafons,predikt || plafons,premium || plafons,primeur || plafons,pruiken || plafons,pruilde || plafons,pruilen || plafons,pruiler || plafons,pruimde || plafons,pruimen || plafons,pruimer || plafons,pueriel || plafons,purisme || plamuur,pointes || planeer,podiums || planeer,postmix || planeer,pothuis || planner,podiums || planner,postmix || planner,pothuis || planter,podiums || planter,pofmais || planter,postmix || planter,pothuis || planter,puiloog || planton,pleuris || planton,premies || planton,primers || planton,pruilde || planton,pruimde || planton,purisme || plaspil,poorten || plasten,pompier || plastic,provenu || plataan,pooiers || plateau,pointer || plateau,porring || plateau,priorin || plateau,pronazi || plateau,prooien || platina,poffers || platina,pompeus || platina,pooiers || platina,poreust || platina,poreuze || platina,poseurs || platina,profase || platina,profest || platina,provenu || plating,poreust || plating,poreuze || plating,poseurs || plating,provenu || platkop,puisten || platkop,punaise || platkop,purisme || platuit,poerden || platuit,ponders || platuit,poseren || platuit,prondel || platuit,protsen || platvis,provenu || plavuis,poerden || plavuis,pointer || plavuis,ponders || plavuis,poneert || plavuis,poorten || plavuis,procent || plavuis,profane || plavuis,proffen || plavuis,prondel || plavuis,pronkte || plavuis,pronter || plavuis,prooien || plavuis,propten || plavuis,protsen || pleiner,postman || pleiter,postman || plenair,podiums || plenair,poreust || plenair,postbus || plenair,postdoc || plenair,postman || plenair,postmix || plenair,postume || plenair,postuum || plenair,postuur || plenair,pothuis || plenair,potteus || plenair,product || plenair,prutoog || pletrol,punaise || pleuren,pofmais || pleuren,postpak || pleuris,polenta || pleuris,ponsgat || pleuris,pontman || pleuris,pootaan || pleuris,popband || pleuris,postman || pleuris,profaan || pleuris,profane || plevier,postman || plezier,postman || ploeter,punaise || ploffer,punaise || plonsde,primaat || plonsde,primula || plonsen,primaat || plooide,putrand || plooien,probaat || plooien,putrand || plotter,punaise || pluimde,postpak || pluimen,portaal || pluimen,postkar || pluimen,postpak || pluimen,probaat || pluimen,profase || pluisde,profaan || pluisde,profane || pluisde,pronazi || pluisde,propaan || pluisje,profaan || pluisje,profane || pluizen,portaal || pluizen,postkar || pluizen,postpak || pluizen,probaat || pluizen,profase || pluizer,ponsgat || pluizer,pootaan || pluizer,postman || plukker,postman || plunder,pofmais || plunjer,pofmais || pluraal,pointer || pluraal,pointes || pluvier,ponsgat || pluvier,pootaan || pluvier,postman || podagra,puisten || podiums,praline || poeders,poulain || poedert,poulain || poeiert,psalmen || poelier,postman || poelier,puntdak || poelier,putrand || poepgat,pruilen || poerden,puitaal || poetsen,primula || poetser,poulain || poffers,poulain || pofmais,prudent || pofmais,pruilen || pofmais,prullen || pointer,psalmen || pointer,puitaal || pointer,putgalg || pointes,primula || pokeren,puitaal || polaire,postman || polaire,prudent || polaire,prutsen || polaire,puisten || polaire,pulsten || polaire,punktijd || polaire,puntdak || polaire,punters || polaire,puntige || polaire,puntjes || polaire,putrand || polaire,putsten || polaire,putting || polders,poulain || polders,puinbak || polders,punaise || polenta,premies || polenta,primers || polenta,pruilde || polenta,pruimde || polenta,prullig || polenta,purisme || poliert,postman || poliert,psalmen || poliert,punaise || poliert,puntdak || poliert,putrand || politie,profaan || politie,putrand || polsdik,prauwen || polstas,priemen || polstas,pruiken || polstas,pruilen || polstas,pruimen || polsten,primaat || polsten,primair || polsten,primula || polster,poulain || polster,puinbak || polster,punaise || ponders,poulain || ponders,primula || ponders,puibalk || ponders,puitaal || poneert,puitaal || poneren,puitaal || ponsgat,pruilde || ponsgat,pruilen || ponsgat,pruiler || ponsgat,pueriel || ponsoen,primula || ponsten,primula || pontman,pruilde || pooiden,psalter || pooiers,poulain || pooiers,pullman || poolkap,puisten || poolkap,puistje || poolkap,puitjes || poorten,puitaal || poosden,primula || pootaan,pruilde || pootaan,pruilen || pootaan,pruiler || pootaan,pueriel || pootaan,pulseer || pootgat,pruilen || popblad,puisten || popblad,puistje || popblad,puitjes || popdiva,prutsen || popdiva,punters || poplied,putbaas || poplied,putrand || popster,poulain || popster,puibalk (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>529</index>
-                <index>612</index>
+                <index>605</index>
+                <index>886</index>
             </indices>
         </query>
         <query>
@@ -11055,8 +11637,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: scrotum,slanken (7.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>247</index>
-                <index>1311</index>
+                <index>268</index>
+                <index>1355</index>
             </indices>
         </query>
         <query>
@@ -11099,8 +11681,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: scrotum,sliepen (1.361566484517304)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>247</index>
-                <index>1311</index>
+                <index>268</index>
+                <index>1355</index>
             </indices>
         </query>
         <query>
@@ -11175,12 +11757,16 @@
                     <word>scrupel</word>
                     <word>stadion</word>
                 </set>
+                <set>
+                    <word>secundo</word>
+                    <word>spilgat</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: salines,scrotum || saphout,slibden || sardine,subplot || sausten,simlock || scantijd,spoiler || schrans,solutie || scoring,spalkte || scoring,speltak || scrotum,spinale || scrupel,stadion (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: salines,scrotum || saphout,slibden || sardine,subplot || sausten,simlock || scantijd,spoiler || schrans,solutie || scoring,spalkte || scoring,speltak || scrotum,spinale || scrupel,stadion || secundo,spilgat (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>247</index>
-                <index>311</index>
+                <index>268</index>
+                <index>355</index>
             </indices>
         </query>
         <query>
@@ -11231,8 +11817,8 @@
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: scepter,staniol || scoring,stapele || scrupel,stadion (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>247</index>
-                <index>311</index>
+                <index>267</index>
+                <index>581</index>
             </indices>
         </query>
         <query>
@@ -11572,8 +12158,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: valigst,verderf || valigst,verdoen || valigst,verkend || vastleg,vordert || vastleg,vormend || vastlig,verderf || vastlig,verdoen || vastlig,verkend || veegden,vlakuit || veendijk,volgiet || velkant,voerder || verderf,volants || verdrag,vonkelt (9.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>379</index>
-                <index>1012</index>
+                <index>416</index>
+                <index>741</index>
             </indices>
         </query>
         <query>
@@ -11616,8 +12202,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: vastlig,verdoek (1.3424317617866004)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>379</index>
-                <index>1012</index>
+                <index>416</index>
+                <index>741</index>
             </indices>
         </query>
         <query>
@@ -12080,12 +12666,28 @@
                     <word>verligt</word>
                     <word>vouwdak</word>
                 </set>
+                <set>
+                    <word>verlokt</word>
+                    <word>vijandig</word>
+                </set>
+                <set>
+                    <word>verlost</word>
+                    <word>vijandig</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>vulstof</word>
+                </set>
+                <set>
+                    <word>vermout</word>
+                    <word>visplan</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: vagelijk,vorstin || vakbond,verglim || vakbond,verligt || vakbond,verslijt || vakbond,verspil || vakbond,verstil || vakbond,vervilt || vakbond,vrijliet || vakbond,vrijstel || vakerig,voltijds || vakerig,vulstof || vakjury,volgiet || valhoek,vurigst || valigst,verfbom || valigst,verkond || valigst,verzonk || valigst,vormden || valigst,vormend || valkhof,verbidt || valkhof,verbuig || valkhof,verdict || valkhof,vergist || valkhof,verguis || valkhof,vergunt || valkhof,vermist || valkhof,vermits || valkhof,vernist || valkhof,verspin || valkhof,vertind || valkhof,verving || valkhof,verwint || valkhof,verzint || valkhof,vingert || valwind,verfpot || valwind,vergokt || valwind,vermout || valwind,verstok || valwind,verstom || valwind,verstop || valwind,voetvrij || valwind,vorkjes || vampier,voltijds || vanhier,voltijds || vanhier,vulstof || vanouds,verblik || vanouds,verfilm || vanouds,verglim || vanouds,verkilt || vanouds,verwijlt || vanouds,vrijliep || vanouds,vrijliet || vanouds,vrijviel || vanouds,vrijwiel || vanzelf,vorstig || varsity,voeglijn || varsity,volumen || vastleg,vonkvrij || vastleg,vrijhoud || vastleg,vrijpion || vastlig,verfbom || vastlig,verkond || vastlig,verzonk || vastlig,vormden || vastlig,vormend || vastrijd,voeling || vastrijd,volumen || vatbier,vouwlijn || veildag,vrijkomt || veildag,vrijkous || veildag,vrijthof || velours,vijandig || verband,vulstof || verbidt,vlakgom || verbidt,vlaskop || verbidt,volkwam || verbind,vlaskop || verbond,vlakuit || verbouw,visplan || verdict,vlakgom || verdict,vlaskop || verdict,volkwam || verdomt,visplan || verduik,volants || verdunt,vlakgom || verdunt,vlaskop || verfbom,visplan || vergast,volkuip || vergast,vouwlijn || vergift,volkwam || verglom,viaduct || vergokt,visplan || vergold,visbank || vergold,viswant || verguis,volkwam || vergund,vlaskop || vergunt,vlaskop || verhang,voltijds || verhang,vulstof || verhoud,visplan || verhout,visplan || verjong,vlakuit || verknol,viaduct || verlakt,vouwing || verlamd,vochtig || verlamt,vouwing || verlapt,vouwing || verligt,vouwdak (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: vagelijk,vorstin || vakbond,verglim || vakbond,verligt || vakbond,verslijt || vakbond,verspil || vakbond,verstil || vakbond,vervilt || vakbond,vrijliet || vakbond,vrijstel || vakerig,voltijds || vakerig,vulstof || vakjury,volgiet || valhoek,vurigst || valigst,verfbom || valigst,verkond || valigst,verzonk || valigst,vormden || valigst,vormend || valkhof,verbidt || valkhof,verbuig || valkhof,verdict || valkhof,vergist || valkhof,verguis || valkhof,vergunt || valkhof,vermist || valkhof,vermits || valkhof,vernist || valkhof,verspin || valkhof,vertind || valkhof,verving || valkhof,verwint || valkhof,verzint || valkhof,vingert || valwind,verfpot || valwind,vergokt || valwind,vermout || valwind,verstok || valwind,verstom || valwind,verstop || valwind,voetvrij || valwind,vorkjes || vampier,voltijds || vanhier,voltijds || vanhier,vulstof || vanouds,verblik || vanouds,verfilm || vanouds,verglim || vanouds,verkilt || vanouds,verwijlt || vanouds,vrijliep || vanouds,vrijliet || vanouds,vrijviel || vanouds,vrijwiel || vanzelf,vorstig || varsity,voeglijn || varsity,volumen || vastleg,vonkvrij || vastleg,vrijhoud || vastleg,vrijpion || vastlig,verfbom || vastlig,verkond || vastlig,verzonk || vastlig,vormden || vastlig,vormend || vastrijd,voeling || vastrijd,volumen || vatbier,vouwlijn || veildag,vrijkomt || veildag,vrijkous || veildag,vrijthof || velours,vijandig || verband,vulstof || verbidt,vlakgom || verbidt,vlaskop || verbidt,volkwam || verbind,vlaskop || verbond,vlakuit || verbouw,visplan || verdict,vlakgom || verdict,vlaskop || verdict,volkwam || verdomt,visplan || verduik,volants || verdunt,vlakgom || verdunt,vlaskop || verfbom,visplan || vergast,volkuip || vergast,vouwlijn || vergift,volkwam || verglom,viaduct || vergokt,visplan || vergold,visbank || vergold,viswant || verguis,volkwam || vergund,vlaskop || vergunt,vlaskop || verhang,voltijds || verhang,vulstof || verhoud,visplan || verhout,visplan || verjong,vlakuit || verknol,viaduct || verlakt,vouwing || verlamd,vochtig || verlamt,vouwing || verlapt,vouwing || verligt,vouwdak || verlokt,vijandig || verlost,vijandig || vermand,vulstof || vermout,visplan (1314721.0)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>379</index>
-                <index>1012</index>
+                <index>416</index>
+                <index>741</index>
             </indices>
         </query>
         <query>
@@ -14309,12 +14911,272 @@
                     <word>verlief</word>
                     <word>volants</word>
                 </set>
+                <set>
+                    <word>verlies</word>
+                    <word>voetpad</word>
+                </set>
+                <set>
+                    <word>verlies</word>
+                    <word>vouwdak</word>
+                </set>
+                <set>
+                    <word>verligt</word>
+                    <word>voetpad</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>visakte</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>visbank</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>vishaak</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>viskaar</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>vismaat</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>visplan</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>vistrap</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>viszaak</word>
+                </set>
+                <set>
+                    <word>verlode</word>
+                    <word>vrankst</word>
+                </set>
+                <set>
+                    <word>verlokt</word>
+                    <word>vierdag</word>
+                </set>
+                <set>
+                    <word>verlokt</word>
+                    <word>vijandig</word>
+                </set>
+                <set>
+                    <word>verlood</word>
+                    <word>visakte</word>
+                </set>
+                <set>
+                    <word>verlood</word>
+                    <word>vismaat</word>
+                </set>
+                <set>
+                    <word>verlood</word>
+                    <word>vistrap</word>
+                </set>
+                <set>
+                    <word>verlood</word>
+                    <word>vrankst</word>
+                </set>
+                <set>
+                    <word>verloof</word>
+                    <word>vetgans</word>
+                </set>
+                <set>
+                    <word>verloof</word>
+                    <word>vintage</word>
+                </set>
+                <set>
+                    <word>verloof</word>
+                    <word>viswant</word>
+                </set>
+                <set>
+                    <word>verloot</word>
+                    <word>vijandig</word>
+                </set>
+                <set>
+                    <word>verlost</word>
+                    <word>vijanden</word>
+                </set>
+                <set>
+                    <word>verlost</word>
+                    <word>vijandig</word>
+                </set>
+                <set>
+                    <word>verlost</word>
+                    <word>vijandin</word>
+                </set>
+                <set>
+                    <word>verlote</word>
+                    <word>vrijdags</word>
+                </set>
+                <set>
+                    <word>verlote</word>
+                    <word>vijandig</word>
+                </set>
+                <set>
+                    <word>verlote</word>
+                    <word>vijandin</word>
+                </set>
+                <set>
+                    <word>verlijdt</word>
+                    <word>volants</word>
+                </set>
+                <set>
+                    <word>verlijmd</word>
+                    <word>volants</word>
+                </set>
+                <set>
+                    <word>vermaan</word>
+                    <word>voltijds</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>violent</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>violist</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>vlossig</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>volgiet</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>voltige</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>voltooi</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>voltijds</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>volutes</word>
+                </set>
+                <set>
+                    <word>vermand</word>
+                    <word>vulstof</word>
+                </set>
+                <set>
+                    <word>vermant</word>
+                    <word>vloeide</word>
+                </set>
+                <set>
+                    <word>vermant</word>
+                    <word>vlooide</word>
+                </set>
+                <set>
+                    <word>vermant</word>
+                    <word>voleind</word>
+                </set>
+                <set>
+                    <word>vermant</word>
+                    <word>volheid</word>
+                </set>
+                <set>
+                    <word>vermant</word>
+                    <word>voltijds</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>vlaskop</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>volants</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>volbras</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>vollast</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>voltage</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>voorlas</word>
+                </set>
+                <set>
+                    <word>vermeid</word>
+                    <word>voorsla</word>
+                </set>
+                <set>
+                    <word>vermeit</word>
+                    <word>voldaan</word>
+                </set>
+                <set>
+                    <word>vermeit</word>
+                    <word>voldane</word>
+                </set>
+                <set>
+                    <word>vermist</word>
+                    <word>voldaan</word>
+                </set>
+                <set>
+                    <word>vermist</word>
+                    <word>voldane</word>
+                </set>
+                <set>
+                    <word>vermist</word>
+                    <word>volhard</word>
+                </set>
+                <set>
+                    <word>vermits</word>
+                    <word>voldaan</word>
+                </set>
+                <set>
+                    <word>vermits</word>
+                    <word>voldane</word>
+                </set>
+                <set>
+                    <word>vermits</word>
+                    <word>volhard</word>
+                </set>
+                <set>
+                    <word>vermoed</word>
+                    <word>visplan</word>
+                </set>
+                <set>
+                    <word>vermoed</word>
+                    <word>vitaals</word>
+                </set>
+                <set>
+                    <word>vermoed</word>
+                    <word>vlassig</word>
+                </set>
+                <set>
+                    <word>vermoed</word>
+                    <word>vliegas</word>
+                </set>
+                <set>
+                    <word>vermomd</word>
+                    <word>vitaals</word>
+                </set>
             </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: vaaglijk,verfoei || vaaglijk,vermoei || vaaglijk,verwoei || vaalwit,vormden || vaalwit,vormend || vaandel,verstok || vaandel,visgrom || vaarden,voltijds || vaarden,vulstof || vaardig,verkoel || vaardig,vloeken || vaardig,vloeker || vaardig,vloekte || vaardig,vlokten || vaardig,vonkelt || vaarten,voltijds || vaartijd,visolie || vaartijd,vloeien || vaartijd,vlossen || vaartijd,voegsel || vaartijd,voeling || vaartijd,vogelei || vaartijd,volgens || vaartijd,vondels || vaarzen,voltijds || vaatrijk,voeling || vaatrijk,vogelei || vaatrijk,vondels || vaceren,voltijds || vaderen,voltijds || vaderen,vulstof || vadsige,verknol || vadsige,verkoel || vadsige,verlokt || vadsige,vertolk || vadsige,vloeker || vadsige,voltrek || vadsige,voltrok || vadsige,voorlijn || vadsige,vrijloot || vagelijk,vibrato || vagelijk,vorstin || vakblad,vorsten || vakbond,verlies || vakbond,verliet || vakbond,verligt || vakbond,verlost || vakbond,verslijt || vakbond,verstal || vakbond,verstel || vakbond,verstil || vakbond,vleiers || vakbond,vrijstel || vakerig,voedsel || vakerig,voltijds || vakerig,voluten || vakerig,vondels || vakpers,vloeide || vaktaal,vonders || vakterm,voleind || vakterm,vondels || vaktest,vlonder || valblok,vierdes || valdeur,vismoot || valhoed,vergift || valhoed,verisme || valhoed,verkies || valhoed,vermist || valhoed,vermits || valhoed,verspil || valhoed,verspin || valhoed,verstik || valhoed,vistrap || valhoed,vistrip || valhoed,vrankst || valhoek,vertind || valhoek,vierdes || valiger,verdomt || valiger,voetpad || valiger,voltijds || valigst,verdoek || valigst,verdoem || valigst,verdomd || valigst,verdomt || valigst,verdoof || valigst,verdook || valigst,verkond || valigst,vermoed || valigst,vermomd || valigst,vodderij || valigst,voordek || valigst,vormden || valigst,vormend || valkerij,voeting || valkerij,vonnist || valkerij,vorstin || valkhof,vernist || valkhof,vierdes || valkhof,vingert || valkhof,viseren || valkuil,vorsten || valkuil,vroedst || valling,verdomt || valling,verfpot || valling,vermout || valling,vertoef || valling,voetvrij || valluik,vorsten || valluik,vroedst || valslot,verdiep || valslot,verdikt || valslot,verduik || valslot,verdwijn || valslot,verdijen || valslot,verfden || valslot,verfijnd || valslot,verkend || valslot,verkild || valslot,verkond || valslot,vermeid || valslot,versnijd || valslot,vilderij || valslot,vrijheid || valwind,verdomt || valwind,vergokt || valwind,verkoos || valwind,vermomt || valwind,vermors || valwind,vermout || valwind,verpoos || valwind,verpote || valwind,verslof || valwind,verspon || valwind,verstok || valwind,verstom || valwind,verstop || valwind,vertoef || valwind,voetrem || valwind,volkser || valwind,vomeert || valwind,vorkjes || valwind,vormeis || valwind,vormers || valwind,vormsel || vampier,voedsel || vampier,voltijds || vandaal,verstok || vandoen,verkilt || vandoen,verslik || vandoen,verslijt || vandoen,verspil || vandoen,vrijstel || vandoor,verslijt || vandoor,vismeel || vandoor,vlaktes || vandoor,vlijtige || vandoor,vrijstel || vandoor,vulstem || vandoor,vijltjes || vangers,voltijds || vangers,vulstof || vanglijn,voiture || vanglijn,vroedst || vangnet,verslof || vanhier,voltijds || vanhier,vulstof || vanille,verdomt || vanouds,verglim || vanouds,verkilt || vanouds,verlakt || vanouds,verlamt || vanouds,verlapt || vanouds,verlept || vanouds,verlief || vanouds,verliep || vanouds,verlokt || vanouds,verlijdt || vanouds,verplet || vanouds,verslijt || vanouds,vertolk || vanouds,verwijlt || vanouds,vleierij || vanouds,voltrek || vanouds,vrijliet || vanouds,vrijstel || vanouds,vrijwiel || vanzelf,vorstig || vanzelf,vorstin || vanzelf,vroedst || vanzelf,vroegst || variant,verslof || variant,voeglijn || variant,volumes || varieer,voltijds || varkens,vloeide || varkens,voltijds || varsity,voeglijn || varsity,volumen || vastbak,vlonder || vastere,voeglijn || vastlag,verdoek || vastlag,verfoei || vastlag,verkond || vastleg,verdoek || vastleg,verdoof || vastleg,verdook || vastleg,verkond || vastleg,vipdorp || vastleg,vrijpion || vastlig,verdoek || vastlig,verdoem || vastlig,verdomd || vastlig,verdomt || vastlig,verdoof || vastlig,verdook || vastlig,verkond || vastlig,vermoed || vastlig,vermomd || vastlig,vodderij || vastlig,voordek || vastlig,vormden || vastlig,vormend || vastnam,voerlui || vastpak,vlonder || vastrijd,veenmol || vastrijd,verknol || vastrijd,veronal || vastrijd,violent || vastrijd,violier || vastrijd,visolie || vastrijd,vloeden || vastrijd,vloeide || vastrijd,vloeien || vastrijd,vloeken || vastrijd,vloeren || vastrijd,vlokken || vastrijd,vlokten || vastrijd,vlonder || vastrijd,vlooide || vastrijd,vlooien || vastrijd,vlossen || vastrijd,vlotten || vastrijd,vocalen || vastrijd,voeglijn || vastrijd,voegsel || vastrijd,voelden || vastrijd,voeling || vastrijd,voerlui || vastrijd,vogelde || vastrijd,vogelei || vastrijd,vogelen || vastrijd,voldane || vastrijd,voldoen || vastrijd,voleind || vastrijd,volgden || vastrijd,volgend || vastrijd,volgens || vastrijd,volgiet || vastrijd,volheid || vastrijd,volliep || vastrijd,voltige || vastrijd,volumen || vastrijd,voluten || vastrijd,vondels || vastrijd,vonkelt || vatbier,voeglijn || vatbier,voltijds || veearts,voeglijn || veedief,volbras || veedief,voorlas || veedief,voorsla || veenmol,vrijstad || veenmos,vuilkar || veenmos,vulgair || veerdam,violent || veerdam,violist || veerdam,visloos || veerdam,visolie || veerdam,vlossig || veerdam,volgiet || veerdam,voltige || veerman,voltijds || veestal,verkond || veestal,vipdorp || veestal,vrijpion || veevoer,visplan || veildag,verpote || veildag,verspon || veildag,verstok || veildag,verstom || veildag,verstop || veildag,vertoef || veildag,voetrem || veildag,voetvrij || veildag,voltrek || veildag,vomeert || veildag,vroomst || veilden,voormat || veldkei,volbras || veldkei,voorlas || veldkei,voorsla || veldkei,voorsta || veldkei,voorwas || veldlijn,voorsta || veldrat,visgrom || veldrat,vishoek || veldrat,vismoot || veldrat,vissoep || veldrat,vormeis || veldrat,vorming || veldrit,vlaskop || veldrit,voerman || veldrit,voorman || veldrit,voornam || veldsla,verfoei || veldsla,vermoei || veldsla,vorming || velkant,visvoer || velkant,volders || velkant,vonders || velkant,vroedst || velkant,vuurgod || velours,vijandig || ventiel,voorgaf || veradem,violent || veradem,violist || veradem,visloos || veradem,visolie || veradem,vlossig || veradem,volgiet || veradem,voltige || veranda,voltijds || veranda,vulstof || verarmd,violent || verarmd,violist || verarmd,volgiet || verarmt,voleind || veraste,voeglijn || verbakt,vondels || verband,voltijds || verband,vulstof || verbant,voltijds || verbeid,vlaskop || verbena,voltijds || verbidt,vlakgom || verbidt,vlaskop || verbied,vlaskop || verblijd,volants || verbond,vlaktes || verdaan,voltijds || verdaan,vulstof || verdamp,violent || verdamp,violist || verdamp,volgiet || verdane,voltijds || verdane,vulstof || verdekt,volants || verderf,volants || verdict,vlaskop || verdien,vlaskop || verdiep,vlaskop || verdiep,volants || verdiep,volbras || verdiep,vollast || verdiep,voltage || verdiep,voorlas || verdiep,voorsla || verdikt,vlaskop || verdikt,vocalen || verdikt,volants || verdikt,volbras || verdikt,vollast || verdikt,voorlas || verdikt,voorsla || verdoek,visplan || verdoek,vitaals || verdoek,vlassig || verdoek,vlasten || verdoek,vliegas || verdoek,volants || verdoem,visplan || verdoem,vitaals || verdoem,vlassig || verdoem,vliegas || verdoen,visplan || verdoen,vlaktes || verdoen,vlakuit || verdomd,vitaals || verdomt,visplan || verdomt,vitaals || verdomt,vlaaien || verdomt,vlassig || verdomt,vliegas || verdoof,vitaals || verdoof,vlasten || verdoof,volants || verdook,vitaals || verdook,vlasten || verdook,volants || verdool,visakte || verdool,vismaat || verdool,vistrap || verdool,vrankst || verdort,visplan || verdruk,volants || verdrijf,volants || verduft,volants || verduik,volants || verduik,vollast || verdunt,vlakgom || verdunt,vlaskop || verdwijn,volants || verdwijn,vollast || verdijen,volants || verdijen,vollast || vererfd,volants || verfbad,violist || verfbad,volants || verfbad,volgiet || verfbad,voltige || verfden,volants || verfden,vollast || verfilm,volants || verfoei,vetlaag || verfoei,visplan || verfoei,vlassen || verfoei,vlasten || verfoei,volants || verfpot,visplan || verfris,volants || verfrol,vetgans || verfrol,vintage || verfrol,viswant || verfijnd,volants || verfijnd,vollast || vergaan,voltijds || vergaan,vulstof || vergald,vismoot || vergald,vissoep || vergalt,vrijpion || vergane,voltijds || vergane,vulstof || vergast,voeglijn || vergast,volumen || vergeef,volants || vergift,veronal || vergift,vocalen || vergift,volants || vergift,voldaan || vergift,voldane || verglim,voetbad || verglim,voetpad || verglijd,vibrato || verglijd,volants || vergode,visplan || vergode,vlaktes || vergode,vlakuit || vergoed,visplan || vergoed,vlaktes || vergoed,vlakuit || vergold,vestzak || vergold,visakte || vergold,visbank || vergold,vismaat || vergold,visplan || vergold,vistrap || vergold,vlaktes || vergold,vrankst || vergood,visplan || vergood,vlaktes || vergund,vlaskop || verhang,voltijds || verhang,vulstof || verheid,vlaskop || verhief,volants || verhoed,visplan || verhout,visplan || verisme,voldaan || verisme,voldane || verisme,volhard || verjong,vlakuit || verkapt,vondels || verkast,vloeden || verkast,vloeide || verkast,vlonder || verkast,vlooide || verkast,voeglijn || verkast,voelden || verkast,vogelde || verkast,voldaan || verkast,voldane || verkast,voldoen || verkast,voleind || verkast,volgden || verkast,volgend || verkast,volheid || verkast,vondels || verkend,volants || verkend,vollast || verkies,voldaan || verkies,voldane || verkies,volhard || verkild,volants || verkild,vollast || verkild,voorsta || verknol,vrijstad || verkoel,vivaria || verkond,verstal || verkond,viertal || verkond,vitaals || verkond,vlaktes || verkond,vlassig || verkond,vlasten || verkond,vliegas || verkond,volants || verkond,vollast || verkrui,volants || verlaad,vismoot || verlaad,vissoep || verlakt,voeding || verlakt,vondels || verlakt,vonders || verlakt,voogdes || verlakt,vouwing || verlamd,violent || verlamd,violist || verlamd,visboot || verlamd,visioen || verlamd,vismoot || verlamd,vissoep || verlamd,voeting || verlamd,volgiet || verlamd,vonnist || verlamd,vorstig || verlamd,vorstin || verlamt,voeding || verlamt,voleind || verlamt,vouwing || verlang,vetstof || verlang,voetkus || verlang,voltijds || verlang,vulstof || verlapt,voeding || verlapt,vouwing || verleid,vlaskop || verlief,volants (1.3729562E7)</printvalue>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: vaaglijk,verfoei || vaaglijk,vermoei || vaaglijk,verwoei || vaalwit,vormden || vaalwit,vormend || vaandel,verstok || vaandel,visgrom || vaarden,voltijds || vaarden,vulstof || vaardig,verkoel || vaardig,vloeken || vaardig,vloeker || vaardig,vloekte || vaardig,vlokten || vaardig,vonkelt || vaarten,voltijds || vaartijd,visolie || vaartijd,vloeien || vaartijd,vlossen || vaartijd,voegsel || vaartijd,voeling || vaartijd,vogelei || vaartijd,volgens || vaartijd,vondels || vaarzen,voltijds || vaatrijk,voeling || vaatrijk,vogelei || vaatrijk,vondels || vaceren,voltijds || vaderen,voltijds || vaderen,vulstof || vadsige,verknol || vadsige,verkoel || vadsige,verlokt || vadsige,vertolk || vadsige,vloeker || vadsige,voltrek || vadsige,voltrok || vadsige,voorlijn || vadsige,vrijloot || vagelijk,vibrato || vagelijk,vorstin || vakblad,vorsten || vakbond,verlies || vakbond,verliet || vakbond,verligt || vakbond,verlost || vakbond,verslijt || vakbond,verstal || vakbond,verstel || vakbond,verstil || vakbond,vleiers || vakbond,vrijstel || vakerig,voedsel || vakerig,voltijds || vakerig,voluten || vakerig,vondels || vakpers,vloeide || vaktaal,vonders || vakterm,voleind || vakterm,vondels || vaktest,vlonder || valblok,vierdes || valdeur,vismoot || valhoed,vergift || valhoed,verisme || valhoed,verkies || valhoed,vermist || valhoed,vermits || valhoed,verspil || valhoed,verspin || valhoed,verstik || valhoed,vistrap || valhoed,vistrip || valhoed,vrankst || valhoek,vertind || valhoek,vierdes || valiger,verdomt || valiger,voetpad || valiger,voltijds || valigst,verdoek || valigst,verdoem || valigst,verdomd || valigst,verdomt || valigst,verdoof || valigst,verdook || valigst,verkond || valigst,vermoed || valigst,vermomd || valigst,vodderij || valigst,voordek || valigst,vormden || valigst,vormend || valkerij,voeting || valkerij,vonnist || valkerij,vorstin || valkhof,vernist || valkhof,vierdes || valkhof,vingert || valkhof,viseren || valkuil,vorsten || valkuil,vroedst || valling,verdomt || valling,verfpot || valling,vermout || valling,vertoef || valling,voetvrij || valluik,vorsten || valluik,vroedst || valslot,verdiep || valslot,verdikt || valslot,verduik || valslot,verdwijn || valslot,verdijen || valslot,verfden || valslot,verfijnd || valslot,verkend || valslot,verkild || valslot,verkond || valslot,vermeid || valslot,versnijd || valslot,vilderij || valslot,vrijheid || valwind,verdomt || valwind,vergokt || valwind,verkoos || valwind,vermomt || valwind,vermors || valwind,vermout || valwind,verpoos || valwind,verpote || valwind,verslof || valwind,verspon || valwind,verstok || valwind,verstom || valwind,verstop || valwind,vertoef || valwind,voetrem || valwind,volkser || valwind,vomeert || valwind,vorkjes || valwind,vormeis || valwind,vormers || valwind,vormsel || vampier,voedsel || vampier,voltijds || vandaal,verstok || vandoen,verkilt || vandoen,verslik || vandoen,verslijt || vandoen,verspil || vandoen,vrijstel || vandoor,verslijt || vandoor,vismeel || vandoor,vlaktes || vandoor,vlijtige || vandoor,vrijstel || vandoor,vulstem || vandoor,vijltjes || vangers,voltijds || vangers,vulstof || vanglijn,voiture || vanglijn,vroedst || vangnet,verslof || vanhier,voltijds || vanhier,vulstof || vanille,verdomt || vanouds,verglim || vanouds,verkilt || vanouds,verlakt || vanouds,verlamt || vanouds,verlapt || vanouds,verlept || vanouds,verlief || vanouds,verliep || vanouds,verlokt || vanouds,verlijdt || vanouds,verplet || vanouds,verslijt || vanouds,vertolk || vanouds,verwijlt || vanouds,vleierij || vanouds,voltrek || vanouds,vrijliet || vanouds,vrijstel || vanouds,vrijwiel || vanzelf,vorstig || vanzelf,vorstin || vanzelf,vroedst || vanzelf,vroegst || variant,verslof || variant,voeglijn || variant,volumes || varieer,voltijds || varkens,vloeide || varkens,voltijds || varsity,voeglijn || varsity,volumen || vastbak,vlonder || vastere,voeglijn || vastlag,verdoek || vastlag,verfoei || vastlag,verkond || vastleg,verdoek || vastleg,verdoof || vastleg,verdook || vastleg,verkond || vastleg,vipdorp || vastleg,vrijpion || vastlig,verdoek || vastlig,verdoem || vastlig,verdomd || vastlig,verdomt || vastlig,verdoof || vastlig,verdook || vastlig,verkond || vastlig,vermoed || vastlig,vermomd || vastlig,vodderij || vastlig,voordek || vastlig,vormden || vastlig,vormend || vastnam,voerlui || vastpak,vlonder || vastrijd,veenmol || vastrijd,verknol || vastrijd,veronal || vastrijd,violent || vastrijd,violier || vastrijd,visolie || vastrijd,vloeden || vastrijd,vloeide || vastrijd,vloeien || vastrijd,vloeken || vastrijd,vloeren || vastrijd,vlokken || vastrijd,vlokten || vastrijd,vlonder || vastrijd,vlooide || vastrijd,vlooien || vastrijd,vlossen || vastrijd,vlotten || vastrijd,vocalen || vastrijd,voeglijn || vastrijd,voegsel || vastrijd,voelden || vastrijd,voeling || vastrijd,voerlui || vastrijd,vogelde || vastrijd,vogelei || vastrijd,vogelen || vastrijd,voldane || vastrijd,voldoen || vastrijd,voleind || vastrijd,volgden || vastrijd,volgend || vastrijd,volgens || vastrijd,volgiet || vastrijd,volheid || vastrijd,volliep || vastrijd,voltige || vastrijd,volumen || vastrijd,voluten || vastrijd,vondels || vastrijd,vonkelt || vatbier,voeglijn || vatbier,voltijds || veearts,voeglijn || veedief,volbras || veedief,voorlas || veedief,voorsla || veenmol,vrijstad || veenmos,vuilkar || veenmos,vulgair || veerdam,violent || veerdam,violist || veerdam,visloos || veerdam,visolie || veerdam,vlossig || veerdam,volgiet || veerdam,voltige || veerman,voltijds || veestal,verkond || veestal,vipdorp || veestal,vrijpion || veevoer,visplan || veildag,verpote || veildag,verspon || veildag,verstok || veildag,verstom || veildag,verstop || veildag,vertoef || veildag,voetrem || veildag,voetvrij || veildag,voltrek || veildag,vomeert || veildag,vroomst || veilden,voormat || veldkei,volbras || veldkei,voorlas || veldkei,voorsla || veldkei,voorsta || veldkei,voorwas || veldlijn,voorsta || veldrat,visgrom || veldrat,vishoek || veldrat,vismoot || veldrat,vissoep || veldrat,vormeis || veldrat,vorming || veldrit,vlaskop || veldrit,voerman || veldrit,voorman || veldrit,voornam || veldsla,verfoei || veldsla,vermoei || veldsla,vorming || velkant,visvoer || velkant,volders || velkant,vonders || velkant,vroedst || velkant,vuurgod || velours,vijandig || ventiel,voorgaf || veradem,violent || veradem,violist || veradem,visloos || veradem,visolie || veradem,vlossig || veradem,volgiet || veradem,voltige || veranda,voltijds || veranda,vulstof || verarmd,violent || verarmd,violist || verarmd,volgiet || verarmt,voleind || veraste,voeglijn || verbakt,vondels || verband,voltijds || verband,vulstof || verbant,voltijds || verbeid,vlaskop || verbena,voltijds || verbidt,vlakgom || verbidt,vlaskop || verbied,vlaskop || verblijd,volants || verbond,vlaktes || verdaan,voltijds || verdaan,vulstof || verdamp,violent || verdamp,violist || verdamp,volgiet || verdane,voltijds || verdane,vulstof || verdekt,volants || verderf,volants || verdict,vlaskop || verdien,vlaskop || verdiep,vlaskop || verdiep,volants || verdiep,volbras || verdiep,vollast || verdiep,voltage || verdiep,voorlas || verdiep,voorsla || verdikt,vlaskop || verdikt,vocalen || verdikt,volants || verdikt,volbras || verdikt,vollast || verdikt,voorlas || verdikt,voorsla || verdoek,visplan || verdoek,vitaals || verdoek,vlassig || verdoek,vlasten || verdoek,vliegas || verdoek,volants || verdoem,visplan || verdoem,vitaals || verdoem,vlassig || verdoem,vliegas || verdoen,visplan || verdoen,vlaktes || verdoen,vlakuit || verdomd,vitaals || verdomt,visplan || verdomt,vitaals || verdomt,vlaaien || verdomt,vlassig || verdomt,vliegas || verdoof,vitaals || verdoof,vlasten || verdoof,volants || verdook,vitaals || verdook,vlasten || verdook,volants || verdool,visakte || verdool,vismaat || verdool,vistrap || verdool,vrankst || verdort,visplan || verdruk,volants || verdrijf,volants || verduft,volants || verduik,volants || verduik,vollast || verdunt,vlakgom || verdunt,vlaskop || verdwijn,volants || verdwijn,vollast || verdijen,volants || verdijen,vollast || vererfd,volants || verfbad,violist || verfbad,volants || verfbad,volgiet || verfbad,voltige || verfden,volants || verfden,vollast || verfilm,volants || verfoei,vetlaag || verfoei,visplan || verfoei,vlassen || verfoei,vlasten || verfoei,volants || verfpot,visplan || verfris,volants || verfrol,vetgans || verfrol,vintage || verfrol,viswant || verfijnd,volants || verfijnd,vollast || vergaan,voltijds || vergaan,vulstof || vergald,vismoot || vergald,vissoep || vergalt,vrijpion || vergane,voltijds || vergane,vulstof || vergast,voeglijn || vergast,volumen || vergeef,volants || vergift,veronal || vergift,vocalen || vergift,volants || vergift,voldaan || vergift,voldane || verglim,voetbad || verglim,voetpad || verglijd,vibrato || verglijd,volants || vergode,visplan || vergode,vlaktes || vergode,vlakuit || vergoed,visplan || vergoed,vlaktes || vergoed,vlakuit || vergold,vestzak || vergold,visakte || vergold,visbank || vergold,vismaat || vergold,visplan || vergold,vistrap || vergold,vlaktes || vergold,vrankst || vergood,visplan || vergood,vlaktes || vergund,vlaskop || verhang,voltijds || verhang,vulstof || verheid,vlaskop || verhief,volants || verhoed,visplan || verhout,visplan || verisme,voldaan || verisme,voldane || verisme,volhard || verjong,vlakuit || verkapt,vondels || verkast,vloeden || verkast,vloeide || verkast,vlonder || verkast,vlooide || verkast,voeglijn || verkast,voelden || verkast,vogelde || verkast,voldaan || verkast,voldane || verkast,voldoen || verkast,voleind || verkast,volgden || verkast,volgend || verkast,volheid || verkast,vondels || verkend,volants || verkend,vollast || verkies,voldaan || verkies,voldane || verkies,volhard || verkild,volants || verkild,vollast || verkild,voorsta || verknol,vrijstad || verkoel,vivaria || verkond,verstal || verkond,viertal || verkond,vitaals || verkond,vlaktes || verkond,vlassig || verkond,vlasten || verkond,vliegas || verkond,volants || verkond,vollast || verkrui,volants || verlaad,vismoot || verlaad,vissoep || verlakt,voeding || verlakt,vondels || verlakt,vonders || verlakt,voogdes || verlakt,vouwing || verlamd,violent || verlamd,violist || verlamd,visboot || verlamd,visioen || verlamd,vismoot || verlamd,vissoep || verlamd,voeting || verlamd,volgiet || verlamd,vonnist || verlamd,vorstig || verlamd,vorstin || verlamt,voeding || verlamt,voleind || verlamt,vouwing || verlang,vetstof || verlang,voetkus || verlang,voltijds || verlang,vulstof || verlapt,voeding || verlapt,vouwing || verleid,vlaskop || verlief,volants || verlies,voetpad || verlies,vouwdak || verligt,voetpad || verlode,visakte || verlode,visbank || verlode,vishaak || verlode,viskaar || verlode,vismaat || verlode,visplan || verlode,vistrap || verlode,viszaak || verlode,vrankst || verlokt,vierdag || verlokt,vijandig || verlood,visakte || verlood,vismaat || verlood,vistrap || verlood,vrankst || verloof,vetgans || verloof,vintage || verloof,viswant || verloot,vijandig || verlost,vijanden || verlost,vijandig || verlost,vijandin || verlote,vrijdags || verlote,vijandig || verlote,vijandin || verlijdt,volants || verlijmd,volants || vermaan,voltijds || vermand,violent || vermand,violist || vermand,vlossig || vermand,volgiet || vermand,voltige || vermand,voltooi || vermand,voltijds || vermand,volutes || vermand,vulstof || vermant,vloeide || vermant,vlooide || vermant,voleind || vermant,volheid || vermant,voltijds || vermeid,vlaskop || vermeid,volants || vermeid,volbras || vermeid,vollast || vermeid,voltage || vermeid,voorlas || vermeid,voorsla || vermeit,voldaan || vermeit,voldane || vermist,voldaan || vermist,voldane || vermist,volhard || vermits,voldaan || vermits,voldane || vermits,volhard || vermoed,visplan || vermoed,vitaals || vermoed,vlassig || vermoed,vliegas || vermomd,vitaals (1.3729562E7)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>377</index>
-                <index>417</index>
+                <index>411</index>
+                <index>1076</index>
             </indices>
         </query>
         <query>
@@ -14925,22 +15787,5 @@
             </indices>
         </query>
     </running>
-    <finished>
-        <query>
-            <startingletter>v</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>206041.86691312384</bestscore>
-            <bestsets>
-                <set>
-                    <word>vastlig</word>
-                    <word>verkond</word>
-                </set>
-            </bestsets>
-            <printvalue>G1) Minimise average possible words with positive info, 2 words: vastlig,verkond (206041.86691312384)</printvalue>
-        </query>
-    </finished>
+    <finished/>
 </results>
