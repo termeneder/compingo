@@ -19,7 +19,7 @@ i (257):
 	F1g1K) Minimise maximum possible words, 3 words: iemand,import,indult (20536.0)
 	G1) Minimise average possible words with positive info, 1 word: intiem (221518.9766536965)
 	G1) Minimise average possible words with positive info, 2 words: inlaut,ironie (32440.486381322957)
-	G1p) Minimise average possible words with positive info, 3 words: imkers,indigo,inlaut (2674.420233463035)
+	G1) Minimise average possible words with positive info, 3 words: imkers,indigo,inlaut (2674.420233463035)
 	H1) Minimise maximum possible words with positive info, 1 word: iemand || inadem || inliet || inmeet || inmets || instem || intiem (2467531.0)
 	H1) Minimise maximum possible words with positive info, 2 words: inlaut,ironie (351780.0)
 	H1g1K) Minimise maximum possible words with positive info, 3 words: idiote,impuls,inbaar (74465.0)

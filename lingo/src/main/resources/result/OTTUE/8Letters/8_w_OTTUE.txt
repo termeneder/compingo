@@ -6,7 +6,7 @@ w (873):
 	C2) Jochems C algorithm, 1 word: waakzaam (279.0)
 	C1g1K) Minimise biggest group, 2 words: windzijde,woonzone (121.0)
 	D2) Minimise average group (Jochem), 1 word: walhalla || whizzkid (11.64)
-	D2p) Minimise average group (Jochem), 2 words: waakzaam,waakzame (6.020689655172414)
+	D2) Minimise average group (Jochem), 2 words: waakzaam,waakzame (6.020689655172414)
 	E1) Minimise average possible words, 1 word: walhalla (1.814575253305842E9)
 	E1g1K) Minimise average possible words, 2 words: whizzkid,windhond (2.854248103665521E8)
 	F1) Minimise maximum possible words, 1 word: waarnaar || walhalla || weerkeer || weledele (4.586471424E9)
