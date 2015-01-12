@@ -4,7 +4,7 @@ m (1009):
 	B3) Optimise amount of letters, 1 word: mycoloog (2.089197224975223)
 	B3) Optimise amount of letters, 2 words: monddood,monofoon (2.4013875123885033)
 	C2) Jochems C algorithm, 1 word: monofoon (309.0)
-	C1g1K) Minimise biggest group, 2 words: muithuis,mysticus (196.0)
+	C2) Jochems C algorithm, 2 words: monddood,monofoon (234.0)
 	D2) Minimise average group (Jochem), 1 word: mythisch (13.453333333333333)
 	D2) Minimise average group (Jochem), 2 words: monoloog,mycoloog (6.771812080536913)
 	E1) Minimise average possible words, 1 word: monofoon (1.7099914860891972E9)

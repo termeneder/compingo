@@ -4,7 +4,7 @@ z (682):
 	B3) Optimise amount of letters, 1 word: zuigbuis (2.271260997067449)
 	B3) Optimise amount of letters, 2 words: zaadhuid,zaaizaad (2.602639296187683)
 	C2) Jochems C algorithm, 1 word: zuurvrije (189.0)
-	C1g1K) Minimise biggest group, 2 words: zuidmuur,zuurheid || zandbank,zandland (76.0)
+	C2) Jochems C algorithm, 2 words: zaadbank,zandbaan || zaadbank,zandbank || zandbaan,zandbank (125.0)
 	D2) Minimise average group (Jochem), 1 word: zichzelf (8.023529411764706)
 	D2) Minimise average group (Jochem), 2 words: zoetzuur,zoutzuur (4.4)
 	E1) Minimise average possible words, 1 word: zaagraam (1.0845243647492669E9)

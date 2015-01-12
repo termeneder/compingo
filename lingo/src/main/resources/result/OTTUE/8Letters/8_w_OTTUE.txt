@@ -4,7 +4,7 @@ w (873):
 	B3) Optimise amount of letters, 1 word: woudduif (2.080183276059565)
 	B3) Optimise amount of letters, 2 words: waakvlam,waakzaam (2.554410080183276)
 	C2) Jochems C algorithm, 1 word: waakzaam (279.0)
-	C1g1K) Minimise biggest group, 2 words: windzijde,woonzone (121.0)
+	C2) Jochems C algorithm, 2 words: waakzaam,waakzame (198.0)
 	D2) Minimise average group (Jochem), 1 word: walhalla || whizzkid (11.64)
 	D2) Minimise average group (Jochem), 2 words: waakzaam,waakzame (6.020689655172414)
 	E1) Minimise average possible words, 1 word: walhalla (1.814575253305842E9)
