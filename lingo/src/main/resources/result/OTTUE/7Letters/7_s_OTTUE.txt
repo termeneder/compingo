@@ -9,7 +9,7 @@ s (1495):
 	C2p) Jochems C algorithm, 2 words: sapkuur,stielen (8.0)
 	C1g1K) Minimise biggest group, 3 words: saldeer,spuikom,stunter (4.0)
 	D2) Minimise average group (Jochem), 1 word: slipten (5.301418439716312)
-	D1g1K) Minimise average group, 2 words: siropen,stakelt (1.431992337164751)
+	D2p) Minimise average group (Jochem), 2 words: slakrop,stieten (1.2910189982728844)
 	D1g1K) Minimise average group, 3 words: slakrop,spietje,stuwden (1.1215303825956489)
 	E1) Minimise average possible words, 1 word: stralen (2544765.872909699)
 	E1p) Minimise average possible words, 2 words: scrupel,stadion (41935.09632107023)
