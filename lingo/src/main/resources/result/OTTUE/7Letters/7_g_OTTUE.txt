@@ -12,7 +12,7 @@ g (1604):
 	D2p) Minimise average group (Jochem), 2 words: gedrein,goklust (1.5261655566127497)
 	D1g1K) Minimise average group, 3 words: gerieve,gesnokt,gewalgd (1.2310053722179586)
 	E1) Minimise average possible words, 1 word: getarnd (2011980.6284289276)
-	E1p) Minimise average possible words, 2 words: galeien,gedrost (35409.87032418953)
+	E1p) Minimise average possible words, 2 words: geliger,gokstad (28910.452618453866)
 	E1g1K) Minimise average possible words, 3 words: gefeild,gourmet,graspad (6312.290523690773)
 	F1) Minimise maximum possible words, 1 word: gasboei || gasolie (2.2460151E7)
 	F1g1K) Minimise maximum possible words, 2 words: geruimd,graspol (1679856.0)

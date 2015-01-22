@@ -6,7 +6,7 @@ k (1375):
 	C2) Jochems C algorithm, 1 word: kakmadam (394.0)
 	C1g1K) Minimise biggest group, 2 words: kookroom,kurkboom (167.0)
 	D2) Minimise average group (Jochem), 1 word: kijkcijfer (16.97530864197531)
-	D2p) Minimise average group (Jochem), 2 words: kajakken,kazakken (6.806930693069307)
+	D2) Minimise average group (Jochem), 2 words: kijkcijfer,kijkwijzer (10.185185185185185)
 	E1) Minimise average possible words, 1 word: kaassaus (1.4239741228341818E9)
 	E1g1K) Minimise average possible words, 2 words: kneedden,knevelen (3.4989339044945455E8)
 	F1) Minimise maximum possible words, 1 word: kaassaus || keerweer || kneedden (4.586471424E9)
