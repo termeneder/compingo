@@ -6,7 +6,7 @@ p (1156):
 	C2) Jochems C algorithm, 1 word: paashaas (365.0)
 	C1g1K) Minimise biggest group, 2 words: paknaald,planbaar (98.0)
 	D2) Minimise average group (Jochem), 1 word: pilipili (14.271604938271604)
-	D2p) Minimise average group (Jochem), 2 words: paddelde,peddelde (5.838383838383838)
+	D2) Minimise average group (Jochem), 2 words: pathisch,pythisch (7.917808219178082)
 	E1) Minimise average possible words, 1 word: pilipili (1.916869632948962E9)
 	E1g1K) Minimise average possible words, 2 words: polyglot,pomoloog (3.7582052054757786E8)
 	F1) Minimise maximum possible words, 1 word: paashaas || palataal || peddelde || pilipili || piripiri || presseer (4.586471424E9)
