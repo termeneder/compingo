@@ -38,5 +38,5 @@ a (280):
 	J2) Minimise average neighbours per group (Jochem), 1 word: aftel (24.385714285714286)
 	J2) Minimise average neighbours per group (Jochem), 2 words: akten,alras (3.835714285714286)
 	J2) Minimise average neighbours per group (Jochem), 3 words: afpik,arden,atlas (1.3857142857142857)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: aapte,abdis,aflok,armen (1.0928571428571427)
+	J2) Minimise average neighbours per group (Jochem), 4 words: afbik,amper,atlas,avond || afpik,amber,atlas,avond (1.05)
 

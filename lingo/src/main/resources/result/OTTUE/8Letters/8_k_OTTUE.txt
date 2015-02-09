@@ -4,7 +4,7 @@ k (1375):
 	B3) Optimise amount of letters, 1 word: kauwmaag (2.2116363636363636)
 	B3) Optimise amount of letters, 2 words: korfboog,kromboog (2.490181818181818)
 	C2) Jochems C algorithm, 1 word: kakmadam (394.0)
-	C1g1K) Minimise biggest group, 2 words: kookroom,kurkboom (167.0)
+	C2) Jochems C algorithm, 2 words: kookboek,kookhoek (270.0)
 	D2) Minimise average group (Jochem), 1 word: kijkcijfer (16.97530864197531)
 	D2) Minimise average group (Jochem), 2 words: kijkcijfer,kijkwijzer (10.185185185185185)
 	E1) Minimise average possible words, 1 word: kaassaus (1.4239741228341818E9)
