@@ -33,4 +33,4 @@ b (417):
 	J2) Minimise average neighbours per group (Jochem), 1 word: baret (23.41726618705036)
 	J2) Minimise average neighbours per group (Jochem), 2 words: blies,borat (3.316546762589928)
 	J2) Minimise average neighbours per group (Jochem), 3 words: batik,beleg,brons || bedek,bilan,brost (1.4028776978417266)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: baadt,baalt,beker,bonus (1.460431654676259)
+	J2p) Minimise average neighbours per group (Jochem), 4 words: baadt,bezem,bolus,brink (1.1486810551558753)
