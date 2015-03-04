@@ -955,8 +955,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: beruikt,bosland (39165.7175)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>1117</index>
-                <index>1321</index>
+                <index>1330</index>
+                <index>1446</index>
             </indices>
         </query>
         <query>
@@ -1091,8 +1091,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: geluier,gokstad (25699.899625935162)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>1086</index>
-                <index>1384</index>
+                <index>1276</index>
+                <index>1299</index>
             </indices>
         </query>
         <query>
@@ -1323,27 +1323,6 @@
                 <index>0</index>
                 <index>5</index>
                 <index>460</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>s</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>7</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>41935.09632107023</bestscore>
-            <bestsets>
-                <set>
-                    <word>scrupel</word>
-                    <word>stadion</word>
-                </set>
-            </bestsets>
-            <printvalue>E1p) Minimise average possible words, 2 words: scrupel,stadion (41935.09632107023)</printvalue>
-            <allocation>10000</allocation>
-            <indices>
-                <index>1493</index>
-                <index>1494</index>
             </indices>
         </query>
         <query>
@@ -1689,8 +1668,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: barokst,belegen || bekleed,brongas || bemerkt,bosland || bereist,blokdag || betegel,bosrand (7.0)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>878</index>
-                <index>1460</index>
+                <index>1000</index>
+                <index>1001</index>
             </indices>
         </query>
         <query>
@@ -1733,8 +1712,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: balkons,bereidt (1.309328968903437)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>877</index>
-                <index>1181</index>
+                <index>998</index>
+                <index>1200</index>
             </indices>
         </query>
         <query>
@@ -2137,12 +2116,32 @@
                     <word>bidbank</word>
                     <word>bustoer</word>
                 </set>
+                <set>
+                    <word>bierbak</word>
+                    <word>blondst</word>
+                </set>
+                <set>
+                    <word>bigband</word>
+                    <word>bolster</word>
+                </set>
+                <set>
+                    <word>bigband</word>
+                    <word>borstel</word>
+                </set>
+                <set>
+                    <word>biljard</word>
+                    <word>boksten</word>
+                </set>
+                <set>
+                    <word>bladtop</word>
+                    <word>bruisen</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: babysit,bedronk || babysit,beknord || babysit,blonder || babysit,bongerd || babysit,borgden || babysit,bromden || babysit,bijdroeg || backing,boldert || badjing,bolster || badjing,borstel || badkuip,bolster || badkuip,borstel || badstof,beuring || badstof,blinker || bakster,bulhond || baktrog,bindsel || baktrog,builden || bakzeil,bornput || baldert,bosnimf || baljurk,bestond || balkons,bedrupt || balkons,bedrijft || balkons,begrijpt || balkons,berghut || balkons,bericht || balkons,berucht || balkons,bevrijdt || balkons,bridget || balorig,besnijdt || baltsen,bruigom || bambino,bedrust || bambino,bestrijd || bambino,bulster || bambino,butlers || bandiet,bouwrijp || bandrem,blokhut || bangerd,botmuil || banjers,botmuil || banjirs,beklopt || banjirs,bevolkt || banjirs,bewolkt || bankier,bouwtijd || barokst,beuglijn || barokst,beuling || barokst,builden || basdrum,blokten || basterd,bowling || baziger,blondst || bazigst,blonder || bazigst,bromden || bebindt,bospark || bebrild,bontjas || bebrild,boskant || bebrild,botscan || bedolah,bruinst || bedrink,bombast || bedrukt,bosplan || beklimt,bosrand || beklimt,brongas || beklijft,bosrand || bekrabd,bostuin || bekrabd,botsing || bekrast,bulhond || belicht,bosrand || bemorst,bidbank || bergdal,bostuin || berghut,bosland || bergkam,blondst || bergkap,blondst || bergpas,bouwlijn || bergtop,bindsla || bergvak,blondst || bericht,bosland || bericht,bosplan || beringt,boksbal || beringt,bosvlam || berucht,bosland || beruikt,bosland || beruikt,bosplan || beschijn,bolivar || besnord,bultzak || besnijdt,bolivar || bestond,burgwal || bestorm,bidbank || bestraf,bowling || bestraf,bulhond || bevindt,brombas || bevuilt,bosrand || bevuilt,brongas || bidbank,bolster || bidbank,borstel || bidbank,bustoer (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: babysit,bedronk || babysit,beknord || babysit,blonder || babysit,bongerd || babysit,borgden || babysit,bromden || babysit,bijdroeg || backing,boldert || badjing,bolster || badjing,borstel || badkuip,bolster || badkuip,borstel || badstof,beuring || badstof,blinker || bakster,bulhond || baktrog,bindsel || baktrog,builden || bakzeil,bornput || baldert,bosnimf || baljurk,bestond || balkons,bedrupt || balkons,bedrijft || balkons,begrijpt || balkons,berghut || balkons,bericht || balkons,berucht || balkons,bevrijdt || balkons,bridget || balorig,besnijdt || baltsen,bruigom || bambino,bedrust || bambino,bestrijd || bambino,bulster || bambino,butlers || bandiet,bouwrijp || bandrem,blokhut || bangerd,botmuil || banjers,botmuil || banjirs,beklopt || banjirs,bevolkt || banjirs,bewolkt || bankier,bouwtijd || barokst,beuglijn || barokst,beuling || barokst,builden || basdrum,blokten || basterd,bowling || baziger,blondst || bazigst,blonder || bazigst,bromden || bebindt,bospark || bebrild,bontjas || bebrild,boskant || bebrild,botscan || bedolah,bruinst || bedrink,bombast || bedrukt,bosplan || beklimt,bosrand || beklimt,brongas || beklijft,bosrand || bekrabd,bostuin || bekrabd,botsing || bekrast,bulhond || belicht,bosrand || bemorst,bidbank || bergdal,bostuin || berghut,bosland || bergkam,blondst || bergkap,blondst || bergpas,bouwlijn || bergtop,bindsla || bergvak,blondst || bericht,bosland || bericht,bosplan || beringt,boksbal || beringt,bosvlam || berucht,bosland || beruikt,bosland || beruikt,bosplan || beschijn,bolivar || besnord,bultzak || besnijdt,bolivar || bestond,burgwal || bestorm,bidbank || bestraf,bowling || bestraf,bulhond || bevindt,brombas || bevuilt,bosrand || bevuilt,brongas || bidbank,bolster || bidbank,borstel || bidbank,bustoer || bierbak,blondst || bigband,bolster || bigband,borstel || biljard,boksten || bladtop,bruisen (1314721.0)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>856</index>
-                <index>1553</index>
+                <index>958</index>
+                <index>1020</index>
             </indices>
         </query>
         <query>
@@ -2224,12 +2223,40 @@
                     <word>beroept</word>
                     <word>bindsla</word>
                 </set>
+                <set>
+                    <word>bidbank</word>
+                    <word>bolster</word>
+                </set>
+                <set>
+                    <word>bidbank</word>
+                    <word>borstel</word>
+                </set>
+                <set>
+                    <word>bielsen</word>
+                    <word>bodyart</word>
+                </set>
+                <set>
+                    <word>bierbak</word>
+                    <word>blondst</word>
+                </set>
+                <set>
+                    <word>bindsel</word>
+                    <word>brokaat</word>
+                </set>
+                <set>
+                    <word>bladtin</word>
+                    <word>bosbeer</word>
+                </set>
+                <set>
+                    <word>bladtop</word>
+                    <word>briesen</word>
+                </set>
             </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: batsman,breiwol || bebloed,brisant || beboert,bindsla || bebrild,boskant || bepleit,bosrand || bereidt,bosplan || beroeps,bladtin || beroept,bindsla (1.3729562E7)</printvalue>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: batsman,breiwol || bebloed,brisant || beboert,bindsla || bebrild,boskant || bepleit,bosrand || bereidt,bosplan || beroeps,bladtin || beroept,bindsla || bidbank,bolster || bidbank,borstel || bielsen,bodyart || bierbak,blondst || bindsel,brokaat || bladtin,bosbeer || bladtop,briesen (1.3729562E7)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>852</index>
-                <index>1531</index>
+                <index>938</index>
+                <index>1030</index>
             </indices>
         </query>
         <query>
@@ -3490,8 +3517,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: garelen,gekuist (12.0)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>844</index>
-                <index>1159</index>
+                <index>928</index>
+                <index>973</index>
             </indices>
         </query>
         <query>
@@ -3534,8 +3561,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: gedrein,goklust (1.5261655566127497)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>843</index>
-                <index>918</index>
+                <index>926</index>
+                <index>1324</index>
             </indices>
         </query>
         <query>
@@ -4042,12 +4069,40 @@
                     <word>geraspt</word>
                     <word>golving</word>
                 </set>
+                <set>
+                    <word>geruimd</word>
+                    <word>golftas</word>
+                </set>
+                <set>
+                    <word>geruist</word>
+                    <word>golfkam</word>
+                </set>
+                <set>
+                    <word>geschal</word>
+                    <word>gording</word>
+                </set>
+                <set>
+                    <word>geslapt</word>
+                    <word>gording</word>
+                </set>
+                <set>
+                    <word>geslokt</word>
+                    <word>grauwig</word>
+                </set>
+                <set>
+                    <word>geslurp</word>
+                    <word>gigaton</word>
+                </set>
+                <set>
+                    <word>gesmart</word>
+                    <word>golving</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: galmden,gorigst || gasblok,gefruit || gasblok,gegrint || gasblok,geprint || gasblok,getrimd || gasbron,geflikt || gasbron,geflipt || gasbron,geglipt || gasbron,gelicht || gasbron,gepuild || gasbron,getjilp || gastrol,gekuifd || gastrol,gezwind || gasvorm,geblikt || gasvorm,geflikt || gasvorm,geflipt || gasvorm,gefluit || gasvorm,geglipt || gasvorm,gepuild || gasvorm,getjilp || gaswolk,gefruit || gaswolk,gegrint || gaswolk,geprint || gaswolk,getrimd || gearing,goklust || gebalkt,gording || gebalkt,grondig || gebankt,gidsrol || geblaft,gording || geblind,gomhars || geblokt,grauwig || gebrast,golving || gebrokt,glaspui || gebromd,glaspui || gebruik,golftas || gebruis,golfkam || gebruld,gigaton || gebuikt,graspol || gebuild,gomhars || gebuisd,golfkar || gebulkt,giropas || gedruis,golfkam || gedurig,golfkam || geflapt,gording || geflipt,gomhars || geflirt,godgans || gegipst,glamour || gegipst,golfkar || gegispt,glamour || gegispt,golfkar || geglipt,gomhars || gegolfd,grimast || gegrift,goulash || gegrimd,golftas || gegrimd,goulash || gegrind,golftas || gegrind,goulash || gegrint,golfbad || gegrint,golfkam || gegrint,goudlak || gegrint,goulash || gegrist,golfkam || gegrist,goudlak || gegromd,glaspui || geharkt,golving || geharpt,golving || gehinkt,glamour || gehinkt,graspol || gehuisd,golfkar || gejankt,gidsrol || gekalfd,gorigst || geklapt,gording || gekloft,grauwig || geklopt,grauwig || geklost,grauwig || geklots,grauwig || geknald,gorigst || geknapt,gidsrol || geknapt,godswil || geknipt,glamour || geknord,glaspui || gekrast,golving || gekribd,golftas || gekrist,golfbad || gekrist,golfdag || gekromd,glaspui || gekruid,golftas || gekruld,gigaton || gekuild,gomhars || gelding,gomhars || geldzak,gorigst || gemalin,gorsdijk || gemalin,grijskop || gemankt,gidsrol || gemarkt,golving || gemarld,gokhuis || gemorst,glanzig || gemuisd,golfkar || gepalmd,gorigst || gepaukt,gidsrol || gepaukt,golving || gepinkt,glamour || geplakt,gording || geplant,gokhuis || geplast,gording || geprakt,golving || geprikt,goulash || geprint,golfbad || geprint,golfdag || geprint,golfkam || geprint,goudlak || geprint,goulash || geprint,gouwdag || gepronk,gladuit || gepuild,gomhars || gerankt,godswil || gerants,gifwolk || geraspt,golving (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: galmden,gorigst || gasblok,gefruit || gasblok,gegrint || gasblok,geprint || gasblok,getrimd || gasbron,geflikt || gasbron,geflipt || gasbron,geglipt || gasbron,gelicht || gasbron,gepuild || gasbron,getjilp || gastrol,gekuifd || gastrol,gezwind || gasvorm,geblikt || gasvorm,geflikt || gasvorm,geflipt || gasvorm,gefluit || gasvorm,geglipt || gasvorm,gepuild || gasvorm,getjilp || gaswolk,gefruit || gaswolk,gegrint || gaswolk,geprint || gaswolk,getrimd || gearing,goklust || gebalkt,gording || gebalkt,grondig || gebankt,gidsrol || geblaft,gording || geblind,gomhars || geblokt,grauwig || gebrast,golving || gebrokt,glaspui || gebromd,glaspui || gebruik,golftas || gebruis,golfkam || gebruld,gigaton || gebuikt,graspol || gebuild,gomhars || gebuisd,golfkar || gebulkt,giropas || gedruis,golfkam || gedurig,golfkam || geflapt,gording || geflipt,gomhars || geflirt,godgans || gegipst,glamour || gegipst,golfkar || gegispt,glamour || gegispt,golfkar || geglipt,gomhars || gegolfd,grimast || gegrift,goulash || gegrimd,golftas || gegrimd,goulash || gegrind,golftas || gegrind,goulash || gegrint,golfbad || gegrint,golfkam || gegrint,goudlak || gegrint,goulash || gegrist,golfkam || gegrist,goudlak || gegromd,glaspui || geharkt,golving || geharpt,golving || gehinkt,glamour || gehinkt,graspol || gehuisd,golfkar || gejankt,gidsrol || gekalfd,gorigst || geklapt,gording || gekloft,grauwig || geklopt,grauwig || geklost,grauwig || geklots,grauwig || geknald,gorigst || geknapt,gidsrol || geknapt,godswil || geknipt,glamour || geknord,glaspui || gekrast,golving || gekribd,golftas || gekrist,golfbad || gekrist,golfdag || gekromd,glaspui || gekruid,golftas || gekruld,gigaton || gekuild,gomhars || gelding,gomhars || geldzak,gorigst || gemalin,gorsdijk || gemalin,grijskop || gemankt,gidsrol || gemarkt,golving || gemarld,gokhuis || gemorst,glanzig || gemuisd,golfkar || gepalmd,gorigst || gepaukt,gidsrol || gepaukt,golving || gepinkt,glamour || geplakt,gording || geplant,gokhuis || geplast,gording || geprakt,golving || geprikt,goulash || geprint,golfbad || geprint,golfdag || geprint,golfkam || geprint,goudlak || geprint,goulash || geprint,gouwdag || gepronk,gladuit || gepuild,gomhars || gerankt,godswil || gerants,gifwolk || geraspt,golving || geruimd,golftas || geruist,golfkam || geschal,gording || geslapt,gording || geslokt,grauwig || geslurp,gigaton || gesmart,golving (1314721.0)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>839</index>
-                <index>964</index>
+                <index>922</index>
+                <index>1038</index>
             </indices>
         </query>
         <query>
@@ -4151,12 +4206,24 @@
                     <word>gepinde</word>
                     <word>glamour</word>
                 </set>
+                <set>
+                    <word>geroemd</word>
+                    <word>gietgal</word>
+                </set>
+                <set>
+                    <word>geroemd</word>
+                    <word>glaspui</word>
+                </set>
+                <set>
+                    <word>geruime</word>
+                    <word>gondola</word>
+                </set>
             </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: galerie,goudmijn || galmgat,geroeid || galmgat,goeierd || galmgat,groeide || gastrol,geminde || gedroeg,gietmal || gegomde,glariet || geldige,grootma || geleund,gooiarm || gelogen,grimast || gemalen,gorigst || gemoerd,gietgal || gemoerd,glaspui || geniest,glamour || gepeins,glamour || gepinde,glamour (1.3729562E7)</printvalue>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: galerie,goudmijn || galmgat,geroeid || galmgat,goeierd || galmgat,groeide || gastrol,geminde || gedroeg,gietmal || gegomde,glariet || geldige,grootma || geleund,gooiarm || gelogen,grimast || gemalen,gorigst || gemoerd,gietgal || gemoerd,glaspui || geniest,glamour || gepeins,glamour || gepinde,glamour || geroemd,gietgal || geroemd,glaspui || geruime,gondola (1.3729562E7)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>837</index>
-                <index>1493</index>
+                <index>920</index>
+                <index>1401</index>
             </indices>
         </query>
         <query>
@@ -6016,12 +6083,16 @@
                     <word>spinrok</word>
                     <word>stalvee</word>
                 </set>
+                <set>
+                    <word>spuikom</word>
+                    <word>strelen</word>
+                </set>
             </bestsets>
-            <printvalue>C2p) Jochems C algorithm, 2 words: sliepen,strodak || spanrol,stiekem || spinrok,stalvee (6.0)</printvalue>
+            <printvalue>C2p) Jochems C algorithm, 2 words: sliepen,strodak || spanrol,stiekem || spinrok,stalvee || spuikom,strelen (6.0)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>953</index>
-                <index>1300</index>
+                <index>1079</index>
+                <index>1135</index>
             </indices>
         </query>
         <query>
@@ -6054,18 +6125,18 @@
             <algorithm>D2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1.2865748709122202</bestscore>
+            <bestscore>1.2788708297690334</bestscore>
             <bestsets>
                 <set>
-                    <word>sliepen</word>
-                    <word>strodak</word>
+                    <word>spreien</word>
+                    <word>stuklas</word>
                 </set>
             </bestsets>
-            <printvalue>D2p) Minimise average group (Jochem), 2 words: sliepen,strodak (1.2865748709122202)</printvalue>
+            <printvalue>D2p) Minimise average group (Jochem), 2 words: spreien,stuklas (1.2788708297690334)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>953</index>
-                <index>1200</index>
+                <index>1078</index>
+                <index>1450</index>
             </indices>
         </query>
         <query>
@@ -6156,12 +6227,16 @@
                     <word>slipvrij</word>
                     <word>soutane</word>
                 </set>
+                <set>
+                    <word>staling</word>
+                    <word>sucrose</word>
+                </set>
             </bestsets>
-            <printvalue>F1p) Minimise maximum possible words, 2 words: salines,scrotum || saphout,slibden || sardine,subplot || sausten,simlock || scantijd,spoiler || schrans,solutie || scoring,spalkte || scoring,speltak || scrotum,spinale || scrupel,stadion || secundo,spilgat || showman,struise || slagpin,sucrose || slipvrij,soutane (1314721.0)</printvalue>
+            <printvalue>F1p) Minimise maximum possible words, 2 words: salines,scrotum || saphout,slibden || sardine,subplot || sausten,simlock || scantijd,spoiler || schrans,solutie || scoring,spalkte || scoring,speltak || scrotum,spinale || scrupel,stadion || secundo,spilgat || showman,struise || slagpin,sucrose || slipvrij,soutane || staling,sucrose (1314721.0)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>946</index>
-                <index>1008</index>
+                <index>1069</index>
+                <index>1230</index>
             </indices>
         </query>
         <query>
@@ -6224,8 +6299,8 @@
             <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: scepter,staniol || scoring,stapele || scrupel,stadion || slotact,spieren || slotact,spreien || specerij,staniol (1.3729562E7)</printvalue>
             <allocation>10000</allocation>
             <indices>
-                <index>940</index>
-                <index>1311</index>
+                <index>1062</index>
+                <index>1226</index>
             </indices>
         </query>
         <query>
