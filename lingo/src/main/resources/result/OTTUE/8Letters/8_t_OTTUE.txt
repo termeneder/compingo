@@ -4,7 +4,7 @@ t (1037):
 	B3) Optimise amount of letters, 1 word: tulpplug (1.9218900675024109)
 	B3) Optimise amount of letters, 2 words: taakbalk,taaldaad (2.429122468659595)
 	C2) Jochems C algorithm, 1 word: tulpplug (369.0)
-	C2p) Jochems C algorithm, 2 words: taaitaai,tjiftjaf (199.0)
+	C2) Jochems C algorithm, 2 words: taakbalk,taaldaad (246.0)
 	D2) Minimise average group (Jochem), 1 word: turfvuur (13.644736842105264)
 	D2) Minimise average group (Jochem), 2 words: tijdrijden,tijdrijder (7.151724137931034)
 	E1) Minimise average possible words, 1 word: taaldaad (1.8733214636297011E9)
