@@ -8,7 +8,7 @@ s (2099):
 	D2) Minimise average group (Jochem), 1 word: showbizz (24.694117647058825)
 	D2p) Minimise average group (Jochem), 2 words: saffisch,sapfisch (10.654822335025381)
 	E1) Minimise average possible words, 1 word: succubus (1.8420322840462124E9)
-	E1g1K) Minimise average possible words, 2 words: samowaar,showroom (3.3634440702048594E8)
+	E1p) Minimise average possible words, 2 words: sambabal,slampamp (8.223510444792758E8)
 	F1) Minimise maximum possible words, 1 word: saffiaan || saffraan || sambabal || samennam || sateetje || savannen || screenen || secessie || separeer || seroenen || serretje || serveert || serveren || settelen || shredder || sidderde || slaappil || slalepel || slampamp || sleedden || sleutelt || slotnoot || slottoon || smeedden || smeerder || snaphaan || sneefden || sneeuwen || snellere || snelsnel || snijdende || snijlijnen || sorteert || speelpop || speenden || speetten || spekkoek || speldeel || spelpeil || spettert || spinning || staccato || stalpaal || stamnaam || stamtaal || startuur || steeltje || steenden || steentje || steetjes || stelsels || stemtest || sterkere || stevenen || stilligt || stokdood || stoofpot || stookhok || stootten || stottert || streepte || stuntten || stuurhut || succubus || sudderde (3.404825447E9)
 	F1g1K) Minimise maximum possible words, 2 words: steetjes,stuwtjes || sonanten,stottert || sidderde,speurder || stekkers,stuurser || snottert,stronken || schetter,serveert || settelen,siepelen || siepelen,speetten || serveert,stekkers || separaat,strammer (1.801088541E9)
 	G1) Minimise average possible words with positive info, 1 word: succubus (5.015796491849452E9)

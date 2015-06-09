@@ -4,7 +4,7 @@ p (1156):
 	B3) Optimise amount of letters, 1 word: pilipili (2.1038062283737022)
 	B3) Optimise amount of letters, 2 words: pingping,pijniging (2.288062283737024)
 	C2) Jochems C algorithm, 1 word: paashaas (365.0)
-	C1g1K) Minimise biggest group, 2 words: paknaald,planbaar (98.0)
+	C2) Jochems C algorithm, 2 words: paalbalk,playback || pingping,pijniging (259.0)
 	D2) Minimise average group (Jochem), 1 word: pilipili (14.271604938271604)
 	D2) Minimise average group (Jochem), 2 words: pathisch,pythisch (7.917808219178082)
 	E1) Minimise average possible words, 1 word: pilipili (1.916869632948962E9)
