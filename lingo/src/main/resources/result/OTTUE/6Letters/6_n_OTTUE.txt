@@ -7,7 +7,7 @@ n (272):
 	B3) Optimise amount of letters, 3 words: naslag,neuten,nimrod (4.966911764705882)
 	C2) Jochems C algorithm, 1 word: noteer (22.0)
 	C2) Jochems C algorithm, 2 words: nagelt,nonius || natrek,nonius || natrok,nieges || negert,nonius || negorij,nikten || nestei,noklijn || nestei,nonkel || nestel,nonius || neutel,nonius || nieren,nougat || nieste,nonkel || nieter,noklijn || nietes,noklijn || nietes,nonkel (5.0)
-	C1g1K) Minimise biggest group, 3 words: naslag,nekpijn,neurie || nabauw,nestei,nonkel || nagelt,neurie,nonius || negert,nietes,noklijn || nagelt,namaak,nonius || naspel,nastuk,nimrod || neigen,nodigt,nurkse (3.0)
+	C2) Jochems C algorithm, 3 words: nablus,nakind,noteer || nablus,nekten,nimrod || nadruk,netels,nijging || nadruk,nevels,nipten || napluk,nerven,nudist || nardus,navolg,nepten || nardus,nikten,nobele || naslag,nekpijn,nieter || natura,nekpijn,nieges || natura,nieges,noklijn || negeer,noklijn,nudist || negers,noklijn,nudist || negert,noklijn,nudist || negerij,noklijn,nudist || negerij,nonkel,nudist (2.0)
 	D2) Minimise average group (Jochem), 1 word: noteer (3.5324675324675323)
 	D2) Minimise average group (Jochem), 2 words: natrek,nonius (1.3140096618357489)
 	D2) Minimise average group (Jochem), 3 words: nadruk,nestel,noppig (1.05019305019305)
