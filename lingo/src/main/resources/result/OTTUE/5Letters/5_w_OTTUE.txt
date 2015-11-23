@@ -32,4 +32,4 @@ w (177):
 	J2) Minimise average neighbours per group (Jochem), 1 word: wendt (11.07909604519774)
 	J2) Minimise average neighbours per group (Jochem), 2 words: weidt,wrang (2.638418079096045)
 	J2) Minimise average neighbours per group (Jochem), 3 words: weegs,windt,wrake (1.3276836158192091)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: waagt,weker,winde,wulps (1.0903954802259888)
+	J2) Minimise average neighbours per group (Jochem), 4 words: waaks,wepel,winde,worgt || waaks,wepel,windt,worgt || walkt,weeps,winde,worgt || wazig,wenkt,woerd,wulps || wenkt,woerd,wulps,wijzig (1.0677966101694916)

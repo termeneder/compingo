@@ -34,5 +34,5 @@ f (145):
 	I1) Vincents algorithm, 4 words: faire,fonts,fylum,fokte (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: filet (7.055172413793104)
 	J2) Minimise average neighbours per group (Jochem), 2 words: folie,frats (1.4413793103448276)
-	J2) Minimise average neighbours per group (Jochem), 3 words: feces,flikt,forma (1.0551724137931036)
+	J2) Minimise average neighbours  group (Jochem), 3 words: feces,flikt,forma (1.0551724137931036)
 	J2) Minimise average neighbours per group (Jochem), 4 words: facie,fezel,fluks,forto || facit,fezel,fluks,forto || facit,fezel,fluks,freon || fagot,fezel,ficus,frank || faken,fezel,ficus,forto || fakir,fezel,ficus,floot || fakir,fezel,ficus,flopt || fakir,fezel,ficus,fopte || fakir,fezel,ficus,forto || fakir,fezel,flapt,focus || farce,fezel,fikse,futon || farce,fezel,fikst,futon || fazen,feces,fikst,fluor || fezel,ficus,flank,forto || fezel,ficus,fopte,frank || fezel,flipt,focus,frank (1.0)

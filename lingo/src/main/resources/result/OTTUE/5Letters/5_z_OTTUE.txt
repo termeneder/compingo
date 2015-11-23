@@ -33,5 +33,5 @@ z (177):
 	J2) Minimise average neighbours per group (Jochem), 1 word: zeten (10.898305084745763)
 	J2) Minimise average neighbours per group (Jochem), 2 words: zeten,zwolg (2.5480225988700567)
 	J2) Minimise average neighbours per group (Jochem), 3 words: zanik,zemel,zorgt (1.2485875706214689)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: zaagt,zadel,zerpe,zomin (1.1694915254237288)
+	J2) Minimise average neighbours per group (Jochem), 4 words: zeden,zorgt,zulks,zwamp || zemen,zorgt,zulks,zijpad (1.0451977401129944)
 
