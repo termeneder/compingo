@@ -6,7 +6,7 @@ b (2099):
 	C2) Jochems C algorithm, 1 word: bushbush (980.0)
 	C2p) Jochems C algorithm, 2 words: baanplan,babynaam (294.0)
 	D2) Minimise average group (Jochem), 1 word: bushbush (25.91358024691358)
-	D2p) Minimise average group (Jochem), 2 words: babyzaak,bankzaak (9.854460093896714)
+	D2) Minimise average group (Jochem), 2 words: beschrijf,bijschrijf (10.709183673469388)
 	E1) Minimise average possible words, 1 word: bushbush (2.0419173165826583E9)
 	E1p) Minimise average possible words, 2 words: babyboom,babynaam (5.136273495602668E8)
 	F1) Minimise maximum possible words, 1 word: bedeelde || bedeesde || bekekene || bekennen || beredder || berennen || binnenin (4.586471424E9)
