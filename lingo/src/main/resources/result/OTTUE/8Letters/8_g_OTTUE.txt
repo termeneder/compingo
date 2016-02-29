@@ -6,7 +6,7 @@ g (2020):
 	C2) Jochems C algorithm, 1 word: gasmassa (820.0)
 	C1g1K) Minimise biggest group, 2 words: geschaft,geschift (288.0)
 	D2) Minimise average group (Jochem), 1 word: gazpacho (20.612244897959183)
-	D2p) Minimise average group (Jochem), 2 words: galabals,galblaas (9.950738916256158)
+	D2) Minimise average group (Jochem), 2 words: gehechte,gerechte (11.477272727272727)
 	E1) Minimise average possible words, 1 word: gasmassa (2.325382558516832E9)
 	E1p) Minimise average possible words, 2 words: galabals,galblaas (1.256377493640099E9)
 	F1) Minimise maximum possible words, 1 word: gasmassa || gedeelde || gedeerde || geeneens || genereer || genetten || geredder || getetter || gewennen (4.586471424E9)
