@@ -1,5 +1,6 @@
 package bram.lingo.resultobjects;
 
+import vincent.lingo.revisited.VincentRevisited;
 import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuator;
 import jochem.lingo.valuators.revisited.AverageAmbiguousGroupSizeValuatorBram;
 import jochem.lingo.valuators.revisited.NonAmbiguityValuator;
@@ -43,6 +44,10 @@ public class RunningQuery extends Query{
 			}
 		}
 		postpare();
+	}
+	
+	public WordSet getTotalWordSet() {
+		return c_totalWordSet;
 	}
 	
 	private void prepare() {

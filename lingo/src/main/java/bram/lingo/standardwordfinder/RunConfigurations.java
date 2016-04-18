@@ -15,21 +15,21 @@ public class RunConfigurations {
 	
 	public final String fileLocation = "src/main/resources/result/";
 	public final String runningPrefix = "running_";
-	public final String descriptionPrefix = "A_B_for_subset_4_";
-	public final int wordLength = 7;
+	public final String descriptionPrefix = "8vinl_";
+	public final int wordLength = 8;
 	public final Source source = Source.OTTUE;
 	public final boolean printToFile = true;
 	public final boolean appendTimestampToFilename = true;
-	public final boolean printTime = true;
-	public final int minSubsetSize = 4;
+	public final boolean printTime = false;
+	public final int minSubsetSize = 1;
 	public final int maxSubsetSize = 4;
 	public final Select select = Select.BEST;
 	public final boolean runAllLetters = true;
 	public final Letter[] lettersToRun = {Letter.a, Letter.b, Letter.c, Letter.d
 			, Letter.e, Letter.f, Letter.g, Letter.h, Letter.i, Letter.k, Letter.l
-			, Letter.m, Letter.n, Letter.o, Letter.p
+			, Letter.m, Letter.n, Letter.o, Letter.p, Letter.q
 			, Letter.r, Letter.s, Letter.t, Letter.u, Letter.v, Letter.w
-			,Letter.z};
+			,Letter.x, Letter.y, Letter.z, Letter.ij};
 	public final Map<Algorithm, RunType> algorithms = setAlgorithms();
 	
 	public GeneticConfiguration geneticConfig1K = createConfigN(1000);
@@ -49,8 +49,8 @@ public class RunConfigurations {
 	
 	private Map<Algorithm, RunType> setAlgorithms() {
 		Map<Algorithm, RunType> algorithmMap = new HashMap<Algorithm, RunType>();
-		algorithmMap.put(Algorithm.A3, RunType.Exhaustive);
-		algorithmMap.put(Algorithm.B3, RunType.Exhaustive);
+		algorithmMap.put(Algorithm.A3, RunType.None);
+		algorithmMap.put(Algorithm.B3, RunType.None);
 		algorithmMap.put(Algorithm.C1, RunType.None);
 		algorithmMap.put(Algorithm.C2, RunType.None);
 		algorithmMap.put(Algorithm.D2, RunType.None);
@@ -58,7 +58,7 @@ public class RunConfigurations {
 		algorithmMap.put(Algorithm.F1, RunType.None);
 		algorithmMap.put(Algorithm.G1, RunType.None);
 		algorithmMap.put(Algorithm.H1, RunType.None);
-		algorithmMap.put(Algorithm.I1, RunType.None);
+		algorithmMap.put(Algorithm.I1, RunType.Exhaustive);
 		algorithmMap.put(Algorithm.J2, RunType.None);
 		return algorithmMap;
 	}

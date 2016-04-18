@@ -34,5 +34,5 @@ d (260):
 	J2) Minimise average neighbours per group (Jochem), 1 word: doren (17.846153846153847)
 	J2) Minimise average neighbours per group (Jochem), 2 words: demon,drilt (3.1307692307692307)
 	J2) Minimise average neighbours per group (Jochem), 3 words: dadel,dingt,drops (1.4384615384615385)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: dadel,dempt,dikst,drong (1.0923076923076922)
+	J2) Minimise average neighbours per group (Jochem), 4 words: daden,dempt,dolik,drugs || dampt,deden,dolik,drugs (1.0538461538461539)
 
