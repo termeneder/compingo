@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<results>
+    <running>
+        <query>
+            <startingletter>a</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>worst</sortorder>
+            <bestscore>4.217786345737766E9</bestscore>
+            <bestsets>
+                <set>
+                    <word>accuduur</word>
+                    <word>accuzuur</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: accuduur,accuzuur (4.217786345737766E9)</printvalue>
+            <allocation>1000</allocation>
+            <indices>
+                <index>754</index>
+                <index>1870</index>
+            </indices>
+        </query>
+    </running>
+    <finished/>
+</results>

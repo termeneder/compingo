@@ -1,6 +1,10 @@
 h (900):
 	A3) Optimise correct letters, 1 word: handelen (2.1633333333333336)
+	A3) Optimise correct letters, 2 words: handelen,herstart (3.0855555555555556)
+	A3) Optimise correct letters, 3 words: handelde,herstart,hoefbeen (3.9044444444444446)
 	B3) Optimise amount of letters, 1 word: hertalen (4.108888888888889)
+	B3) Optimise amount of letters, 2 words: hagelden,humorist || hardgeel,houtsnip || hardgele,houtsnip || haspelde,houtring (6.093333333333334)
+	B3) Optimise amount of letters, 3 words: handpalm,herkiest,hoogbouw (6.973333333333334)
 	C2) Jochems C algorithm, 1 word: hertalen (16.0)
 	D2) Minimise average group (Jochem), 1 word: hertalen (2.6785714285714284)
 	E1) Minimise average possible words, 1 word: halsdoek (4.391417628666667E7)
@@ -12,3 +16,4 @@ h (900):
 	I1) Vincents algorithm, 3 words: harmonie,hulpstuk,hoofdweg (1.0)
 	I1) Vincents algorithm, 4 words: harmonie,hulpstuk,hoofdweg,hebzucht (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: hertalen (5.315555555555555)
+	J2) Minimise average neighbours per group (Jochem), 2 words: hangslot,hiermede (1.1266666666666667)

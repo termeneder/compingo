@@ -1,6 +1,12 @@
 n (462):
 	A3) Optimise correct letters, 1 word: natellen (2.484848484848485)
+	A3) Optimise correct letters, 2 words: nagegaan,neerliet (3.465367965367965)
+	A3) Optimise correct letters, 3 words: naastten,neerlaat,noteerde || navoelen,neerlaat,notering (4.12987012987013)
+	A3) Optimise correct letters, 4 words: nadering,neerlaat,novieten,nuttigde || navoelen,neerlaat,notering,nuchtere (4.653679653679654)
 	B3) Optimise amount of letters, 1 word: neutrale (4.246753246753247)
+	B3) Optimise amount of letters, 2 words: neergooi,nulstand (6.2272727272727275)
+	B3) Optimise amount of letters, 3 words: nazikamp,nestelen,noodbrug (7.108225108225108)
+	B3) Optimise amount of letters, 4 words: nabijkwam,nerveuze,nestigst,noodplan (7.463203463203463)
 	C2) Jochems C algorithm, 1 word: neerliet (11.0)
 	D2) Minimise average group (Jochem), 1 word: notuleer (2.0442477876106193)
 	E1) Minimise average possible words, 1 word: nagloeit (3.0775841393939395E7)
@@ -12,3 +18,4 @@ n (462):
 	I1) Vincents algorithm, 3 words: nagloeit,nierstuk,nabijheid (1.0)
 	I1) Vincents algorithm, 4 words: nagloeit,nierstuk,nabijheid,nazikamp (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: notuleer (3.5757575757575757)
+	J2) Minimise average neighbours per group (Jochem), 2 words: nadragen,notulist || negerden,notulist (1.0995670995670996)

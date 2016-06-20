@@ -1,6 +1,10 @@
 g (2020):
 	A3) Optimise correct letters, 1 word: gesleten (2.6495049504950496)
+	A3) Optimise correct letters, 2 words: gesleten,glariede (3.477722772277228)
+	A3) Optimise correct letters, 3 words: geboeide,geslierd,groenten (4.143564356435643)
 	B3) Optimise amount of letters, 1 word: grendelt (4.604950495049505)
+	B3) Optimise amount of letters, 2 words: geestige,grondlak (6.403960396039604)
+	B3) Optimise amount of letters, 3 words: gemerkte,gipslaag,gouwbond (7.181683168316832)
 	C2) Jochems C algorithm, 1 word: gorsland (48.0)
 	D2) Minimise average group (Jochem), 1 word: gesnater (4.66512702078522)
 	E1) Minimise average possible words, 1 word: gestrand (1.5620718588118812E7)
@@ -12,3 +16,4 @@ g (2020):
 	I1) Vincents algorithm, 3 words: gestrand,grofvuil,geklampt (1.0)
 	I1) Vincents algorithm, 4 words: gestrand,grofvuil,geklampt,gezwicht (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: gorsland (17.00990099009901)
+	J2) Minimise average neighbours per group (Jochem), 2 words: geknelde,gomarist (1.803960396039604)

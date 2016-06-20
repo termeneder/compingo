@@ -29,5 +29,4 @@ d (716):
 	I1) Vincents algorithm, 4 words: doerian,daklijst,dumping,dichtbij (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: drosten (8.930167597765363)
 	J2) Minimise average neighbours per group (Jochem), 2 words: dankmis,dreutel (1.3743016759776536)
-	J2g1M) Minimise average neighbours per group (Jochem), 3 words: drentel,dromers,duikdag || deelsom,dropten,duikdag || dempten,dinsdag,drukrol (1.0558659217877095)
-
+	J2) Minimise average neighbours per group (Jochem), 3 words: dieptes,drogman,dukdalf (1.0391061452513966)

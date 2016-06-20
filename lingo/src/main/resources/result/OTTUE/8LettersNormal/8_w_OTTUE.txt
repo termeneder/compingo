@@ -1,6 +1,10 @@
 w (873):
 	A3) Optimise correct letters, 1 word: wegdelen (2.4788087056128294)
+	A3) Optimise correct letters, 2 words: wankelen,wegslaat (3.459335624284078)
+	A3) Optimise correct letters, 3 words: watertje,wegslaat,winkelen (4.134020618556701)
 	B3) Optimise amount of letters, 1 word: waterden (4.315005727376861)
+	B3) Optimise amount of letters, 2 words: wandkast,woeliger (6.350515463917525)
+	B3) Optimise amount of letters, 3 words: wegsteek,windboom,wrijfpaal (7.081328751431844)
 	C2) Jochems C algorithm, 1 word: wasketel (19.0)
 	D2) Minimise average group (Jochem), 1 word: wankeler (2.4871794871794872)
 	E1) Minimise average possible words, 1 word: westrand (2.5194565189003438E7)
@@ -12,3 +16,4 @@ w (873):
 	I1) Vincents algorithm, 3 words: watering,wolfsdak,wurmpjes (1.0)
 	I1) Vincents algorithm, 4 words: watering,wolfsdak,wurmpjes,wijnhoeve (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: wankeler (5.288659793814433)
+	J2) Minimise average neighbours per group (Jochem), 2 words: wandkast,woeliger || wegsneed,wolmarkt (1.1924398625429553)

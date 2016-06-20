@@ -33,5 +33,4 @@ k (407):
 	J2) Minimise average neighbours per group (Jochem), 1 word: karet (20.307125307125308)
 	J2) Minimise average neighbours per group (Jochem), 2 words: keilt,koran (3.2063882063882065)
 	J2) Minimise average neighbours per group (Jochem), 3 words: kanis,kerkt,klomp (1.3882063882063882)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: kaait,kaapt,klonk,krees (1.402948402948403)
-
+	J2) Minimise average neighbours per group (Jochem), 4 words: kaakt,kinds,klomp,kreeg || kampt,kende,kliko,krijgs || kapok,kende,klimt,krijgs || kinds,klomp,kreeg,kwakt (1.0737100737100738)

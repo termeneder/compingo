@@ -1,6 +1,10 @@
 b (2099):
 	A3) Optimise correct letters, 1 word: bestelen (2.3882801333968557)
+	A3) Optimise correct letters, 2 words: baseerde,beoosten (3.1562648880419246)
+	A3) Optimise correct letters, 3 words: baseerde,benadert,bootsten (3.8404001905669367)
 	B3) Optimise amount of letters, 1 word: belronde || blondeer || bolderen || bordelen (4.303954263935207)
+	B3) Optimise amount of letters, 2 words: bankgiro,bijstelde || baroktijd,beginsel || bedelarij,bonkigst (6.218675559790376)
+	B3) Optimise amount of letters, 3 words: baldakijn,beestige,bomvrouw || baldakijn,beestige,bouwvorm (7.072891853263458)
 	C2) Jochems C algorithm, 1 word: bladeter (37.0)
 	D2) Minimise average group (Jochem), 1 word: bankroet (4.198)
 	E1) Minimise average possible words, 1 word: badstoel (3.795868151262506E7)
@@ -12,3 +16,4 @@ b (2099):
 	I1) Vincents algorithm, 3 words: banderol,buikigst,bezwijmde (1.0)
 	I1) Vincents algorithm, 4 words: banderol,buikigst,bezwijmde,bisschop (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: bordelen (12.310147689375894)
+	J2) Minimise average neighbours per group (Jochem), 2 words: balwinst,beregoed (1.4182944259171033)

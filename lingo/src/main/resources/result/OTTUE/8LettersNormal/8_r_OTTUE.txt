@@ -1,6 +1,10 @@
 r (943):
 	A3) Optimise correct letters, 1 word: renetten (2.3085896076352066)
+	A3) Optimise correct letters, 2 words: regelaar,ronselen (3.2513255567338284)
+	A3) Optimise correct letters, 3 words: ratelaar,rendeert,roestten (3.9766702014846236)
 	B3) Optimise amount of letters, 1 word: restoren (4.174973488865324)
+	B3) Optimise amount of letters, 2 words: roosting,ruderale (6.071049840933192)
+	B3) Optimise amount of letters, 3 words: remwegen,rioolput,rijkaards (6.968186638388123)
 	C2) Jochems C algorithm, 1 word: realiter (17.0)
 	D2) Minimise average group (Jochem), 1 word: rolsteen (2.494708994708995)
 	E1) Minimise average possible words, 1 word: radionet (3.4566696517497346E7)
@@ -12,3 +16,4 @@ r (943):
 	I1) Vincents algorithm, 3 words: radionet,rustplek,rijmdwang (1.0)
 	I1) Vincents algorithm, 4 words: radionet,rustplek,rijmdwang,revanche (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: realiter (5.445387062566278)
+	J2) Minimise average neighbours per group (Jochem), 2 words: remaster,rondblik (1.1527041357370096)

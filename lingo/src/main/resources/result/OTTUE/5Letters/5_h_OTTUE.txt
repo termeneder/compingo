@@ -34,5 +34,5 @@ h (221):
 	J2) Minimise average neighbours per group (Jochem), 1 word: harte (15.063348416289593)
 	J2) Minimise average neighbours per group (Jochem), 2 words: halst,heier (3.244343891402715)
 	J2) Minimise average neighbours per group (Jochem), 3 words: hands,helpt,horig || harig,helpt,honds || harpt,helse,honig (1.4253393665158371)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: haagt,hadji,heler,husky (1.3257918552036199)
+	J2) Minimise average neighbours per group (Jochem), 4 words: harpt,hekel,hevig,honds (1.1085972850678734)
 

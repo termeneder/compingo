@@ -1,6 +1,12 @@
 f (460):
 	A3) Optimise correct letters, 1 word: filteren (2.3021739130434784)
+	A3) Optimise correct letters, 2 words: fietsers,formeren (3.208695652173913)
+	A3) Optimise correct letters, 3 words: fietsten,formeert,fruitras (3.991304347826087)
+	A3) Optimise correct letters, 4 words: filmstad,flatteus,fonkelen,freeware || filtraat,fluiters,formatie,fraseren (4.682608695652174)
 	B3) Optimise amount of letters, 1 word: flinters (4.547826086956522)
+	B3) Optimise amount of letters, 2 words: filmstad,fourneer (6.4)
+	B3) Optimise amount of letters, 3 words: filmisch,fotozaak,funderen (7.015217391304348)
+	B3) Optimise amount of letters, 4 words: fastback,filmliga,froufrou,fijnheden (7.413043478260869)
 	C2) Jochems C algorithm, 1 word: failleer || frontale (9.0)
 	D2) Minimise average group (Jochem), 1 word: filteren (1.6974169741697418)
 	E1) Minimise average possible words, 1 word: frontale (2.496186724782609E7)
@@ -12,3 +18,4 @@ f (460):
 	I1) Vincents algorithm, 3 words: flinters,flambouw,feedback (1.0)
 	I1) Vincents algorithm, 4 words: flinters,flambouw,feedback,fijnmazig (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: filteren (2.747826086956522)
+	J2) Minimise average neighbours per group (Jochem), 2 words: femelden,fruitras (1.0391304347826087)

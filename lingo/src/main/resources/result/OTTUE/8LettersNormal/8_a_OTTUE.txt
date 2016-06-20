@@ -1,6 +1,10 @@
 a (1880):
 	A3) Optimise correct letters, 1 word: afnaaien (2.5659574468085107)
+	A3) Optimise correct letters, 2 words: aanleert,aftelden (3.495212765957447)
+	A3) Optimise correct letters, 3 words: aanraadt,afroeien,assertie (4.204787234042553)
 	B3) Optimise amount of letters, 1 word: aansterf (4.497872340425532)
+	B3) Optimise amount of letters, 2 words: aankorst,afgeleid || aardigst,afkoelen (6.245212765957447)
+	B3) Optimise amount of letters, 3 words: aanspant,afklemde,aviobrug (7.13563829787234)
 	C2) Jochems C algorithm, 1 word: aalspeer (50.0)
 	D2) Minimise average group (Jochem), 1 word: afrosten (4.331797235023042)
 	E1) Minimise average possible words, 1 word: afstalen (2.5590515722340427E7)
@@ -12,3 +16,4 @@ a (1880):
 	I1) Vincents algorithm, 3 words: afsnoert,agribulk,aardhoop (1.0)
 	I1) Vincents algorithm, 4 words: afsnoert,agribulk,aardhoop,armzwaai (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: aalspeer (15.96063829787234)
+	J2) Minimise average neighbours per group (Jochem), 2 words: afkoelde,aspirant (1.495744680851064)

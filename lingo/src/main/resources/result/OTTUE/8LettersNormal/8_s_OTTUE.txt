@@ -1,6 +1,10 @@
 s (2099):
 	A3) Optimise correct letters, 1 word: stoepten (2.308242020009528)
+	A3) Optimise correct letters, 2 words: schepers,stootten (3.167222486898523)
+	A3) Optimise correct letters, 3 words: schoeien,spoeltje,starters (3.8989995235826584)
 	B3) Optimise amount of letters, 1 word: splinter (4.199142448785135)
+	B3) Optimise amount of letters, 2 words: seculier,snapshot || sinecure,slapshot (6.0857551214864225)
+	B3) Optimise amount of letters, 3 words: schermde,slobkous,spatting (7.10814673654121)
 	C2) Jochems C algorithm, 1 word: spatieer (32.0)
 	D2) Minimise average group (Jochem), 1 word: slierten (3.865561694290976)
 	E1) Minimise average possible words, 1 word: stramien (3.622806103620772E7)
@@ -12,3 +16,4 @@ s (2099):
 	I1) Vincents algorithm, 3 words: slorpten,schaking,slijmhuid (1.0)
 	I1) Vincents algorithm, 4 words: slorpten,schaking,slijmhuid,stofboel (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: stileren (10.272987136731777)
+	J2) Minimise average neighbours per group (Jochem), 2 words: sprenkel,stadiums (1.2296331586469746)

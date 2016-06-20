@@ -1,6 +1,10 @@
 t (1037):
 	A3) Optimise correct letters, 1 word: toekeren (2.2757955641272902)
+	A3) Optimise correct letters, 2 words: toekeren,trailers (3.115718418514947)
+	A3) Optimise correct letters, 3 words: tegenaan,toekeert,traproes (3.9161041465766635)
 	B3) Optimise amount of letters, 1 word: tolerant (4.299903567984571)
+	B3) Optimise amount of letters, 2 words: topkunst,traliede (6.14175506268081)
+	B3) Optimise amount of letters, 3 words: taalhulp,toesmeet,tijdkring (6.891996142719383)
 	C2) Jochems C algorithm, 1 word: toelaten (15.0)
 	D2) Minimise average group (Jochem), 1 word: toesnelt || tortelen (2.772727272727273)
 	E1) Minimise average possible words, 1 word: tolerant (2.4817524593056895E7)
@@ -12,3 +16,4 @@ t (1037):
 	I1) Vincents algorithm, 3 words: tinaders,turfkool,tijgerpak (1.0)
 	I1) Vincents algorithm, 4 words: tinaders,turfkool,tijgerpak,tomahawk (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: toelaten (5.374156219864995)
+	J2) Minimise average neighbours per group (Jochem), 2 words: tentdoek,trilgras (1.1369334619093538)

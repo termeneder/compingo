@@ -1,6 +1,12 @@
 e (458):
 	A3) Optimise correct letters, 1 word: ereleden (2.1528384279475983)
+	A3) Optimise correct letters, 2 words: ereleden,extensie (2.943231441048035)
+	A3) Optimise correct letters, 3 words: eindtest,ereleden,extensie (3.683406113537118)
+	A3) Optimise correct letters, 4 words: eindloon,erflater,eveneens,extensie (4.294759825327511)
 	B3) Optimise amount of letters, 1 word: etaleren (4.399563318777292)
+	B3) Optimise amount of letters, 2 words: eindstop,evalueer (6.12882096069869)
+	B3) Optimise amount of letters, 3 words: eigenden,esculaap,exotherm (6.895196506550218)
+	B3) Optimise amount of letters, 4 words: erfpacht,ergerlijk,eveneens,exordium (7.307860262008734)
 	C2) Jochems C algorithm, 1 word: elideren || etaleren (11.0)
 	D2) Minimise average group (Jochem), 1 word: etaleren (1.9741379310344827)
 	E1) Minimise average possible words, 1 word: estriken (2.5614889652838428E7)
@@ -12,3 +18,4 @@ e (458):
 	I1) Vincents algorithm, 3 words: eirondst,esculaap,eivormig (1.0)
 	I1) Vincents algorithm, 4 words: eirondst,esculaap,eivormig,echtelijk (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: etaleren (3.432314410480349)
+	J2) Minimise average neighbours per group (Jochem), 2 words: eindstop,erlangen (1.1135371179039302)

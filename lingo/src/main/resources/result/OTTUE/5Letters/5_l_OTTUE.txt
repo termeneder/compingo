@@ -33,5 +33,5 @@ l (239):
 	J2) Minimise average neighbours per group (Jochem), 1 word: lento (16.97489539748954)
 	J2) Minimise average neighbours per group (Jochem), 2 words: lands,leurt (3.6861924686192467)
 	J2) Minimise average neighbours per group (Jochem), 3 words: lands,likte,lorum (1.5355648535564854)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: laadt,laars,leken,lomig (1.4351464435146444)
+	J2) Minimise average neighbours per group (Jochem), 4 words: lands,lompe,lurkt,lijvig || lands,lompe,lurkt,lijzig (1.0585774058577406)
 

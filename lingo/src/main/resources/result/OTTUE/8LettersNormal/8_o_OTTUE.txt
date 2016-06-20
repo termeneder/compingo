@@ -1,6 +1,10 @@
 o (1608):
 	A3) Optimise correct letters, 1 word: optelden (2.580223880597015)
+	A3) Optimise correct letters, 2 words: ongerede,optreden (3.5982587064676617)
+	A3) Optimise correct letters, 3 words: omtollen,ongenade,opereert (4.330223880597015)
 	B3) Optimise amount of letters, 1 word: optreden (4.443407960199005)
+	B3) Optimise amount of letters, 2 words: oordeelt,opmaking (6.215796019900497)
+	B3) Optimise amount of letters, 3 words: omstulpt,onhandig,overboek (7.153606965174129)
 	C2) Jochems C algorithm, 1 word: opstreed (38.0)
 	D2) Minimise average group (Jochem), 1 word: optelden (3.7482517482517483)
 	E1) Minimise average possible words, 1 word: opmonter (2.523045610074627E7)
@@ -12,3 +16,4 @@ o (1608):
 	I1) Vincents algorithm, 3 words: ompraten,odaliske,overbrug (1.0)
 	I1) Vincents algorithm, 4 words: ompraten,odaliske,overbrug,opschrijf (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: optelden (10.208955223880597)
+	J2) Minimise average neighbours per group (Jochem), 2 words: omkranst,opgeleid (1.3582089552238805)

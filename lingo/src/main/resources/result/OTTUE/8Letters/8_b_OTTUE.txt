@@ -4,7 +4,7 @@ b (2099):
 	B3) Optimise amount of letters, 1 word: bushbush (1.7308242020009528)
 	B3) Optimise amount of letters, 2 words: babyboom,boomzwam (2.250595521676989)
 	C2) Jochems C algorithm, 1 word: bushbush (980.0)
-	C2p) Jochems C algorithm, 2 words: baanplan,babynaam (294.0)
+	C2) Jochems C algorithm, 2 words: babyface,babyzaak (588.0)
 	D2) Minimise average group (Jochem), 1 word: bushbush (25.91358024691358)
 	D2) Minimise average group (Jochem), 2 words: beschrijf,bijschrijf (10.709183673469388)
 	E1) Minimise average possible words, 1 word: bushbush (2.0419173165826583E9)

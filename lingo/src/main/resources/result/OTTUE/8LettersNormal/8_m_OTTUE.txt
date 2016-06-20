@@ -1,6 +1,10 @@
 m (1009):
 	A3) Optimise correct letters, 1 word: mendelen (2.382556987115956)
+	A3) Optimise correct letters, 2 words: masseert,mentoren (3.3221010901883052)
+	A3) Optimise correct letters, 3 words: masseert,meeralen,mondiale (4.1159563924677895)
 	B3) Optimise amount of letters, 1 word: minestra (4.395441030723489)
+	B3) Optimise amount of letters, 2 words: meedronk,mistlaag || misdraag,molteken || mistlaag,mokerden (6.360753221010902)
+	B3) Optimise amount of letters, 3 words: meubelde,misprikt,monogaam (7.045589692765114)
 	C2) Jochems C algorithm, 1 word: marionet (14.0)
 	D2) Minimise average group (Jochem), 1 word: martelen (2.4138755980861246)
 	E1) Minimise average possible words, 1 word: marionet (2.085409990089197E7)
@@ -12,3 +16,4 @@ m (1009):
 	I1) Vincents algorithm, 3 words: maroniet,muskadel,megachip (1.0)
 	I1) Vincents algorithm, 4 words: maroniet,muskadel,megachip,maakwijze (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: mortelen (4.554013875123885)
+	J2) Minimise average neighbours per group (Jochem), 2 words: mastkorf,miegelen (1.1546085232903864)

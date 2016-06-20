@@ -1,6 +1,10 @@
 v (1801):
 	A3) Optimise correct letters, 1 word: versleet (2.8323153803442533)
+	A3) Optimise correct letters, 2 words: verseert,voornoen || versleet,voortaan || versteen,voorlaat (3.7123820099944473)
+	A3) Optimise correct letters, 3 words: valsaard,verleien,voortent (4.361465852304275)
 	B3) Optimise amount of letters, 1 word: verloten (4.57023875624653)
+	B3) Optimise amount of letters, 2 words: vliegens,voortrad (6.328151027207107)
+	B3) Optimise amount of letters, 3 words: vanadium,verbreek,volgspot (7.168795113825652)
 	C2) Jochems C algorithm, 1 word: verlader (59.0)
 	D2) Minimise average group (Jochem), 1 word: verliest (4.198135198135198)
 	E1) Minimise average possible words, 1 word: verknolt (2.0455766593003888E7)
@@ -12,3 +16,4 @@ v (1801):
 	I1) Vincents algorithm, 3 words: voetrand,vuriglijk,vormpjes (1.0)
 	I1) Vincents algorithm, 4 words: voetrand,vuriglijk,vormpjes,verwacht (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: vorderen (16.480288728484176)
+	J2) Minimise average neighbours per group (Jochem), 2 words: vangstok,verleerd (1.7429205996668518)

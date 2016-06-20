@@ -1,6 +1,10 @@
 l (829):
 	A3) Optimise correct letters, 1 word: lanteren (2.2653799758745476)
+	A3) Optimise correct letters, 2 words: landzaat,leegeten (3.172496984318456)
+	A3) Optimise correct letters, 3 words: landreis,leegeten,losslaat (3.937273823884198)
 	B3) Optimise amount of letters, 1 word: lasteren (4.201447527141134)
+	B3) Optimise amount of letters, 2 words: laadstok,leerling (6.0)
+	B3) Optimise amount of letters, 3 words: lamzalig,losbreek,lunchtijd (6.870928829915561)
 	C2) Jochems C algorithm, 1 word: lasteren (16.0)
 	D2) Minimise average group (Jochem), 1 word: landreis || lasteren (2.4672619047619047)
 	E1) Minimise average possible words, 1 word: latrines (4.256369600120627E7)
@@ -12,3 +16,4 @@ l (829):
 	I1) Vincents algorithm, 3 words: latrines,loopbrug,lekdicht (1.0)
 	I1) Vincents algorithm, 4 words: latrines,loopbrug,lekdicht,laatvlijm (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: lasteren (4.852834740651387)
+	J2) Minimise average neighbours per group (Jochem), 2 words: labeurde,longlist (1.1712907117008444)

@@ -1,6 +1,10 @@
 p (1156):
 	A3) Optimise correct letters, 1 word: plateren (2.1505190311418687)
+	A3) Optimise correct letters, 2 words: parterre,prentten (3.0397923875432524)
+	A3) Optimise correct letters, 3 words: partitie,planters,poeieren (3.839100346020761)
 	B3) Optimise amount of letters, 1 word: pilaster (4.421280276816609)
+	B3) Optimise amount of letters, 2 words: patience,polsdruk || pedestal,puinbrok || piekuren,postblad (6.211072664359862)
+	B3) Optimise amount of letters, 3 words: palmblad,postpunt,prekerig (7.001730103806229)
 	C2) Jochems C algorithm, 1 word: pasteien (16.0)
 	D2) Minimise average group (Jochem), 1 word: partieel (2.574610244988864)
 	E1) Minimise average possible words, 1 word: portalen (2.3002581947231833E7)
@@ -12,3 +16,4 @@ p (1156):
 	I1) Vincents algorithm, 3 words: portalen,puddings,punchkom (1.0)
 	I1) Vincents algorithm, 4 words: portalen,puddings,punchkom,pijnbomen (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: partieel (4.946366782006921)
+	J2) Minimise average neighbours per group (Jochem), 2 words: parktuin,ploegmes (1.1401384083044983)

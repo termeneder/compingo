@@ -1,6 +1,12 @@
 i (603):
 	A3) Optimise correct letters, 1 word: insecten (3.218905472636816)
+	A3) Optimise correct letters, 2 words: iedereen,insolide (4.0)
+	A3) Optimise correct letters, 3 words: indecent,ingieten,insolide (4.621890547263682)
+	A3) Optimise correct letters, 4 words: importen,indeling,inlaadde,insteekt (5.079601990049751)
 	B3) Optimise amount of letters, 1 word: intenser (4.626865671641791)
+	B3) Optimise amount of letters, 2 words: inpandig,isoleert (6.417910447761194)
+	B3) Optimise amount of letters, 3 words: imposant,inhuldig,inkerven (7.079601990049751)
+	B3) Optimise amount of letters, 4 words: inhuldig,inktzwam,invetten,iriscoop (7.436152570480929)
 	C2) Jochems C algorithm, 1 word: ioniseer || irrealis (37.0)
 	D2) Minimise average group (Jochem), 1 word: insertie (2.8443396226415096)
 	E1) Minimise average possible words, 1 word: intriges (5102355.524046434)
@@ -12,3 +18,4 @@ i (603):
 	I1) Vincents algorithm, 3 words: inslokte,ideogram,impulsijs (1.0)
 	I1) Vincents algorithm, 4 words: inslokte,ideogram,impulsijs,invlocht (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: inleider (8.840796019900498)
+	J2) Minimise average neighbours per group (Jochem), 2 words: inpandig,isoleert (1.3747927031509122)

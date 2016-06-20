@@ -1,6 +1,12 @@
 u (475):
 	A3) Optimise correct letters, 1 word: uitsleet (3.8947368421052633)
+	A3) Optimise correct letters, 2 words: uitbeent,uurlonen || uitreedt,uurlonen (4.503157894736842)
+	A3) Optimise correct letters, 3 words: uitbaken,uitreedt,uitsopte (4.985263157894737)
+	A3) Optimise correct letters, 4 words: uitbotte,uitdroeg,uitreedt,uitslaan (5.408421052631579)
 	B3) Optimise amount of letters, 1 word: uiterton || uittoren (4.985263157894737)
+	B3) Optimise amount of letters, 2 words: uitklopt,username || uitsnuit,uploader (6.408421052631579)
+	B3) Optimise amount of letters, 3 words: uitnodig,uitplukt,username (7.090526315789473)
+	B3) Optimise amount of letters, 4 words: uilenkop,uitbuigt,unanieme,uwerzijds || uitbuigt,uitklopt,unanieme,uwerzijds (7.496842105263158)
 	C2) Jochems C algorithm, 1 word: uploader (27.0)
 	D2) Minimise average group (Jochem), 1 word: upgradet (3.4926470588235294)
 	E1) Minimise average possible words, 1 word: uitrapen (1890927.3621052632)
@@ -12,3 +18,4 @@ u (475):
 	I1) Vincents algorithm, 3 words: uitroken,uploaden,uwerzijds (1.0)
 	I1) Vincents algorithm, 4 words: uitroken,uploaden,uwerzijds,uivormig (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: uploader (8.898947368421053)
+	J2) Minimise average neigh.bours per group (Jochem), 2 words: uitsmolt,upgraden (1.8842105263157896)

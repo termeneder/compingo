@@ -1,6 +1,10 @@
 z (682):
 	A3) Optimise correct letters, 1 word: zeegroen (2.306451612903226)
+	A3) Optimise correct letters, 2 words: zeegroen,zonderde (3.1524926686217007)
+	A3) Optimise correct letters, 3 words: zeilreis,zonderde,zweetten (3.9266862170087977)
 	B3) Optimise amount of letters, 1 word: zolderen (4.112903225806452)
+	B3) Optimise amount of letters, 2 words: zeekraal,zondigst || zinsdeel,zorgtaak (6.1158357771261)
+	B3) Optimise amount of letters, 3 words: zinkprijs,zoutlaag,zweemden (7.041055718475073)
 	C2) Jochems C algorithm, 1 word: zwatelen (13.0)
 	D2) Minimise average group (Jochem), 1 word: zondares (2.311864406779661)
 	E1) Minimise average possible words, 1 word: zondares (3.929750340469208E7)
@@ -12,3 +16,4 @@ z (682):
 	I1) Vincents algorithm, 3 words: zodanige,zwartsel,zijbeuken (1.0)
 	I1) Vincents algorithm, 4 words: zodanige,zwartsel,zijbeuken,zoompjes (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: zendster (4.428152492668621)
+	J2) Minimise average neighbours per group (Jochem), 2 words: zandkuil,zwemster (1.0821114369501466)

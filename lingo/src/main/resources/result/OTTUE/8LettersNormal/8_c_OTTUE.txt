@@ -1,6 +1,12 @@
 c (449):
 	A3) Optimise correct letters, 1 word: concreet (2.1492204899777283)
+	A3) Optimise correct letters, 2 words: causerie,concreet (3.035634743875278)
+	A3) Optimise correct letters, 3 words: carriers,chloriet,contente (3.824053452115813)
+	A3) Optimise correct letters, 4 words: carriers,censeren,chloraat,comtoise (4.4387527839643655)
 	B3) Optimise amount of letters, 1 word: carotine (4.485523385300668)
+	B3) Optimise amount of letters, 2 words: clubnaam,coteries (6.2383073496659245)
+	B3) Optimise amount of letters, 3 words: checkten,combolid,crapauds (7.028953229398664)
+	B3) Optimise amount of letters, 4 words: cascades,chipknip,clublogo,cremeert (7.44097995545657)
 	C2) Jochems C algorithm, 1 word: concreet || corselet || coteries (7.0)
 	D2) Minimise average group (Jochem), 1 word: carotine (1.6943396226415095)
 	E1) Minimise average possible words, 1 word: cordiale (2.625384748997773E7)
@@ -12,3 +18,4 @@ c (449):
 	I1) Vincents algorithm, 3 words: carotine,coulombs,chipcard (1.0)
 	I1) Vincents algorithm, 4 words: carotine,coulombs,chipcard,cijferige (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: coteries (2.492204899777283)
+	J2) Minimise average neighbours per group (Jochem), 2 words: cedilles,contrair (1.0400890868596881)
