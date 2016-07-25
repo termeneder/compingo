@@ -20,10 +20,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: aanaardt,afroeien,alttoets,assertie (4.68936170212766)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>5</index>
-                <index>543</index>
-                <index>838</index>
-                <index>1786</index>
+                <index>7</index>
+                <index>849</index>
+                <index>900</index>
+                <index>1681</index>
             </indices>
         </query>
         <query>
@@ -33,28 +33,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.457978723404255</bestscore>
+            <bestscore>7.471808510638298</bestscore>
             <bestsets>
                 <set>
-                    <word>aambeeld</word>
-                    <word>aangaven</word>
-                    <word>afschrik</word>
-                    <word>autostop</word>
-                </set>
-                <set>
-                    <word>aambeeld</word>
-                    <word>aanvangt</word>
-                    <word>afschrik</word>
-                    <word>autostop</word>
+                    <word>aanbeden</word>
+                    <word>achturig</word>
+                    <word>afstompt</word>
+                    <word>afvalzak</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: aambeeld,aangaven,afschrik,autostop || aambeeld,aanvangt,afschrik,autostop (7.457978723404255)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: aanbeden,achturig,afstompt,afvalzak (7.471808510638298)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>5</index>
-                <index>543</index>
-                <index>838</index>
-                <index>1786</index>
+                <index>7</index>
+                <index>849</index>
+                <index>900</index>
+                <index>1681</index>
             </indices>
         </query>
         <query>
@@ -172,18 +166,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4240232.99893617</bestscore>
+            <bestscore>3902106.65</bestscore>
             <bestsets>
                 <set>
-                    <word>aanboort</word>
-                    <word>afluisde</word>
+                    <word>aanbrult</word>
+                    <word>aforisme</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanboort,afluisde (4240232.99893617)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aanbrult,aforisme (3902106.65)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>33</index>
-                <index>555</index>
+                <index>46</index>
+                <index>648</index>
             </indices>
         </query>
         <query>
@@ -268,10 +262,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: baadster,bestraat,boorkern,bijleerde (4.280133396855645)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>3</index>
-                <index>1507</index>
-                <index>1516</index>
-                <index>2074</index>
+                <index>5</index>
+                <index>493</index>
+                <index>964</index>
+                <index>2079</index>
             </indices>
         </query>
         <query>
@@ -299,10 +293,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: baakgeld,bisschop,bomvrouw,bijeenzet || baakgeld,bisschop,bouwvorm,bijeenzet (7.4063839923773225)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>3</index>
-                <index>1507</index>
-                <index>1516</index>
-                <index>2074</index>
+                <index>5</index>
+                <index>493</index>
+                <index>964</index>
+                <index>2079</index>
             </indices>
         </query>
         <query>
@@ -430,8 +424,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: baanrots,beduimel (2889100.24011434)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>28</index>
-                <index>1663</index>
+                <index>40</index>
+                <index>901</index>
             </indices>
         </query>
         <query>
@@ -622,8 +616,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: chanteer,couloirs (2177445.2561247214)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>163</index>
-                <index>343</index>
+                <index>266</index>
+                <index>344</index>
             </indices>
         </query>
         <query>
@@ -708,10 +702,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: daarlaat,decentie,doekoens,drogeren (4.439663236669785)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>30</index>
-                <index>180</index>
-                <index>302</index>
-                <index>414</index>
+                <index>43</index>
+                <index>271</index>
+                <index>418</index>
+                <index>733</index>
             </indices>
         </query>
         <query>
@@ -733,10 +727,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: dagbasis,deurveer,dimlicht,doodknijp (7.458372310570627)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>30</index>
-                <index>180</index>
-                <index>302</index>
-                <index>414</index>
+                <index>43</index>
+                <index>271</index>
+                <index>418</index>
+                <index>733</index>
             </indices>
         </query>
         <query>
@@ -864,8 +858,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: daarliet,doekoens (4180093.7801683815)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>56</index>
-                <index>789</index>
+                <index>80</index>
+                <index>801</index>
             </indices>
         </query>
         <query>
@@ -1046,522 +1040,222 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>2119434.0283842795</bestscore>
+            <bestscore>1354243.788209607</bestscore>
             <bestsets>
                 <set>
-                    <word>eileider</word>
-                    <word>exposant</word>
+                    <word>elideren</word>
+                    <word>escargot</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: eileider,exposant (2119434.0283842795)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: elideren,escargot (1354243.788209607)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>155</index>
+                <index>249</index>
+                <index>333</index>
+            </indices>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <bestscore>1.3729562E7</bestscore>
+            <bestsets>
+                <set>
+                    <word>elideren</word>
+                    <word>escargot</word>
+                </set>
+            </bestsets>
+            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: elideren,escargot (1.3729562E7)</printvalue>
+            <allocation>1000</allocation>
+            <indices>
+                <index>249</index>
+                <index>333</index>
+            </indices>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <bestscore>1244086.5173913043</bestscore>
+            <bestsets>
+                <set>
+                    <word>fineerde</word>
+                    <word>foutslag</word>
+                </set>
+            </bestsets>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: fineerde,foutslag (1244086.5173913043)</printvalue>
+            <allocation>1000</allocation>
+            <indices>
+                <index>247</index>
                 <index>256</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>8.8998126E7</bestscore>
-            <bestsets>
-                <set>
-                    <word>ecarteer</word>
-                    <word>eindshot</word>
-                </set>
-                <set>
-                    <word>ecarteer</word>
-                    <word>eindstop</word>
-                </set>
-                <set>
-                    <word>ecclesia</word>
-                    <word>ecotrend</word>
-                </set>
-                <set>
-                    <word>echelons</word>
-                    <word>emigrant</word>
-                </set>
-                <set>
-                    <word>eclatant</word>
-                    <word>eierboer</word>
-                </set>
-                <set>
-                    <word>eclatant</word>
-                    <word>eipoeder</word>
-                </set>
-                <set>
-                    <word>eclipsen</word>
-                    <word>erodeert</word>
-                </set>
-                <set>
-                    <word>eclipsen</word>
-                    <word>etsgrond</word>
-                </set>
-                <set>
-                    <word>ecologie</word>
-                    <word>estraden</word>
-                </set>
-                <set>
-                    <word>economie</word>
-                    <word>eregaste</word>
-                </set>
-                <set>
-                    <word>economie</word>
-                    <word>etaleren</word>
-                </set>
-                <set>
-                    <word>ecotrend</word>
-                    <word>eischaal</word>
-                </set>
-                <set>
-                    <word>ecotrend</word>
-                    <word>elastiek</word>
-                </set>
-                <set>
-                    <word>edammers</word>
-                    <word>eolieten</word>
-                </set>
-                <set>
-                    <word>educatie</word>
-                    <word>erelonen</word>
-                </set>
-                <set>
-                    <word>eekhoren</word>
-                    <word>eischaal</word>
-                </set>
-                <set>
-                    <word>eekhoren</word>
-                    <word>elastiek</word>
-                </set>
-                <set>
-                    <word>eeltiger</word>
-                    <word>exposant</word>
-                </set>
-                <set>
-                    <word>eenakter</word>
-                    <word>elocutie</word>
-                </set>
-                <set>
-                    <word>eenakter</word>
-                    <word>eolische</word>
-                </set>
-                <set>
-                    <word>eenarmen</word>
-                    <word>elocutie</word>
-                </set>
-                <set>
-                    <word>eendelig</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eenhoren</word>
-                    <word>eischaal</word>
-                </set>
-                <set>
-                    <word>eenhoren</word>
-                    <word>elastiek</word>
-                </set>
-                <set>
-                    <word>eenieder</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eenmalig</word>
-                    <word>escortes</word>
-                </set>
-                <set>
-                    <word>eentalig</word>
-                    <word>exposeer</word>
-                </set>
-                <set>
-                    <word>eenzamer</word>
-                    <word>elocutie</word>
-                </set>
-                <set>
-                    <word>eerdaags</word>
-                    <word>eolieten</word>
-                </set>
-                <set>
-                    <word>eerloost</word>
-                    <word>emiraten</word>
-                </set>
-                <set>
-                    <word>eetappel</word>
-                    <word>eirondst</word>
-                </set>
-                <set>
-                    <word>eetappel</word>
-                    <word>eisprong</word>
-                </set>
-                <set>
-                    <word>eetmalen</word>
-                    <word>eierdoos</word>
-                </set>
-                <set>
-                    <word>eetmalen</word>
-                    <word>eierstok</word>
-                </set>
-                <set>
-                    <word>eetmalen</word>
-                    <word>eirondst</word>
-                </set>
-                <set>
-                    <word>eetmalen</word>
-                    <word>eisprong</word>
-                </set>
-                <set>
-                    <word>eetmalen</word>
-                    <word>erotisch</word>
-                </set>
-                <set>
-                    <word>eetmalen</word>
-                    <word>exorcist</word>
-                </set>
-                <set>
-                    <word>eettafel</word>
-                    <word>eisprong</word>
-                </set>
-                <set>
-                    <word>eetwaren</word>
-                    <word>elocutie</word>
-                </set>
-                <set>
-                    <word>eetwaren</word>
-                    <word>eolische</word>
-                </set>
-                <set>
-                    <word>eetzalen</word>
-                    <word>eisprong</word>
-                </set>
-                <set>
-                    <word>eetzalen</word>
-                    <word>erotisch</word>
-                </set>
-                <set>
-                    <word>eetzalen</word>
-                    <word>exorcist</word>
-                </set>
-                <set>
-                    <word>egelskop</word>
-                    <word>emiraten</word>
-                </set>
-                <set>
-                    <word>egotisme</word>
-                    <word>eilander</word>
-                </set>
-                <set>
-                    <word>egotisme</word>
-                    <word>elkander</word>
-                </set>
-                <set>
-                    <word>eicellen</word>
-                    <word>ertsader</word>
-                </set>
-                <set>
-                    <word>eicellen</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eicellen</word>
-                    <word>etsgrond</word>
-                </set>
-                <set>
-                    <word>eierdans</word>
-                    <word>eolieten</word>
-                </set>
-                <set>
-                    <word>eierstok</word>
-                    <word>enenmale</word>
-                </set>
-                <set>
-                    <word>eikenmos</word>
-                    <word>etaleren</word>
-                </set>
-                <set>
-                    <word>eikenmos</word>
-                    <word>exalteer</word>
-                </set>
-                <set>
-                    <word>eilanden</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eilander</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eileider</word>
-                    <word>exposant</word>
-                </set>
-                <set>
-                    <word>einddoel</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eindmeet</word>
-                    <word>eldorado</word>
-                </set>
-                <set>
-                    <word>eindmeet</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eindpaal</word>
-                    <word>esoterie</word>
-                </set>
-                <set>
-                    <word>eindrang</word>
-                    <word>electies</word>
-                </set>
-                <set>
-                    <word>eindspel</word>
-                    <word>escargot</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>eresabel</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>erfelijke</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>erlangen</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>etaleert</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>etaleren</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>evalueer</word>
-                </set>
-                <set>
-                    <word>eindstop</word>
-                    <word>exalteer</word>
-                </set>
-                <set>
-                    <word>eindterm</word>
-                    <word>escalope</word>
-                </set>
-                <set>
-                    <word>eindtrap</word>
-                    <word>eurofles</word>
-                </set>
-                <set>
-                    <word>eipoeder</word>
-                    <word>elegante</word>
-                </set>
-                <set>
-                    <word>eipoeder</word>
-                    <word>essentak</word>
-                </set>
-                <set>
-                    <word>eipoeder</word>
-                    <word>etsnaald</word>
-                </set>
-                <set>
-                    <word>eirondst</word>
-                    <word>enenmale</word>
-                </set>
-            </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: ecarteer,eindshot || ecarteer,eindstop || ecclesia,ecotrend || echelons,emigrant || eclatant,eierboer || eclatant,eipoeder || eclipsen,erodeert || eclipsen,etsgrond || ecologie,estraden || economie,eregaste || economie,etaleren || ecotrend,eischaal || ecotrend,elastiek || edammers,eolieten || educatie,erelonen || eekhoren,eischaal || eekhoren,elastiek || eeltiger,exposant || eenakter,elocutie || eenakter,eolische || eenarmen,elocutie || eendelig,escargot || eenhoren,eischaal || eenhoren,elastiek || eenieder,escargot || eenmalig,escortes || eentalig,exposeer || eenzamer,elocutie || eerdaags,eolieten || eerloost,emiraten || eetappel,eirondst || eetappel,eisprong || eetmalen,eierdoos || eetmalen,eierstok || eetmalen,eirondst || eetmalen,eisprong || eetmalen,erotisch || eetmalen,exorcist || eettafel,eisprong || eetwaren,elocutie || eetwaren,eolische || eetzalen,eisprong || eetzalen,erotisch || eetzalen,exorcist || egelskop,emiraten || egotisme,eilander || egotisme,elkander || eicellen,ertsader || eicellen,escargot || eicellen,etsgrond || eierdans,eolieten || eierstok,enenmale || eikenmos,etaleren || eikenmos,exalteer || eilanden,escargot || eilander,escargot || eileider,exposant || einddoel,escargot || eindmeet,eldorado || eindmeet,escargot || eindpaal,esoterie || eindrang,electies || eindspel,escargot || eindstop,eresabel || eindstop,erfelijke || eindstop,erlangen || eindstop,etaleert || eindstop,etaleren || eindstop,evalueer || eindstop,exalteer || eindterm,escalope || eindtrap,eurofles || eipoeder,elegante || eipoeder,essentak || eipoeder,etsnaald || eirondst,enenmale (8.8998126E7)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>155</index>
-                <index>256</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>1590481.6369565218</bestscore>
-            <bestsets>
-                <set>
-                    <word>filmkast</word>
-                    <word>fourneer</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: filmkast,fourneer (1590481.6369565218)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>154</index>
-                <index>250</index>
             </indices>
         </query>
         <query>
@@ -1634,22 +1328,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.582673267326733</bestscore>
+            <bestscore>4.604455445544555</bestscore>
             <bestsets>
                 <set>
-                    <word>gaafheid</word>
+                    <word>gaarheid</word>
+                    <word>galantst</word>
                     <word>geboeide</word>
-                    <word>gekaatst</word>
                     <word>groeiden</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: gaafheid,geboeide,gekaatst,groeiden (4.582673267326733)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: gaarheid,galantst,geboeide,groeiden (4.604455445544555)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>4</index>
-                <index>246</index>
-                <index>908</index>
-                <index>1791</index>
+                <index>6</index>
+                <index>64</index>
+                <index>284</index>
+                <index>920</index>
             </indices>
         </query>
         <query>
@@ -1671,10 +1365,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: gaafheid,gebulkte,gezwegen,gipsvorm (7.426732673267327)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>4</index>
-                <index>246</index>
-                <index>908</index>
-                <index>1791</index>
+                <index>6</index>
+                <index>64</index>
+                <index>284</index>
+                <index>920</index>
             </indices>
         </query>
         <query>
@@ -1792,18 +1486,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1953122.9757425743</bestscore>
+            <bestscore>1333755.5321782178</bestscore>
             <bestsets>
                 <set>
-                    <word>galjoten</word>
-                    <word>gespierd</word>
+                    <word>galmbord</word>
+                    <word>gepisten</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: galjoten,gespierd (1953122.9757425743)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: galmbord,gepisten (1333755.5321782178)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>29</index>
-                <index>885</index>
+                <index>41</index>
+                <index>83</index>
             </indices>
         </query>
         <query>
@@ -1876,22 +1570,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.512222222222222</bestscore>
+            <bestscore>4.552222222222222</bestscore>
             <bestsets>
                 <set>
-                    <word>haarloos</word>
-                    <word>herstelt</word>
-                    <word>houdbare</word>
-                    <word>hunkeren</word>
+                    <word>halfdrie</word>
+                    <word>hertalen</word>
+                    <word>hoereert</word>
+                    <word>huisbaas</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: haarloos,herstelt,houdbare,hunkeren (4.512222222222222)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: halfdrie,hertalen,hoereert,huisbaas (4.552222222222222)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>53</index>
-                <index>176</index>
-                <index>244</index>
-                <index>366</index>
+                <index>77</index>
+                <index>145</index>
+                <index>378</index>
+                <index>754</index>
             </indices>
         </query>
         <query>
@@ -1913,10 +1607,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: haaktand,halfhoog,heibezem,huurprijs (7.426666666666667)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>53</index>
-                <index>176</index>
-                <index>244</index>
-                <index>366</index>
+                <index>77</index>
+                <index>145</index>
+                <index>378</index>
+                <index>754</index>
             </indices>
         </query>
         <query>
@@ -2034,18 +1728,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>2920098.3155555557</bestscore>
+            <bestscore>2821150.1566666667</bestscore>
             <bestsets>
                 <set>
-                    <word>haarloos</word>
-                    <word>heemtuin</word>
+                    <word>halftint</word>
+                    <word>houderes</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: haarloos,heemtuin (2920098.3155555557)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: halftint,houderes (2821150.1566666667)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>68</index>
-                <index>215</index>
+                <index>96</index>
+                <index>353</index>
             </indices>
         </query>
         <query>
@@ -2236,8 +1930,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: imposant,inleider (372695.03648424544)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>107</index>
-                <index>365</index>
+                <index>156</index>
+                <index>335</index>
             </indices>
         </query>
         <query>
@@ -2481,22 +2175,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.425454545454546</bestscore>
+            <bestscore>4.442909090909091</bestscore>
             <bestsets>
                 <set>
-                    <word>kaakslag</word>
-                    <word>kereltje</word>
-                    <word>klisters</word>
+                    <word>kaarters</word>
+                    <word>klokslot</word>
                     <word>koeteren</word>
+                    <word>krieltje</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: kaakslag,kereltje,klisters,koeteren (4.425454545454546)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: kaarters,klokslot,koeteren,krieltje (4.442909090909091)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>13</index>
-                <index>686</index>
-                <index>1003</index>
-                <index>1101</index>
+                <index>19</index>
+                <index>228</index>
+                <index>1185</index>
+                <index>1326</index>
             </indices>
         </query>
         <query>
@@ -2518,10 +2212,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: kaalslag,koufront,krimpvrij,kweekbed (7.411636363636363)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>13</index>
-                <index>686</index>
-                <index>1003</index>
-                <index>1101</index>
+                <index>19</index>
+                <index>228</index>
+                <index>1185</index>
+                <index>1326</index>
             </indices>
         </query>
         <query>
@@ -2649,8 +2343,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kabelnet,kruiskop (2086853.7927272727)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>43</index>
-                <index>865</index>
+                <index>59</index>
+                <index>705</index>
             </indices>
         </query>
         <query>
@@ -2735,10 +2429,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: labeltje,lengteas,liederen,losraakt (4.546441495778046)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>71</index>
-                <index>106</index>
-                <index>472</index>
-                <index>493</index>
+                <index>102</index>
+                <index>128</index>
+                <index>228</index>
+                <index>353</index>
             </indices>
         </query>
         <query>
@@ -2760,10 +2454,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: lachfilm,landkant,leeswijze,loopbrug (7.423401688781665)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>69</index>
-                <index>349</index>
-                <index>652</index>
-                <index>708</index>
+                <index>100</index>
+                <index>264</index>
+                <index>451</index>
+                <index>768</index>
             </indices>
         </query>
         <query>
@@ -2891,8 +2585,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: labeurde,longlist (3705287.58986731)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>71</index>
-                <index>769</index>
+                <index>100</index>
+                <index>251</index>
             </indices>
         </query>
         <query>
@@ -2977,10 +2671,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: maanloos,meeralen,misstane,monteert (4.774033696729435)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>35</index>
-                <index>124</index>
-                <index>461</index>
-                <index>703</index>
+                <index>49</index>
+                <index>141</index>
+                <index>223</index>
+                <index>359</index>
             </indices>
         </query>
         <query>
@@ -3002,10 +2696,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: maakwijze,meubelde,mistigst,mormonen (7.340931615460852)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>35</index>
-                <index>124</index>
-                <index>461</index>
-                <index>703</index>
+                <index>49</index>
+                <index>141</index>
+                <index>223</index>
+                <index>359</index>
             </indices>
         </query>
         <query>
@@ -3123,18 +2817,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1681003.0247770068</bestscore>
+            <bestscore>1524774.764122894</bestscore>
             <bestsets>
                 <set>
-                    <word>maanloos</word>
-                    <word>metrieke</word>
+                    <word>madrigal</word>
+                    <word>mesthoen</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: maanloos,metrieke (1681003.0247770068)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: madrigal,mesthoen (1524774.764122894)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>57</index>
-                <index>198</index>
+                <index>75</index>
+                <index>251</index>
             </indices>
         </query>
         <query>
@@ -3325,8 +3019,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: naadloos,nestiger (1313319.3268398268)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>140</index>
-                <index>331</index>
+                <index>195</index>
+                <index>216</index>
             </indices>
         </query>
         <query>
@@ -3411,10 +3105,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: oasestad,omgooien,ontaarde,opereert (4.793532338308458)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>8</index>
-                <index>19</index>
-                <index>226</index>
-                <index>1265</index>
+                <index>10</index>
+                <index>242</index>
+                <index>554</index>
+                <index>761</index>
             </indices>
         </query>
         <query>
@@ -3436,10 +3130,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: obligaat,onkundig,opschoof,overzwem (7.462686567164179)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>8</index>
-                <index>19</index>
-                <index>226</index>
-                <index>1265</index>
+                <index>10</index>
+                <index>242</index>
+                <index>554</index>
+                <index>761</index>
             </indices>
         </query>
         <query>
@@ -3567,8 +3261,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: obsoleet,omarming (4881369.3414179105)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>33</index>
-                <index>1531</index>
+                <index>42</index>
+                <index>1410</index>
             </indices>
         </query>
         <query>
@@ -3653,10 +3347,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: paashaas,ploetert,porteren,predatie (4.465397923875432)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>21</index>
-                <index>362</index>
-                <index>492</index>
-                <index>861</index>
+                <index>27</index>
+                <index>248</index>
+                <index>798</index>
+                <index>1072</index>
             </indices>
         </query>
         <query>
@@ -3678,10 +3372,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: paasboom,pelletje,pingping,prijsdruk (7.352941176470588)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>21</index>
-                <index>362</index>
-                <index>492</index>
-                <index>861</index>
+                <index>27</index>
+                <index>51</index>
+                <index>310</index>
+                <index>1135</index>
             </indices>
         </query>
         <query>
@@ -3809,8 +3503,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: paaldorp,puncties (2600010.1029411764)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>47</index>
-                <index>844</index>
+                <index>59</index>
+                <index>626</index>
             </indices>
         </query>
         <query>
@@ -4054,22 +3748,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.51643690349947</bestscore>
+            <bestscore>4.556733828207848</bestscore>
             <bestsets>
                 <set>
-                    <word>racebaan</word>
-                    <word>resteert</word>
-                    <word>riooltje</word>
-                    <word>rondtoer</word>
+                    <word>racisten</word>
+                    <word>regelaar</word>
+                    <word>ritselde</word>
+                    <word>rondreis</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: racebaan,resteert,riooltje,rondtoer (4.51643690349947)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: racisten,regelaar,ritselde,rondreis (4.556733828207848)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>40</index>
-                <index>315</index>
-                <index>383</index>
-                <index>819</index>
+                <index>51</index>
+                <index>249</index>
+                <index>296</index>
+                <index>329</index>
             </indices>
         </query>
         <query>
@@ -4091,10 +3785,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: raapwerk,regenten,rubidium,rijschool (7.3796394485683985)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>40</index>
-                <index>315</index>
-                <index>383</index>
-                <index>819</index>
+                <index>51</index>
+                <index>249</index>
+                <index>296</index>
+                <index>329</index>
             </indices>
         </query>
         <query>
@@ -4222,8 +3916,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: raakpunt,reisdoel (3712465.8589607636)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>56</index>
-                <index>845</index>
+                <index>71</index>
+                <index>675</index>
             </indices>
         </query>
         <query>
@@ -4308,10 +4002,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: saaiheid,schelden,sporttas,stearine (4.360647927584564)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>3</index>
-                <index>321</index>
-                <index>863</index>
-                <index>1063</index>
+                <index>4</index>
+                <index>187</index>
+                <index>547</index>
+                <index>764</index>
             </indices>
         </query>
         <query>
@@ -4333,10 +4027,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: saampjes,schreeuw,slinking,stooftijd (7.4778465936160075)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>3</index>
-                <index>260</index>
-                <index>537</index>
-                <index>1084</index>
+                <index>4</index>
+                <index>134</index>
+                <index>189</index>
+                <index>1974</index>
             </indices>
         </query>
         <query>
@@ -4464,8 +4158,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: sacreren,sluitdop (6416775.26345879)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>23</index>
-                <index>2023</index>
+                <index>30</index>
+                <index>526</index>
             </indices>
         </query>
         <query>
@@ -4550,10 +4244,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: taaltaak,tenteert,toonloos,treeften (4.500482160077145)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>28</index>
-                <index>80</index>
-                <index>507</index>
-                <index>538</index>
+                <index>35</index>
+                <index>522</index>
+                <index>868</index>
+                <index>884</index>
             </indices>
         </query>
         <query>
@@ -4575,10 +4269,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: taalkamp,terugrijd,tuinboon,tweetjes (7.322082931533269)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>28</index>
-                <index>80</index>
-                <index>507</index>
-                <index>538</index>
+                <index>35</index>
+                <index>522</index>
+                <index>868</index>
+                <index>884</index>
             </indices>
         </query>
         <query>
@@ -4706,8 +4400,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: taanhuis,tortelen (3028776.9353905497)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>47</index>
-                <index>437</index>
+                <index>60</index>
+                <index>671</index>
             </indices>
         </query>
         <query>
@@ -4898,8 +4592,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: uitdorst,umlauten (199768.43368421053)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>112</index>
-                <index>241</index>
+                <index>150</index>
+                <index>226</index>
             </indices>
         </query>
         <query>
@@ -4990,10 +4684,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: vaalbont,verstaan,viseerde,voorreed || vaalbont,versteen,viseerde,voorraad (4.8600777345918935)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>4</index>
-                <index>866</index>
-                <index>920</index>
-                <index>1480</index>
+                <index>6</index>
+                <index>142</index>
+                <index>793</index>
+                <index>1004</index>
             </indices>
         </query>
         <query>
@@ -5021,10 +4715,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: vaagheid,verkeren,vlijmpjes,vouwboot || vaagheid,verreken,vlijmpjes,vouwboot (7.501943364797335)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>4</index>
-                <index>866</index>
-                <index>920</index>
-                <index>1480</index>
+                <index>6</index>
+                <index>142</index>
+                <index>793</index>
+                <index>1004</index>
             </indices>
         </query>
         <query>
@@ -5152,8 +4846,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: vaalbont,verreisd (1759473.9350360911)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>26</index>
-                <index>552</index>
+                <index>33</index>
+                <index>162</index>
             </indices>
         </query>
         <query>
@@ -5226,22 +4920,28 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.718213058419244</bestscore>
+            <bestscore>4.725085910652921</bestscore>
             <bestsets>
                 <set>
-                    <word>waarheen</word>
-                    <word>wegslaat</word>
-                    <word>windroos</word>
-                    <word>woekerde</word>
+                    <word>wagentje</word>
+                    <word>werklast</word>
+                    <word>wiegelen</word>
+                    <word>wondroos</word>
+                </set>
+                <set>
+                    <word>waggelde</word>
+                    <word>werklust</word>
+                    <word>windroer</word>
+                    <word>woerhaan</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: waarheen,wegslaat,windroos,woekerde (4.718213058419244)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: wagentje,werklast,wiegelen,wondroos || waggelde,werklust,windroer,woerhaan (4.725085910652921)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>46</index>
-                <index>87</index>
-                <index>396</index>
-                <index>563</index>
+                <index>59</index>
+                <index>136</index>
+                <index>187</index>
+                <index>868</index>
             </indices>
         </query>
         <query>
@@ -5259,14 +4959,20 @@
                     <word>wurmpjes</word>
                     <word>wijkhoofd</word>
                 </set>
+                <set>
+                    <word>wahabiet</word>
+                    <word>weglezen</word>
+                    <word>wurmpjes</word>
+                    <word>wijkhoofd</word>
+                </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: waarzegt,wiebelen,wurmpjes,wijkhoofd (7.3974799541809855)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: waarzegt,wiebelen,wurmpjes,wijkhoofd || wahabiet,weglezen,wurmpjes,wijkhoofd (7.3974799541809855)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>46</index>
-                <index>87</index>
-                <index>396</index>
-                <index>563</index>
+                <index>59</index>
+                <index>136</index>
+                <index>187</index>
+                <index>868</index>
             </indices>
         </query>
         <query>
@@ -5394,8 +5100,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: waakhond,witregel (1725945.7892325316)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>55</index>
-                <index>581</index>
+                <index>70</index>
+                <index>446</index>
             </indices>
         </query>
         <query>
@@ -5822,10 +5528,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: zaadloze,zeilreis,zonnerad,zweetten (4.629032258064516)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>115</index>
-                <index>389</index>
-                <index>627</index>
-                <index>678</index>
+                <index>160</index>
+                <index>557</index>
+                <index>621</index>
+                <index>676</index>
             </indices>
         </query>
         <query>
@@ -5847,10 +5553,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: zaadvast,zeemijnen,zorghulp,zwikboor (7.4985337243401755)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>115</index>
-                <index>389</index>
-                <index>627</index>
-                <index>678</index>
+                <index>160</index>
+                <index>557</index>
+                <index>621</index>
+                <index>676</index>
             </indices>
         </query>
         <query>
@@ -5968,18 +5674,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>3597906.6744868034</bestscore>
+            <bestscore>3466529.410557185</bestscore>
             <bestsets>
                 <set>
-                    <word>zaalshow</word>
-                    <word>zigeuner</word>
+                    <word>zandkuil</word>
+                    <word>zoetiger</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: zaalshow,zigeuner (3597906.6744868034)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: zandkuil,zoetiger (3466529.410557185)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>71</index>
-                <index>206</index>
+                <index>91</index>
+                <index>216</index>
             </indices>
         </query>
         <query>
@@ -6217,42 +5923,5 @@
             <allocation>0</allocation>
         </query>
     </running>
-    <finished>
-        <query>
-            <startingletter>i</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>5.079601990049751</bestscore>
-            <bestsets>
-                <set>
-                    <word>importen</word>
-                    <word>indeling</word>
-                    <word>inlaadde</word>
-                    <word>insteekt</word>
-                </set>
-            </bestsets>
-            <printvalue>A3) Optimise correct letters, 4 words: importen,indeling,inlaadde,insteekt (5.079601990049751)</printvalue>
-        </query>
-        <query>
-            <startingletter>i</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.436152570480929</bestscore>
-            <bestsets>
-                <set>
-                    <word>inhuldig</word>
-                    <word>inktzwam</word>
-                    <word>invetten</word>
-                    <word>iriscoop</word>
-                </set>
-            </bestsets>
-            <printvalue>B3) Optimise amount of letters, 4 words: inhuldig,inktzwam,invetten,iriscoop (7.436152570480929)</printvalue>
-        </query>
-    </finished>
+    <finished/>
 </results>

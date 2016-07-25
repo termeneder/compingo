@@ -4,7 +4,7 @@ g (2020):
 	B3) Optimise amount of letters, 1 word: gasmassa (1.9034653465346534)
 	B3) Optimise amount of letters, 2 words: galabals,galblaas (2.244059405940594)
 	C2) Jochems C algorithm, 1 word: gasmassa (820.0)
-	C1g1K) Minimise biggest group, 2 words: geschaft,geschift (288.0)
+	C2) Jochems C algorithm, 2 words: galabals,galblaas (511.0)
 	D2) Minimise average group (Jochem), 1 word: gazpacho (20.612244897959183)
 	D2) Minimise average group (Jochem), 2 words: gehechte,gerechte (11.477272727272727)
 	E1) Minimise average possible words, 1 word: gasmassa (2.325382558516832E9)
