@@ -18,8 +18,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: accuduur,accuzuur (1.1186851463851063E9)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>626</index>
-                <index>998</index>
+                <index>630</index>
+                <index>996</index>
             </indices>
         </query>
         <query>
@@ -57,8 +57,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: bakabana,bankzaak (7.917501719718914E8)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>382</index>
-                <index>918</index>
+                <index>385</index>
+                <index>776</index>
             </indices>
         </query>
         <query>
@@ -87,8 +87,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: babyboom,boomzwam (3.3004379986388755E9)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>364</index>
-                <index>959</index>
+                <index>367</index>
+                <index>763</index>
             </indices>
         </query>
         <query>
@@ -189,8 +189,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: galabals,galblaas (1.256377493640099E9)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>342</index>
-                <index>1156</index>
+                <index>345</index>
+                <index>1131</index>
             </indices>
         </query>
         <query>
@@ -219,8 +219,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: galabals,galblaas (3.386019878730198E9)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>327</index>
-                <index>1416</index>
+                <index>330</index>
+                <index>1346</index>
             </indices>
         </query>
         <query>
@@ -303,8 +303,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: kaassaus,kaaswaag (5.91847188296E8)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>464</index>
-                <index>1345</index>
+                <index>470</index>
+                <index>906</index>
             </indices>
         </query>
         <query>
@@ -333,8 +333,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: kaassaus,kaaswaag (2.3097484782298183E9)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>437</index>
-                <index>1266</index>
+                <index>443</index>
+                <index>665</index>
             </indices>
         </query>
         <query>
@@ -381,8 +381,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: maanbaan,maanzaad (6.774264471912785E8)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>765</index>
-                <index>876</index>
+                <index>786</index>
+                <index>1004</index>
             </indices>
         </query>
         <query>
@@ -411,8 +411,8 @@
             <printvalue>G1p) Minimise average possible words with positive info, 2 words: maanbaan,maanzaad (2.4240243961694746E9)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>753</index>
-                <index>858</index>
+                <index>773</index>
+                <index>968</index>
             </indices>
         </query>
         <query>
@@ -459,8 +459,8 @@
             <printvalue>C2p) Jochems C algorithm, 2 words: officium,opiumpijp (304.0)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>965</index>
-                <index>1341</index>
+                <index>973</index>
+                <index>1241</index>
             </indices>
         </query>
         <query>
@@ -484,8 +484,8 @@
             <printvalue>D2p) Minimise average group (Jochem), 2 words: officier,officies || ooftboom,ooftbouw (9.745454545454546)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>1244</index>
-                <index>1283</index>
+                <index>1258</index>
+                <index>1306</index>
             </indices>
         </query>
         <query>
@@ -505,8 +505,8 @@
             <printvalue>E1p) Minimise average possible words, 2 words: official,officium (4.26699576215796E8)</printvalue>
             <allocation>5000</allocation>
             <indices>
-                <index>319</index>
-                <index>1408</index>
+                <index>323</index>
+                <index>1266</index>
             </indices>
         </query>
         <query>
@@ -1047,22 +1047,5 @@
             <allocation>0</allocation>
         </query>
     </running>
-    <finished>
-        <query>
-            <startingletter>g</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>511.0</bestscore>
-            <bestsets>
-                <set>
-                    <word>galabals</word>
-                    <word>galblaas</word>
-                </set>
-            </bestsets>
-            <printvalue>C2) Jochems C algorithm, 2 words: galabals,galblaas (511.0)</printvalue>
-        </query>
-    </finished>
+    <finished/>
 </results>
