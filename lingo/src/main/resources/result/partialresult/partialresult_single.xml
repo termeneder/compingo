@@ -7,19 +7,19 @@
             <wordlength>8</wordlength>
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
-            <sortorder>worst</sortorder>
-            <bestscore>4.217786345737766E9</bestscore>
+            <sortorder>best</sortorder>
+            <bestscore>2391934.3829787234</bestscore>
             <bestsets>
                 <set>
-                    <word>accuduur</word>
-                    <word>accuzuur</word>
+                    <word>aangromt</word>
+                    <word>afluisde</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: accuduur,accuzuur (4.217786345737766E9)</printvalue>
-            <allocation>1000</allocation>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aangromt,afluisde (2391934.3829787234)</printvalue>
+            <allocation>2000</allocation>
             <indices>
-                <index>1318</index>
-                <index>1700</index>
+                <index>122</index>
+                <index>266</index>
             </indices>
         </query>
     </running>
