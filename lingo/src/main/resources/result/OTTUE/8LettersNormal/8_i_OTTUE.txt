@@ -12,6 +12,7 @@ i (603):
 	E1) Minimise average possible words, 1 word: intriges (5102355.524046434)
 	F1) Minimise maximum possible words, 1 word: insolide || insolied || intriges (1.22106872E8)
 	G1) Minimise average possible words with positive info, 1 word: intriges (1.7640625374792702E7)
+	G1) Minimise average possible words with positive info, 2 words: imposant,inleider (372695.03648424544)
 	H1) Minimise maximum possible words with positive info, 1 word: insolide || insolied || intriges (5.00248476E8)
 	I1) Vincents algorithm, 1 word: inslokte (1.0)
 	I1) Vincents algorithm, 2 words: inslokte,ideogram (1.0)

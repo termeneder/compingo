@@ -20,700 +20,39 @@
             <printvalue>A3p) Optimise correct letters, 4 words: aanaardt,afroeien,alttoets,assertie (4.68936170212766)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>9</index>
-                <index>86</index>
-                <index>494</index>
-                <index>1331</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.471808510638298</bestscore>
-            <bestsets>
-                <set>
-                    <word>aanbeden</word>
-                    <word>achturig</word>
-                    <word>afstompt</word>
-                    <word>afvalzak</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: aanbeden,achturig,afstompt,afvalzak (7.471808510638298)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>9</index>
-                <index>86</index>
-                <index>494</index>
-                <index>1331</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>a</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.280133396855645</bestscore>
-            <bestsets>
-                <set>
-                    <word>baadster</word>
-                    <word>bestraat</word>
-                    <word>boorkern</word>
-                    <word>bijleerde</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: baadster,bestraat,boorkern,bijleerde (4.280133396855645)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>6</index>
-                <index>402</index>
-                <index>1047</index>
-                <index>1933</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.4063839923773225</bestscore>
-            <bestsets>
-                <set>
-                    <word>baakgeld</word>
-                    <word>bisschop</word>
-                    <word>bomvrouw</word>
-                    <word>bijeenzet</word>
-                </set>
-                <set>
-                    <word>baakgeld</word>
-                    <word>bisschop</word>
-                    <word>bouwvorm</word>
-                    <word>bijeenzet</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: baakgeld,bisschop,bomvrouw,bijeenzet || baakgeld,bisschop,bouwvorm,bijeenzet (7.4063839923773225)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>6</index>
-                <index>402</index>
-                <index>1047</index>
-                <index>1933</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>2889100.24011434</bestscore>
-            <bestsets>
-                <set>
-                    <word>baanrots</word>
-                    <word>beduimel</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: baanrots,beduimel (2889100.24011434)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>47</index>
-                <index>523</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>b</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>2177445.2561247214</bestscore>
-            <bestsets>
-                <set>
-                    <word>chanteer</word>
-                    <word>couloirs</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: chanteer,couloirs (2177445.2561247214)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>376</index>
-                <index>429</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>c</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>d</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.439663236669785</bestscore>
-            <bestsets>
-                <set>
-                    <word>daarlaat</word>
-                    <word>decentie</word>
-                    <word>doekoens</word>
-                    <word>drogeren</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: daarlaat,decentie,doekoens,drogeren (4.439663236669785)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>51</index>
-                <index>232</index>
+                <index>63</index>
                 <index>568</index>
-                <index>1038</index>
+                <index>1246</index>
+                <index>1363</index>
             </indices>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.458372310570627</bestscore>
+            <bestscore>7.511702127659574</bestscore>
             <bestsets>
                 <set>
-                    <word>dagbasis</word>
-                    <word>deurveer</word>
-                    <word>dimlicht</word>
-                    <word>doodknijp</word>
+                    <word>aanbrand</word>
+                    <word>achtkamp</word>
+                    <word>afwezige</word>
+                    <word>autoslot</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: dagbasis,deurveer,dimlicht,doodknijp (7.458372310570627)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: aanbrand,achtkamp,afwezige,autoslot (7.511702127659574)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>51</index>
-                <index>232</index>
+                <index>63</index>
                 <index>568</index>
-                <index>1038</index>
+                <index>1246</index>
+                <index>1363</index>
             </indices>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
@@ -722,7 +61,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
@@ -731,7 +70,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
@@ -740,7 +79,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>D2</algorithm>
@@ -749,7 +88,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>D2</algorithm>
@@ -758,7 +97,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>D2</algorithm>
@@ -767,7 +106,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>E1</algorithm>
@@ -776,7 +115,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>E1</algorithm>
@@ -785,7 +124,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>E1</algorithm>
@@ -794,7 +133,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>F1</algorithm>
@@ -803,7 +142,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>F1</algorithm>
@@ -812,7 +151,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>F1</algorithm>
@@ -821,28 +160,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>3996072.5135640786</bestscore>
-            <bestsets>
-                <set>
-                    <word>damasten</word>
-                    <word>dolkruid</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: damasten,dolkruid (3996072.5135640786)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>93</index>
-                <index>1048</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>G1</algorithm>
@@ -851,7 +169,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>G1</algorithm>
@@ -860,7 +178,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>H1</algorithm>
@@ -869,7 +187,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>H1</algorithm>
@@ -878,7 +196,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>H1</algorithm>
@@ -887,7 +205,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>J2</algorithm>
@@ -896,7 +214,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>d</startingletter>
+            <startingletter>a</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>J2</algorithm>
@@ -905,7 +223,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
@@ -914,7 +232,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
@@ -923,7 +241,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
@@ -932,7 +250,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>D2</algorithm>
@@ -941,7 +259,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>D2</algorithm>
@@ -950,7 +268,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>D2</algorithm>
@@ -959,7 +277,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>E1</algorithm>
@@ -968,7 +286,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>E1</algorithm>
@@ -977,7 +295,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>E1</algorithm>
@@ -986,7 +304,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>F1</algorithm>
@@ -995,7 +313,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>F1</algorithm>
@@ -1004,7 +322,7 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>F1</algorithm>
@@ -1013,229 +331,700 @@
             <allocation>0</allocation>
         </query>
         <query>
-            <startingletter>e</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1354243.788209607</bestscore>
+            <bestscore>2112402.2305859933</bestscore>
             <bestsets>
                 <set>
-                    <word>elideren</word>
-                    <word>escargot</word>
+                    <word>backlist</word>
+                    <word>bouderen</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: elideren,escargot (1354243.788209607)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: backlist,bouderen (2112402.2305859933)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>325</index>
-                <index>451</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>1.3729562E7</bestscore>
-            <bestsets>
-                <set>
-                    <word>elideren</word>
-                    <word>escargot</word>
-                </set>
-            </bestsets>
-            <printvalue>H1p) Minimise maximum possible words with positive info, 2 words: elideren,escargot (1.3729562E7)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>325</index>
-                <index>451</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>H1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>e</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>J2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>C2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>D2</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>E1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>3</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>F1</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>f</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>1244086.5173913043</bestscore>
-            <bestsets>
-                <set>
-                    <word>fineerde</word>
-                    <word>foutslag</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: fineerde,foutslag (1244086.5173913043)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>321</index>
                 <index>343</index>
+                <index>383</index>
             </indices>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>c</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>d</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>G1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>H1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>e</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>J2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>C2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>D2</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>E1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>2</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>3</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
+        </query>
+        <query>
+            <startingletter>f</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>F1</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <allocation>0</allocation>
         </query>
         <query>
             <startingletter>f</startingletter>
@@ -1307,22 +1096,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.652970297029703</bestscore>
+            <bestscore>4.715841584158416</bestscore>
             <bestsets>
                 <set>
-                    <word>gaarheid</word>
-                    <word>geboeide</word>
-                    <word>gekaatst</word>
+                    <word>galantst</word>
+                    <word>gekooide</word>
+                    <word>gesteeld</word>
                     <word>groeiden</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: gaarheid,geboeide,gekaatst,groeiden (4.652970297029703)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: galantst,gekooide,gesteeld,groeiden (4.715841584158416)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>7</index>
-                <index>35</index>
-                <index>777</index>
-                <index>1515</index>
+                <index>49</index>
+                <index>648</index>
+                <index>942</index>
+                <index>1126</index>
             </indices>
         </query>
         <query>
@@ -1332,22 +1121,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.426732673267327</bestscore>
+            <bestscore>7.483663366336634</bestscore>
             <bestsets>
                 <set>
-                    <word>gaafheid</word>
-                    <word>gebulkte</word>
-                    <word>gezwegen</word>
-                    <word>gipsvorm</word>
+                    <word>gangbaar</word>
+                    <word>gekiepte</word>
+                    <word>geschuwd</word>
+                    <word>golfvorm</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: gaafheid,gebulkte,gezwegen,gipsvorm (7.426732673267327)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: gangbaar,gekiepte,geschuwd,golfvorm (7.483663366336634)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>7</index>
-                <index>35</index>
-                <index>777</index>
-                <index>1515</index>
+                <index>49</index>
+                <index>549</index>
+                <index>755</index>
+                <index>1851</index>
             </indices>
         </query>
         <query>
@@ -1465,18 +1254,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1333755.5321782178</bestscore>
+            <bestscore>1146784.9970297029</bestscore>
             <bestsets>
                 <set>
-                    <word>galmbord</word>
-                    <word>gepisten</word>
+                    <word>gedopten</word>
+                    <word>grasluis</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: galmbord,gepisten (1333755.5321782178)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: gedopten,grasluis (1146784.9970297029)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>47</index>
-                <index>1236</index>
+                <index>351</index>
+                <index>1108</index>
             </indices>
         </query>
         <query>
@@ -1546,56 +1335,6 @@
             <startingletter>h</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.552222222222222</bestscore>
-            <bestsets>
-                <set>
-                    <word>halfdrie</word>
-                    <word>hertalen</word>
-                    <word>hoereert</word>
-                    <word>huisbaas</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: halfdrie,hertalen,hoereert,huisbaas (4.552222222222222)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>91</index>
-                <index>350</index>
-                <index>387</index>
-                <index>635</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>h</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.426666666666667</bestscore>
-            <bestsets>
-                <set>
-                    <word>haaktand</word>
-                    <word>halfhoog</word>
-                    <word>heibezem</word>
-                    <word>huurprijs</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: haaktand,halfhoog,heibezem,huurprijs (7.426666666666667)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>91</index>
-                <index>350</index>
-                <index>387</index>
-                <index>635</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>h</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -1699,27 +1438,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>h</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>2821150.1566666667</bestscore>
-            <bestsets>
-                <set>
-                    <word>halftint</word>
-                    <word>houderes</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: halftint,houderes (2821150.1566666667)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>112</index>
-                <index>641</index>
-            </indices>
         </query>
         <query>
             <startingletter>h</startingletter>
@@ -1891,27 +1609,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>i</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>372695.03648424544</bestscore>
-            <bestsets>
-                <set>
-                    <word>imposant</word>
-                    <word>inleider</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: imposant,inleider (372695.03648424544)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>186</index>
-                <index>420</index>
-            </indices>
         </query>
         <query>
             <startingletter>i</startingletter>
@@ -2166,10 +1863,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: kaarters,klokslot,koeteren,krieltje (4.442909090909091)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>22</index>
-                <index>336</index>
-                <index>1238</index>
-                <index>1316</index>
+                <index>183</index>
+                <index>364</index>
+                <index>481</index>
+                <index>743</index>
             </indices>
         </query>
         <query>
@@ -2179,22 +1876,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.411636363636363</bestscore>
+            <bestscore>7.416727272727273</bestscore>
             <bestsets>
                 <set>
-                    <word>kaalslag</word>
-                    <word>koufront</word>
-                    <word>krimpvrij</word>
-                    <word>kweekbed</word>
+                    <word>kampanje</word>
+                    <word>kookhuis</word>
+                    <word>krijtberg</word>
+                    <word>kwezelde</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: kaalslag,koufront,krimpvrij,kweekbed (7.411636363636363)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: kampanje,kookhuis,krijtberg,kwezelde (7.416727272727273)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>22</index>
-                <index>336</index>
-                <index>1238</index>
-                <index>1316</index>
+                <index>183</index>
+                <index>197</index>
+                <index>332</index>
+                <index>806</index>
             </indices>
         </query>
         <query>
@@ -2312,18 +2009,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>2086853.7927272727</bestscore>
+            <bestscore>1860380.8887272726</bestscore>
             <bestsets>
                 <set>
-                    <word>kabelnet</word>
-                    <word>kruiskop</word>
+                    <word>klapbank</word>
+                    <word>koetsier</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: kabelnet,kruiskop (2086853.7927272727)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: klapbank,koetsier (1860380.8887272726)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>69</index>
-                <index>610</index>
+                <index>592</index>
+                <index>1121</index>
             </indices>
         </query>
         <query>
@@ -2393,56 +2090,6 @@
             <startingletter>l</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.566948130277443</bestscore>
-            <bestsets>
-                <set>
-                    <word>landraad</word>
-                    <word>leestest</word>
-                    <word>licentie</word>
-                    <word>louteren</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: landraad,leestest,licentie,louteren (4.566948130277443)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>123</index>
-                <index>255</index>
-                <index>257</index>
-                <index>339</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>l</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.423401688781665</bestscore>
-            <bestsets>
-                <set>
-                    <word>lachfilm</word>
-                    <word>landkant</word>
-                    <word>leeswijze</word>
-                    <word>loopbrug</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: lachfilm,landkant,leeswijze,loopbrug (7.423401688781665)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>121</index>
-                <index>381</index>
-                <index>648</index>
-                <index>763</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>l</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -2546,27 +2193,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>l</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>3705287.58986731</bestscore>
-            <bestsets>
-                <set>
-                    <word>labeurde</word>
-                    <word>longlist</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: labeurde,longlist (3705287.58986731)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>116</index>
-                <index>739</index>
-            </indices>
         </query>
         <query>
             <startingletter>l</startingletter>
@@ -2635,56 +2261,6 @@
             <startingletter>m</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.774033696729435</bestscore>
-            <bestsets>
-                <set>
-                    <word>maanloos</word>
-                    <word>meeralen</word>
-                    <word>misstane</word>
-                    <word>monteert</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: maanloos,meeralen,misstane,monteert (4.774033696729435)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>57</index>
-                <index>279</index>
-                <index>530</index>
-                <index>715</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>m</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.340931615460852</bestscore>
-            <bestsets>
-                <set>
-                    <word>maakwijze</word>
-                    <word>meubelde</word>
-                    <word>mistigst</word>
-                    <word>mormonen</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: maakwijze,meubelde,mistigst,mormonen (7.340931615460852)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>57</index>
-                <index>279</index>
-                <index>530</index>
-                <index>715</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>m</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -2788,27 +2364,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>m</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>1524774.764122894</bestscore>
-            <bestsets>
-                <set>
-                    <word>madrigal</word>
-                    <word>mesthoen</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: madrigal,mesthoen (1524774.764122894)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>88</index>
-                <index>213</index>
-            </indices>
         </query>
         <query>
             <startingletter>m</startingletter>
@@ -2980,27 +2535,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>n</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>1313319.3268398268</bestscore>
-            <bestsets>
-                <set>
-                    <word>naadloos</word>
-                    <word>nestiger</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: naadloos,nestiger (1313319.3268398268)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>244</index>
-                <index>407</index>
-            </indices>
         </query>
         <query>
             <startingletter>n</startingletter>
@@ -3084,10 +2618,10 @@
             <printvalue>A3p) Optimise correct letters, 4 words: oasestad,omgooien,ontaarde,opereert (4.793532338308458)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>12</index>
-                <index>96</index>
-                <index>204</index>
-                <index>1226</index>
+                <index>99</index>
+                <index>253</index>
+                <index>429</index>
+                <index>440</index>
             </indices>
         </query>
         <query>
@@ -3097,22 +2631,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.462686567164179</bestscore>
+            <bestscore>7.521766169154229</bestscore>
             <bestsets>
                 <set>
-                    <word>obligaat</word>
-                    <word>onkundig</word>
-                    <word>opschoof</word>
+                    <word>okshoofd</word>
+                    <word>onnuttig</word>
+                    <word>opblaast</word>
                     <word>overzwem</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: obligaat,onkundig,opschoof,overzwem (7.462686567164179)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: okshoofd,onnuttig,opblaast,overzwem (7.521766169154229)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>12</index>
-                <index>96</index>
-                <index>204</index>
-                <index>1226</index>
+                <index>99</index>
+                <index>253</index>
+                <index>429</index>
+                <index>440</index>
             </indices>
         </query>
         <query>
@@ -3230,18 +2764,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4881369.3414179105</bestscore>
+            <bestscore>3037012.4371890547</bestscore>
             <bestsets>
                 <set>
-                    <word>obsoleet</word>
-                    <word>omarming</word>
+                    <word>omrolden</word>
+                    <word>opgevist</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: obsoleet,omarming (4881369.3414179105)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: omrolden,opgevist (3037012.4371890547)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>50</index>
-                <index>926</index>
+                <index>442</index>
+                <index>610</index>
             </indices>
         </query>
         <query>
@@ -3314,22 +2848,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.465397923875432</bestscore>
+            <bestscore>4.521626297577854</bestscore>
             <bestsets>
                 <set>
-                    <word>paashaas</word>
-                    <word>ploetert</word>
-                    <word>porteren</word>
-                    <word>predatie</word>
+                    <word>partitie</word>
+                    <word>planters</word>
+                    <word>polieren</word>
+                    <word>pressant</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: paashaas,ploetert,porteren,predatie (4.465397923875432)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: partitie,planters,polieren,pressant (4.521626297577854)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>32</index>
-                <index>291</index>
-                <index>442</index>
-                <index>863</index>
+                <index>408</index>
+                <index>474</index>
+                <index>666</index>
+                <index>1117</index>
             </indices>
         </query>
         <query>
@@ -3351,10 +2885,10 @@
             <printvalue>B3p) Optimise amount of letters, 4 words: paasboom,pelletje,pingping,prijsdruk (7.352941176470588)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>32</index>
-                <index>79</index>
-                <index>346</index>
-                <index>707</index>
+                <index>406</index>
+                <index>718</index>
+                <index>853</index>
+                <index>963</index>
             </indices>
         </query>
         <query>
@@ -3472,18 +3006,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>2600010.1029411764</bestscore>
+            <bestscore>2196812.711937716</bestscore>
             <bestsets>
                 <set>
-                    <word>paaldorp</word>
-                    <word>puncties</word>
+                    <word>parkeren</word>
+                    <word>populist</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: paaldorp,puncties (2600010.1029411764)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: parkeren,populist (2196812.711937716)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>69</index>
-                <index>721</index>
+                <index>787</index>
+                <index>1094</index>
             </indices>
         </query>
         <query>
@@ -3724,56 +3258,6 @@
             <startingletter>r</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.55779427359491</bestscore>
-            <bestsets>
-                <set>
-                    <word>radiatie</word>
-                    <word>regelaar</word>
-                    <word>rinkelen</word>
-                    <word>roostert</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: radiatie,regelaar,rinkelen,roostert (4.55779427359491)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>61</index>
-                <index>74</index>
-                <index>387</index>
-                <index>849</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>r</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.3796394485683985</bestscore>
-            <bestsets>
-                <set>
-                    <word>raapwerk</word>
-                    <word>regenten</word>
-                    <word>rubidium</word>
-                    <word>rijschool</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: raapwerk,regenten,rubidium,rijschool (7.3796394485683985)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>61</index>
-                <index>74</index>
-                <index>387</index>
-                <index>849</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>r</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -3877,27 +3361,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>r</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>3712465.8589607636</bestscore>
-            <bestsets>
-                <set>
-                    <word>raakpunt</word>
-                    <word>reisdoel</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: raakpunt,reisdoel (3712465.8589607636)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>84</index>
-                <index>443</index>
-            </indices>
         </query>
         <query>
             <startingletter>r</startingletter>
@@ -3969,22 +3432,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.360647927584564</bestscore>
+            <bestscore>4.402096236303001</bestscore>
             <bestsets>
                 <set>
-                    <word>saaiheid</word>
+                    <word>salueert</word>
                     <word>schelden</word>
                     <word>sporttas</word>
                     <word>stearine</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: saaiheid,schelden,sporttas,stearine (4.360647927584564)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: salueert,schelden,sporttas,stearine (4.402096236303001)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>4</index>
-                <index>1376</index>
-                <index>1790</index>
-                <index>1942</index>
+                <index>39</index>
+                <index>673</index>
+                <index>719</index>
+                <index>1580</index>
             </indices>
         </query>
         <query>
@@ -3994,22 +3457,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.4778465936160075</bestscore>
+            <bestscore>7.490709861838971</bestscore>
             <bestsets>
                 <set>
-                    <word>saampjes</word>
-                    <word>schreeuw</word>
-                    <word>slinking</word>
+                    <word>sambabal</word>
+                    <word>schunnig</word>
+                    <word>sprekers</word>
                     <word>stooftijd</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: saampjes,schreeuw,slinking,stooftijd (7.4778465936160075)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: sambabal,schunnig,sprekers,stooftijd (7.490709861838971)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>4</index>
-                <index>1106</index>
-                <index>1313</index>
-                <index>1824</index>
+                <index>39</index>
+                <index>355</index>
+                <index>565</index>
+                <index>1918</index>
             </indices>
         </query>
         <query>
@@ -4127,18 +3590,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>6416775.26345879</bestscore>
+            <bestscore>3795905.2563125296</bestscore>
             <bestsets>
                 <set>
-                    <word>sacreren</word>
-                    <word>sluitdop</word>
+                    <word>schilden</word>
+                    <word>stormpas</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: sacreren,sluitdop (6416775.26345879)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: schilden,stormpas (3795905.2563125296)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>35</index>
-                <index>1201</index>
+                <index>299</index>
+                <index>549</index>
             </indices>
         </query>
         <query>
@@ -4208,56 +3671,6 @@
             <startingletter>t</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.500482160077145</bestscore>
-            <bestsets>
-                <set>
-                    <word>taaltaak</word>
-                    <word>tenteert</word>
-                    <word>toonloos</word>
-                    <word>treeften</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: taaltaak,tenteert,toonloos,treeften (4.500482160077145)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>42</index>
-                <index>268</index>
-                <index>727</index>
-                <index>1020</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>t</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.322082931533269</bestscore>
-            <bestsets>
-                <set>
-                    <word>taalkamp</word>
-                    <word>terugrijd</word>
-                    <word>tuinboon</word>
-                    <word>tweetjes</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: taalkamp,terugrijd,tuinboon,tweetjes (7.322082931533269)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>42</index>
-                <index>268</index>
-                <index>727</index>
-                <index>1020</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>t</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -4361,27 +3774,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>t</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>3028776.9353905497</bestscore>
-            <bestsets>
-                <set>
-                    <word>taanhuis</word>
-                    <word>tortelen</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: taanhuis,tortelen (3028776.9353905497)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>71</index>
-                <index>1001</index>
-            </indices>
         </query>
         <query>
             <startingletter>t</startingletter>
@@ -4553,27 +3945,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>u</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>199768.43368421053</bestscore>
-            <bestsets>
-                <set>
-                    <word>uitdorst</word>
-                    <word>umlauten</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: uitdorst,umlauten (199768.43368421053)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>186</index>
-                <index>228</index>
-            </indices>
         </query>
         <query>
             <startingletter>u</startingletter>
@@ -4645,28 +4016,22 @@
             <algorithm>A3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>4.875624652970572</bestscore>
+            <bestscore>4.966129927817879</bestscore>
             <bestsets>
                 <set>
-                    <word>vaalrood</word>
-                    <word>versleet</word>
-                    <word>viseerde</word>
-                    <word>voortaan</word>
-                </set>
-                <set>
-                    <word>vaalrood</word>
-                    <word>versteen</word>
-                    <word>viseerde</word>
-                    <word>voorlaat</word>
+                    <word>valleien</word>
+                    <word>vergaand</word>
+                    <word>vissoort</word>
+                    <word>voorrede</word>
                 </set>
             </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: vaalrood,versleet,viseerde,voortaan || vaalrood,versteen,viseerde,voorlaat (4.875624652970572)</printvalue>
+            <printvalue>A3p) Optimise correct letters, 4 words: valleien,vergaand,vissoort,voorrede (4.966129927817879)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>7</index>
-                <index>252</index>
-                <index>525</index>
-                <index>1782</index>
+                <index>62</index>
+                <index>151</index>
+                <index>1128</index>
+                <index>1621</index>
             </indices>
         </query>
         <query>
@@ -4676,28 +4041,22 @@
             <algorithm>B3</algorithm>
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>7.501943364797335</bestscore>
+            <bestscore>7.559133814547474</bestscore>
             <bestsets>
                 <set>
-                    <word>vaagheid</word>
-                    <word>verkeren</word>
-                    <word>vlijmpjes</word>
-                    <word>vouwboot</word>
-                </set>
-                <set>
-                    <word>vaagheid</word>
-                    <word>verreken</word>
-                    <word>vlijmpjes</word>
-                    <word>vouwboot</word>
+                    <word>vakmatig</word>
+                    <word>verrezen</word>
+                    <word>volbouwd</word>
+                    <word>vrijschop</word>
                 </set>
             </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: vaagheid,verkeren,vlijmpjes,vouwboot || vaagheid,verreken,vlijmpjes,vouwboot (7.501943364797335)</printvalue>
+            <printvalue>B3p) Optimise amount of letters, 4 words: vakmatig,verrezen,volbouwd,vrijschop (7.559133814547474)</printvalue>
             <allocation>100000000</allocation>
             <indices>
-                <index>7</index>
-                <index>252</index>
-                <index>525</index>
-                <index>1782</index>
+                <index>62</index>
+                <index>151</index>
+                <index>1128</index>
+                <index>1621</index>
             </indices>
         </query>
         <query>
@@ -4815,18 +4174,18 @@
             <algorithm>G1</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>1759473.9350360911</bestscore>
+            <bestscore>1508028.1887840088</bestscore>
             <bestsets>
                 <set>
-                    <word>vaalbont</word>
-                    <word>verreisd</word>
+                    <word>vangstok</word>
+                    <word>verruild</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: vaalbont,verreisd (1759473.9350360911)</printvalue>
+            <printvalue>G1p) Minimise average possible words with positive info, 2 words: vangstok,verruild (1508028.1887840088)</printvalue>
             <allocation>1000</allocation>
             <indices>
-                <index>38</index>
-                <index>1342</index>
+                <index>347</index>
+                <index>1779</index>
             </indices>
         </query>
         <query>
@@ -4896,68 +4255,6 @@
             <startingletter>w</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.725085910652921</bestscore>
-            <bestsets>
-                <set>
-                    <word>wagentje</word>
-                    <word>werklast</word>
-                    <word>wiegelen</word>
-                    <word>wondroos</word>
-                </set>
-                <set>
-                    <word>waggelde</word>
-                    <word>werklust</word>
-                    <word>windroer</word>
-                    <word>woerhaan</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: wagentje,werklast,wiegelen,wondroos || waggelde,werklust,windroer,woerhaan (4.725085910652921)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>70</index>
-                <index>330</index>
-                <index>730</index>
-                <index>834</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>w</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.3974799541809855</bestscore>
-            <bestsets>
-                <set>
-                    <word>waarzegt</word>
-                    <word>wiebelen</word>
-                    <word>wurmpjes</word>
-                    <word>wijkhoofd</word>
-                </set>
-                <set>
-                    <word>wahabiet</word>
-                    <word>weglezen</word>
-                    <word>wurmpjes</word>
-                    <word>wijkhoofd</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: waarzegt,wiebelen,wurmpjes,wijkhoofd || wahabiet,weglezen,wurmpjes,wijkhoofd (7.3974799541809855)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>70</index>
-                <index>330</index>
-                <index>730</index>
-                <index>834</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>w</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -5061,27 +4358,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>w</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>1447714.501718213</bestscore>
-            <bestsets>
-                <set>
-                    <word>walpoort</word>
-                    <word>weeskind</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: walpoort,weeskind (1447714.501718213)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>80</index>
-                <index>481</index>
-            </indices>
         </query>
         <query>
             <startingletter>w</startingletter>
@@ -5492,56 +4768,6 @@
             <startingletter>z</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>A3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>4.629032258064516</bestscore>
-            <bestsets>
-                <set>
-                    <word>zaadloze</word>
-                    <word>zeilreis</word>
-                    <word>zonnerad</word>
-                    <word>zweetten</word>
-                </set>
-            </bestsets>
-            <printvalue>A3p) Optimise correct letters, 4 words: zaadloze,zeilreis,zonnerad,zweetten (4.629032258064516)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>199</index>
-                <index>242</index>
-                <index>401</index>
-                <index>631</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>z</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>B3</algorithm>
-            <subsetsize>4</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>7.4985337243401755</bestscore>
-            <bestsets>
-                <set>
-                    <word>zaadvast</word>
-                    <word>zeemijnen</word>
-                    <word>zorghulp</word>
-                    <word>zwikboor</word>
-                </set>
-            </bestsets>
-            <printvalue>B3p) Optimise amount of letters, 4 words: zaadvast,zeemijnen,zorghulp,zwikboor (7.4985337243401755)</printvalue>
-            <allocation>100000000</allocation>
-            <indices>
-                <index>199</index>
-                <index>242</index>
-                <index>401</index>
-                <index>631</index>
-            </indices>
-        </query>
-        <query>
-            <startingletter>z</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
             <algorithm>C2</algorithm>
             <subsetsize>2</subsetsize>
             <sortorder>best</sortorder>
@@ -5645,27 +4871,6 @@
             <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
             <allocation>0</allocation>
-        </query>
-        <query>
-            <startingletter>z</startingletter>
-            <wordset>ottue</wordset>
-            <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
-            <sortorder>best</sortorder>
-            <bestscore>3466529.410557185</bestscore>
-            <bestsets>
-                <set>
-                    <word>zandkuil</word>
-                    <word>zoetiger</word>
-                </set>
-            </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: zandkuil,zoetiger (3466529.410557185)</printvalue>
-            <allocation>1000</allocation>
-            <indices>
-                <index>104</index>
-                <index>637</index>
-            </indices>
         </query>
         <query>
             <startingletter>z</startingletter>

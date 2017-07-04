@@ -12,6 +12,7 @@ f (460):
 	E1) Minimise average possible words, 1 word: frontale (2.496186724782609E7)
 	F1) Minimise maximum possible words, 1 word: facelift || favoriet || flinters || flonkert || formaten || formatie || frontale || futlozer (4.3532242E8)
 	G1) Minimise average possible words with positive info, 1 word: frontale (1.0181102698043478E8)
+	G1) Minimise average possible words with positive info, 2 words: fineerde,foutslag (1244086.5173913043)
 	H1) Minimise maximum possible words with positive info, 1 word: facelift || fauteuil || favoriet || fellatio || filterde || filteren || fladdert || flakkert || flaneert || flatteer || flinters || flirtten || floersen || flonkert || flotatie || folteren || formaten || formatie || fractale || frituren || frontale || fruitten || futlozer (2.428543027E9)
 	I1) Vincents algorithm, 1 word: flinters (1.0)
 	I1) Vincents algorithm, 2 words: flinters,flambouw (1.0)

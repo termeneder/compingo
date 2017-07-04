@@ -29,5 +29,5 @@ g (1604):
 	I1) Vincents algorithm, 4 words: getarnd,gokhuis,glimpje,gezweef (1.0)
 	J2) Minimise average neighbours per group (Jochem), 1 word: gereild (28.384039900249377)
 	J2) Minimise average neighbours per group (Jochem), 2 words: gedrein,goklust (2.7418952618453867)
-	J2g1M) Minimise average neighbours per group (Jochem), 3 words: gasbron,gegulpt,gekiemd (1.28428927680798)
+	J2) Minimise average neighbours per group (Jochem), 3 words: gasbron,gegulpt,gekiemd (1.28428927680798)
 

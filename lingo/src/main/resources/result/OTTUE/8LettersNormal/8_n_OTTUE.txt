@@ -12,6 +12,7 @@ n (462):
 	E1) Minimise average possible words, 1 word: nagloeit (3.0775841393939395E7)
 	F1) Minimise maximum possible words, 1 word: nabloeit || nadrukte || nafloten || nagloeit || nahouden || naslopen || nasporen || navolgde || navolgen || navolger || navorsen || navorste || nazomers || niemands || nominale || notenbar || nuptiale (4.3532242E8)
 	G1) Minimise average possible words with positive info, 1 word: notelaar (1.3102583371861471E8)
+	G1) Minimise average possible words with positive info, 2 words: naadloos,nestiger (1313319.3268398268)
 	H1) Minimise maximum possible words with positive info, 1 word: nabloeit || nadelige || nadrukte || nafloten || nagloeit || nahosser || nahouden || nameloos || naslopen || nasporen || natuurde || navolgde || navolgen || navolger || navorsen || navorser || navorste || nazomers || nematode || niemands || nokkenas || nominale || notaatje || notabele || notaboek || notaties || notelaar || notenbar || nuptiale (2.428543027E9)
 	I1) Vincents algorithm, 1 word: nagloeit (1.0)
 	I1) Vincents algorithm, 2 words: nagloeit,nierstuk (1.0)

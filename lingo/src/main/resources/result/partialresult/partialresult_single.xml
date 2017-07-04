@@ -2,24 +2,53 @@
 <results>
     <running>
         <query>
-            <startingletter>a</startingletter>
+            <startingletter>b</startingletter>
             <wordset>ottue</wordset>
             <wordlength>8</wordlength>
-            <algorithm>G1</algorithm>
-            <subsetsize>2</subsetsize>
+            <algorithm>A3</algorithm>
+            <subsetsize>4</subsetsize>
             <sortorder>best</sortorder>
-            <bestscore>2391934.3829787234</bestscore>
+            <bestscore>4.376369699857075</bestscore>
             <bestsets>
                 <set>
-                    <word>aangromt</word>
-                    <word>afluisde</word>
+                    <word>baseerde</word>
+                    <word>beladers</word>
+                    <word>bootsten</word>
+                    <word>bijdraait</word>
                 </set>
             </bestsets>
-            <printvalue>G1p) Minimise average possible words with positive info, 2 words: aangromt,afluisde (2391934.3829787234)</printvalue>
-            <allocation>2000</allocation>
+            <printvalue>A3p) Optimise correct letters, 4 words: baseerde,beladers,bootsten,bijdraait (4.376369699857075)</printvalue>
+            <allocation>100000000</allocation>
             <indices>
-                <index>122</index>
-                <index>266</index>
+                <index>455</index>
+                <index>928</index>
+                <index>1150</index>
+                <index>1351</index>
+            </indices>
+        </query>
+        <query>
+            <startingletter>b</startingletter>
+            <wordset>ottue</wordset>
+            <wordlength>8</wordlength>
+            <algorithm>B3</algorithm>
+            <subsetsize>4</subsetsize>
+            <sortorder>best</sortorder>
+            <bestscore>7.468794664125774</bestscore>
+            <bestsets>
+                <set>
+                    <word>baardvin</word>
+                    <word>bezempje</word>
+                    <word>bouwgolf</word>
+                    <word>bijschikt</word>
+                </set>
+            </bestsets>
+            <printvalue>B3p) Optimise amount of letters, 4 words: baardvin,bezempje,bouwgolf,bijschikt (7.468794664125774)</printvalue>
+            <allocation>100000000</allocation>
+            <indices>
+                <index>455</index>
+                <index>688</index>
+                <index>1107</index>
+                <index>1498</index>
             </indices>
         </query>
     </running>

@@ -10,6 +10,7 @@ a (1880):
 	E1) Minimise average possible words, 1 word: afstalen (2.5590515722340427E7)
 	F1) Minimise maximum possible words, 1 word: aanriste || aanroeit || adoratie || aeronaut || atomaire (4.3532242E8)
 	G1) Minimise average possible words with positive info, 1 word: aansterf (1.2495147330265957E8)
+	G1) Minimise average possible words with positive info, 2 words: afleiden,autocars (1934632.9425531914)
 	H1) Minimise maximum possible words with positive info, 1 word: aanriste || aanroeit || adoratie || aeronaut || atomaire (2.428543027E9)
 	I1) Vincents algorithm, 1 word: afsnoert (1.0)
 	I1) Vincents algorithm, 2 words: afsnoert,agribulk (1.0)

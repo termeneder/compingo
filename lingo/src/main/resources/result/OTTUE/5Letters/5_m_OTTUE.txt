@@ -34,5 +34,5 @@ m (220):
 	J2) Minimise average neighbours per group (Jochem), 1 word: maten (13.054545454545455)
 	J2) Minimise average neighbours per group (Jochem), 2 words: matse,minor (2.4272727272727272)
 	J2) Minimise average neighbours per group (Jochem), 3 words: makst,melde,minor (1.309090909090909)
-	J2p) Minimise average neighbours per group (Jochem), 4 words: maagd,maakt,merel,minus (1.209090909090909)
+	J2) Minimise average neighbours per group (Jochem), 4 words: mager,mende,molik,mufst || maker,melde,mitst,mungo || maker,meldt,mitst,mungo || maker,metst,milde,mungo (1.0909090909090908)
 
